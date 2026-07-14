@@ -3,6 +3,16 @@
 > Entrada mais recente no topo.
 > **Convenção de timestamp**: Todas as datas em cabeçalhos (## YYYY-MM-DD HH:MM) e no campo Data/Hora dos metadados DEVEM incluir hora e minuto no fuso local. Nunca use datas isoladas.
 
+## 2026-07-14 11:50 — Reversão: disable-model-invocation removido de close-task/git-cleanup/sync-skills, a pedido do autor
+
+O autor decidiu manter essas 3 skills como model-invoked (padrão) — flag removida, puxada do repositório mãe já revertido. Nenhuma outra mudança de conteúdo. (Registro retroativo: o commit `0120769` já tinha feito a mudança nos arquivos, mas sem entrada de `NEWS.md` correspondente na hora — corrigido aqui.)
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-07-14 11:50 (Horário Local)
+- **Agente**: Claude Sonnet 5 / Claude Code / VS Code
+- **Mensagem do Commit**: "docs(governance): register missing NEWS entry for disable-model-invocation revert"
+- **Arquivos afetados**: `NEWS.md`
+
 ## 2026-07-14 11:30 — Skills compartilhadas renomeadas para inglês e agora byte-idênticas à mãe; pdf-text-extractor adicionada; seção "Configuração de Skills" criada
 
 Skills renomeadas (`finalizar-tarefa`→`close-task`, `exportar-conversa`→`export-conversation`, `limpar-pendencias-git`→`git-cleanup`, `sincronizar-skills`→`sync-skills`) e reinstaladas via `sync-skills -Apply all` a partir do repositório mãe já reescrito — agora byte-idênticas (relatório mostra "em dia" para as 6). `pdf-text-extractor` (com `scripts/extract_pdf.R`) chega a este projeto pela primeira vez. Nova seção `## Configuração de Skills` no `CLAUDE.md`, com os valores reais deste projeto (`diretorio_autoria_primaria` = `3-texts/`; `script_exportar_conversa` = `tools/export_conversa.R`; `arquivo_gerenciado_externamente` deixado como placeholder — nenhum `.bib`/biblioteca de citação identificado ainda). `tools/sync-skills.ps1`/`.sh` atualizados para a versão que compara/copia a pasta inteira de cada skill. Motivo da mudança e detalhe completo: `../agentic-research-template/9-vers/plan/2026-07-14_Plano_Skills_Compartilhadas_TODO.md` § "Segunda rodada".
