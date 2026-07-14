@@ -6,13 +6,13 @@
 
 ## Pendente
 
-- [ ] Revisar o artigo com o coautor André Vereta-Nahoum: inserir trechos em português, adensar material dos casos (marcadores `[...]{.mark}`), ampliar literatura (citar Ergen & Kohl 2019/2022) e montar infraestrutura de citação (.bib via Zotero/Better BibTeX)
-  - Criado: 2026-07-14 13:38 por Claude Sonnet 5 (a pedido de Tales Mançano, repassando tarefas de André Vereta-Nahoum)
+- [ ] Ampliar a revisão de literatura do artigo citando Ergen & Kohl (2019/2022) e outras referências indicadas por André, e montar a infraestrutura de citação (.bib via Zotero/Better BibTeX, apontado por `bibliography:` no YAML do `.qmd`)
+  - Criado: 2026-07-14 13:38 por Claude Sonnet 5 (a pedido de Tales Mançano, repassando tarefas de André Vereta-Nahoum) — escopo reduzido em 2026-07-14 16:53 após a inserção do rascunho em português (ver Concluído)
   - Plano: `9-vers/plan/2026-07-14_Plano_Revisao_Artigo_Coautor.md`
 
-- [ ] Revisar as citações e referências no `.qmd`
-  - Criado: 2026-07 (timestamp exato não registrado na criação original — retroativo, mantido só-data)
-  - Plano: `9-vers/plan/2026-07-14_Plano_Revisao_Artigo_Coautor.md` (parte da mesma frente de trabalho)
+- [ ] Adicionar ao Zotero as ~22 referências ainda sem entrada no `Nahoum-Mancano-2026-Antitrust.bib` (lista em `## Missing Citations` no final do `.qmd` — destaque para `Onto2017`, citado extensivamente nas Seções 3-4), e confirmar qual paper resolve a citação ambígua `Khan2017` (`Khan2016` "Amazon's Antitrust Paradox" ou `Khan-Vaheesan2017` "Market Power and Inequality")
+  - Criado: 2026-07-14 16:53 por Claude Sonnet 5 (a pedido de Tales Mançano) — refinado em 2026-07-14 17:26 depois de checar o `.qmd` contra o `.bib` real (11 chaves já resolviam certo, 3 só precisavam renomear para o nome real no Zotero — Berk1994→Berk2009, Folha2004→FolhadeS.Paulo2004, Teixeira2001→Teixeira-etal2001)
+  - Plano: `9-vers/plan/2026-07-14_Plano_Incorporar_Rascunho_PT.md`
 
 - [ ] Definir estratégia de publicação/journal para submissão do artigo
   - Criado: 2026-07 (timestamp exato não registrado na criação original — retroativo, mantido só-data)
@@ -20,6 +20,20 @@
 ## Prospectivo
 
 ## Concluído
+
+- [x] Conferir o `.qmd` contra o `Nahoum-Mancano-2026-Antitrust.bib` que Tales já tinha gerado no Zotero: renomear as 3 chaves que tinham correspondência real só com nome diferente (`Berk1994`→`Berk2009`, `Folha2004`→`FolhadeS.Paulo2004`, `Teixeira2001`→`Teixeira-etal2001`), confirmar que as outras 8 chaves já corretas resolvem sem aviso do citeproc, e substituir a antiga lista `## References` por uma seção `## Missing Citations` enxuta, só com as ~22 chaves realmente sem entrada no `.bib` (destaque: `Onto2017`) e a ambiguidade `Khan2017`/`Khan2016`/`Khan-Vaheesan2017` — validado renderizando com o `.bib` real via `bibliography:` temporário
+  - Criado: 2026-07-14 17:26 por Claude Sonnet 5 (a pedido de Tales Mançano)
+  - Concluído: 2026-07-14 17:26 por Claude Sonnet 5 (a pedido de Tales Mançano)
+  - Plano: `9-vers/plan/2026-07-14_Plano_Incorporar_Rascunho_PT.md`
+
+- [x] Criar script (`tools/zotero-build-citation-collection.js`, Run JavaScript do Zotero) para montar automaticamente a coleção `Nahoum-Mancano-2026-Antitrust` no Zotero com todas as referências citadas no `.qmd` e no rascunho em português, em vez de selecionar item por item manualmente; corrigido após primeira execução real revelar busca solta demais e contaminação de anos alternativos entre citações homônimas — não resolve por si só as discrepâncias de ano listadas no item pendente abaixo, só automatiza a busca/seleção no Zotero
+  - Criado: 2026-07-14 16:53 (a pedido de Tales Mançano) por Claude Sonnet 5
+  - Concluído: 2026-07-14 17:24 por Claude Sonnet 5 (a pedido de Tales Mançano)
+
+- [x] Inserir o rascunho em português (fornecido por Tales/André) na versão em inglês do `.qmd`, seção por seção, resolvendo quase todos os marcadores `[...]{.mark}` de material de caso pendente com fontes reais (CADE, imprensa, entrevistas), e adicionar seção de referências temporária
+  - Criado: 2026-07-14 14:18 por Claude Sonnet 5 (a pedido de Tales Mançano)
+  - Concluído: 2026-07-14 16:53 por Claude Sonnet 5 (a pedido de Tales Mançano)
+  - Plano: `9-vers/plan/2026-07-14_Plano_Incorporar_Rascunho_PT.md`
 
 - [x] Corrigir a conversão `.docx` → `.qmd` (arquivo estava salvo em UTF-16 corrompido) e preencher de fato a seção "Current State" do `CLAUDE.md`, que apesar do item anterior de 2026-07-13 abaixo constar como concluído, nunca tinha sido realmente preenchida
   - Criado: 2026-07-14 13:26 por Claude Sonnet 5 (a pedido de Tales Mançano)
