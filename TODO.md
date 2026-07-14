@@ -6,8 +6,13 @@
 
 ## Pendente
 
+- [ ] Revisar o artigo com o coautor André Vereta-Nahoum: inserir trechos em português, adensar material dos casos (marcadores `[...]{.mark}`), ampliar literatura (citar Ergen & Kohl 2019/2022) e montar infraestrutura de citação (.bib via Zotero/Better BibTeX)
+  - Criado: 2026-07-14 13:38 por Claude Sonnet 5 (a pedido de Tales Mançano, repassando tarefas de André Vereta-Nahoum)
+  - Plano: `9-vers/plan/2026-07-14_Plano_Revisao_Artigo_Coautor.md`
+
 - [ ] Revisar as citações e referências no `.qmd`
   - Criado: 2026-07 (timestamp exato não registrado na criação original — retroativo, mantido só-data)
+  - Plano: `9-vers/plan/2026-07-14_Plano_Revisao_Artigo_Coautor.md` (parte da mesma frente de trabalho)
 
 - [ ] Definir estratégia de publicação/journal para submissão do artigo
   - Criado: 2026-07 (timestamp exato não registrado na criação original — retroativo, mantido só-data)
