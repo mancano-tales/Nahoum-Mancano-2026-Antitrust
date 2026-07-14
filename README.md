@@ -1,4 +1,4 @@
-# Nahoum2026-Antitrust
+# NahoumMancano2026-Antitrust-as-Industrial-Policy
 
 > Breve descrição de uma linha sobre o objetivo do seu projeto.
 

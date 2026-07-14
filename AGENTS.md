@@ -1,4 +1,4 @@
-# CLAUDE.md — Nahoum2026-Antitrust
+# CLAUDE.md — NahoumMancano2026-Antitrust-as-Industrial-Policy
 
 > 🚨 **CRITICAL AGENT RULES (COVENANT) — READ FIRST:**
 > - **RULE 1:** You are operating under the **Agent Covenant** framework. Every commit is audited. Run `Rscript tools/validate-governance.R` to test your edits before committing.
