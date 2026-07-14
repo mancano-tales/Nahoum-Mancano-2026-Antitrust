@@ -3,6 +3,16 @@
 > Entrada mais recente no topo.
 > **Convenção de timestamp**: Todas as datas em cabeçalhos (## YYYY-MM-DD HH:MM) e no campo Data/Hora dos metadados DEVEM incluir hora e minuto no fuso local. Nunca use datas isoladas.
 
+## 2026-07-14 12:33 — 5 skills de mattpocock/skills instaladas via sync-skills, após triagem com o autor
+
+Puxadas do repositório mãe: `grill-me`, `grilling`, `grill-with-docs`, `edit-article`, `code-review` — de [mattpocock/skills](https://github.com/mattpocock/skills), MIT. Instaladas fielmente ao original, fora do padrão config-driven das skills de governança. `sync-skills` também atualizada (mãe ganhou seção referenciando o plugin `superpowers`, instalado por outro agente em paralelo). Detalhe completo em `../agentic-research-template/9-vers/plan/2026-07-14_Plano_Skills_Compartilhadas_TODO.md` § "Terceira rodada".
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-07-14 12:33 (Horário Local)
+- **Agente**: Claude Sonnet 5 / Claude Code / VS Code
+- **Mensagem do Commit**: "feat(governance): install 5 mattpocock/skills via sync-skills after triage"
+- **Arquivos afetados**: `.claude/skills/grill-me/`, `.claude/skills/grilling/`, `.claude/skills/grill-with-docs/`, `.claude/skills/edit-article/`, `.claude/skills/code-review/`, `.claude/skills/sync-skills/`, `CLAUDE.md`, `NEWS.md`
+
 ## 2026-07-14 11:50 — Reversão: disable-model-invocation removido de close-task/git-cleanup/sync-skills, a pedido do autor
 
 O autor decidiu manter essas 3 skills como model-invoked (padrão) — flag removida, puxada do repositório mãe já revertido. Nenhuma outra mudança de conteúdo. (Registro retroativo: o commit `0120769` já tinha feito a mudança nos arquivos, mas sem entrada de `NEWS.md` correspondente na hora — corrigido aqui.)

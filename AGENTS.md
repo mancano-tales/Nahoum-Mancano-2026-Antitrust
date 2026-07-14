@@ -69,9 +69,10 @@
 
 ## Skills Compartilhadas Entre Projetos
 
-As skills de governança (`close-task`, `request-audit`, `export-conversation`, `git-cleanup`, `sync-skills`, `pdf-text-extractor`) têm sua fonte canônica no repositório mãe `agentic-research-template` (pasta irmã no mesmo diretório de projetos sincronizados). **São byte-idênticas neste projeto e na mãe** — nenhuma hardcoda caminho específico; particularidades deste projeto vêm da seção **"Configuração de Skills"** abaixo. Para puxar uma atualização, rode `tools/sync-skills.ps1`/`.sh` (relatório dry-run por padrão; `-Apply <skill>` para aplicar) ou use a skill `sync-skills`, que envolve o script com a cerimônia de revisão de diff e staging explícito — nunca há sincronização automática/silenciosa nem link físico entre repositórios distintos.
+- **Skills de governança, autoria própria** (`close-task`, `request-audit`, `export-conversation`, `git-cleanup`, `sync-skills`, `pdf-text-extractor`): fonte canônica no repositório mãe `agentic-research-template` (pasta irmã). **São byte-idênticas neste projeto e na mãe** — nenhuma hardcoda caminho específico; particularidades deste projeto vêm da seção **"Configuração de Skills"** abaixo. Nenhuma tem `disable-model-invocation` hoje.
+- **Skills portadas de terceiros** ([mattpocock/skills](https://github.com/mattpocock/skills), MIT): `grill-me`, `grilling`, `grill-with-docs`, `edit-article`, `code-review` — instaladas fielmente ao original. `grill-me`/`grill-with-docs`/`edit-article` têm `disable-model-invocation: true`; `grilling`/`code-review` são model-invoked. Gaps conhecidos: `grill-with-docs` referencia `/domain-modeling` (não instalada); `code-review` referencia um workflow de issue-tracker que não existe aqui.
 
-**Invocação**: `close-task`, `git-cleanup` e `sync-skills` têm `disable-model-invocation: true` (só rodam por pedido explícito do usuário pelo nome). `request-audit`, `export-conversation` e `pdf-text-extractor` são model-invoked.
+Para puxar uma atualização, rode `tools/sync-skills.ps1`/`.sh` (relatório dry-run por padrão; `-Apply <skill>` para aplicar) ou use a skill `sync-skills`, que envolve o script com a cerimônia de revisão de diff e staging explícito.
 
 ---
 
