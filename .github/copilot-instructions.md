@@ -77,4 +77,4 @@
 *   **Build/Compilar**: `[Comando de build]`
 *   **Testes Automatizados**: `[Comando de testes]`
 *   **Execução Local**: `[Comando de run dev]`
-*   **Instalação de Dependência
+*   **Instalação de Dependências**: `[Comando de install]`
