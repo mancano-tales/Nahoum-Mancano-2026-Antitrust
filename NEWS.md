@@ -3,6 +3,16 @@
 > Entrada mais recente no topo.
 > **Convenção de timestamp**: Todas as datas em cabeçalhos (## YYYY-MM-DD HH:MM) e no campo Data/Hora dos metadados DEVEM incluir hora e minuto no fuso local. Nunca use datas isoladas.
 
+## 2026-07-14 12:47 — Correção puxada da mãe: catálogo de skills globais (superpowers) movido de sync-skills para CLAUDE.md
+
+Auditoria no repositório mãe encontrou que uma tabela de skills globais do plugin `superpowers` estava, por engano, dentro de `sync-skills/SKILL.md` (escopo errado, informação não-portável documentada como portável). Puxada a correção: conteúdo movido para nova seção `## Skills Globais Disponíveis Neste Ambiente` no `CLAUDE.md`. Detalhe completo: `../agentic-research-template/9-vers/plan/2026-07-14_Prompt_Auditoria_Sync-Skills-Superpowers.md`.
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-07-14 12:47 (Horário Local)
+- **Agente**: Claude Sonnet 5 / Claude Code / VS Code
+- **Mensagem do Commit**: "docs(governance): pull fixed sync-skills scope, add Skills Globais section to CLAUDE.md"
+- **Arquivos afetados**: `.claude/skills/sync-skills/SKILL.md`, `CLAUDE.md`, `NEWS.md`
+
 ## 2026-07-14 12:33 — 5 skills de mattpocock/skills instaladas via sync-skills, após triagem com o autor
 
 Puxadas do repositório mãe: `grill-me`, `grilling`, `grill-with-docs`, `edit-article`, `code-review` — de [mattpocock/skills](https://github.com/mattpocock/skills), MIT. Instaladas fielmente ao original, fora do padrão config-driven das skills de governança. `sync-skills` também atualizada (mãe ganhou seção referenciando o plugin `superpowers`, instalado por outro agente em paralelo). Detalhe completo em `../agentic-research-template/9-vers/plan/2026-07-14_Plano_Skills_Compartilhadas_TODO.md` § "Terceira rodada".

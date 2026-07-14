@@ -76,6 +76,33 @@ Para puxar uma atualização, rode `tools/sync-skills.ps1`/`.sh` (relatório dry
 
 ---
 
+## Skills Globais Disponíveis Neste Ambiente
+
+> ⚠️ **Isto documenta o que está instalado nesta máquina/usuário em 2026-07-14, não este projeto.** Plugins globais do Claude Code vivem em `~/.claude/plugins/` — locais por máquina/usuário, não vêm junto num clone. Se você está lendo isto noutra máquina, **não assuma que o pacote abaixo está instalado** — confira com `/plugin list`.
+
+**Regra de convivência**: skills de projeto (`close-task`, `git-cleanup`, etc.) tratam de governança específica do repositório; as globais tratam de processo de desenvolvimento geral — complementam, não substituem. **Atenção especial a `using-superpowers`**: exige invocação obrigatória por design ("YOU ABSOLUTELY MUST invoke the skill... not negotiable"), não "use quando aplicável" — as instruções do usuário sempre prevalecem.
+
+### `superpowers` (pacote instalado via plugin)
+
+| Skill | Quando usar |
+|---|---|
+| `superpowers:using-superpowers` | Ponto de entrada — invocação obrigatória por design (ver aviso acima) |
+| `superpowers:brainstorming` | Antes de qualquer trabalho criativo: criar features, componentes ou modificar comportamento |
+| `superpowers:writing-plans` | Ao receber spec ou requisitos de tarefa multi-passo, antes de tocar qualquer arquivo |
+| `superpowers:executing-plans` | Ao executar um plano já escrito — em sessão separada, com checkpoints de revisão |
+| `superpowers:subagent-driven-development` | Ao executar planos com tarefas independentes na sessão atual |
+| `superpowers:dispatching-parallel-agents` | Ao enfrentar 2+ tarefas independentes que podem rodar sem estado compartilhado |
+| `superpowers:using-git-worktrees` | Antes de feature work que precisa de isolamento do workspace atual |
+| `superpowers:test-driven-development` | Antes de escrever código de implementação de qualquer feature ou bugfix |
+| `superpowers:systematic-debugging` | Ao encontrar qualquer bug, falha de teste ou comportamento inesperado |
+| `superpowers:requesting-code-review` | Ao concluir implementações ou antes de merge |
+| `superpowers:receiving-code-review` | Antes de implementar sugestões de review, especialmente se parecerem questionáveis |
+| `superpowers:verification-before-completion` | Antes de declarar trabalho concluído, antes de `close-task` |
+| `superpowers:finishing-a-development-branch` | Quando implementação está completa e é preciso decidir como integrar |
+| `superpowers:writing-skills` | Ao criar ou editar skills |
+
+---
+
 ## Configuração de Skills (Skill Configuration)
 
 > As skills genéricas acima consultam esta seção para qualquer dado específico deste projeto — nunca hardcodeiam.
