@@ -37,6 +37,7 @@
 | Documento | Público-alvo | Função | Gatilho de Atualização |
 |---|---|---|---|
 | `CLAUDE.md` (este) | Agentes de IA | Estado atual do projeto, regras críticas e convenções de build | Decisão de design ou mudança no estado |
+| `TODO.md` | Ambos | Log append-only de tarefas — 3 seções (Pendente/Prospectivo/Concluído), item novo no topo, cada item com data+hora e agente/humano de criação e conclusão, e link para o plano em `9-vers/plan/` quando complexo | Toda sessão que cria, promove ou conclui uma tarefa |
 | `README.md` | Humanos | O que é o projeto, guia de instalação e execução rápida | Mudança estrutural do repositório |
 | `GUIDANCE.md` | Ambos | Sitemap rápido apontando para o sitemap completo de diretrizes | Layout de pastas alterado |
 | `9-vers/plan/README.md` | Ambos | Índice e status de todos os planos de execução de tarefas | Criação ou mudança de status de plano |
@@ -63,6 +64,12 @@
   - **Sem exclusões não autorizadas**: Nunca delete arquivos de configuração, código-fonte, dependências ou bancos de dados sem autorização humana expressa.
   - **Escopo restrito**: Restrinja suas edições cirurgicamente aos arquivos mapeados no plano ativo. Refatorações globais ou alterações de dependências fora de plano são estritamente proibidas.
   - **Substituição incremental**: Prefira sempre editar blocos de código específicos (chunks) em vez de reescrever arquivos inteiros, economizando tokens e evitando a perda acidental de lógica de negócios.
+
+---
+
+## Skills Compartilhadas Entre Projetos
+
+As skills de governança (`finalizar-tarefa`, `request-audit`, `exportar-conversa`, `limpar-pendencias-git`, `sincronizar-skills`) têm sua fonte canônica no repositório mãe `agentic-research-template` (pasta irmã no mesmo diretório de projetos sincronizados). Para puxar uma atualização, rode `tools/sync-skills.ps1`/`.sh` (relatório dry-run por padrão; `-Apply <skill>` para aplicar) ou use a skill `sincronizar-skills`, que envolve o script com a cerimônia de revisão de diff e staging explícito — nunca há sincronização automática/silenciosa nem link físico entre repositórios distintos. Se você customizar uma skill localmente com conteúdo específico deste projeto, o relatório do `sync-skills` vai marcá-la como "desatualizada" em relação à mãe; isso é esperado, não indica que deva ser sobrescrita cegamente. Ver `.claude/skills/sincronizar-skills/SKILL.md` para o fluxo completo.
 
 ---
 
