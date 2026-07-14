@@ -69,7 +69,22 @@
 
 ## Skills Compartilhadas Entre Projetos
 
-As skills de governança (`finalizar-tarefa`, `request-audit`, `exportar-conversa`, `limpar-pendencias-git`, `sincronizar-skills`) têm sua fonte canônica no repositório mãe `agentic-research-template` (pasta irmã no mesmo diretório de projetos sincronizados). Para puxar uma atualização, rode `tools/sync-skills.ps1`/`.sh` (relatório dry-run por padrão; `-Apply <skill>` para aplicar) ou use a skill `sincronizar-skills`, que envolve o script com a cerimônia de revisão de diff e staging explícito — nunca há sincronização automática/silenciosa nem link físico entre repositórios distintos. Se você customizar uma skill localmente com conteúdo específico deste projeto, o relatório do `sync-skills` vai marcá-la como "desatualizada" em relação à mãe; isso é esperado, não indica que deva ser sobrescrita cegamente. Ver `.claude/skills/sincronizar-skills/SKILL.md` para o fluxo completo.
+As skills de governança (`close-task`, `request-audit`, `export-conversation`, `git-cleanup`, `sync-skills`, `pdf-text-extractor`) têm sua fonte canônica no repositório mãe `agentic-research-template` (pasta irmã no mesmo diretório de projetos sincronizados). **São byte-idênticas neste projeto e na mãe** — nenhuma hardcoda caminho específico; particularidades deste projeto vêm da seção **"Configuração de Skills"** abaixo. Para puxar uma atualização, rode `tools/sync-skills.ps1`/`.sh` (relatório dry-run por padrão; `-Apply <skill>` para aplicar) ou use a skill `sync-skills`, que envolve o script com a cerimônia de revisão de diff e staging explícito — nunca há sincronização automática/silenciosa nem link físico entre repositórios distintos.
+
+**Invocação**: `close-task`, `git-cleanup` e `sync-skills` têm `disable-model-invocation: true` (só rodam por pedido explícito do usuário pelo nome). `request-audit`, `export-conversation` e `pdf-text-extractor` são model-invoked.
+
+---
+
+## Configuração de Skills (Skill Configuration)
+
+> As skills genéricas acima consultam esta seção para qualquer dado específico deste projeto — nunca hardcodeiam.
+
+| Chave | Usada por | Valor neste repositório |
+|---|---|---|
+| `diretorio_autoria_primaria` | `close-task`, `git-cleanup` | `3-texts/` — o artigo `.qmd`; nunca comitar sem autorização explícita do autor nesta conversa |
+| `arquivo_gerenciado_externamente` | `git-cleanup` | [PLACEHOLDER — nenhum arquivo `.bib`/biblioteca de citação identificado neste projeto ainda; preencher se um for adotado] |
+| `script_exportar_conversa` | `close-task`, `export-conversation` | `tools/export_conversa.R` |
+| `diretorios_trabalho_continuo` | `git-cleanup` | `tools/` (utilitários novos — sempre exigem entrada em `NEWS.md`) |
 
 ---
 
