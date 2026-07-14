@@ -3,6 +3,16 @@
 > Entrada mais recente no topo.
 > **Convenção de timestamp**: Todas as datas em cabeçalhos (## YYYY-MM-DD HH:MM) e no campo Data/Hora dos metadados DEVEM incluir hora e minuto no fuso local. Nunca use datas isoladas.
 
+## 2026-07-14 13:26 — Correção da conversão .docx → .qmd e preenchimento do "Current State" do CLAUDE.md
+
+O `TODO.md` registrava como concluída em 2026-07-13 a conversão do artigo de `.docx` para `.qmd` e o preenchimento do `CLAUDE.md` com conteúdo intelectual, mas auditoria nesta sessão encontrou que `3-texts/Nahoum-Mancano-2026-Antitrust-Article.qmd` estava salvo em UTF-16LE (corrompido — cada caractere separado por espaços, acentos quebrados) e que a seção "Current State" do `CLAUDE.md` ainda continha os placeholders originais do template, nunca de fato preenchidos. Reconvertido `Antitrust as industrial policy in Brazil (1).docx` via `pandoc` (conteúdo verificado byte-idêntico ao `draft_text.md` já existente), reescrito o `.qmd` em UTF-8 com front-matter YAML válido (título, autores André Vereta-Nahoum e Tales Mançano, formatos pdf/html/docx) e validado com `quarto render --to html`. Preenchida a seção "Current State" do `CLAUDE.md` com a descrição real do artigo — argumento central (antitruste como política industrial passiva/velada no Brasil de FHC, via "conversão institucional" dos conceitos de eficiência e mercado relevante, casos Gerdau-Pains e Ambev), arquitetura de arquivos e proibições concretas (proteção de `3-texts/`, alerta para não preencher os marcadores `[...]{.mark}` de citação pendente deixados pelos autores). `Rscript tools/validate-governance.R` também re-heal-ou o hard link `CLAUDE.md`↔`AGENTS.md`↔`.github/copilot-instructions.md`, quebrado por salvamento atômico do editor. Adicionado `/.quarto/` e `**/*.quarto_ipynb` ao `.gitignore` (gerado automaticamente pelo próprio Quarto durante o render de teste). `draft_text.md` e o `.docx` original ficam mantidos como referência histórica, não removidos nesta sessão (decisão de remoção cabe ao autor humano).
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-07-14 13:26 (Horário Local)
+- **Agente**: Claude Sonnet 5 / Claude Code / VS Code
+- **Mensagem do Commit**: "fix(article): repair docx-to-qmd conversion, populate CLAUDE.md Current State"
+- **Arquivos afetados**: `3-texts/Nahoum-Mancano-2026-Antitrust-Article.qmd`, `CLAUDE.md`, `AGENTS.md`, `.github/copilot-instructions.md`, `.gitignore`, `NEWS.md`, `TODO.md`
+
 ## 2026-07-14 12:47 — Correção puxada da mãe: catálogo de skills globais (superpowers) movido de sync-skills para CLAUDE.md
 
 Auditoria no repositório mãe encontrou que uma tabela de skills globais do plugin `superpowers` estava, por engano, dentro de `sync-skills/SKILL.md` (escopo errado, informação não-portável documentada como portável). Puxada a correção: conteúdo movido para nova seção `## Skills Globais Disponíveis Neste Ambiente` no `CLAUDE.md`. Detalhe completo: `../agentic-research-template/9-vers/plan/2026-07-14_Prompt_Auditoria_Sync-Skills-Superpowers.md`.

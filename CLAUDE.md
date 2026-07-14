@@ -8,19 +8,22 @@
 
 ---
 
-## Current State of the Project (version dated YYYY-MM-DD)
+## Current State of the Project (version dated 2026-07-14)
 
 > **Esta seção é a única fonte de verdade sobre a concepção ATUAL do projeto.** Alterações de design, arquitetura e decisões de negócio devem ser registradas aqui com a data correspondente. Versões arquivadas ou planos antigos em conflito com esta seção devem ser desconsiderados pelos agentes.
 
-- **Descrição Geral**: [Descreva em 1 ou 2 parágrafos o que é o projeto, qual o seu objetivo central e proposta de valor.]
+- **Descrição Geral**: Este repositório abriga o desenvolvimento do artigo acadêmico "*Antitrust as industrial policy: Government-Sponsored Mergers as Passive Industrial Policy in Brazil, 1995-2002*", de André Vereta-Nahoum e Tales Mançano. O artigo argumenta que a aplicação da lei antitruste brasileira sob Fernando Henrique Cardoso funcionou como uma forma **passiva e velada** de política industrial: apesar da negação discursiva explícita de política industrial por parte de policymakers (ex. Ministro Pedro Malan), o governo apoiou ativamente grandes fusões corporativas (Gerdau-Pains no aço; Antarctica-Brahma → Ambev em bebidas), justificadas pela necessidade de competitividade internacional. O mecanismo analítico central é a **"conversão institucional"** (Mahoney & Thelen 2010): as regras antitruste não foram formalmente alteradas, mas dois conceitos jurídicos-chave — "eficiência" e "mercado relevante" — foram reinterpretados na prática (definição de mercados como globais, não nacionais) para permitir concentração doméstica sob a linguagem formal de defesa da concorrência. Os dois casos empíricos (Gerdau/Pains e Ambev) são analisados via process tracing sobre decisões do CADE, pareceres técnicos, e cobertura da imprensa, com apoio computacional de LLMs (NotebookLM) apenas para organização do material — toda interpretação analítica é dos autores. O repositório usa o framework de governança Humano-IA do `agentic-research-template` (pasta irmã) para permitir que agentes de IA colaborem no texto e nas revisões de forma auditável.
 - **Arquitetura / Componentes principais**:
-  - [Componente 1]: [Função e caminhos de arquivo]
-  - [Componente 2]: [Função e caminhos de arquivo]
+  - `3-texts/Nahoum-Mancano-2026-Antitrust-Article.qmd`: o artigo em si, em formato Quarto (YAML com título/autores/formatos pdf+html+docx) — é o **texto de autoria primária**, convertido do `.docx` original em 2026-07-14. Contém marcadores de trabalho pendente dos próprios autores no estilo `[...]{.mark}` (ex. `[ADD EXACT SOURCE]`, `[citar processo]`, `[INSERT QUOTE FROM CARDOSO OR MINISTER]`) — agentes de IA **nunca devem inventar ou preencher essas citações/fontes**; apenas os autores humanos resolvem esses marcadores.
+  - `_quarto.yml`: configuração de projeto Quarto (formatos html/pdf/docx de saída).
+  - `Antitrust as industrial policy in Brazil (1).docx`: arquivo Word original, mantido na raiz como referência histórica pré-conversão — não é mais a fonte de trabalho ativa.
+  - `draft_text.md`: extração bruta em Markdown do `.docx` original, produzida durante a conversão — hoje redundante em relação ao `.qmd`; candidato a remoção por decisão humana, não removido automaticamente por agentes.
+  - Tooling de governança (`tools/`, `hooks/`, `9-vers/`, skills em `.claude/skills/`): conforme documentado nas seções abaixo, herdado do `agentic-research-template`.
 - **Proibições Estritas (Standing Prohibitions)**:
   - Nunca execute `git add .` ou `git add -A`. Apenas adicione os arquivos específicos modificados (`git add <file>`).
-  - **[PLACEHOLDER - PROTEÇÃO DE AUTORIA]**: Se este projeto tem um diretório de autoria humana primária (prosa, notebooks de pesquisa, etc.) onde edições não devem ser comitadas silenciosamente por agentes, declare-o aqui nomeadamente. Exemplo: "Nunca faça commit na pasta `textos/` sem aprovação humana."
-  - **[PLACEHOLDER - PROTEÇÃO DE EXTERNOS]**: Se este projeto tem um arquivo gerenciado por uma ferramenta externa (biblioteca de citação, schema gerado, lockfile), proíba EDIÇÃO manual por agentes aqui — mas note explicitamente que comitar esse arquivo sem editá-lo é seguro (a distinção entre 'não editar' e 'não comitar' gera confusão). Exemplo: "Nunca edite manualmente o arquivo `zotero.bib`."
-  - [Adicione outras proibições do seu projeto aqui...]
+  - **Proteção de autoria**: nunca faça commit de mudanças em `3-texts/` (o artigo `.qmd`) sem aprovação humana explícita nesta conversa — é o texto de autoria primária dos pesquisadores. Ver `diretorio_autoria_primaria` em "Configuração de Skills" abaixo.
+  - **Proteção de externos**: nenhum arquivo gerenciado por ferramenta externa (biblioteca de citação `.bib`, schema gerado, lockfile) foi identificado neste projeto ainda — preencher esta linha se um for adotado (ex. ao integrar Zotero/BibTeX para as referências do artigo).
+  - Nunca preencha ou invente os marcadores `[...]{.mark}` de citação/fonte pendente deixados pelos autores no `.qmd` — sinalize-os ao autor humano em vez de resolvê-los silenciosamente.
 - **Planos ativos**: consulte o índice de status em `9-vers/plan/README.md`.
 
 ---

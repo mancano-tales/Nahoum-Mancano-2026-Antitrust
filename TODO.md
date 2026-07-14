@@ -16,6 +16,10 @@
 
 ## Concluído
 
+- [x] Corrigir a conversão `.docx` → `.qmd` (arquivo estava salvo em UTF-16 corrompido) e preencher de fato a seção "Current State" do `CLAUDE.md`, que apesar do item anterior de 2026-07-13 abaixo constar como concluído, nunca tinha sido realmente preenchida
+  - Criado: 2026-07-14 13:26 por Claude Sonnet 5 (a pedido de Tales Mançano)
+  - Concluído: 2026-07-14 13:26 por Claude Sonnet 5 (a pedido de Tales Mançano)
+
 - [x] Adotar o mecanismo de skills compartilhadas entre projetos (repositório mãe = `agentic-research-template`) e a convenção definitiva de `TODO.md`
   - Criado: 2026-07-14 10:10 por Claude Sonnet 5 (a pedido de Tales Mançano)
   - Concluído: 2026-07-14 10:15 por Claude Sonnet 5 (a pedido de Tales Mançano)

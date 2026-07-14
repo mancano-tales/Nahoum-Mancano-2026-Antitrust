@@ -43,3 +43,6 @@ yarn-error.log*
 # Backups temporários gerados por auto-sincronização
 *.bak.*
 
+
+/.quarto/
+**/*.quarto_ipynb
