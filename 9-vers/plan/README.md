@@ -46,6 +46,7 @@ news: []
 <!-- BEGIN_PLAN_INDEX -->
 | Plano | Status | Executor | O que é |
 |---|---|---|---|
+| `2026-07-15_Plano_Organizar_Pasta_File.md` | CONCLUÍDO (2026-07-15 15:31) | Claude Sonnet 5 (Claude Code, VS Code) | Reorganizar e renomear `file/` (fontes primárias brutas) em subpastas por tipo, com `README.md` versionado documentando a estrutura; inclui decisões já fechadas com o autor via `/grill-me` |
 | `2026-07-14_Plano_Incorporar_Rascunho_PT.md` | CONCLUÍDO (2026-07-14 16:53) | Claude Sonnet 5 (Claude Code, VS Code) | Incorporar o rascunho em português (André) na versão em inglês do artigo, seção por seção |
 | `2026-07-14_Plano_Revisao_Artigo_Coautor.md` | ATIVO | Claude Sonnet 5 (Claude Code, VS Code) | Revisão do artigo com o coautor André Vereta-Nahoum: densidade dos casos, literatura (Ergen), trechos em português e infraestrutura de citação (.bib/Zotero) |
 | `2026-07-13_Plano_Sincronizar_Governanca_Com_Tese.md` | CONCLUÍDO (2026-07-13 22:37) | Claude Sonnet 5 (Claude Code, VS Code) | Sincronizar mancano-project-template com o estado atual de governança do repositório Mancano2026-MA-Thesis |

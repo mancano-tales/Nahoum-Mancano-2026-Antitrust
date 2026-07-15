@@ -60,5 +60,6 @@ yarn-error.log*
 # preservado fora do git); T2 em validate-governance.R bloquearia um add
 # acidental de qualquer arquivo >10MB individual, mas ignorar na origem evita
 # até a tentativa de staging.
-/file/
+/file/*
+!/file/README.md
 *.zip

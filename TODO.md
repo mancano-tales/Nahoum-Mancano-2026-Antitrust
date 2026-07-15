@@ -6,18 +6,14 @@
 
 ## Pendente
 
-- [ ] Reorganizar e renomear a pasta `file/` (fontes primárias brutas, 971MB, sem estrutura hoje) em subpastas por tipo com nomes descritivos, e criar `file/README.md` versionado documentando o índice. Decisões de design já fechadas com o autor via sessão `/grill-me` (idioma dos nomes, onde documentar, o que fazer com 2 arquivos-lixo e 2 rascunhos duplicados do artigo, como tratar 2 itens de identidade ambígua, e apagar o `.zip` duplicado de 876MB na raiz do repositório).
-  - Criado: 2026-07-15 15:19 por Claude Sonnet 5 (a pedido de Tales Mançano)
-  - Plano: `9-vers/plan/2026-07-15_Plano_Organizar_Pasta_File.md`
-
 - [ ] Preparar e enviar a Flash Talk "Antitrust as industrial policy" para a Escola de Ciências Avançadas da FAPESP (ESCA, FGV-EAESP) — sessão **FT1B** ("Crisis & Accountability"), **quarta-feira 05/08/2026**, discussant designado Camilo González. Constrangimentos oficiais:
   - Slot fixo de **20 minutos, não se estende**: 12 min de apresentação + 8 min de comentários do discussant/perguntas da plateia. Se a apresentação passar de 12 min, o tempo de discussão é que encolhe, não o slot todo.
   - Formato do arquivo: **PPT/PPTX ou PDF**, em **inglês**.
   - Nome do arquivo no padrão `nome-sobrenome-sessão` (ex. oficial: `maria-oliveira-FT1A`) — pelo nome usado na lista de inscritos ("Tales Fernandes"), seria `tales-fernandes-FT1B`, **mas confirmar com a organização**: o resto deste projeto usa "Tales Mançano" (git, e-mail), não "Tales Fernandes" — pode ser nome do meio no cadastro ou erro de inscrição, vale checar antes de nomear o arquivo errado.
   - Enviar por e-mail para **espca_eaesp@fgv.br pelo menos 24h antes do início da sessão** (não aceitam mais pendrive) — como a sessão é quarta 05/08, o prazo é terça 04/08; o horário exato de início de FT1B não veio no trecho que você colou, conferir na programação completa (Appendix) para calcular a hora exata do prazo.
   - Chegar um pouco antes do horário da sessão.
-  - Ponto de partida possível para os slides: já existem `file/Antitrust as Industrial Policy.pptx` e `file/SBS-2025 Antitruste como Política Industrial.pptx` no repositório (apresentações anteriores sobre o mesmo tema) — vale checar se dá para adaptar em vez de montar do zero.
-  - Criado: 2026-07-15 14:24 por Claude Sonnet 5 (a pedido de Tales Mançano)
+  - Ponto de partida possível para os slides: já existem `file/presentations/antitrust-as-industrial-policy_VERIFY-data.pptx` e `file/presentations/SBS-2025_antitruste-como-politica-industrial.pptx` no repositório (apresentações anteriores sobre o mesmo tema, caminhos atualizados em 2026-07-15 pela reorganização de `file/`) — vale checar se dá para adaptar em vez de montar do zero.
+  - Criado: 2026-07-15 14:24 por Claude Sonnet 5 (a pedido de Tales Mançano) — caminhos dos .pptx atualizados em 2026-07-15 15:29 após reorganização de `file/` (ver `9-vers/plan/2026-07-15_Plano_Organizar_Pasta_File.md`)
 
 - [ ] Tales revisar todas as correções recentes no `.qmd` (chaves bibtex vs. `.bib` real) e a revisão de literatura orientada por André (Ergen & Kohl 2019/2022 + outras indicadas), cotejando com as versões antigas do paper (`draft_text.md`, o `.docx` original, o rascunho em português) para checar se falta incorporar algo. **Limite confirmado da RIPE: 12.000 palavras no total, incluindo tabelas, referências, legendas de figura e notas de rodapé/fim** (não é só o corpo do texto) — corpo atual (Seção 1 até o fim do texto, sem contar a seção `## Missing Citations`, que não vai para a submissão) tem ~6.886 palavras, então há margem de ~5.000 palavras antes do limite, mas a lista de referências formatada (gerada pelo citeproc a partir do `.bib` só quando `bibliography:` for ligado) ainda vai comer parte dessa margem — não confirmar a folga exata até isso ser medido pós-render. Também: a RIPE exige uma "Declaration of Generative AI use" na submissão — como o próprio artigo já narra o uso do NotebookLM para organizar material (ver abstract/Introdução), vale usar essa mesma descrição como base ao redigir essa declaração formal na hora da submissão.
   - Criado: 2026-07-15 13:51 por Claude Sonnet 5 (a pedido de Tales Mançano) — limite e demais constrangimentos confirmados em 2026-07-15 14:20 com as instruções oficiais para autores fornecidas por Tales
@@ -29,6 +25,11 @@
 ## Prospectivo
 
 ## Concluído
+
+- [x] Reorganizar e renomear a pasta `file/` (fontes primárias brutas, 971MB, sem estrutura hoje) em subpastas por tipo com nomes descritivos, e criar `file/README.md` versionado documentando o índice. Decisões de design fechadas com o autor via sessão `/grill-me` (idioma dos nomes, onde documentar, o que fazer com 2 arquivos-lixo e 2 rascunhos duplicados do artigo, como tratar 2 itens de identidade ambígua, e apagar o `.zip` duplicado de 876MB na raiz do repositório). Tales pediu para executar o plano na mesma conversa em vez de repassar a outro agente. 55 arquivos no total após a reorganização (era 56: −1 `My Drive.lnk` apagado, −1 `sesu.pdf` movido para fora do repo, +1 `README.md` novo); tamanho total inalterado (~971MB). `Rscript tools/validate-governance.R` rodado após as mudanças: auditoria concluída com sucesso
+  - Criado: 2026-07-15 15:19 por Claude Sonnet 5 (a pedido de Tales Mançano)
+  - Concluído: 2026-07-15 15:31 por Claude Sonnet 5 (a pedido de Tales Mançano)
+  - Plano: `9-vers/plan/2026-07-15_Plano_Organizar_Pasta_File.md`
 
 - [x] Padronizar no Zotero as duas chaves bibtex da Folha de S.Paulo que fugiam do formato data+slug (`Folha1998`→`1998-03-19_news_fsp_gerdau-fica-com-a-pains-cade-aprova`, `FolhadeS.Paulo2004`→`2004-07-03_news_fsp_autores-apontam-caminhos-para-a-politica-industrial`), e repontar as duas citações correspondentes no `.qmd`. Chaves geradas por Claude seguindo o padrão já usado pelas 2 entradas de 1995 no `.bib`; renomeação em si feita por Tales no Zotero (aba Better BibTeX, chave travada com pin) e reexportada — respeitando a regra de nunca editar o `.bib` manualmente. Validado com `Rscript tools/validate-governance.R`: 97 chaves carregadas, nenhum erro de integridade de citação
   - Criado: 2026-07-15 15:28 por Claude Sonnet 5 (a pedido de Tales Mançano)
