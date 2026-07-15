@@ -6,6 +6,10 @@
 
 ## Pendente
 
+- [ ] Reorganizar e renomear a pasta `file/` (fontes primárias brutas, 971MB, sem estrutura hoje) em subpastas por tipo com nomes descritivos, e criar `file/README.md` versionado documentando o índice. Decisões de design já fechadas com o autor via sessão `/grill-me` (idioma dos nomes, onde documentar, o que fazer com 2 arquivos-lixo e 2 rascunhos duplicados do artigo, como tratar 2 itens de identidade ambígua, e apagar o `.zip` duplicado de 876MB na raiz do repositório).
+  - Criado: 2026-07-15 15:19 por Claude Sonnet 5 (a pedido de Tales Mançano)
+  - Plano: `9-vers/plan/2026-07-15_Plano_Organizar_Pasta_File.md`
+
 - [ ] Preparar e enviar a Flash Talk "Antitrust as industrial policy" para a Escola de Ciências Avançadas da FAPESP (ESCA, FGV-EAESP) — sessão **FT1B** ("Crisis & Accountability"), **quarta-feira 05/08/2026**, discussant designado Camilo González. Constrangimentos oficiais:
   - Slot fixo de **20 minutos, não se estende**: 12 min de apresentação + 8 min de comentários do discussant/perguntas da plateia. Se a apresentação passar de 12 min, o tempo de discussão é que encolhe, não o slot todo.
   - Formato do arquivo: **PPT/PPTX ou PDF**, em **inglês**.
@@ -25,6 +29,10 @@
 ## Prospectivo
 
 ## Concluído
+
+- [x] Padronizar no Zotero as duas chaves bibtex da Folha de S.Paulo que fugiam do formato data+slug (`Folha1998`→`1998-03-19_news_fsp_gerdau-fica-com-a-pains-cade-aprova`, `FolhadeS.Paulo2004`→`2004-07-03_news_fsp_autores-apontam-caminhos-para-a-politica-industrial`), e repontar as duas citações correspondentes no `.qmd`. Chaves geradas por Claude seguindo o padrão já usado pelas 2 entradas de 1995 no `.bib`; renomeação em si feita por Tales no Zotero (aba Better BibTeX, chave travada com pin) e reexportada — respeitando a regra de nunca editar o `.bib` manualmente. Validado com `Rscript tools/validate-governance.R`: 97 chaves carregadas, nenhum erro de integridade de citação
+  - Criado: 2026-07-15 15:28 por Claude Sonnet 5 (a pedido de Tales Mançano)
+  - Concluído: 2026-07-15 15:28 por Claude Sonnet 5 (a pedido de Tales Mançano)
 
 - [x] Criar `tools/render-article.ps1` para renderizar o artigo em html/docx/pdf para `render/<formato>/` (pasta nova, gitignored — não usa `docs/`, que é a página estática de governança Agent Covenant, sem relação com o artigo), arquivando cópia com timestamp de cada render bem-sucedido em `render/<formato>/archive/`, seguindo o padrão de `Mancano2026-MA-Thesis/tools/preview-pdf-book.ps1`. Decisões confirmadas com o autor antes de implementar: nome da pasta (`render/`), aninhamento nativo do Quarto mantido (`render/html/3-texts/Article.html`, não achatado), `render/` gitignored (build local, nunca commitado), e script abre só o PDF ao final para revisão visual. Testado rodando os 3 formatos de ponta a ponta
   - Criado: 2026-07-15 14:49 por Claude Sonnet 5 (a pedido de Tales Mançano)
