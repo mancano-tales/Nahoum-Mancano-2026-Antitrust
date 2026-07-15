@@ -10,16 +10,19 @@
   - Criado: 2026-07-14 13:38 por Claude Sonnet 5 (a pedido de Tales Mançano, repassando tarefas de André Vereta-Nahoum) — escopo reduzido em 2026-07-14 16:53 após a inserção do rascunho em português (ver Concluído)
   - Plano: `9-vers/plan/2026-07-14_Plano_Revisao_Artigo_Coautor.md`
 
-- [ ] Adicionar ao Zotero as ~22 referências ainda sem entrada no `Nahoum-Mancano-2026-Antitrust.bib` (lista em `## Missing Citations` no final do `.qmd` — destaque para `Onto2017`, citado extensivamente nas Seções 3-4), e confirmar qual paper resolve a citação ambígua `Khan2017` (`Khan2016` "Amazon's Antitrust Paradox" ou `Khan-Vaheesan2017` "Market Power and Inequality")
-  - Criado: 2026-07-14 16:53 por Claude Sonnet 5 (a pedido de Tales Mançano) — refinado em 2026-07-14 17:26 depois de checar o `.qmd` contra o `.bib` real (11 chaves já resolviam certo, 3 só precisavam renomear para o nome real no Zotero — Berk1994→Berk2009, Folha2004→FolhadeS.Paulo2004, Teixeira2001→Teixeira-etal2001)
-  - Plano: `9-vers/plan/2026-07-14_Plano_Incorporar_Rascunho_PT.md`
-
 - [ ] Definir estratégia de publicação/journal para submissão do artigo
   - Criado: 2026-07 (timestamp exato não registrado na criação original — retroativo, mantido só-data)
 
 ## Prospectivo
 
+- [ ] Confirmar no Zotero duas discrepâncias de ano remanescentes (não bloqueiam o build, citeproc resolve com o ano atual do `.bib`): `Carvalho-Ragazzo2012` (rascunho PT cita 2013, `.bib` tem 2012) e `Onto2017` (rascunho PT lista a tese como 2016 mas cita no corpo como 2017; `.bib` tem 2017, item citado extensivamente nas Seções 3-4)
+  - Criado: 2026-07-15 13:44 por Claude Sonnet 5 (a pedido de Tales Mançano), ao fechar a tarefa de chaves bibtex abaixo
+
 ## Concluído
+
+- [x] Corrigir no `.qmd` as chaves bibtex que não resolviam contra o `Nahoum-Mancano-2026-Antitrust.bib` real: `Folha1995a`/`Folha1995b` renomeadas para as chaves reais do Zotero (`1995-03-23_news_fsp_cade-adia-decisao-sobre-fusao` e `1995-10-14_news_fsp_contra-a-mare`); `Khan2017` (ambígua) resolvida, por confirmação de Tales, para citar `@Khan2016` e `@Khan-Vaheesan2017` juntas nas duas ocorrências. Na conferência também ficou constatado que as ~22 referências antes listadas como faltantes em `## Missing Citations` já haviam sido adicionadas ao `.bib` desde a última checagem (2026-07-14) — nenhuma chave usada no `.qmd` ficou sem resolver. Seção `## Missing Citations` do `.qmd` reescrita para refletir o estado atual
+  - Criado: 2026-07-15 13:44 por Claude Sonnet 5 (a pedido de Tales Mançano)
+  - Concluído: 2026-07-15 13:44 por Claude Sonnet 5 (a pedido de Tales Mançano)
 
 - [x] Auditar o estado real do repositório e atualizar `CLAUDE.md`/`README.md` de acordo (placeholders nunca preenchidos, arquivos novos não documentados); mover os `AGENTS.md.bak.*` acumulados na raiz para `9-vers/backups/` e apontar `tools/validate-governance.R` para escrever lá dali em diante; adicionar `file/` e `*.zip` (~1.8 GB de material bruto do CADE) ao `.gitignore`, que estavam sem proteção
   - Criado: 2026-07-15 11:16 por Claude Sonnet 5 (a pedido de Tales Mançano)

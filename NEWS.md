@@ -3,6 +3,16 @@
 > Entrada mais recente no topo.
 > **Convenção de timestamp**: Todas as datas em cabeçalhos (## YYYY-MM-DD HH:MM) e no campo Data/Hora dos metadados DEVEM incluir hora e minuto no fuso local. Nunca use datas isoladas.
 
+## 2026-07-15 13:44 — Chaves bibtex do .qmd corrigidas contra o .bib real; Missing Citations atualizada
+
+Tales pediu para corrigir as chaves bibtex do `.qmd` que não resolviam contra o `Nahoum-Mancano-2026-Antitrust.bib` e indicar o que ainda falta adicionar via Zotero. Extraídas as ~34 chaves `@citekey` usadas no `.qmd` e comparadas contra as chaves reais do `.bib`: apenas 3 não resolviam (`Folha1995a`, `Folha1995b`, `Khan2017`) — uma queda grande frente às ~22 que a seção `## Missing Citations` (escrita em 2026-07-14) ainda listava como faltantes, confirmando que o `.bib` foi substancialmente repopulado a partir do Zotero desde a última checagem. `Folha1995a`→`1995-03-23_news_fsp_cade-adia-decisao-sobre-fusao` e `Folha1995b`→`1995-10-14_news_fsp_contra-a-mare` foram corrigidas diretamente (correspondência exata, sem ambiguidade). Para `Khan2017` (ambígua entre `Khan2016` "Amazon's Antitrust Paradox" e `Khan-Vaheesan2017` "Market Power and Inequality", nenhuma batendo exatamente com a chave usada), perguntei a Tales antes de decidir — instrução recebida foi citar ambas as referências nas duas ocorrências (Seções 1 e 2), que não têm citação de página. A seção `## Missing Citations` foi reescrita para refletir o estado atual: nenhuma chave usada no artigo deixa de resolver; restam só duas discrepâncias de ano a confirmar no Zotero (`Carvalho-Ragazzo2012`, `Onto2017`), movidas para "Prospectivo" no `TODO.md`.
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-07-15 13:44 (Horário Local)
+- **Agente**: Claude Sonnet 5 / Claude Code / VS Code
+- **Mensagem do Commit**: "fix(article): repoint broken citekeys to real .bib entries, refresh Missing Citations"
+- **Arquivos afetados**: `3-texts/Nahoum-Mancano-2026-Antitrust-Article.qmd`, `TODO.md`, `NEWS.md`
+
 ## 2026-07-15 11:16 — Auditoria do estado real do repositório; CLAUDE.md/README.md atualizados; backups de self-heal e material bruto organizados
 
 Tales pediu explicação do repositório, atualização de `CLAUDE.md`/`README.md` para o estado real, e um jeito de parar de ver `AGENTS.md.bak.*` acumulando na raiz. Achados: "Technical Stack" do `CLAUDE.md` ainda tinha placeholders genéricos do template (`FastAPI, Next.js, React`) sem relação com o projeto real (Quarto + R); `arquivo_gerenciado_externamente` nunca foi preenchido mesmo com o `.bib` real já existindo; arquitetura não documentava o `.bib`, o rascunho em português, `tools/zotero-build-citation-collection.js` nem a pasta `file/`. Achado mais sério: `file/` (~971 MB de autos do CADE) e um `.zip` equivalente (~918 MB) estavam **sem entrada no `.gitignore`** — só o T2 de `validate-governance.R` (bloqueio >10MB staged) protegia contra um `git add` acidental. Notado à parte, já rastreado em `TODO.md`: `_quarto.yml` ainda não tem `bibliography:` apontando pro `.bib` (T4 fica pulada).
