@@ -10,5 +10,8 @@ format:
   pdf:
     documentclass: article
     toc: false
+    geometry:
+      - a4paper
+      - margin=2.54cm
   docx:
     toc: false

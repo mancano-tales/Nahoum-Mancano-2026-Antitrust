@@ -26,6 +26,10 @@
 
 ## Concluído
 
+- [x] Ajustar margens do PDF do artigo para bater com a dissertação de Tales (`Mancano2026-MA-Thesis`): A4 + 2,54cm em todos os lados, via `geometry: [a4paper, margin=2.54cm]` no bloco `pdf:` do `_quarto.yml`. Validado renderizando e checando `pdfinfo`: "Page size: 595.276 x 841.89 pts (A4)"
+  - Criado: 2026-07-15 15:51 por Claude Sonnet 5 (a pedido de Tales Mançano)
+  - Concluído: 2026-07-15 15:51 por Claude Sonnet 5 (a pedido de Tales Mançano)
+
 - [x] Reorganizar e renomear a pasta `file/` (fontes primárias brutas, 971MB, sem estrutura hoje) em subpastas por tipo com nomes descritivos, e criar `file/README.md` versionado documentando o índice. Decisões de design fechadas com o autor via sessão `/grill-me` (idioma dos nomes, onde documentar, o que fazer com 2 arquivos-lixo e 2 rascunhos duplicados do artigo, como tratar 2 itens de identidade ambígua, e apagar o `.zip` duplicado de 876MB na raiz do repositório). Tales pediu para executar o plano na mesma conversa em vez de repassar a outro agente. 55 arquivos no total após a reorganização (era 56: −1 `My Drive.lnk` apagado, −1 `sesu.pdf` movido para fora do repo, +1 `README.md` novo); tamanho total inalterado (~971MB). `Rscript tools/validate-governance.R` rodado após as mudanças: auditoria concluída com sucesso
   - Criado: 2026-07-15 15:19 por Claude Sonnet 5 (a pedido de Tales Mançano)
   - Concluído: 2026-07-15 15:31 por Claude Sonnet 5 (a pedido de Tales Mançano)
