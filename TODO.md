@@ -29,6 +29,10 @@
 
 ## Concluído
 
+- [x] Incorporar a pasta `IC Empresas Internacionalizadas/` (extraída na raiz na tarefa anterior) a `file/`, movendo-a por inteiro para `file/IC Empresas Internacionalizadas/` sem renomear nem reorganizar seu conteúdo interno (mantém a estrutura original do Google Drive). Removida do `.gitignore` a regra pontual que a cobria na raiz, redundante com `/file/*`. `file/README.md` atualizado documentando a nova subpasta
+  - Criado: 2026-07-15 20:28 por Claude Sonnet 5 (a pedido de Tales Mançano)
+  - Concluído: 2026-07-15 20:28 por Claude Sonnet 5 (a pedido de Tales Mançano)
+
 - [x] Auditar as 34 chaves `@citekey` do `.qmd` contra o `.bib` real: identificadas 4 entradas-placeholder ("Referência Não Localizada", importadas honestamente como tal, sem invenção) ainda ativamente citadas no texto — `FernandesPrates2000`, `LoPrete1999`, `Nassif1995`, `Rodrik2021`. Checado o rascunho em português e o `draft_text.md` em busca de mais detalhe: nenhum dos dois tinha mais que autor+ano (mesmo teto de informação, não foi perda na importação). Tales baixou `3_Relatório_Final_IC_FAPESP.rev2.docx` (relatório final de IC que originou o esboço do artigo) para a raiz do projeto; convertido para Markdown via `pandoc` e localizadas as 3 referências completas na lista de referências do relatório — `FernandesPrates2000` (Folha de S.Paulo, 2000-02-25), `LoPrete1999` (autora real: "Lo Prete, R.", não "Heloisa" como a anotação antiga do `.bib` supunha — Folha de S.Paulo, 1999-07-04), `Nassif1995` (Folha de S.Paulo, 1995-10-12). `Rodrik2021` não estava no relatório (só Rodrik 1994 e 2016, obras diferentes) — Tales segue procurando essa por conta própria. Gerado `references-to-import.bib` com as 3 entradas completas para reimportação no Zotero (depois deletado, era só um helper transitório — ver item de reorganização abaixo)
   - Criado: 2026-07-15 16:22 por Claude Sonnet 5 (a pedido de Tales Mançano)
   - Concluído: 2026-07-15 16:22 por Claude Sonnet 5 (a pedido de Tales Mançano)

@@ -20,6 +20,7 @@ da reorganização (mapeamento arquivo-por-arquivo, decisões de design).
 - `reference-literature/` — literatura secundária de apoio: Guia Prático do CADE (CIEE), Revista do Ibrac v.7 n.6 (2000), e um artigo sobre regulação bancária cuja relevância para este projeto ainda não foi confirmada (**[VERIFY]**).
 - `presentations/` — apresentações produzidas pelos autores sobre o tema deste artigo. Material reaproveitável para a Flash Talk FAPESP/ESCA de 05/08/2026 (ver `TODO.md`).
 - `article-drafts-superseded/` — cópias antigas do texto do artigo, já incorporadas ao `.qmd` de autoria primária em `3-texts/`; mantidas apenas como histórico, não editar nem usar como fonte para novas edições.
+- `IC Empresas Internacionalizadas/` — pasta inteira (318 arquivos, ~431MB) de outro projeto de pesquisa de Tales (IC/BEPE FAPESP sobre atitudes empresariais frente à internacionalização), baixada do Google Drive em 2026-07-15 e incorporada aqui sem renomear/reorganizar internamente — mantém a estrutura e os nomes originais do Drive (`1. Formulação do Projeto...`, `2. Documentos de IC FAPESP 2022`, `3. Execução da Pesquisa e Relatório`, `4. Pós-projeto [Krisis + Artigo]`). Contém documentos administrativos/pessoais e projetos de outros orientandos sem relação direta com este artigo, mas é o projeto do qual este artigo se originou (ver o relatório final em `9-vers/previous-versions/`). Um arquivo teve o nome truncado na extração por exceder o limite de 255 caracteres por componente do NTFS.
 
 ## Pendências (itens `[VERIFY]` no nome do arquivo)
 
