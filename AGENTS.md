@@ -8,21 +8,27 @@
 
 ---
 
-## Current State of the Project (version dated 2026-07-14)
+## Current State of the Project (version dated 2026-07-15)
 
 > **Esta seção é a única fonte de verdade sobre a concepção ATUAL do projeto.** Alterações de design, arquitetura e decisões de negócio devem ser registradas aqui com a data correspondente. Versões arquivadas ou planos antigos em conflito com esta seção devem ser desconsiderados pelos agentes.
 
 - **Descrição Geral**: Este repositório abriga o desenvolvimento do artigo acadêmico "*Antitrust as industrial policy: Government-Sponsored Mergers as Passive Industrial Policy in Brazil, 1995-2002*", de André Vereta-Nahoum e Tales Mançano. O artigo argumenta que a aplicação da lei antitruste brasileira sob Fernando Henrique Cardoso funcionou como uma forma **passiva e velada** de política industrial: apesar da negação discursiva explícita de política industrial por parte de policymakers (ex. Ministro Pedro Malan), o governo apoiou ativamente grandes fusões corporativas (Gerdau-Pains no aço; Antarctica-Brahma → Ambev em bebidas), justificadas pela necessidade de competitividade internacional. O mecanismo analítico central é a **"conversão institucional"** (Mahoney & Thelen 2010): as regras antitruste não foram formalmente alteradas, mas dois conceitos jurídicos-chave — "eficiência" e "mercado relevante" — foram reinterpretados na prática (definição de mercados como globais, não nacionais) para permitir concentração doméstica sob a linguagem formal de defesa da concorrência. Os dois casos empíricos (Gerdau/Pains e Ambev) são analisados via process tracing sobre decisões do CADE, pareceres técnicos, e cobertura da imprensa, com apoio computacional de LLMs (NotebookLM) apenas para organização do material — toda interpretação analítica é dos autores. O repositório usa o framework de governança Humano-IA do `agentic-research-template` (pasta irmã) para permitir que agentes de IA colaborem no texto e nas revisões de forma auditável.
 - **Arquitetura / Componentes principais**:
-  - `3-texts/Nahoum-Mancano-2026-Antitrust-Article.qmd`: o artigo em si, em formato Quarto (YAML com título/autores/formatos pdf+html+docx) — é o **texto de autoria primária**, convertido do `.docx` original em 2026-07-14. Contém marcadores de trabalho pendente dos próprios autores no estilo `[...]{.mark}` (ex. `[ADD EXACT SOURCE]`, `[citar processo]`, `[INSERT QUOTE FROM CARDOSO OR MINISTER]`) — agentes de IA **nunca devem inventar ou preencher essas citações/fontes**; apenas os autores humanos resolvem esses marcadores.
-  - `_quarto.yml`: configuração de projeto Quarto (formatos html/pdf/docx de saída).
+  - `3-texts/Nahoum-Mancano-2026-Antitrust-Article.qmd`: o artigo em si, em formato Quarto (YAML com título/autores/formatos pdf+html+docx) — é o **texto de autoria primária**, convertido do `.docx` original em 2026-07-14. Contém marcadores de trabalho pendente dos próprios autores no estilo `[...]{.mark}` (ex. `[ADD EXACT SOURCE]`, `[citar processo]`, `[INSERT QUOTE FROM CARDOSO OR MINISTER]`) — agentes de IA **nunca devem inventar ou preencher essas citações/fontes**; apenas os autores humanos resolvem esses marcadores. Citações de literatura acadêmica usam chaves Better BibTeX (`[@Autor-Ano]`); citações de fontes primárias/arquivísticas (votos e autos do CADE) ficam em texto simples.
+  - `_quarto.yml`: configuração de projeto Quarto (formatos html/pdf/docx de saída). **Gap conhecido (2026-07-15)**: ainda não tem o campo `bibliography:` apontando para o `.bib` abaixo — a checagem T4 de `tools/validate-governance.R` (integridade de citações) fica pulada até isso ser conectado; já rastreado em `TODO.md`.
+  - `Nahoum-Mancano-2026-Antitrust.bib`: biblioteca de citações real, exportada por Tales do seu Zotero (não é mais placeholder). É o **arquivo gerenciado externamente** deste projeto — nunca editar suas entradas manualmente; reexportar do Zotero. Das ~34 chaves `@citekey` usadas no `.qmd`, ~22 ainda não têm entrada aqui (lista em `## Missing Citations` no fim do `.qmd`); ver `TODO.md`.
+  - `tools/zotero-build-citation-collection.js`: script para colar em Zotero → Tools → Developer → Run JavaScript; monta automaticamente no Zotero a coleção `Nahoum-Mancano-2026-Antitrust` com todas as referências citadas no `.qmd` e no rascunho em português, para depois reexportar o `.bib` acima.
+  - `2026 Antitrust as industrial policy - Nahoum & Mançano.md`: rascunho mais desenvolvido em português (resumo, revisão de literatura, casos empíricos com fontes primárias, ~50 referências). Seu conteúdo já foi incorporado seção por seção ao `.qmd` em inglês em 2026-07-14 — hoje redundante, mesma situação do `draft_text.md` abaixo; candidato a remoção por decisão humana, não removido automaticamente por agentes.
   - `Antitrust as industrial policy in Brazil (1).docx`: arquivo Word original, mantido na raiz como referência histórica pré-conversão — não é mais a fonte de trabalho ativa.
   - `draft_text.md`: extração bruta em Markdown do `.docx` original, produzida durante a conversão — hoje redundante em relação ao `.qmd`; candidato a remoção por decisão humana, não removido automaticamente por agentes.
-  - Tooling de governança (`tools/`, `hooks/`, `9-vers/`, skills em `.claude/skills/`): conforme documentado nas seções abaixo, herdado do `agentic-research-template`.
+  - `file/` e o `.zip` de mesmo conteúdo na raiz (ex. `[3] Atos de Concentração (CADE)-....zip`): material bruto de fontes primárias (autos do CADE dos casos Ambev/Gerdau-Pains/Brahma-Miller, atas do Congresso, entrevistas, pareceres) — **~1.8 GB combinado, gitignorado** (achado sem proteção em auditoria de 2026-07-15; corrigido). Nunca versionar; ver "Proibições Estritas" abaixo.
+  - `docs/index.html`: página estática ("Agent Covenant" — manual de governança Humano-IA), herdada do `agentic-research-template`, não é conteúdo do artigo.
+  - Tooling de governança (`tools/`, `hooks/`, `9-vers/`, skills em `.claude/skills/`): conforme documentado nas seções abaixo, herdado do `agentic-research-template`. Backups de self-heal do hard link `CLAUDE.md`/`AGENTS.md` (gerados por `tools/validate-governance.R` quando os dois arquivos divergem) vão para `9-vers/backups/` (gitignorado) desde 2026-07-15 — antes disso eram escritos direto na raiz do repositório.
 - **Proibições Estritas (Standing Prohibitions)**:
   - Nunca execute `git add .` ou `git add -A`. Apenas adicione os arquivos específicos modificados (`git add <file>`).
   - **Proteção de autoria**: nunca faça commit de mudanças em `3-texts/` (o artigo `.qmd`) sem aprovação humana explícita nesta conversa — é o texto de autoria primária dos pesquisadores. Ver `diretorio_autoria_primaria` em "Configuração de Skills" abaixo.
-  - **Proteção de externos**: nenhum arquivo gerenciado por ferramenta externa (biblioteca de citação `.bib`, schema gerado, lockfile) foi identificado neste projeto ainda — preencher esta linha se um for adotado (ex. ao integrar Zotero/BibTeX para as referências do artigo).
+  - **Proteção de externos**: `Nahoum-Mancano-2026-Antitrust.bib` é o arquivo gerenciado externamente deste projeto (export do Zotero/Better BibTeX) — nunca editar suas entradas manualmente nem sobrescrever com uma reexportação sem confirmar com o autor. Ver `arquivo_gerenciado_externamente` em "Configuração de Skills" abaixo.
+  - **Nunca versionar material bruto**: `file/` e qualquer `.zip` de fontes primárias na raiz são gitignorados (~1.8 GB) — não remova essas entradas do `.gitignore` nem force `git add` neles.
   - Nunca preencha ou invente os marcadores `[...]{.mark}` de citação/fonte pendente deixados pelos autores no `.qmd` — sinalize-os ao autor humano em vez de resolvê-los silenciosamente.
 - **Planos ativos**: consulte o índice de status em `9-vers/plan/README.md`.
 
@@ -113,7 +119,7 @@ Para puxar uma atualização, rode `tools/sync-skills.ps1`/`.sh` (relatório dry
 | Chave | Usada por | Valor neste repositório |
 |---|---|---|
 | `diretorio_autoria_primaria` | `close-task`, `git-cleanup` | `3-texts/` — o artigo `.qmd`; nunca comitar sem autorização explícita do autor nesta conversa |
-| `arquivo_gerenciado_externamente` | `git-cleanup` | [PLACEHOLDER — nenhum arquivo `.bib`/biblioteca de citação identificado neste projeto ainda; preencher se um for adotado] |
+| `arquivo_gerenciado_externamente` | `git-cleanup` | `Nahoum-Mancano-2026-Antitrust.bib` — export do Zotero/Better BibTeX feito por Tales; nunca editar manualmente, reexportar do Zotero |
 | `script_exportar_conversa` | `close-task`, `export-conversation` | `tools/export_conversa.R` |
 | `diretorios_trabalho_continuo` | `git-cleanup` | `tools/` (utilitários novos — sempre exigem entrada em `NEWS.md`) |
 
@@ -122,12 +128,13 @@ Para puxar uma atualização, rode `tools/sync-skills.ps1`/`.sh` (relatório dry
 ## Technical Stack & Commands
 
 ### Tecnologia
-- **Linguagem Principal**: R 4.4+ (ou a linguagem do seu projeto)
-- **Frameworks**: [ex: FastAPI, Next.js, React]
-- **Banco de Dados**: [ex: PostgreSQL, SQLite]
+- **Documento**: [Quarto](https://quarto.org) (`.qmd` → pdf/html/docx, configurado em `_quarto.yml`), com citações via Pandoc/citeproc e um `.bib` Better BibTeX gerenciado externamente pelo Zotero.
+- **Tooling de governança**: R 4.4+ (`tools/validate-governance.R`, `tools/export_conversa.R`) e um script avulso para Zotero em JavaScript (`tools/zotero-build-citation-collection.js`, colado direto no console de Developer do Zotero — sem Node.js, sem `package.json`).
+- **Banco de Dados**: nenhum. Não há aplicação de software neste repositório — é um projeto de escrita acadêmica com infraestrutura de governança Humano-IA em torno dele.
 
 ### Comandos Frequentes (Cheat Sheet)
-*   **Build/Compilar**: `[Comando de build]`
-*   **Testes Automatizados**: `[Comando de testes]`
-*   **Execução Local**: `[Comando de run dev]`
-*   **Instalação de Dependências**: `[Comando de install]`
+*   **Renderizar o artigo**: `quarto render 3-texts/Nahoum-Mancano-2026-Antitrust-Article.qmd` (ou `quarto render` na raiz do projeto Quarto)
+*   **Auditar governança (antes de commitar)**: `Rscript tools/validate-governance.R`
+*   **Sincronizar índice de planos a partir do YAML**: `Rscript tools/validate-governance.R --sync`
+*   **Exportar log de conversa de uma sessão**: `Rscript tools/export_conversa.R <session_uuid> [slug]`
+*   **Testes Automatizados**: não há suíte de testes automatizados neste projeto (não é software aplicativo); a validação é a auditoria de governança acima e o `quarto render` bem-sucedido.

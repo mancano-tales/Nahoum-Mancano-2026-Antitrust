@@ -21,6 +21,10 @@
 
 ## Concluído
 
+- [x] Auditar o estado real do repositório e atualizar `CLAUDE.md`/`README.md` de acordo (placeholders nunca preenchidos, arquivos novos não documentados); mover os `AGENTS.md.bak.*` acumulados na raiz para `9-vers/backups/` e apontar `tools/validate-governance.R` para escrever lá dali em diante; adicionar `file/` e `*.zip` (~1.8 GB de material bruto do CADE) ao `.gitignore`, que estavam sem proteção
+  - Criado: 2026-07-15 11:16 por Claude Sonnet 5 (a pedido de Tales Mançano)
+  - Concluído: 2026-07-15 11:16 por Claude Sonnet 5 (a pedido de Tales Mançano)
+
 - [x] Conferir o `.qmd` contra o `Nahoum-Mancano-2026-Antitrust.bib` que Tales já tinha gerado no Zotero: renomear as 3 chaves que tinham correspondência real só com nome diferente (`Berk1994`→`Berk2009`, `Folha2004`→`FolhadeS.Paulo2004`, `Teixeira2001`→`Teixeira-etal2001`), confirmar que as outras 8 chaves já corretas resolvem sem aviso do citeproc, e substituir a antiga lista `## References` por uma seção `## Missing Citations` enxuta, só com as ~22 chaves realmente sem entrada no `.bib` (destaque: `Onto2017`) e a ambiguidade `Khan2017`/`Khan2016`/`Khan-Vaheesan2017` — validado renderizando com o `.bib` real via `bibliography:` temporário
   - Criado: 2026-07-14 17:26 por Claude Sonnet 5 (a pedido de Tales Mançano)
   - Concluído: 2026-07-14 17:26 por Claude Sonnet 5 (a pedido de Tales Mançano)

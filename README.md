@@ -1,8 +1,8 @@
 # NahoumMancano2026-Antitrust-as-Industrial-Policy
 
-> Breve descrição de uma linha sobre o objetivo do seu projeto.
+> Repositório de desenvolvimento do artigo acadêmico "Antitrust as industrial policy: Government-Sponsored Mergers as Passive Industrial Policy in Brazil, 1995-2002" (André Vereta-Nahoum e Tales Mançano) — argumenta que o antitruste brasileiro sob FHC funcionou como política industrial passiva e velada, via reinterpretação prática dos conceitos de "eficiência" e "mercado relevante" nos casos Gerdau-Pains e Ambev.
 
-Este repositório adota um **modelo profissional de desenvolvimento cooperativo Humano-IA de nível industrial**. Ele foi projetado para permitir que agentes de IA autônomos (como Claude Code, Cursor, Antigravity, Aider) trabalhem de forma segura e sincronizada com desenvolvedores humanos, eliminando regressões de código, duplicidade de logs e perda de contexto.
+Além do artigo em si (`3-texts/`), este repositório adota um **modelo profissional de desenvolvimento cooperativo Humano-IA de nível industrial**. Ele foi projetado para permitir que agentes de IA autônomos (como Claude Code, Cursor, Antigravity, Aider) trabalhem de forma segura e sincronizada com os autores humanos, eliminando regressões de texto, duplicidade de logs e perda de contexto. Para o estado atual e detalhado do projeto de pesquisa em si, veja a seção "Current State of the Project" em [CLAUDE.md](CLAUDE.md).
 
 ---
 
@@ -28,18 +28,25 @@ Isso criará automaticamente o hard link para `AGENTS.md` (OpenAI/Codex) e o lin
 ## 2. Organograma do Repositório
 
 ```
-[seu-repositório]/
-├── .claude/                         # Pasta unificada de customizações e skills compartilhadas de IAs
-│   └── skills/                      # Scripts e instruções estendidas para agentes (ex: exportar-conversa)
-├── .agents/                         # Atalho local (junction NTFS) apontando para .claude/ (gitignorado)
-├── hooks/                           # Modelos de Git Hooks para automação e validação de commits
+Nahoum-Mancano-2026-Antitrust/
+├── 3-texts/                         # TEXTO DE AUTORIA PRIMÁRIA — protegido, nunca commitar sem aprovação humana
+│   └── Nahoum-Mancano-2026-Antitrust-Article.qmd  # O artigo (Quarto -> pdf/html/docx)
+├── Nahoum-Mancano-2026-Antitrust.bib  # Biblioteca de citações (export do Zotero) — arquivo gerenciado externamente
+├── file/                             # Fontes primárias brutas (autos do CADE, entrevistas) — ~1GB, GITIGNORADO
+├── docs/                             # Página estática do manual de governança (GitHub Pages)
+├── .claude/                          # Pasta unificada de customizações e skills compartilhadas de IAs
+│   └── skills/                      # Scripts e instruções estendidas para agentes (ex: export-conversation)
+├── .agents/                          # Atalho local (junction NTFS) apontando para .claude/ (gitignorado)
+├── hooks/                            # Modelos de Git Hooks para automação e validação de commits
 │   ├── pre-commit                   # Hook pre-commit (valida status e cobra NEWS.md)
 │   └── post-merge                   # Hook post-merge (recria junctions e links físicos)
-├── tools/                           # Scripts de utilidade geral e QA do repositório
+├── tools/                            # Scripts de utilidade geral e QA do repositório
 │   ├── validate-governance.R        # Validador de integridade de metadados de planos (R)
-│   └── export_conversa.R            # Extrator de logs de sessões de IA para Markdown (R)
-├── 9-vers/                          # Pasta viva de planejamento e arquivo de histórico
+│   ├── export_conversa.R            # Extrator de logs de sessões de IA para Markdown (R)
+│   └── zotero-build-citation-collection.js  # Monta a coleção de citações no Zotero (Run JavaScript)
+├── 9-vers/                           # Pasta viva de planejamento e arquivo de histórico
 │   ├── GUIDANCE_MAP.md              # Sitemap completo explicando a função de cada pasta
+│   ├── backups/                     # Snapshots do self-heal de hard link (gitignorado, não mexer)
 │   ├── plan/
 │   │   ├── README.md                # Tabela de status e progresso de tarefas (Work Packages)
 │   │   └── YYYY-MM-DD_Plano_TEMPLATE.md  # Template para novos planos de trabalho
@@ -50,6 +57,7 @@ Isso criará automaticamente o hard link para `AGENTS.md` (OpenAI/Codex) e o lin
 ├── AGENTS.md                        # Hard link físico para CLAUDE.md (OpenAI/Codex)
 ├── GUIDANCE.md                      # Atalho para o sitemap completo de diretrizes
 ├── NEWS.md                          # Changelog de decisões de design e evolução (atualizado por commits)
+├── TODO.md                          # Log append-only de tarefas pendentes/concluídas
 └── README.md                        # Este documento (Visão geral de instalação e execução)
 ```
 

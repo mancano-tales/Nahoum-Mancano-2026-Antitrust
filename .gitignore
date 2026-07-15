@@ -40,9 +40,19 @@ yarn-error.log*
 .Ruserdata
 *.Rout
 
-# Backups temporários gerados por auto-sincronização
+# Backups temporários gerados por auto-sincronização (self-heal do hard link
+# CLAUDE.md/AGENTS.md em tools/validate-governance.R, escritos em 9-vers/backups/)
 *.bak.*
-
 
 /.quarto/
 **/*.quarto_ipynb
+
+# Material bruto de fontes primárias (autos do CADE, entrevistas, pareceres,
+# scans em PDF/docx/pptx) — ~1.8 GB combinado entre a pasta e o zip de
+# origem, achado sem proteção em auditoria de 2026-07-15. Não é conteúdo
+# versionável (nem por tamanho, nem por ser cópia de arquivo primário já
+# preservado fora do git); T2 em validate-governance.R bloquearia um add
+# acidental de qualquer arquivo >10MB individual, mas ignorar na origem evita
+# até a tentativa de staging.
+/file/
+*.zip
