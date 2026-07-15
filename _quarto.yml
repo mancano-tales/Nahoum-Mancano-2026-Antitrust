@@ -1,6 +1,8 @@
 project:
   type: default
 
+bibliography: Nahoum-Mancano-2026-Antitrust.bib
+
 format:
   html:
     theme: cosmo

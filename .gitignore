@@ -47,6 +47,12 @@ yarn-error.log*
 /.quarto/
 **/*.quarto_ipynb
 
+# Saída de build do artigo (html/docx/pdf), gerada por tools/render-article.ps1
+# — build artifact local, nunca versionado (mesmo padrão do docs-pdf/ do
+# projeto irmão Mancano2026-MA-Thesis). Não confundir com /docs/, que é a
+# página estática de governança (Agent Covenant), não conteúdo do artigo.
+/render/
+
 # Material bruto de fontes primárias (autos do CADE, entrevistas, pareceres,
 # scans em PDF/docx/pptx) — ~1.8 GB combinado entre a pasta e o zip de
 # origem, achado sem proteção em auditoria de 2026-07-15. Não é conteúdo

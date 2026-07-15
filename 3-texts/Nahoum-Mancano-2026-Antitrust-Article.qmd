@@ -5,6 +5,12 @@ author:
   - name: Tales Mançano
 abstract: |
   This article analyzes how antitrust policy can function as passive industrial policy, promoting competitiveness and internationalization in economies under fiscal constraint. Drawing on government-supported mergers in Brazil during the 1990s, the study examines how flexibility in the enforcement of competition law was justified by the need to strengthen national sectors in the face of economic liberalization. Antitrust and industrial policy are traditionally regarded as antagonistic. At the turn of the century, however, Brazil's antitrust authority allowed the consolidation of major corporate groups, such as Gerdau and Ambev, on the grounds of efficiency gains and global competitiveness — even as the Cardoso government prioritized monetary stability and denied adopting sectoral industrial policies. The Brazilian case illustrates how fiscally conservative governments can strategically use antitrust policy to drive economic development and the internationalization of firms, aligning indirectly and passively with objectives traditionally associated with classic, strengthening-oriented industrial policy.
+keywords:
+  - antitrust policy
+  - industrial policy
+  - institutional conversion
+  - Brazil
+  - mergers and acquisitions
 format:
   pdf: default
   html: default
@@ -133,13 +139,11 @@ These findings have important implications for the study of industrial policy an
 
 By disaggregating discourse, instruments, and effects, the paper provides a framework for analyzing these dynamics and contributes to a more nuanced understanding of the role of the state in shaping market outcomes under conditions of liberalization.
 
-## Missing Citations {.unnumbered}
+## Declaration of Generative AI Use {.unnumbered}
 
-> **Re-checked against `Nahoum-Mancano-2026-Antitrust.bib` on 2026-07-15.** The `.bib` was substantially repopulated from Zotero since the previous check (2026-07-14) — every citekey previously listed here as missing (`Abdallah2020`, `Basile2009`, `Brasil1993`, `Brasil1994`, `Bresser-Pereira-Diniz2009`, `Carvalho-Ragazzo2012`, `FernandesPrates2000`, `Folha1998`, `Hovenkamp2005`, `JuhaszEtAl2023`, `LoPrete1999`, `Nassif1995`, `Onto2017`, `Posner1979`, `Ribeiro1995`, `Rodrik2021`, `SallumJr1999`, `Seidl1996`, `Seidl2000`, `TheEconomist1999`) now resolves correctly. The `Folha1995a`/`Folha1995b` citekeys were also repointed to the actual `.bib` keys (`1995-03-23_news_fsp_cade-adia-decisao-sobre-fusao` and `1995-10-14_news_fsp_contra-a-mare` respectively), and `@Khan2017` was resolved per author confirmation on 2026-07-15 to cite both `@Khan2016` and `@Khan-Vaheesan2017` in each of its two occurrences (Sections 1 and 2). **No citekeys currently fail to resolve.**
+The authors report that generative AI tools were used in two limited and clearly bounded ways. In the research process, the authors used NotebookLM to assist with the organization of a large volume of primary-source material (CADE administrative rulings, technical opinions, corporate statements, and media coverage) — specifically to reconstruct procedural timelines, identify recurring argumentative patterns, and compare the positions of different actors across documents. This use was strictly supportive; all analytical interpretation and conclusions are the authors' own. In the manuscript preparation process, the authors used Claude (Anthropic) for mechanical and organizational tasks under direct author supervision: converting the original manuscript from Word to Quarto Markdown format, merging author-drafted Portuguese-language text into the existing English manuscript on a section-by-section basis, and verifying bibliographic citation keys against the authors' Zotero reference library. No AI-generated analytical content was incorporated without direct authorial review.
 
-Two items flagged in the earlier check carry unresolved year discrepancies worth double-checking against Zotero before the bibliography is considered final:
+## References {.unnumbered}
 
-- `@Carvalho-Ragazzo2012` — the PT draft's own reference list dates this 2013, not 2012 as cited in-text; the `.bib` entry uses 2012. Confirm the correct year in Zotero.
-- `@Onto2017` — the PT draft's own reference list dates the thesis 2016, while every in-text citation in that same draft says 2017; the `.bib` entry uses 2017. **Heavily cited** (Section 3 and the Gerdau case) — worth confirming first.
-
-**Not flagged as missing** — `@Mahoney-Thelen2010` resolves fine; the `.bib` actually has both a 2009-dated and a 2010-dated entry for the same book (*Explaining Institutional Change*), which is itself a minor duplicate worth cleaning up in Zotero at some point, but doesn't block anything here.
+::: {#refs}
+:::

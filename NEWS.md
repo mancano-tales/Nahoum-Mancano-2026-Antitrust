@@ -3,6 +3,70 @@
 > Entrada mais recente no topo.
 > **Convenção de timestamp**: Todas as datas em cabeçalhos (## YYYY-MM-DD HH:MM) e no campo Data/Hora dos metadados DEVEM incluir hora e minuto no fuso local. Nunca use datas isoladas.
 
+## 2026-07-15 14:50 — Declaration of Generative AI Use inserida no artigo
+
+Tales aprovou a minuta de declaração de uso de IA generativa (rascunhada nesta conversa em resposta ao item do checklist da RIPE registrado em `TODO.md` às 14:20) e pediu para inserir no `.qmd`. Adicionada seção `## Declaration of Generative AI Use {.unnumbered}` entre a Conclusão e as Referências — posição escolhida para casar com a ordem de estrutura exigida pela RIPE ("main text; acknowledgments; declaration of interest statement; references"). Texto distingue duas frentes reais, sem inventar nada: uso do NotebookLM na pesquisa (organização de material bruto do CADE, já narrado no próprio abstract) e uso do Claude (Anthropic) na preparação do manuscrito (conversão docx→Quarto, mesclagem do rascunho em português já escrito pelos autores, verificação de chaves bibtex contra o Zotero) — nenhum conteúdo analítico gerado por IA sem revisão direta dos autores. `Rscript tools/validate-governance.R` rodado após a edição: T4 (integridade de citação, ativa desde a mudança das 14:42) carregou as 97 chaves do `.bib` normalmente, nenhum erro.
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-07-15 14:50 (Horário Local)
+- **Agente**: Claude Sonnet 5 / Claude Code / VS Code
+- **Mensagem do Commit**: "feat(article): add Declaration of Generative AI Use section per RIPE submission checklist"
+- **Arquivos afetados**: `3-texts/Nahoum-Mancano-2026-Antitrust-Article.qmd`, `NEWS.md`
+
+## 2026-07-15 14:24 — Pendência da Flash Talk na Escola de Ciências Avançadas da FAPESP registrada
+
+Tales confirmou o slot da sua Flash Talk na ESCA (FGV-EAESP): sessão FT1B ("Crisis & Accountability"), quarta-feira 05/08/2026, discussant Camilo González, apresentando "Antitrust as industrial policy". Registrado em `TODO.md` os constrangimentos oficiais repassados (slot fixo de 20 min = 12 de apresentação + 8 de discussão; slides em PPT/PPTX/PDF em inglês; envio por e-mail a `espca_eaesp@fgv.br` até 24h antes da sessão; nome de arquivo no padrão `nome-sobrenome-sessão`). Notada uma divergência a confirmar: a lista de inscritos registra o presenter como "Tales Fernandes", enquanto o resto do projeto usa "Tales Mançano" — sinalizado para não nomear o arquivo de submissão errado. Apontados também dois PPTX já existentes no repositório (`file/Antitrust as Industrial Policy.pptx`, `file/SBS-2025 Antitruste como Política Industrial.pptx`) como possível ponto de partida para os slides, em vez de montar do zero.
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-07-15 14:24 (Horário Local)
+- **Agente**: Claude Sonnet 5 / Claude Code / VS Code
+- **Mensagem do Commit**: "docs(plan): log FAPESP ESCA flash talk deadline and requirements"
+- **Arquivos afetados**: `TODO.md`, `NEWS.md`
+
+## 2026-07-15 14:20 — Critérios reais de submissão da RIPE confirmados com as Instructions for Authors oficiais
+
+Tales colou o texto completo das "Instructions for Authors" da RIPE (página oficial, atualizada em 24-06-2026), substituindo a versão anterior desta mesma sessão que vinha de busca web não verificada (fetch direto de `tandfonline.com`/`files.taylorandfrancis.com` tinha sido bloqueado por proteção anti-bot). Duas correções relevantes frente à estimativa anterior: o resumo é de 200 palavras, não 250; e o limite de 12.000 palavras é do total do manuscrito (inclui tabelas, referências, legendas e notas de rodapé/fim), não só do corpo do texto. Extraído também um checklist de submissão que o projeto ainda não atende — faltam keywords no `.qmd`, declaração de financiamento, declaração de conflito de interesse, nota biográfica dos autores e, mais notavelmente, uma "Declaration of Generative AI use" (a submissão em `Research Article` de até 12.000 palavras é o tipo certo para este paper, entre os quatro que a RIPE aceita). Medido o corpo atual do `.qmd` (Seção 1 até o fim, excluindo a seção de trabalho `## Missing Citations`, que não é conteúdo de submissão): ~6.886 palavras, deixando margem de ~5.000 palavras antes das 12.000 — mas a lista de referências formatada ainda não existe no manuscrito (`bibliography:` segue desligado) e vai consumir parte dessa margem quando for ligada. Tudo isso atualizado na entrada de `TODO.md` sobre a estratégia de publicação e na pendência de revisão de Tales.
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-07-15 14:20 (Horário Local)
+- **Agente**: Claude Sonnet 5 / Claude Code / VS Code
+- **Mensagem do Commit**: "docs(plan): confirm RIPE submission requirements against official instructions for authors"
+- **Arquivos afetados**: `TODO.md`, `NEWS.md`
+
+## 2026-07-15 13:51 — Journal-alvo definido (RIPE); discrepâncias de ano em Zotero tratadas como resolvidas; nova pendência de revisão registrada
+
+Tales repassou decisões de uma conversa com o coautor André Vereta-Nahoum (reunião "R1"): o journal-alvo para submissão é a *Review of International Political Economy* (RIPE, Taylor & Francis). Pesquisado via busca web o que a RIPE exige de autores — fetch direto de `tandfonline.com` e `files.taylorandfrancis.com` bloqueado por proteção anti-bot (HTTP 403 em toda tentativa), então a informação vem de trechos indexados por busca do PDF oficial de *Call for Papers* da RIPE, não de leitura direta da fonte primária: limite de 12.000 palavras para o artigo, resumo de até 250 palavras. Estilo de citação, estrutura exigida e processo de submissão ficam sem confirmação até Tales complementar. Tales também decidiu que as duas discrepâncias de ano encontradas na conferência de citekeys de hoje mais cedo (`Carvalho-Ragazzo2012` vs. 2013; `Onto2017` vs. 2016) não precisam de correção — é o padrão comum de obra produzida na fronteira entre dois anos, onde citar qualquer um dos dois é indiferente. Registrada nova pendência: Tales revisar todas as correções recentes no `.qmd` e a revisão de literatura orientada por André, cotejando com as versões antigas do paper, usando o limite de 12.000 palavras da RIPE como teto ao redigir.
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-07-15 13:51 (Horário Local)
+- **Agente**: Claude Sonnet 5 / Claude Code / VS Code
+- **Mensagem do Commit**: "docs(plan): set RIPE as target journal, resolve Zotero year ambiguities, log author review task"
+- **Arquivos afetados**: `TODO.md`, `NEWS.md`
+
+## 2026-07-15 14:49 — Script de render multi-formato criado; render/ isolado e gitignored
+
+Tales pediu um jeito de renderizar o artigo em html/docx/pdf para pastas separadas, com backup automático das versões antigas, no mesmo espírito do `Mancano2026-MA-Thesis/tools/preview-pdf-book.ps1`. Antes de implementar, usado `/grill-me` (a pedido de Tales) para confirmar decisões de design em vez de assumir: nome da pasta de saída (`render/`, evitando colisão com `docs/`, que já é a página estática de governança Agent Covenant e não tem relação com o artigo), se aceitar o aninhamento nativo do Quarto sob o caminho do arquivo-fonte (`render/html/3-texts/Article.html`) em vez de achatar, se `render/` deve ser rastreado no Git (não — gitignored, mesmo padrão do `docs-pdf/` da tese), e se o script deve abrir automaticamente algum formato ao final (só o PDF, para revisão visual). Todas as quatro perguntas responderam pela opção recomendada.
+
+Criado `tools/render-article.ps1`: renderiza html, docx e pdf para `render/<formato>/` via `--output-dir` (sem tocar `_quarto.yml`), usa `--no-clean` para preservar a versão anterior em caso de falha no meio do render, e arquiva cópia com timestamp de cada render bem-sucedido em `render/<formato>/archive/` (filtro explícito para não recontar arquivos já arquivados numa próxima rodada). Aceita parâmetro opcional `-Formats` para renderizar só um subconjunto. Adicionado `/render/` ao `.gitignore`. Testado de ponta a ponta rodando os 3 formatos: render de pdf via LuaLaTeX instalou automaticamente dois pacotes faltantes (`luacolor`, `lua-ul`) na primeira execução, sem erro; todos os 3 formatos geraram arquivo e cópia arquivada corretamente, e o PDF abriu para revisão ao final.
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-07-15 14:49 (Horário Local)
+- **Agente**: Claude Sonnet 5 / Claude Code / VS Code
+- **Mensagem do Commit**: "feat(tools): add multi-format render script with per-format archiving"
+- **Arquivos afetados**: `tools/render-article.ps1`, `.gitignore`, `TODO.md`, `NEWS.md`
+
+## 2026-07-15 14:42 — bibliography: ligado no _quarto.yml; Missing Citations virou References real; keywords adicionadas
+
+Tales pediu para trocar a seção `## Missing Citations` do fim do `.qmd` por uma seção de referências de verdade, "como qualquer arquivo normal tem", e para sugerir 5 keywords para acompanhar o abstract. Adicionado `bibliography: Nahoum-Mancano-2026-Antitrust.bib` ao `_quarto.yml` (gap já rastreado em `CLAUDE.md` desde 2026-07-15 cedo) — sem isso, o citeproc nunca teria material para gerar uma lista de referências de verdade. Substituída a seção `## Missing Citations` (já obsoleta desde a correção de chaves de bibtex mais cedo hoje, ver entrada anterior) por `## References {.unnumbered}` com o div padrão do Quarto/Pandoc (`::: {#refs} :::`), onde o citeproc insere a lista formatada. Adicionadas 5 `keywords:` sugeridas ao YAML do `.qmd` (antitrust policy, industrial policy, institutional conversion, Brazil, mergers and acquisitions) — fecha também um item do checklist de submissão da RIPE (`TODO.md`) que apontava a ausência de keywords no documento.
+
+Validado renderizando o `.qmd` para HTML com `quarto render`: a saída teve 38 entradas de bibliografia formatadas (`csl-entry`), sem nenhuma citação sobrando como texto literal `[@key]`. Rodado `Rscript tools/validate-governance.R` antes e depois: a checagem T4 (integridade de citação), que antes ficava pulada por falta de `bibliography:` configurado, agora roda de fato e carregou as 97 chaves do `.bib`. Arquivos de teste do render (`.html`, pasta `_files`) apagados do working directory antes de seguir — não são artefatos para manter soltos na raiz de `3-texts/`.
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-07-15 14:42 (Horário Local)
+- **Agente**: Claude Sonnet 5 / Claude Code / VS Code
+- **Mensagem do Commit**: "feat(article): wire bibliography, replace Missing Citations with real References section, add keywords"
+- **Arquivos afetados**: `3-texts/Nahoum-Mancano-2026-Antitrust-Article.qmd`, `_quarto.yml`, `TODO.md`, `NEWS.md`
+
 ## 2026-07-15 13:44 — Chaves bibtex do .qmd corrigidas contra o .bib real; Missing Citations atualizada
 
 Tales pediu para corrigir as chaves bibtex do `.qmd` que não resolviam contra o `Nahoum-Mancano-2026-Antitrust.bib` e indicar o que ainda falta adicionar via Zotero. Extraídas as ~34 chaves `@citekey` usadas no `.qmd` e comparadas contra as chaves reais do `.bib`: apenas 3 não resolviam (`Folha1995a`, `Folha1995b`, `Khan2017`) — uma queda grande frente às ~22 que a seção `## Missing Citations` (escrita em 2026-07-14) ainda listava como faltantes, confirmando que o `.bib` foi substancialmente repopulado a partir do Zotero desde a última checagem. `Folha1995a`→`1995-03-23_news_fsp_cade-adia-decisao-sobre-fusao` e `Folha1995b`→`1995-10-14_news_fsp_contra-a-mare` foram corrigidas diretamente (correspondência exata, sem ambiguidade). Para `Khan2017` (ambígua entre `Khan2016` "Amazon's Antitrust Paradox" e `Khan-Vaheesan2017` "Market Power and Inequality", nenhuma batendo exatamente com a chave usada), perguntei a Tales antes de decidir — instrução recebida foi citar ambas as referências nas duas ocorrências (Seções 1 e 2), que não têm citação de página. A seção `## Missing Citations` foi reescrita para refletir o estado atual: nenhuma chave usada no artigo deixa de resolver; restam só duas discrepâncias de ano a confirmar no Zotero (`Carvalho-Ragazzo2012`, `Onto2017`), movidas para "Prospectivo" no `TODO.md`.
