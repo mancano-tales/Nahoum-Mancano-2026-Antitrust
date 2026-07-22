@@ -3,6 +3,16 @@
 > Entrada mais recente no topo.
 > **Convenção de timestamp**: Todas as datas em cabeçalhos (## YYYY-MM-DD HH:MM) e no campo Data/Hora dos metadados DEVEM incluir hora e minuto no fuso local. Nunca use datas isoladas.
 
+## 2026-07-22 18:27 — Removidos números manuais de títulos de seção no artigo
+
+Removidos numerais explícitos dos títulos de seção em `3-texts/Nahoum-Mancano-2026-Antitrust-Article.qmd`, deixando o Quarto gerar a numeração automaticamente e evitando duplicidade de números no output renderizado.
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-07-22 18:27 (Horário Local)
+- **Agente**: Claude Opus 4.8 / Claude Code / VS Code
+- **Mensagem do Commit**: "docs(article): remove manual section numbers from Quarto headings"
+- **Arquivos afetados**: `3-texts/Nahoum-Mancano-2026-Antitrust-Article.qmd`, `NEWS.md`
+
 ## 2026-07-22 15:10 — Deriva de documentação corrigida em 9-vers/llm-reviews/README.md (script de export)
 
 Numa explicação do funcionamento da governança do repositório pedida por Tales, a leitura de `9-vers/llm-reviews/README.md` revelou que a seção "Como Exportar Conversas" ainda instruía `python tools/export_conversa.py <session_uuid> [slug]` — linguagem e extensão errados: o script é R (`Rscript tools/export_conversa.R`), como já constava corretamente em `CLAUDE.md`/`AGENTS.md`/`.github/copilot-instructions.md`, `.cursor/rules/governance.mdc`, `9-vers/GUIDANCE_MAP.md`, `README.md` e nas 4 skills que o invocam. `grep` em todos os `.md`/`.mdc` do repositório confirmou que esse README era a **única** ocorrência remanescente da versão Python — não havia deriva sistêmica, apenas este canto. Corrigido o comando e, além do conserto pontual, adicionada uma nota de precedência explícita apontando `script_exportar_conversa` em `CLAUDE.md` § "Configuração de Skills" como fonte de verdade do caminho ("se este README divergir dela, o `CLAUDE.md` prevalece — corrija aqui, não lá"), para que o arquivo deixe de funcionar como fonte independente e passe a ser um ponteiro. Aproveitado para documentar o que o script realmente aceita hoje e que já estava implícito no seu cabeçalho, mas ausente do README: o primeiro argumento pode ser UUID, prefixo de UUID ou caminho completo do `.jsonl`; a origem pode ser Claude Code ou Antigravity; a saída é gravada direto nesta pasta já no padrão de nome da seção anterior. Mencionadas também as skills `export-conversation` e `close-task`, que eram referidas só como "a skill", sem nome.
