@@ -1,0 +1,1833 @@
+Article
+
+                                                                 Comparative Political Studies
+                                                                 2025, Vol. 58(6) 1199–1237
+Coordination Rights,                                             © The Author(s) 2024
+
+
+Competition Law and                                              Article reuse guidelines:
+                                                                 sagepub.com/journals-permissions
+Varieties of Capitalism                                          DOI: 10.1177/00104140241259461
+                                                                 journals.sagepub.com/home/cps
+
+
+
+
+Chase Foster1  and Kathleen Thelen2 
+
+
+Abstract
+Competition law is a constitutive institution in capitalist markets, establishing
+the rules for when interﬁrm coordination is allowed and where competition is
+required (Paul, 2020). Yet comparativists have spent decades debating the
+varieties of capitalism framework—which places the issue of coordination at
+the center of the distinction between capitalist types—while paying virtually
+no attention to cross-national variation in antitrust rules. This article develops
+an original theoretical framework to conceptualize the relationship between
+competition law and the organization of capitalism. We go beyond the usual
+binaries (coordinated vs. liberal market economies, “restrictive” vs. “per-
+missive” antitrust regimes) to disentangle two dimensions of the law that
+fundamentally shape patterns of coordination and competition both across
+regulatory jurisdictions and over time. Applying our framework to analyze the
+evolution of American and European competition law, we show how a
+comparative coordination rights framework can be used to conceptualize key
+institutional changes within contemporary capitalist systems.
+
+
+
+
+1
+SOAS University of London, London, UK
+2
+Massachusetts Institute of Technology, Cambridge, MA, US
+
+Corresponding Author:
+Chase Foster, School of Finance & Management, SOAS University of London, 10 Thornhaugh St,
+London WC1H 0XG, UK.
+Emails: cf49@soas.ac.uk, foster.chase@gmail.com
+Data Availability Statement included at the end of the article
+
+
+--- PAGE BREAK ---
+
+1200                                         Comparative Political Studies 58(6)
+
+Keywords
+EU politics and policy, political economy, business and politics, law and
+political economy, American politics, regulatory policy, antitrust law
+
+
+
+Introduction
+Nearly a century and a half after the Sherman Antitrust Act of 1890, the ascent
+of mega-companies such as Amazon and Apple has put “monopoly power”
+and antitrust back in the headlines. Legal scholars and economists have begun
+to analyze recent developments in competition policy, but with the notable
+exception of a few EU scholars, students of the comparative political economy
+of the rich democracies have not had much at all to say about antitrust law and
+enforcement.1 This is peculiar, because competition law is a key constitutive
+institution in capitalist markets, establishing the rules for where interﬁrm
+coordination is allowed and where competition is required.2 Yet even the
+dominant varieties of capitalism literature – which famously distinguishes
+political economies according to the institutional features that support two
+distinct models of coordination – is strikingly silent when it comes to the role
+of competition law and policy in structuring markets.
+    This gap is consequential because both the American and European po-
+litical economies have undergone massive structural changes over the past
+four decades that are linked to competition law changes, but have ﬂown under
+the radar of dominant theories of CPE. Speciﬁcally, the US has diverged from
+fellow liberal market economies, migrating from a classically liberal model to
+become highly oligopolistic in a trend that tracks signiﬁcant developments in
+American antitrust theory and jurisprudence that the CPE literature has largely
+ignored (Philippon, 2019). Meanwhile, Europe’s coordinated market econ-
+omies have experienced a mix of changes that are also connected to com-
+petition law developments. Some of these, such as the liberalization of
+regulated industries and the greenlighting of transnational mergers, have
+brought European economies closer to the neoliberal model of capitalism
+(Buch-Hansen & Wigger, 2010). Other developments, however, such as legal
+protections for interﬁrm and worker coordination, and an increasingly pro-
+active approach to economic dominance, are more consonant with coordi-
+nated market economies (Foster & Thelen, 2023).
+    In this article, we propose a general framework for analyzing changes in
+competition law and their impact, both across countries and within countries
+over time, that helps explain these developments. Building on the legal scholar
+Sanjukta Paul’s (2020) seminal reconceptualization of US antitrust law, we
+move beyond the usual binaries (liberal vs. coordinated market economies,
+“restrictive” vs. “permissive” antitrust regimes) to disentangle change along
+two distinct dimensions: in the rules governing horizontal coordination
+
+
+--- PAGE BREAK ---
+
+Foster and Thelen                                                        1201
+
+(between non-dominant economic actors) and those governing hierarchical
+coordination (controls imposed by dominant players). Based on these dis-
+tinctions, we identify four ideal-typical competition models that reﬂect dif-
+ferent combinations of coordination rights: cartelistic competition,
+oligopolistic competition, arm’s length competition, and cooperative com-
+petition. Furthermore, we show how this framework can be used to understand
+important recent and ongoing trajectories of change in the organization of
+capitalism.
+    We apply our framework to developments over the postwar period in the
+US and Europe to show how it yields insights of interest both to VOC scholars
+and to EU scholars—highlighting important blind spots in the VOC literature
+while also resolving longstanding debates in the EU literature. Speciﬁcally, we
+show how changes in the American competition regime since the 1970s and
+1980s have moved the US away from the arm’s length relationships and ﬂuid
+labor markets traditionally associated with the “liberal” model and toward
+highly concentrated oligopolistic product markets and signiﬁcant labor market
+rigidities. Turning to Europe, we revisit – and revise – dominant accounts that
+emphasize convergence on the US by drawing attention to key dimensions
+along which competition rules have diverged sharply from American
+developments.
+    The paper is organized as follows. We begin our analysis by noting the
+striking absence in the comparative political economy literature of substantial
+discussion of competition law and its role in shaping the organization of
+capitalism cross nationally and over time. We contrast this with the attention
+paid to these issues by economists and legal scholars who attribute growing
+oligopoly power in American capitalism to changes in antitrust policy and
+enforcement since the 1970s. We turn then to unresolved debates among EU
+scholars about the extent to which European competition rules have embraced
+American practices in ways that undermine the cooperative arrangements that
+have long anchored Europe’s alternative model of CMEs.
+    We argue that contemporary debates relating both to the US and to Europe
+fail to distinguish two distinct dimensions of competition rules: those gov-
+erning horizontal coordination between small and medium sized companies
+(SMEs) that individually lack market power, and those governing hierarchical
+controls by dominant players. We show that different combinations of co-
+ordination rights produce four ideal-typical models of competition, and we
+apply our framework to conceptualize the trajectories of competition law
+change in Europe and the United States. Disentangling the two distinct di-
+mensions of coordination allows us to document important continuities in the
+US, alongside some convergence by the EU with respect to horizontal co-
+ordination, but also – more importantly – to highlight the ways in which the
+EU and US have diverged in their approaches to hierarchical coordination. A
+ﬁnal section highlights the contribution of the framework we propose to the
+
+
+--- PAGE BREAK ---
+
+1202                                         Comparative Political Studies 58(6)
+
+literature on the comparative political economy of the rich democracies and
+beyond.
+
+Theories: Varieties of Competition Law in Political
+Economy and Legal Scholarship
+The dominant “varieties of capitalism” framework famously distinguishes
+political economies according to the institutional features that support two
+distinct models of coordination. Liberal market economies, or LMEs, are
+those in which “ﬁrms coordinate their activities primarily via hierarchies and
+competitive market arrangements,” and in which coordination outside of the
+ﬁrm primarily occurs via “arm’s-length exchange of goods or services in a
+context of competition and formal contracting” (Hall & Soskice, 2001, p. 8).
+Coordinated market economies, or CMEs, by contrast, are characterized by
+heavier reliance on non-market institutions, and where ﬁrms are often em-
+bedded in arrangements that involve “more extensive relational or incomplete
+contracting, network monitoring based on the exchange of private information
+inside networks, and more reliance on collaborative, as opposed to com-
+petitive, relationships to build the competencies of the ﬁrm” (Ibid).
+    Given the centrality within the VOC framework of different modes of
+coordination—whether through corporate hierarchy and competitive market
+arrangements as in LMEs or through various nonmarket institutions as in
+CMES—it is surprising that competition policy has not been a major focus of
+comparative capitalism scholarship. Historical treatments of capitalist de-
+velopment underscored the central importance of competition law in con-
+ditioning national market structures and corporate organization in the late 19th
+and early 20th centuries (Berk, 2009; Chandler & Hikino, 2009; Djelic, 2001;
+Fligstein, 1993; Keller, 1981; Lamoreaux, 1988; Thelen, 2020, 2024). Yet the
+relationship between contemporary capitalist organization and competition
+law has not been a major theoretical or empirical focus within the VOC
+literature. The introduction to Hall and Soskice’s seminal volume mentions
+US antitrust policy in passing (2001: 31), and other chapters address the role
+of the law in structuring production regimes (Casper, 2001; Teubner, 2001),
+but competition law is not central to the framework and has been neglected by
+subsequent VOC scholars.
+    Critics of varieties of capitalism have paid somewhat more attention to the
+role of competition law. For example, studies emphasizing the common
+neoliberal trajectory of capitalist systems have sometimes portrayed com-
+petition law as a homogenizing force that reinforces processes of economic
+liberalization, ﬁnancialization, and marketization that undermine producer
+group coordination and organized capitalism. In particular, the intensiﬁcation
+of competition law at the EU level and its enforcement by the European
+Commission is often seen as contributing to the disorganization of capitalism
+
+
+--- PAGE BREAK ---
+
+Foster and Thelen                                                         1203
+
+and a gradual convergence on a common liberal model (Buch-Hansen &
+Wigger, 2010; Höpner & Schäfer, 2012; Wigger & Nölke, 2007). Such
+research has been important for drawing our attention to the ways American
+inﬂuence in the post WWII period shaped early developments in Europe, and
+how the more recent adoption of some elements of ‘law and economics’
+theories (including elements of the so-called “Chicago school” of law and
+economics) has affected some areas of policy and enforcement (Bartalevich,
+2016; Buch-Hansen & Wigger, 2010). However, in emphasizing liberaliza-
+tion, critics have often over simpliﬁed the effects of competition law on
+Europe’s coordinated market economies, missing important elements of
+continuity in European competition policy as well as new divergences that
+have intensiﬁed the enforcement of rules regulating the exploitation of
+economic power. Moreover, studies that conﬂate “liberalization” with
+“Americanization” often miss the extent to which the US is no longer itself
+particularly “liberal.”
+    In short, the current state of the debate – mostly absent from VOC
+scholarship and viewed primarily as a tool of liberalization among VOC’s
+critics – has led CPE scholars to overlook a number of important develop-
+ments in the political economies of the advanced industrial countries on both
+sides of the Atlantic – developments that have been more central to dis-
+cussions within the disciplines of economics and legal studies. In the United
+States there is growing evidence that the collapse of antitrust enforcement
+following the adoption of ‘Chicago School’ ideas in court jurisprudence and
+agency policy (R. A. Posner, 1979) has contributed to growing oligopolistic
+power and caused the American economy to drift away from the classic LME
+model. The U.S. economy is increasingly characterized not by competitive
+and contestable markets and arm’s-length contracting, but rather by oli-
+gopolistic market structures, where a handful of entrenched ﬁrms predominate
+(Azar et al., 2022; Grullon et al., 2019; Philippon, 2019). Proﬁt rates have
+soared to historic highs, particularly in the most concentrated sectors and
+among ﬁrms with high numbers of patents, suggesting the presence of market
+power (Grullon et al., 2019; Gutiérrez & Philippon, 2018). As pure proﬁts
+have increased, labor income shares have fallen, particularly in the most
+concentrated industries (Barkai, 2020).
+    In addition, labor markets have long since ceased to be characterized by the
+kind of ﬂuidity that is a core deﬁning feature of the classic liberal model;
+indeed, labor market mobility in the US is at the lowest rate since the Census
+Bureau began keeping track.3 Increasing industrial concentration across a
+wide range of sectors means that declining regions are often dominated by a
+few monopsonistic employers (Azar et al., 2022; Naidu et al., 2018; E. A.
+Posner, 2021; Yeh et al., 2022). Workers are increasingly stuck in place by the
+lack of opportunity in the country’s most dynamic regions (Autor et al., 2020;
+Haﬁz, 2022), declining employer-based beneﬁts (Madrian, 1994), rising
+
+
+--- PAGE BREAK ---
+
+1204                                         Comparative Political Studies 58(6)
+
+housing costs (Ansell & Cansunar, 2021; Coate & Mangum, 2021), and
+employers’ growing use of non-compete and no-poach agreements in em-
+ployment contracts (Krueger & Ashenfelter, 2022; E. A. Posner, 2020;
+Staszak, 2020).
+   Meanwhile, European political economies have developed along a dif-
+ferent trajectory. The trend toward greater employer market power observed in
+the United States is not observed in the United Kingdom, where labor market
+concentration has slightly declined over the last quarter century (CMA, 2024).
+A growing body of evidence also suggests that the secular trend toward
+increased concentration in product markets is less pronounced in many
+European countries. A number of close studies have concluded that economic
+concentration levels and markups in Europe have been either stable or
+characterized by modest decreases following the integration of the European
+single market (Cavalleri et al., 2019; Döttling et al., 2017; Gutiérrez &
+Philippon, 2018; Kalemli-Ozcan et al., 2024).4 Other studies, using differ-
+ent data, have identiﬁed some secular trends similar to the US, toward lower
+labor shares (Autor et al., 2020; Piketty, 2014), increases in industrial con-
+centration levels (Bajgar et al., 2023; Koltay et al., 2023), and a rise in
+consumer markups (De Loecker & Eeckhout, 2018) in many European
+countries. However, even in these studies, the observed changes are usually
+more modest in magnitude and starting from lower baselines than in the
+United States (De Loecker & Eeckhout, 2018; Koltay et al., 2023).
+   While Europe’s coordinated market economies have no doubt faced new
+pressures stemming from globalization and technological change, they
+nevertheless also continue to be characterized by much higher levels of
+nonmarket coordination. European trade unions have weakened but they still
+retain higher coverage rates than in the United States, particularly in the
+private sector (Darvas et al., 2023). European employer and trade associations
+have proven even more resilient, with membership levels remaining stable in
+most countries since the 1970’s even as their role in collective goods provision
+and advocacy has continually evolved (Brandl & Lehr, 2019). Compared to
+the United States, EU business associations are denser and less fragmented
+(Spillman, 2012; Traxler, 2004) and more actively involved in coordinating
+research, standard setting, skills development, and collective bargaining
+(Gooberman & Hauptmeier, 2022).5 Comparative business demography
+studies clearly indicate that, across most major sectors of the economy, small
+and medium sized enterprises continue to play a more prominent role in
+European economies (Del Sorbo et al., 2018).
+   Existing frameworks have a difﬁcult time accounting for both the shift
+toward oligopoly in the US and the mix of continuity and change observed in
+Europe. The broad distinction between “liberal” and “coordinated” capitalism
+used in VOC theory is not supple enough to capture these developments and
+assess their implications. Economic liberalization and convergence
+
+
+--- PAGE BREAK ---
+
+Foster and Thelen                                                              1205
+
+frameworks proposed by VOC critics better account for some elements of
+change in the EU, particularly the weakening of labor unions and the
+transnational consolidation of industry. However, they are less effective at
+explaining how and why the EU has continued to diverge from the US on
+other dimensions. And they have very little to say about the oligopolistic
+tendencies found in the American economy, or indeed about the dramatic
+differences in the treatment of dominant ﬁrms on the two sides of the Atlantic.
+   One of the core reasons for this oversight is the tendency of nearly all
+observers to view competition law in a unidimensional way. Both VOC
+theorists and VOC’s critics conﬂate the different targets of competition law—
+whether aimed at horizontal coordination or hierarchical restraints and
+mergers. So, any move by a jurisdiction on one dimension (whether pro-
+cedural or substantive; whether relating to horizontal or hierarchical coor-
+dination; and whether the rules relate to cartels or abuse of dominance) is
+coded as signaling more or less stringent competition rules. As closely
+connected as these different dimensions are on some issues and at some times,
+nothing in the broader historical record suggests that they necessarily go
+together. In fact, variation on both dimensions is important for tracking key
+changes in the evolution of capitalist organizations over time.
+
+
+A Comparative Coordination Rights Framework
+Building on the work of Sanjukta Paul (2020) we propose a new framework
+for analyzing such changes. Among legal scholars of antitrust, Paul is dis-
+tinctive in that she conceives of competition regimes not in terms of com-
+petition law stringency, but rather in terms of coordination rights. In doing so,
+she effectively ﬂips the script of antitrust as it is typically presented: instead of
+thinking about competition law as concerned primarily with the regulation of
+anti-competitive practices (strict or permissive), she pushes us instead to
+consider how competition law allows, permits or even encourages certain
+kinds of coordination between ﬁrms and other producer groups, while pre-
+venting other kinds. As she puts it: “antitrust law’s core function is to allocate
+coordination rights to some economic actors and deny them to others” (382).
+Her key insight is that both coordination and competition are required in
+capitalism, but that the structure of coordination and competition—and in
+particular who gets to coordinate and who is forced to compete—will differ
+depending on the competition regime.
+    Although Paul did not conceive hers as a framework for comparative
+analysis, it can be fruitfully deployed to re-conceptualize cross-national dif-
+ferences as well as trajectories of change over time in competition regimes and
+in the organization of capitalism writ large. Adapting her framework, we
+distinguish between two main dimensions of economic coordination in capi-
+talist economies, and use these to conceptualize four competition models that
+
+
+--- PAGE BREAK ---
+
+1206                                          Comparative Political Studies 58(6)
+
+reﬂect different combinations of coordination rights.6 The ﬁrst dimension is
+horizontal coordination beyond the boundaries of the ﬁrm. This refers to re-
+strictive agreements, practices, or mergers between ﬁrms that lack market power
+and that are operating in either the same market or adjacent markets. Horizontal
+coordination can thus include restrictive practices between direct competitors
+that sell the same or similar products or services. It can also include agreements
+between suppliers and distributors as long as none of the involved ﬁrms are
+economically dominant. In both cases, competition regimes vary in the extent to
+which they permit or forbid such arrangements.
+    This is distinct from a second dimension, which we term hierarchical
+coordination beyond the boundaries of the ﬁrm. This encompasses a range of
+unilateral practices, restrictive agreements or mergers involving large com-
+panies that have signiﬁcant market shares, with the most extreme example
+being the establishment of a monopoly or the erection of a permanent barrier
+to entry. Here again, competition regimes vary from more permissive
+(“forbearing”) to more restrictive (limiting or restricting such coordination
+through state regulation).7
+    The emphasis on horizontal or hierarchical coordination rights can and
+does differ both across regulatory jurisdictions and historically over time. We
+propose that these differences help shape the forms of producer group co-
+ordination that have long been central to theories of advanced capitalism.
+Based on these distinctions, we identify four ideal-typical competition models
+that reﬂect different combinations of horizontal and hierarchical coordination
+rights: cartelistic competition, oligopolistic competition, arm’s length com-
+petition and cooperative competition. The horizontal dimension of Table 1
+refers to the extent to which non-dominant ﬁrms have the right to use
+nonmarket forms of coordination in their relationships with competitors,
+i.e., ﬁrms selling the same or similar products or services, as well as their
+suppliers and distributors. On the left side of the table, horizontal coordination
+rights are extensive, while on the right side, they are narrow, and companies
+must interact with other ﬁrms primarily through arm’s-length, market-based
+contracts. The hierarchical dimension refers to the extent to which dominant
+companies have the right to use exclusionary agreements or unilateral
+practices to structure the marketplace in their interests. On the permissive
+(“forbearing”) side of the continuum, competition regimes enable hierarchical
+control by dominant ﬁrms, while on the other end, hierarchical coordination is
+subject to state regulation that limits or redirects it.
+   These distinctions yield the following four ideal types:
+
+Cartelistic competition model. The regulatory regime in the lower left quadrant
+of Table 1 permits ﬁrms to coordinate on both the horizontal and hierarchical
+dimensions without being subject to state interference. Since ﬁrms are
+
+
+--- PAGE BREAK ---
+
+Foster and Thelen                                                         1207
+
+Table 1. Coordination Rules and Competition Models.
+
+
+
+
+interested in stabilizing proﬁt expectations by creating ‘market structures’
+(Beckert, 2009), this regulatory regime tends to produce cartelized markets,
+where competition is partially restricted through private agreements between
+producers in the same industry (Schröter, 2013). Cartelistic market structures
+have historically facilitated economic stability and growth in some countries
+(Tilly, 1982; Webb, 1980), while simultaneously enabling horizontal non-
+market coordination institutions to develop (Thelen, 2020). But in the absence
+of regulation, the largest cartel members are free to leverage their economic
+power over other actors within the economy. This ideal-type is closest to
+Japan, Germany, and many other European countries prior to World II, when
+states not only permitted but often encouraged interﬁrm coordination and most
+industries were highly cartelized.
+
+Oligopolistic Competition Model. The lower right quadrant of Table 1 indicates a
+regulatory regime where horizontal coordination between smaller companies
+is strictly prohibited, but dominant companies are given wide leeway to create
+
+
+--- PAGE BREAK ---
+
+1208                                        Comparative Political Studies 58(6)
+
+barriers to entry and impose hierarchical controls on their suppliers and
+distributors. In contrast to the cartelized competition model, where the market
+is stabilized through horizontal agreements while maintaining ﬁrm inde-
+pendence, hierarchical coordination systems rely primarily on corporate hi-
+erarchy and economic concentration to stabilize market volatility (Lamoreaux,
+1988; Sklar, 1988). This encourages the development of oligopolistic markets,
+characterized by a small number of large producers or sellers. Like cartelized
+competition, oligopolistic competition can reduce transaction costs and fa-
+cilitate economic stability, scale economies, and long-term investment
+(Chandler & Hikino, 2009; Williamson, 1985). However, oligopolistic
+structures also enable economic exploitation, rent-seeking, and the en-
+trenchment of incumbent players. This ideal-type is closest to the United
+States at the beginning of the 20th century when horizontal coordination
+between smaller ﬁrms and workers was limited by antitrust law while ex-
+clusionary practices by large companies were largely permitted as ‘reason-
+able’ restraints of trade.
+
+Cooperative Competition Model. The regulatory regime in the top left quadrant
+allows competing ﬁrms to extensively cooperate while limiting the power of
+dominant companies to impose hierarchical restraints on other ﬁrms. Like
+cartelistic competition, ﬁrms and workers are permitted to establish robust
+trade associations and unions, which can be used to upgrade competition, and
+push the coordinates of competition away from price and toward quality. But
+unlike cartelistic competition, the state regulates both exclusionary private
+market structures as well as hierarchical controls by dominant companies
+(Ergen & Kohl, 2019). This ideal-type can facilitate the development of
+coordinated market structures, where competing ﬁrms engage in substantial
+nonmarket coordination to facilitate collective goods, reduce problems of free
+riding, and pool resources so that smaller ﬁrms can better compete against
+bigger ones (Crouch, 1993). Cooperative competition is best exempliﬁed by
+many northern European countries during the second half of the 20th century,
+when companies were permitted to pursue extensive forms of horizontal
+coordination, but where the exploitation of economic power by large com-
+panies was strictly regulated by the state or held in check by countervailing
+corporatist institutions.
+
+Arm’s-Length Competition Model. A regulatory regime characterized by strict
+rules limiting both horizontal and hierarchical coordination beyond the
+boundary of the ﬁrm will instantiate an arm’s length market regime (upper
+right quadrant). Chandlerian hierarchies are found within individual ﬁrms, but
+relationships beyond the boundaries of the ﬁrm, including with competitors,
+suppliers, distributors, creditors, and employees, are organized through formal
+contracts and competitive markets (Hall & Soskice, 2001, pp. 33–36).
+
+
+--- PAGE BREAK ---
+
+Foster and Thelen                                                         1209
+
+Crucially, the state not only enforces price competition between equally
+matched competitors, but also aggressively polices the exploitation of eco-
+nomic power by large corporations. Companies with market power not only
+are prevented from establishing barriers to entry, but are sometimes also
+required to actively facilitate entry. This ideal-type is best exempliﬁed by the
+United States from the 1940’s until the 1970’s, when both horizontal co-
+operation and the exclusionary practices of dominant companies were limited
+by regulators.
+
+Mapping Trajectories of Change
+Opening up the analytic space to disentangle the complex (multi- not uni-
+dimensional) evolution of competition rules governing different types of
+market coordination allows us to move beyond the current terms of debate in
+both the VOC and EU literature. It forces us to think harder about how
+different competition regimes affect who exactly is allowed to coordinate with
+whom, and to do what, and about how differences in the answers to these
+questions drive variation in the trajectories of change in competition law on
+both sides of the Atlantic. By distinguishing movement related to horizontal
+versus hierarchical coordination we can identify with more precision the
+arenas in which American antitrust law continues to enforce arm’s-length
+relations, and those where the law permits (or even encourages) hierarchical
+coordination. Similarly, we can also better evaluate where EU competition law
+and practice have converged with the United States, where they remain
+distinct (in degree if not in kind), and where they have diverged in new ways.
+   Figure 1 captures in a stylized way the overall trajectory of change in the
+rules governing market competition in the European Union and the United
+States since the 1970’s.8 On the horizontal dimension, the US has maintained
+and even sharpened its traditionally strict policies toward almost all forms of
+interﬁrm (horizontal) coordination. Meanwhile, the EU has indeed moved in
+the direction of an arm’s length competition model, by developing stricter
+rules for both cartels and many other forms of horizontal coordination
+(Billows et al., 2021; Buch-Hansen & Wigger, 2010; Philippon, 2019).
+Nonetheless, especially compared to the US, EU competition law continues to
+allow substantial horizontal nonmarket coordination in certain areas, par-
+ticularly for SMEs, workers, and interﬁrm cooperation agreements aimed at
+generating productive efﬁciencies – thus retaining signiﬁcant elements that are
+historically characteristic of CMEs (Foster & Thelen, 2023).
+   On the hierarchical dimension, however, the US and EU have sharply
+diverged, as the US has largely abandoned anti-monopoly, vertical restraint,
+and non-horizontal merger enforcement and the EU has intensiﬁed en-
+forcement in each of these areas, particularly for dominant companies that
+control key infrastructures such as online platforms. In the EU, strengthening
+
+
+--- PAGE BREAK ---
+
+1210                                        Comparative Political Studies 58(6)
+
+
+
+
+Figure 1. Trajectories of Change in Postwar US and EU Competition Regimes.
+Source: Authors’ characterization of competition law change, 1970–2020.
+
+
+enforcement against abuse of dominance has helped protect nonmarket co-
+ordination by smaller ﬁrms from the exploitative and exclusionary practices of
+larger companies. Meanwhile, the move in the US toward hierarchical for-
+bearance has pushed antitrust policy away from an arm’s-length competition
+model characterized by extensive anti-dominance and horizontal enforcement
+to maintain market contestability, and toward an oligopolistic model where
+horizontal coordination continues to be aggressively policed, but large
+companies are given wide leeway to structure the marketplace through hi-
+erarchical coordination.
+   In the next two sections, we analyze how and why the trajectories of change
+have proceeded in this way, examining developments in policy and law, as
+well as patterns of enforcement in order to draw a connection between
+competition rules and the political economy. Our analysis builds on previous
+work by economists and legal scholars who have focused closely on changes
+to hierarchical rules in the US, alongside that by EU scholars who have
+tracked changes to horizontal rules in Europe and the effect on CMEs (e.g.
+Billows et al., 2021; Wigger & Nölke, 2007). However, we expand and reﬁne
+both streams of analysis by distinguishing changes across both the horizontal
+and hierarchical dimensions, and by pointing out how the changes we
+document track the divergent trajectories of the American and European
+
+
+--- PAGE BREAK ---
+
+Foster and Thelen                                                          1211
+
+economies discussed above. While space precludes a full empirical test of the
+framework, these two case studies serve to illustrate the utility of our
+comparative coordination rights framework for better conceptualizing the co-
+evolution of regulatory institutions, producer group organization, and market
+structures within contemporary capitalist systems.9
+
+
+
+Coordination Rights and the Evolution of the American
+Political Economy
+Historically, the US embraced what in comparative perspective was in fact a
+wholly unique approach to competition policy and jurisprudence (or what in
+American parlance is called antitrust). In the closing years of the 19th century,
+the political economies in both the US and Europe were upended by ﬁnancial
+crises and deep economic depressions. Overcapacity across key markets set in
+motion vicious cutthroat competition among ﬁrms, provoking considerable
+market turmoil and industrial strife. American and European ﬁrms alike
+sought to stabilize markets by banding together into arrangements to defend
+against destructive competition and to restore industrial peace. European
+governments encouraged and often actively reinforced coordination among
+ﬁrms within industries, and judicial forbearance toward these forms of co-
+operation supported the ﬂourishing of the dense associational landscape of
+producer group politics (trade associations, employer organizations, and labor
+unions) that we now associate with coordinated capitalism.
+    In the United States, by contrast, the passage of the Sherman Act, and the
+Supreme Court’s interpretation of that law, created strong prohibitions against
+what Paul calls “horizontal” coordination – i.e., coordination among non-
+dominant actors beyond the boundaries of the ﬁrm, including but not limited
+to labor (Paul, 2020, p. 383).10 Large producers turned to alternative strategies
+to stabilize markets through corporate consolidation or the use of vertical
+restraints to restrict competition from above. These ﬁrms avoided antitrust
+prosecution by internalizing coordination functions – merging with their
+former rivals and swallowing up smaller competitors. This was the context
+that inspired the ‘great merger movement’ in the US at the turn of the century
+that resulted in a dramatic increase in industrial concentration and led to
+corporate hierarchy and arms-length exchange becoming the dominant modes
+of coordination (Lamoreaux, 1988; Sklar, 1988).11 The strong binary between
+“pure” competition and corporate hierarchy that the American judiciary
+enforced and policed left a deep imprint on the American political economy
+(Berk, 1996). It also helped instantiate an oligopolistic competition model,
+where many industries were dominated by a small number of ﬁrms and large
+corporations had broad economic power to structure the marketplace in their
+interests (Chandler & Hikino, 2009; Sklar, 1988).
+
+
+--- PAGE BREAK ---
+
+1212                                        Comparative Political Studies 58(6)
+
+    American competition policy continued to combine strict enforcement
+against horizontal combinations with more lenient (“rule of reason”) treatment
+of hierarchical coordination through the interwar period.12 But the Great
+Depression and the accompanying dramatic increase in industrial concen-
+tration inspired a deep rethinking of American competition policy. A series of
+government studies assessing the impact of economic concentration on the
+economy in the late 1930’s delivered a scathing indictment of the behavior of
+the country’s dominant producers, contributing to an abrupt reversal on the
+American approach to hierarchical coordination (Peinert, 2023). Allying with
+populist Democrats in Congress, President Roosevelt expanded the Depart-
+ment of Justice’s (DOJ) Division of Antitrust budget ﬁve-fold, growing its
+staff from 58 lawyers to over 300 (Brinkley, 1996, p. 111). The new head of
+the Antitrust Division, Thurman Arnold, launched a period of reinvigorated
+enforcement, taking on some of the biggest names in American industry,
+including Paramount Studios, the Pullman Company, the Big Three car
+companies, and major steel and aluminum producers, during what in retro-
+spect is now considered the “Golden Age” of American antitrust enforcement.
+    During his ﬁve-year tenure, Arnold pursued many major anti-monopoly
+cases, several of which resulted in the structural reorganization of dominant
+companies.13 At the same time, he intensiﬁed horizontal enforcement,
+launching major cases against dairy producers, construction companies, oil
+reﬁneries, and newspapers, among other industries. In many of these cases, the
+targets were large companies, but in others they were small ﬁrms or labor
+unions (Waller, 2004, pp. 600–603). Altogether, Arnold prosecuted more
+cases during his short (1938–43) tenure as head of the DOJ’s Antitrust Di-
+vision than the previous ﬁfty years of antitrust combined (Waller, 2004,
+p. 583). The combination of a strict approach to both hierarchical and hor-
+izontal coordination pushed the American antitrust system squarely toward
+the top right ‘arm’s length competition model’ in Table 1.
+    Following World War II, the arm’s length model was further institution-
+alized. The Celler-Kefauver Act in 1950 made it much easier for regulators to
+block mergers and acquisitions. From 1955–1969, the government challenged
+167 combinations through litigation (R. A. Posner, 1970, p. 407). Although
+these enforcement actions did not always prevent aggregate consolidation via
+conglomerate mergers, they did slow down and occasionally reverse con-
+centration trends within many industries. Careful economic studies from the
+period suggest that agency merger rules and litigation deterred or blocked
+numerous horizontal and vertical mergers, leading to a decline in the con-
+centration rates of many sectors.14
+    In addition to placing a new democratic check on mergers, the government
+also continued to limit hierarchical coordination beyond the boundaries of the
+ﬁrm through the active enforcement of anti-monopoly and vertical restraint
+rules. During the 1950’s and 1960’s, the DOJ and FTC successfully
+
+
+--- PAGE BREAK ---
+
+Foster and Thelen                                                         1213
+
+prosecuted dominant companies for monopoly violations in a variety of areas,
+from the exclusionary use of intellectual property to localized price cuts
+(Kovacic & Shapiro, 2000, pp. 9–12). Many of these prosecutions constrained
+the autonomy of the corporate monoliths of the era including Eastman Kodak,
+General Electric, Westinghouse, Procter & Gamble, and Bell Laboratories
+(Kovaleff, 1980; Watkins, 1961). Sometimes the mere threat of prosecution
+was sufﬁcient to force powerful companies to show pricing restraint, as ar-
+guably occurred in the petroleum sector in response to ongoing DOJ in-
+vestigations of the seven largest oil and gas companies (McFarland & Colgan,
+2023). To be sure, regulators also continued to place limits on horizontal
+coordination by prosecuting Sherman Act cases against small ﬁrms. However,
+to a greater degree than in prior or future eras, the enforcement emphasis was
+on large companies.15 Furthermore, courts and regulators largely avoided
+using antitrust to limit the coordination rights of workers, at least when
+coordination occurred in the context of labor unions. The result was a political
+economy that, while retaining many oligopolistic features, was also char-
+acterized by contestable markets and countervailing power in most industries
+(Galbraith, 1952).
+
+
+
+Hierarchical Forbearance and the Move toward Oligopoly
+The era, however, was short-lived. Already in the 1960s, American antitrust
+policy and practice had come under attack from both the left and right.
+Liberals such as Ralph Nader complained of corporate capture, while con-
+servatives blasted an overweening bureaucracy. By the late 1960s, economists
+and legal scholars attached to the so-called “Chicago School” of law and
+economics had become vocally skeptical about the wisdom of the entire
+postwar antitrust regime. Robert Bork’s inﬂuential book, The Antitrust
+Paradox (published in 1978, but much longer in the works), had steadily
+gained inﬂuence in legal circles throughout the late 1960s and 1970s. Federal
+courts and regulators began to incrementally adjust existing precedents and
+policies in ways that led to more permissive hierarchical coordination rules. In
+several key cases at the end of the 1970’s, the Supreme Court reversed its own
+precedents by establishing a new ‘consumer welfare’ test as a requirement for
+prosecuting hierarchical restrictions (Orbach, 2011). In the aftermath of these
+decisions, most of the non-horizontal ‘per se’ rules that had been established
+during the post-war period were reversed and replaced with the more per-
+missive ‘rule of reason’ (Khan, 2016; Kovacic & Shapiro, 2000). The change
+in jurisprudence made it much more difﬁcult for US regulators to enforce
+hierarchical coordination rules, leading to a series of government losses in
+major merger and anti-monopoly cases (Kovacic & Shapiro, 2000, p. 54).16
+These changes gave large ﬁrms more autonomy to impose vertical restraints
+
+
+--- PAGE BREAK ---
+
+1214                                          Comparative Political Studies 58(6)
+
+on their suppliers and distributors, erect barriers to entry, and pursue mergers
+that consolidated their market positions.
+    In 1981 Reagan elevated Chicago School thinking to government policy
+with his appointments of Borkian acolyte William F. Baxter to head the DOJ’s
+Antitrust Division and fellow Chicago schooler James Miller III as FTC chair.
+The new appointees presided over a sharp decline in all forms of antitrust
+enforcement against dominant market actors, while simultaneously intensi-
+fying horizontal enforcement, especially against smaller ﬁrms. Henceforth,
+antitrust policy and enforcement would fully embrace the Chicago school
+formula; the core criterion against which anti-competitive actions would be
+judged was whether they explicitly harmed consumer welfare, deﬁned largely
+in terms of price (Khan, 2016). The shift toward a permissive approach to
+hierarchical coordination has only intensiﬁed since the early 2000’s, as the
+Supreme Court has ruled in favor of hierarchical controls by dominant ﬁrms –
+and against antitrust interventions – in almost all of its major cases (Wu,
+2018).
+    Combined with the empowerment of economists relative to lawyers within
+US regulatory agencies, these court-led changes in coordination rights have
+contributed to a systematic collapse in anti-monopoly and hierarchical re-
+straint enforcement (Berman, 2022; Ergen & Kohl, 2019). Figure 2 reports the
+pattern of DOJ enforcement before and after the adoption of the consumer
+welfare standard by courts in 1979. It shows that monopoly, vertical restraints,
+and non-horizontal merger cases made up only 2% of enforcement actions in
+the 1980’s and 1990’s, representing a dramatic decrease from the 1960’s and
+1970’s when such actions represented one in ﬁve DOJ prosecutions. A similar
+pattern can be seen in merger enforcement. While in the 1960’s and 1970’s, the
+
+
+
+
+Figure 2. DOJ enforcement before and after the adoption of ‘Chicago School’ ideas.
+Source: Gallo et al. 2000. Calculations by authors. Checkered (blue) areas indicate
+enforcement actions limiting hierarchical coordination; striped pattern (red) areas
+indicate enforcement actions limiting horizontal coordination.
+
+
+--- PAGE BREAK ---
+
+Foster and Thelen                                                       1215
+
+DOJ blocked a steady mix of horizontal and vertical measures, after 1980,
+merger challenges signiﬁcantly declined. As can be seen in Figure 2, hori-
+zontal merger challenges became rarer after 1980, shifting from a quarter of
+total cases to just 8%. Meanwhile, non-horizontal merger enforcement almost
+entirely disappeared.
+    In response to this carte blanche, corporate America pursued an un-
+precedented merger boom. According to one study, the number and value of
+mergers and acquisitions dramatically increased in the years following the
+adoption of new merger guidelines in 1984 (Pryor, 2001). From 1985–2000,
+the annual volume of mergers and acquisitions tripled, with three-quarters of
+combinations occurring between ﬁrms operating in the same industry (Ibid,
+pp. 305–308). Over the same period, the average degree of industrial con-
+centration in individual industries signiﬁcantly increased—the reverse of the
+trend observed from 1960–1980, when hierarchical coordination rights were
+more restricted by US antitrust law (Ibid).
+    Even as U.S. regulators largely abandoned anti-monopoly and merger
+enforcement, they intensiﬁed enforcement of cartels and other forms of
+horizontal coordination, successfully prosecuting hundreds of cases (Gallo
+et al., 2000; Kovacic, 2003, pp. 415–420). Unlike the Golden Era of antitrust
+when large corporations were the main focus, the vast majority of these
+prosecutions were against small and medium-sized companies.17 Within many
+industries, these prosecutions undermined the ability of domestic ﬁrms to
+effectively compete against foreign ﬁrms in Japan and Europe that enjoyed
+extensive horizontal coordination rights (Arslan, 2023). Workers and inde-
+pendent contractors seeking to pool their bargaining power were also more
+frequently targeted; these included, among others, groups of low-paid at-
+torneys, piano teachers, ice skating instructors and church organists (Paul,
+2020, pp. 391–392). Regulators not only prosecuted smaller ﬁrms, inde-
+pendent contractors and workers more frequently, but they did so with
+criminal sanctions. From 1980–1997, horizontal criminal cases constituted
+85% of DOJ enforcement actions, compared to just 36% prior to 1980.
+    In the United States, the combination of weak enforcement against hier-
+archical coordination by dominant ﬁrms and intensiﬁed prosecution of
+horizontal collusion by smaller ﬁrms has allowed the US to drift toward the
+oligopolistic competition model in the bottom right quadrant of Figure 1.
+Scholars have identiﬁed clear links between speciﬁc changes to antitrust rules
+regulating mergers, hierarchical restraints, and independent contractors and
+the decline of worker power and increase in labor market rigidity described
+earlier (Azar et al., 2022; Callaci, 2021a, 2021b; Haﬁz, 2022; Naidu et al.,
+2018). A growing number of economic studies have also provided evidence
+that the decline in anti-monopoly enforcement likely contributed to the trend
+toward oligopoly (Gutiérrez & Philippon, 2017, 2018) and that the largest
+American ﬁrms have supported this shift through the political process
+
+
+--- PAGE BREAK ---
+
+1216                                         Comparative Political Studies 58(6)
+
+(Lancieri et al., 2022). Indeed, a competition regime that combines strict rules
+on horizontal coordination with permissive rules on hierarchical control
+beyond the boundaries of the ﬁrm allows dominant ﬁrms to effectively have
+their cake and eat it too. On the one hand, they are provided signiﬁcant
+autonomy to structure the marketplace in their own interests, through ex-
+tensive vertical contracting and exclusionary behavior. At the same, they are
+largely free from horizontally organized forms of countervailing power such
+as organized SMEs or workers that might limit this autonomy or provide a
+signiﬁcant competitive challenge. Put differently, the largest ﬁrms in the
+United States are able to exploit the asymmetry in who has coordination rights
+in ways that lead to the predominance of hierarchical over horizontal forms of
+coordination (Paul, 2020).
+
+Coordination Rights and the Evolution of the European
+Political Economy
+In the formative period of industrial capitalism, many European industries
+were highly organized through cartels and other forms of business associa-
+tions that relied heavily on both horizontal and hierarchical coordination
+beyond the boundaries of the ﬁrm. This placed European market structures in
+many countries clearly in the cartelistic competition model found in the
+bottom left of Table 1. Virtually all western and northern European countries –
+including not only Germany but also Austria, Belgium, Finland, the Neth-
+erlands, Norway, Sweden, Switzerland, Spain, Italy, and even the United
+Kingdom – took a much more permissive stance toward horizontal coordi-
+nation than the United States (Schröter, 1996). Well into the postwar period,
+cartel organizations remained a prominent feature of many capitalist econ-
+omies on the continent (Gerber, 1998; Shanahan & Fellman, 2022).
+   The creation of a supranational European competition law through the
+Treaties of Paris and Rome presented a direct challenge to the cartelistic
+competition model. American ofﬁcials were heavily involved in designing the
+competition provisions of the European Coal and Steel Community and the
+U.S. experience with the Sherman Act provided a primary reference point for
+legal developments within the European Economic Community (EEC). The
+prohibition against anti-competitive agreements, enshrined in the Treaty of
+Rome, would have a lasting effect on the European economy, contributing to
+the decartelization of European industry and instantiating a more ‘arm’s
+length’ competition model within many sectors (Djelic, 2001; Harding &
+Joshua, 2010).
+   Yet across all six of the founding EEC countries, trade associations and
+labor unions had also expressed hesitation toward (in many cases outright
+opposition to) the establishment of a ‘Sherman Act’ in Europe, which they
+saw as undermining their ability to pursue the cooperative arrangements and
+
+
+--- PAGE BREAK ---
+
+Foster and Thelen                                                          1217
+
+long-term investments needed to rebuild the economy (Buch-Hansen &
+Wigger, 2011; Gillingham, 2004; Milward, 1984). The supranational Euro-
+pean system established under the Treaties of Paris and Rome accommodated
+these concerns. The enactment of substantive rules that prohibited cartels
+while providing broad exemptions for ‘beneﬁcial’ horizontal agreements
+reﬂected a compromise between “cross-national liberal modernizers” sup-
+portive of the American cartel prohibition model and European business
+associations and unions, which saw horizontal cooperation as essential for
+rationalization, standardization, and specialization in European industry
+(Djelic, 2001, pp. 232–235).
+    So, while US inﬂuence clearly made a mark on Europe’s postwar com-
+petition regime, Europe would never go so far as the US in prohibiting all
+forms of horizontal non-market coordination through rules that could be
+enforced by both private and public parties in the courts.18 Indeed, EU
+competition law preserved a signiﬁcant space for coordination beyond the
+boundaries of the ﬁrm. Thus, for example, the Treaty of Rome’s prohibition of
+restrictive practices included a broad exception for any agreement “which
+contributes to improving the production or distribution of goods or to pro-
+moting technical or economic progress” and did not run afoul of other general
+principles (Article 101[85]). One of the early laws enacted by the new EEC
+was Regulation 17/1962, which provided the Commission with the authority
+to permit restrictive agreements that fell within certain categories. A few years
+later, this power was expanded to include block exemptions, providing the
+Commission with a quasi-legislative role to determine what kinds of
+agreements were acceptable or unacceptable in the economy (Gerber, 1998,
+p. 351).
+    Over time, and in ongoing consultation with industry, these exemptions
+came to include a wide range of horizontal inter-ﬁrm collaborations and joint
+ventures seen as economically beneﬁcial. This included cooperation in
+research and development and standard setting, joint licensing, and restrictive
+selling and purchasing contracts that involved two companies in different
+countries (Hawk, 1972). The Commission also encouraged coordination and
+technology transfer between small- and medium-sized enterprises (SMEs) by
+exempting companies with a level of economic activity below a certain
+threshold, covering an estimated 90% of all companies (Buch-Hansen &
+Wigger, 2011, p. 67). Indeed, the EEC competition authority actively sought
+to promote cooperation between SMEs as a way to allow them to more
+effectively compete against larger companies. By 1980, several
+thousand cooperation agreements between SMEs had been approved by the
+Commission (European Commission, 1980, p. 16). In the face of economic
+shocks or industrial difﬁculties, the EEC competition directorate even per-
+mitted the establishment of ‘crisis cartels’ designed to address excess capacity
+in an orderly manner (Fiebig, 1999).
+
+
+--- PAGE BREAK ---
+
+1218                                         Comparative Political Studies 58(6)
+
+    At the same time, the EU also gradually strengthened hierarchical coor-
+dination rules that placed limits on the power of large companies to eco-
+nomically coerce less powerful ones: whether through trade associations,
+restrictive agreements, unilateral practices, or mergers (Büthe, 2007). In its
+ﬁrst abuse of dominance investigation under Article 86 of the Treaty of Rome,
+which involved the American Continental Can Company, at the time the
+world’s largest producer of metal cans, the Commission charged the company
+with distorting the competitive process by creating barriers to entry and
+restricting the liberty of its smaller European distributors. In developing the
+case, the Commission drew directly from the ‘ordoliberal’ school of com-
+petition that had crystallized in Germany in the post war period and which
+called for a strong regulatory framework that limited the exploitation of
+private economic power (Gerber, 1994). The CJEU upheld the Commission’s
+decision, establishing the precedent that abuse of dominance covered not only
+exclusionary practices that directly harmed consumers but also those that
+caused indirect harm through “their impact on an effective competition
+structure” (Schweitzer, 2008). Subsequent cases and jurisprudence reinforced
+the ordoliberal paradigm, establishing a ‘special obligation’ on large com-
+panies not to exploit their economic power, and prohibiting a range of ‘unfair’
+methods of competition. From 1971–1992, the Commission ﬁnalized
+25 abuse of dominance decisions, with many decisions involving large
+penalties and behavioral remedies (Carree et al., 2010, p. 110).
+    The combination of moderate rules for horizontal coordination with in-
+creasingly strict rules on hierarchical coordination placed the EU framework
+squarely in the “cooperative competition model” found in the top left box of
+our typology. Signiﬁcant exemptions for horizontal coordination created
+important space for ﬁrms to continue to pursue a range of cooperative
+strategies that allowed them to more effectively compete against bigger ﬁrms.
+As long as ﬁrms, workers and the associations that represented them did not
+clearly discriminate against economic actors located in other EEC member
+states or violate a limited number of hard-core prohibitions, they rarely faced a
+challenge from the Commission. Indeed, many forms of coordination were
+explicitly endorsed by the Commission, especially if they were seen as in-
+creasing economic productivity, encouraging economic cooperation across
+member states or facilitating industrial transformation. This legal structure
+facilitated long-term relationships and specialization in high value-added
+products long seen as at the core of CMEs (Wigger & Nölke, 2007, p. 490).
+    At the same time, the EEC’s abuse of dominance rules placed some
+constraints on dominant companies’ ability to exert economic power over
+other ﬁrms. While abuse of dominance enforcement remained modest during
+this period, it did contribute to an emerging legal framework aimed at
+constraining economic coercion by more powerful ﬁrms. By providing
+smaller companies with some protection from exploitative practices, EU
+
+
+--- PAGE BREAK ---
+
+Foster and Thelen                                                          1219
+
+competition law may have therefore helped to “stabilize ownership and
+control structures” in ways that reduced pressures for ‘hostile takeovers’ as
+well as other means of ﬁrm consolidation (Wigger & Nölke, 2007, p. 490).
+Thus, at least indirectly, the EU’s restrictions on hierarchical coordination
+helped sustain horizontal and coordinative non-market relations.
+
+Liberalization and the Intensiﬁcation of Hierarchical Enforcement
+During the 1980’s and 1990’s, the European Community underwent major
+institutional and policy reforms that profoundly shaped the European coor-
+dination rights regime. As part of the broader economic liberalization program
+pursued under the Single European Act, the competition directorate initiated a
+number of high-proﬁle enforcement actions against state-owned companies in
+the telecommunications, energy, and transportation sectors—sectors that
+previously had not been subject to a strict competition principle (Buch-Hansen
+& Wigger, 2010; Quack & Djelic, 2005). At the same time, the Commission
+received new authority to approve transnational mergers, providing a channel
+to facilitate corporate consolidation (and hierarchical coordination rights) over
+member state objections (Billows et al., 2021; Thatcher, 2014). Finally, the
+European Commission adopted institutional reforms that expanded the role of
+economic analysis in competition decisions – a move seen by many observers
+as aligning EU practices more closely with the consumer welfare standard in
+the United States (Bartalevich, 2016; Wigger & Nölke, 2007).
+    But what is equally striking (albeit less commented upon) is the extent to
+which policymakers also maintained and even reinforced core aspects of
+earlier arrangements conducive to CMEs. On the horizontal dimension, rules
+that facilitate and protect long-standing non-market forms of coordination
+were never directly supplanted and sometimes even expanded. On the hi-
+erarchical dimension, the EU not only continues to place limits on exclu-
+sionary practices by dominant companies, but actually has intensiﬁed
+enforcement. Even EU merger policy – which we agree bears some re-
+semblance to the contemporary U.S. approach – is still comparatively stricter
+when it comes to dominant companies. Thus, even as the Commission ar-
+ticulated a “competition only vision” (Buch-Hansen & Wigger, 2010, p. 35) it
+maintained a number of policies and practices that are complementary to
+horizontal nonmarket coordination. As illustrated in Figure 1, elements of
+continuity – and continued divergence from the US – can be seen in the
+resilience of horizontal exemptions, while new elements of divergence can be
+seen in the EU approach to vertical restraints, abuse of dominance and
+mergers.
+    Examining ﬁrst the horizontal dimension of coordination, we can see a
+mixed pattern of continuity and change. On the one hand, the Commission,
+along with national regulators, has tightened horizontal cartel rules and
+
+
+--- PAGE BREAK ---
+
+1220                                         Comparative Political Studies 58(6)
+
+increased enforcement (Harding & Joshua, 2010; Ordóñez-De-Haro et al.,
+2018). On the other hand, regulators have continued to provide signiﬁcant
+exemptions for horizontal cooperation in areas such as research and devel-
+opment, specialization, joint production and distribution, information sharing,
+standard setting, and collective labor agreements that it deems to be eco-
+nomically or socially beneﬁcial. In its 2010 and 2022 reviews of the two
+Horizontal Block Exemption Agreements and the Horizontal Guidelines for
+Cooperation, the Commission repeatedly afﬁrmed that horizontal cooperation
+between competitors is a necessary and important aspect of the European
+economy.19 Furthermore, and contrary to predications of convergence the-
+ories, these block exemptions have if anything been widened not narrowed.
+Over the past three decades, the European Commission has gradually in-
+creased the market share threshold for many types of horizontal agreements,
+allowing more companies to fall under existing exemptions, while also de-
+veloping new exemptions for cooperation in areas such as sustainability and
+digital markets.20 Recent business surveys indicate that substantial portions of
+industry continue to use these exemptions to cooperate in key areas, especially
+for commercialization and purchasing, information exchange, specialization,
+and research and development (European Commission, 2021).
+   In the labor arena, the Commission also continues a broader European
+tradition of overall greater support. Not only does EU law explicitly include
+exemptions for both collective bargaining between workers and employers,
+and inter-ﬁrm collective bargaining agreements across sectors (Monti, 2021),
+but courts and regulators have extended protections to some types of inde-
+pendent contractors. In 2014, the ECJ extended established protections to
+cover agreements with workers who are formally self-employed but in fact
+dependent on a shared employer (so-called “false [or “fake”] self-employed”)
+(Ankersmit, 2015; Šmejkal, 2015). Following on these decisions, the
+Commission adopted new Guidelines that further clarify that European
+competition rules regulating horizontal coordination do not apply to inde-
+pendent contractors who seek to organize as long as they are “in a situation
+comparable to workers” and are in a “weak negotiating position” (European
+Commission, 2022).
+   When we turn to the second dimension of competition policy—hierarchical
+coordination beyond the bounds of the ﬁrm—a different picture emerges, one
+that points toward divergence and movement away from the (post-1980’s)
+American model. In the United States, contractual restraints imposed by
+dominant players on their suppliers, distributors, and franchisees have become
+increasingly important in the context of corporate strategies of ﬁssurization,
+for as Callaci (2021a) and others have pointed out, contracting outside the ﬁrm
+is most attractive if you can impose constraints on other ﬁrms while si-
+multaneously escaping responsibilities such as labor. The EU has partially
+resisted this trend. In addition to barring hard-core restrictions such as resale
+
+
+--- PAGE BREAK ---
+
+Foster and Thelen                                                              1221
+
+price maintenance and territorial restrictions in nearly all instances, EU
+competition law places signiﬁcant limitations on certain franchising ar-
+rangements, parity requirements and non-compete clauses involving domi-
+nant ﬁrms (Nagy, 2016). Recent revisions to the Vertical Block Exemption
+Regulation (VBER) suggest that the EU is moving toward more restrictive
+rules for exclusionary agreements in some areas, particularly when one party
+to the agreement possesses market power.21
+    In practice, the EU continues to vigorously enforce rules on vertical re-
+straints when they involve dominant companies. Figure 3 reports the per-
+centage of total infringement decisions between 2005–2022, after the
+modernization of competition law, compared to 1964–2004. We can see that
+vertical restraints enforcement, while slightly declining as a percentage of total
+enforcement actions, remains robust. In addition to Commission enforcement,
+national competition authorities also now actively enforce EU vertical re-
+straint rules. From 2010–2019, national regulators completed 391 investiga-
+tions involving vertical agreements, 257 of which resulted in a judgment
+(European Commission, 2020, pp. 46–48). A majority of these cases related to
+resale price maintenance agreements, while a signiﬁcant number of inves-
+tigations also dealt with exclusive or selective distribution, parity clauses that
+restricted price setting, or franchising/single branding agreements.
+    In addition to maintaining a stricter approach to vertical restraints, the EU has
+also strengthened abuse of dominance enforcement, which applies only to ﬁrms
+with substantial market shares. Even as the EU has hired economists and pursued
+a more “effects-based approach,” it has continued to employ an ordoliberal-
+inspired competition paradigm that places a ‘special responsibility’ on dominant
+
+
+
+
+Figure 3. European commission enforcement before and after competition law
+modernization. Source: Carree et al. 2010 and European Commission. Calculations
+by the authors. Checkered (blue) areas indicate enforcement actions limiting
+hierarchical coordination; striped (red) areas indicate enforcement actions limiting
+horizontal coordination.
+
+
+--- PAGE BREAK ---
+
+1222                                          Comparative Political Studies 58(6)
+
+companies not to abuse their power (Foster, 2022). This includes extensive rules,
+adopted into both hard and soft law, that prohibit dominant companies from
+engaging in a range of ‘abusive’ practices, including predatory pricing, margin
+squeezes, exclusive dealing, exclusive purchasing, exclusionary discounts, tying,
+refusals to deal, discrimination, and exploitative abuses. It also includes obli-
+gations for dominant companies to facilitate access to essential facilities, to
+provide interoperability information, and to license intellectual property.
+    Indeed, if anything, EU abuse of dominance rules have become stricter –
+and more intensely enforced – since the 1990’s. As can be seen in Figure 4, the
+European Commission’s emphasis on abuse of dominance enforcement has
+signiﬁcantly increased during the 21st century. Since the year 2000, the
+European Commission has ﬁnalized more than 70 infringement and com-
+mitment decisions under this article across a wide range of industries. These
+decisions have generated more than EUR13 B in ﬁnes and mandated sweeping
+behavioral changes to some of the world’s most powerful companies. As can
+be seen in Figure 4, the number of annual cases ﬁnalized since 2004 is nearly
+twice as high as the number ﬁnalized in the earlier period. In addition to cases
+pursued by the Commission, national regulators have also ramped up en-
+forcement against abuse of dominance. Since receiving the power (in 2004) to
+independently enforce EU rules in this area, national competition authorities
+have ﬁnalized more than 500 abuse of dominance decisions—or one third of
+all decisions— touching on many of the same concerns.22
+    Most of these cases have sought to address power inequalities between
+larger and smaller ﬁrms. Of the 39 Commission abuse of dominance decisions
+ﬁnalized between 2009–2019, nearly half involved facilitating access for a
+competitor to an ‘essential facility,’ resource, or other infrastructure controlled
+by a dominant player; 21% involved stopping a dominant company from
+leveraging its power in one market over another one in a way that limited
+opportunities for competitors to compete; and 15% involved preventing
+
+
+
+
+Figure 4. Abuse of dominance enforcement by the European Commission, 1970–
+2022. Source: European Commission reports.
+
+
+--- PAGE BREAK ---
+
+Foster and Thelen                                                          1223
+
+predatory behavior that was seen as foreclosing the competitive process
+(Foster, 2022). Perhaps most notably, the European Commission has pursued
+major cases against dominant online platform companies such as Microsoft,
+Google, Amazon, Apple and Meta (Facebook), which required them not only
+to pay large ﬁnes in some cases but also to make major changes to their
+business models.
+    While these previous interventions were post hoc, stemming from in-
+vestigations initiated long after violations have occurred and usually taking
+years to investigate and ﬁnalize, the new European Digital Markets Act
+(DMA) is more proactive and places even stricter rules on hierarchical co-
+ordination. This legislation designates a number of large online platforms as
+‘gatekeeper’ ﬁrms and then subjects these ﬁrms to stringent requirements
+designed to ensure market fairness and contestability. Since it establishes hard,
+ex ante rules, many observers are hailing it as the world’s most sweeping
+platform economy regulation (Boyer, 2022; Ciofﬁ et al., 2022; Larouche & de
+Streel, 2021). For instance, the DMA will obligate large platform companies to
+apply fair and non-discriminatory conditions to the ranking of services and
+products and allow business users to receive the data that they generate on the
+platform and to be able to conclude contracts outside of the platform.
+    The more proactive approach to economic dominance can also be seen in
+the merger arena. Empirical studies have shown that the vast majority of
+mergers are approved, and that this approach has contributed not only to
+increased economic consolidation but also to more liberalized and ﬁnan-
+cialized corporate structures (Billows et al., 2021; Koltay et al., 2023). But if
+the EU has often facilitated hierarchical coordination by approving trans-
+national mergers (Thatcher, 2014), these rights have been more conditional
+and limited than in the United States. Legal scholars have long noted that the
+EU takes a tougher line on vertical and conglomerate mergers, as evidenced in
+several high proﬁle transatlantic disputes (Gifford & Kudrle, 2015, pp. 57–
+62). Recent empirical studies demonstrate that this tougher line is systematic:
+the EU has at least a 30% higher merger challenge rate in proposed mergers
+involving dominant ﬁrms when ﬁrm characteristics are equalized (Bergman
+et al., 2019). In recent years, EU merger decisions have prevented the creation
+of European champions (Nourry & Rabinowitz, 2020) and limited the
+consolidation of tech companies whose business models depend on the ac-
+quisition of current and potential competitors.23
+    The combination of stricter enforcement against hierarchical coordination
+by dominant ﬁrms with a comparatively permissive approach to horizontal
+coordination by smaller ﬁrms has pushed EU policy toward the border be-
+tween the cooperative and arm’s length competition models found in Figure 1.
+On the one hand, European competition law has clearly contributed to the
+decartelization of industry and the instantiation of price competition in
+product markets and formerly regulated sectors. It has also facilitated
+
+
+--- PAGE BREAK ---
+
+1224                                          Comparative Political Studies 58(6)
+
+transnational corporate consolidation through its merger policy. On the other
+hand, these changes have been partially moderated by the maintenance of
+exemptions for signiﬁcant nonmarket coordination by smaller players and the
+intensiﬁcation of hierarchical coordination rules beyond the boundaries of the
+ﬁrm. The EU’s comparatively permissive approach to horizontal coordination
+has directly contributed to the durability of employer associations and labor
+unions that have long been central to nonmarket coordination. At the same
+time, restrictive hierarchical rules have provided some protection for non-
+market coordination by ﬁrms in the face of signiﬁcant liberalization pressures.
+
+Conclusion
+Competition law is a ‘constitutive’ institution in capitalism, helping determine
+where coordination is allowed and where competition is required. In this article,
+we have built on Paul’s framework to highlight some of the important ways that
+competition regimes in Europe and the United States enable and protect dif-
+ferent forms of economic coordination, with signiﬁcant implications for cap-
+italist market structures. In the US, a competition regime that now combines its
+traditionally strict rules on horizontal cooperation with a permissive approach to
+hierarchical coordination has produced a distinct drift away from the arm’s
+length contracting associated with LMEs, and fostered the development of
+oligopolistic markets in many sectors. In the EU, by contrast, a competition
+regime that continues to feature relatively more permissive horizontal rules for
+SMEs but combines this now with increasingly strict rules regarding abuse of
+dominance and vertical restraints has continued to support some of the co-
+ordinated market structures traditionally associated with CMEs.
+    Our study helps identify and explain important changes in the political
+economy of advanced capitalist countries that have so far ﬂown under the
+radar of CPE scholars. Among other contributions, we have complicated the
+narrative that the EU mostly acts as a ‘neoliberal’ force that undermines
+coordinated market economies. Although European competition law has
+certainly bolstered economic liberalization in certain respects, in other ways it
+has helped to preserve longstanding forms of nonmarket coordination. Ex-
+amining the extensive exemptions established in EU hard and soft law, we
+have shown that the law permits and encourages forms of interﬁrm horizontal
+coordination in areas such as research and development, licensing, special-
+ization and labor relations that have long been at the heart of CME com-
+parative advantage. Moreover, we have shown that EU hierarchical rules –
+which have increasingly emphasized abuse of dominance enforcement since
+the 1980’s – provide protection for nonmarket coordination, particularly when
+smaller ﬁrms are involved. By directing horizontal coordination away from
+the predatory and rent-seeking practices associated with cartels, and toward
+competition-enhancing activities such as innovation, standard-setting,
+
+
+--- PAGE BREAK ---
+
+Foster and Thelen                                                           1225
+
+technology transfer, research collaboration, and more relatively coordinated
+labor relations, EU competition rules may have even played an important role
+in shoring up coordinated market economies in the face of many challenges
+and convergence pressures.
+   Our study also has implications for the emerging ﬁeld of American political
+economy (Hacker et al., 2022). The CPE literature has traditionally focused
+heavily on Europe and on CMEs, and sometimes operated with a static and
+somewhat stylized model of the American political economy. Within the
+“varieties of capitalism” literature, the US served as the paradigmatic case of a
+liberal market economy based on arm’s-length contracting and highly ﬂexible
+markets (Hall & Soskice, 2001). Yet as we have shown, the US has been
+moving away from this ideal type for some time. For VOC’s critics, by
+contrast, the US has been seen as the end point of a universal trajectory of
+capitalist development toward which Europe is catastrophically careening
+(Streeck, 2009). Our analysis challenges such deterministic models as well, by
+delving more deeply into the speciﬁc historical cycles and political forces –
+including, centrally, competition law and antitrust – that have shaped and
+reshaped both American and European capitalism over time.
+   More broadly, our study points to the value of bringing competition law
+into comparative capitalism scholarship. Although many scholars recognize
+that competition rules must matter, few studies have sought to ﬂesh out the
+concrete relationship between competition rules, coordination rights, and
+capitalist organization. This has led competition law to be addressed only
+ﬂeetingly, if at all, in the varieties of capitalism literature. As we have sought
+to demonstrate, bringing competition law into the analysis of comparative
+capitalisms can shed new light on both the origins of distinct systems and on
+the contemporary changes many of them are undergoing. By providing a
+tractable way to distinguish between changes in the coordination rights of
+competing ﬁrms and workers from changes in the rules regulating the hi-
+erarchical exploitation of economic power from above, a comparative co-
+ordination rights framework clariﬁes both differences in the rules across
+systems as well as the trajectory of institutional evolution over time. Our
+dynamic, multi-dimensional framework provides a way to maintain the an-
+alytically useful premise that capitalism comes in distinct varieties while also
+recognizing that these varieties continuously evolve in response to historically
+contingent economic and political pressures (Deeg & Jackson, 2007; Hay,
+2020).
+   As we have sought to show in this article, competition regimes funda-
+mentally structure the relationships between producer groups in capitalist
+systems, with important implications for market structures and for the bar-
+gaining power between competing ﬁrms, suppliers and distributors, em-
+ployers and employees, and workers across different ﬁrms. Consequently,
+competition law should be studied by political scientists as a site of political
+
+
+--- PAGE BREAK ---
+
+1226                                             Comparative Political Studies 58(6)
+
+contestation that shapes the organization of capitalist systems. We hope this
+combination of theoretical innovation and empirical demonstration will
+stimulate further research into competition law and varieties of capitalism that
+more fully elaborates this complex relationship.
+
+Acknowledgments
+We thank Melike Arslan, Tim Büthe, Cindy Cheng, Eugenı́a da Conceição-Heldt, Peter
+Hall, Catherine Hoefﬂer, Sebastian Kohl, Matthias Matthijs, Frédéric Mérand, Eric
+Peinert, Tobias Rommel and three anonymous reviewers for valuable comments on an
+earlier version. We thank Serene Archer and John Bradley for research assistance. The
+authors also gratefully acknowledge the institutional support of the Munich School of
+Politics and Public Policy at the Technical University of Munich.
+
+Declaration of Conﬂicting Interests
+The author(s) declared no potential conﬂicts of interest with respect to the research,
+authorship, and/or publication of this article.
+
+Funding
+The author(s) received no ﬁnancial support for the research, authorship, and/or
+publication of this article.
+
+ORCID iDs
+Chase Foster  https://orcid.org/0000-0001-6364-1305
+Kathleen Thelen  https://orcid.org/0000-0003-4102-8504
+
+Data Availability Statement
+More information about data supporting the ﬁndings of this study is available in the
+online appendix.
+
+Supplemental Material
+Supplemental material for this article is available online.
+
+Notes
+ 1. Important exceptions include Peinert (2023), Guardiancich and Guidi (2016),
+    Billows et al. (2021) and Thatcher (2014).
+ 2. The role of the law in structuring capitalist markets has been explored by a diverse
+    group of scholars in law, economics, and economic sociology. See especially
+    Beckert (2009); Christophers (2016); Deakin et al. (2017); Paul (2020); Pistor
+    (2019); La Porta et al. (1998).
+
+
+--- PAGE BREAK ---
+
+Foster and Thelen                                                                1227
+
+ 3. Tavernise, Sabrina. Frozen in Place: Americans are moving at the lowest rate on
+    record. Nov. 20, 2019. New York Times. https://www.nytimes.com/2019/11/20/us/
+    american-workers-moving-states-.html.
+ 4. For instance, in a review of economic developments in the eurozone,
+    the European Central Bank found that concentration ratios were “broadly
+    ﬂat,” markups were “fairly stable”, and that economic dynamism
+    was characterized by “no obviously secular change.” See Cavalleri et al.
+    (2019).
+ 5. Gooberman and Hauptmeier (2022) note that in European CMEs, employer or-
+    ganizations “retained their role within collective bargaining despite some erosion”
+    as well as in “corporatist structures governing training regimes and social pro-
+    grammes” (28).
+ 6. In line with the VOC literature, our focus is on economic coordination by ﬁrms and
+    workers. Industrial policy and other forms of direct state economic coordination
+    are therefore beyond the scope of our analysis.
+ 7. Note that we are using the terms ‘hierarchical’ and ‘horizontal’ to refer to dif-
+    ferences in economic power. This is different from, although related to, the
+    common distinction in antitrust law between “horizontal” agreements or practices
+    involving direct competitors and “vertical” agreements or practices between actors
+    at different stages in the production and distribution process. Thus, in antitrust
+    law’s usage, the term “horizontal” also captures agreements between dominant
+    actors, whereas our use of the term applies only to agreements among non-
+    dominant actors.
+ 8. Our schematic diagram is based on a combination of qualitative assessment of
+    rules (elaborated at length below) and a quantitative assessment of enforcement.
+    More details are available in the online Appendix.
+ 9. In the online appendix, we provide additional evidence that CMEs and LMEs have
+    enacted systematically different competition rules, which are correlated with
+    objective measures of nonmarket coordination.
+10. Sklar (1988), Roy (1999), and Paul (2021) all emphasize that common law itself
+    was not entirely hostile toward combinations among ﬁrms, and indeed Roy
+    documents the existence of many such arrangements in the United States before
+    the Sherman Act.
+11. As Sanders (1986, p. 159) points out, in 1899 alone over 1000 companies had
+    disappeared in mergers, and just a few years later over 100 industrial ﬁelds were
+    dominated by a single ﬁrm.
+12. For a discussion of important but ultimately unsustainable efforts to develop a
+    more cooperative competition model in the 1920’s see Berk (2009); Hawley
+    (1976); Phillips Sawyer (2018).
+13. For instance, the Pullman Company was required to divorce the manufacture of
+    sleeping cars from the provision of sleeping car services. In another judgment,
+    Paramount was ordered to move out of the exhibition part of the ﬁlm industry
+    (Hawley, 1966, p. 451).
+
+
+--- PAGE BREAK ---
+
+1228                                             Comparative Political Studies 58(6)
+
+14. In a study of industrial concentration trends from 1947–1963, Mueller (1967)
+    provides evidence that merger enforcement likely reduced concentration in the
+    dairy, shoe manufacturing, cement, and steel industries. He concludes that “an-
+    timerger policy has created an environment preventing increases in concentration
+    in some industries and encouraging decreases in concentration in others.” See
+    especially pp. 14–34.
+15. From 1955–1970, nearly half (47%) of DOJ antitrust prosecutions were against
+    Fortune 500 companies (Gallo et al. (2000, p. 78).
+16. In 1974, the U.S. government suffered its ﬁrst ever merger defeat. Over the
+    following decade, courts blocked or regulators abandoned major anti-monopoly
+    cases against IBM, Exxon Mobile, Xerox, Good Year Tires, food manufacturers,
+    and chemical companies (Kovacic & Shapiro, 2000, p. 54).
+17. The proportion of cases against non-Fortune 500 companies increased from
+    around half in the 1960’s and 1970’s to 95% in the 1980’s (Gallo et al. (2000,
+    p. 78).
+18. A similar set of compromises were necessary to enact Germany’s ﬁrst postwar
+    competition law. The 1957 Act Against Restraints of Competition was held up for
+    nearly a decade, and only enacted after the inclusion of broad economic coor-
+    dination rights, a key demand of the Federation of Germany Industries (BDI). For a
+    full history see Djelic (2001); Quack and Djelic (2005).
+19. The reviews and accompanying expert reports and documents are available at
+    https://competition-policy.ec.europa.eu/public-consultations/2019-hbers_en.
+20. See (Commission Regulation (EU) 1066/2023, 2023, Commission Regulation
+    (EU) 2023/1067, 2023, European Commission, 2023).
+21. The revised 2022 Vertical Block Exemption Regulation broadens the deﬁ-
+    nition of market power and imposes stricter rules on online intermediaries. See
+    https://www.whitecase.com/insight-alert/new-eu-competition-rules-distribution-
+    agreements.
+22. Between 2004–2021, national competition authorities ﬁnalized 505 decisions
+    based exclusively or partially on Article 102 of the European Treaties (formerly
+    Article 86). This represented 34% of the 1478 decisions ﬁnalized during this
+    period. Calculations made using ECN (2023).
+23. In 2021, the European Commission published a new guidance on merger referrals
+    that signiﬁcantly expanded its capacity to scrutinize Big Tech acquisitions. Recent
+    EU merger investigations or decisions have blocked Booking.com’s proposed
+    acquisition of a travel company, Adobe’s proposed merger with Figma, and
+    Apple’s purchase of iRobot. See Killick (2021).
+
+
+References
+Ankersmit, L. (2015). Albany revisited: The court directs NCA to carry a more social
+    tune. https://europeanlawblog.eu/2015/03/03/albany-revisited-the-court-directs-
+    nca-to-carry-a-more-social-tune/
+
+
+--- PAGE BREAK ---
+
+Foster and Thelen                                                                  1229
+
+Ansell, B., & Cansunar, A. (2021). The political consequences of housing (un) af-
+     fordability. Journal of European Social Policy, 31(5), 597–613. https://doi.org/
+     10.1177/09589287211056171
+Arslan, M. (2023). Legal diffusion as protectionism: The case of the US promotion of
+     antitrust laws. Review of International Political Economy, 30(6), 2285–2308.
+     https://doi.org/10.1080/09692290.2022.2158118
+Autor, D., Dorn, D., Katz, L. F., Patterson, C., & Van Reenen, J. (2020). The fall of the
+     labor share and the rise of superstar ﬁrms. Quarterly Journal of Economics,
+     135(2), 645–709. https://doi.org/10.1093/qje/qjaa004
+Azar, J., Marinescu, I., & Steinbaum, M. (2022). Labor market concentration. Journal
+     of Human Resources, 57(S), S167–S199. https://doi.org/10.3368/jhr.monopsony.
+     1218-9914r1
+Bajgar, M., Berlingieri, G., Calligaris, S., Criscuolo, C., & Timmis, J. (2023). Industry
+     concentration in Europe and North America. Industrial and Corporate Change,
+     1–18. https://doi.org/10.1093/icc/dtac059
+Barkai, S. (2020). Declining labor and capital shares. The Journal of Finance, 75(5),
+     2421–2463. https://doi.org/10.1111/joﬁ.12909
+Bartalevich, D. (2016). The inﬂuence of the Chicago School on the Commission’s
+     guidelines, notices and block exemption regulations in EU competition policy.
+     JCMS: Journal of Common Market Studies, 54(2), 267–283. https://doi.org/10.
+     1111/jcms.12292
+Beckert, J. (2009). The social order of markets. Theory and Society, 38(3), 245–269.
+     https://doi.org/10.1007/s11186-008-9082-0
+Bergman, M. A., Coate, M. B., Mai, A. T., & Ulrick, S. W. (2019). Does merger policy
+     converge after the 2004 European Union reform? Journal of Competition Law
+     and Economics, 15(1), 664–689. https://doi.org/10.1093/joclec/nhz007
+Berk, G. (1996). Communities of competitors: Open price associations and the
+     American state, 1911–1929. Social Science History, 20(3), 375–400. https://doi.
+     org/10.1017/s014555320001871x
+Berk, G. (2009). Louis D. Brandeis and the making of regulated competition, 1900-
+     1932. Cambridge University Press.
+Berman, E. P. (2022). Thinking like an economist. Princeton University Press.
+Billows, S., Kohl, S., & Tarissan, F. (2021). Bureaucrats or ideologues? EU merger
+     control as market-centred integration. JCMS: Journal of Common Market Studies,
+     59(4), 762–781. https://doi.org/10.1111/jcms.13130
+Boyer, R. (2022). Platform capitalism: A socio-economic analysis. Socio-Economic
+     Review, 20(4), 1857–1879. https://doi.org/10.1093/ser/mwaa055
+Brandl, B., & Lehr, A. (2019). The strange non-death of employer and business
+     associations: An analysis of their representativeness and activities in Western
+     European countries. Economic and Industrial Democracy, 40(4), 932–953.
+     https://doi.org/10.1177/0143831x16669842
+Brinkley, A. (1996). The end of reform: New Deal liberalism in recession and war.
+     Vintage.
+
+
+--- PAGE BREAK ---
+
+1230                                              Comparative Political Studies 58(6)
+
+Buch-Hansen, H., & Wigger, A. (2010). Revisiting 50 years of market-making: The
+     neoliberal transformation of European competition policy. Review of Interna-
+     tional Political Economy, 17(1), 20–44. https://doi.org/10.1080/
+     09692290903014927
+Buch-Hansen, H., & Wigger, A. (2011). The Politics of European Competition
+     Regulation: A Critical Political Economy Perspective. Routledge.
+Büthe, T. (2007). The politics of competition and institutional change in European
+     union: The ﬁrst ﬁfty years. In S. Meunier, & K. R. McNamara (Eds.), Making
+     history: European integration and institutional change at ﬁfty (pp. 175–193).
+     Oxford University Press.
+Callaci, B. (2021a). Control without responsibility: The legal creation of franchising,
+     1960–1980. Enterprise and Society, 22(1), 156–182. https://doi.org/10.1017/eso.
+     2019.58
+Callaci, B. (2021b). What do franchisees do? Vertical restraints as workplace ﬁssuring
+     and labor discipline devices. Journal of Law and Political Economy, 1(3),
+     397–444. https://doi.org/10.5070/lp61353764
+Carree, M., Günster, A., & Schinkel, M. P. (2010). European antitrust policy 1957–
+     2004: An analysis of Commission decisions. Review of Industrial Organization,
+     36(2), 97–131. https://doi.org/10.1007/s11151-010-9237-9
+Casper, S. (2001). The legal framework for corporate governance: The inﬂuence of
+     contract law on company strategies in Germany and the United States. In P. A.
+     Hall, & D. Soskice (Eds.), Varieties of Capitalism: The Institutional
+     Foundations of Comparative Advantage (pp. 387–416). New York: Oxford
+     University Press.
+Cavalleri, M. C., Eliet, A., McAdam, P., Petroulakis, F., Soares, A., & Vansteenkiste, I.
+     (2019). Concentration, market power and dynamism in the euro area. European
+     Central Bank.
+Chandler, A. D., & Hikino, T. (2009). Scale and scope: The dynamics of industrial
+     capitalism. Harvard University Press.
+Christophers, B. (2016) (In press). The great leveler: Capitalism and competition in the
+     court of law. Cambridge, MA: Harvard University Press.
+Ciofﬁ, J. W., Kenney, M. F., & Zysman, J. (2022). Platform power and regulatory
+     politics: Polanyi for the twenty-ﬁrst century. New Political Economy, 27(5),
+     820–836. https://doi.org/10.1080/13563467.2022.2027355
+CMA. (2024). Competition and market power in UK labour markets (1). London:
+     Competition and Markets Authority. https://assets.publishing.service.gov.uk/
+     media/65b2312af2718c000dfb1d13/Competition_and_market_power_in_UK_
+     labour_markets.pdf.
+Coate, P., & Mangum, K. (2021). Fast Locations and Slowing Mobility. ederal Reserve
+     Bank of Philadelphia. https://doi.org/10.21799/frbp.wp.2019.49
+Commission Regulation (EU) 1066/2023. (2023). Research & Development Block
+     Exemption Regulation. European Commission. Retrieved from https://eur-lex.
+     europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1066
+
+
+--- PAGE BREAK ---
+
+Foster and Thelen                                                                1231
+
+Commission Regulation (EU) 2023/1067. (2023). Specialisation Agreement Block
+      Exemption Regulation. European Commission. https://eur-lex.europa.eu/legal-
+      content/EN/TXT/?uri=CELEX:32023R1067.
+Crouch, C. (1993). Industrial relations and European state traditions. Oxford Uni-
+      versity Press.
+Darvas, Z., Gotti, G., & Sekut, K. (2023). Trade unions, collective bargaining, and
+      income inequality: A transatlantic comparative analysis. In The future of work: A
+      transatlantic perspective on challenges and opportunities (pp. 159–187).
+      Bruegel. https://www.bruegel.org/sites/default/ﬁles/2023-03/TEG_ebook_ﬁnal.
+      pdf.
+Deakin, S., Gindis, D., Hodgson, G. M., Huang, K., & Pistor, K. (2017). Legal
+      institutionalism: Capitalism and the constitutive role of law. Journal of
+      Comparative Economics, 45(1), 188–200. https://doi.org/10.1016/j.jce.2016.
+      04.005
+Deeg, R., & Jackson, G. (2007). Towards a more dynamic theory of capitalist variety.
+      Socio-Economic Review, 5(1), 149–179. https://doi.org/10.1093/ser/mwl021
+De Loecker, J., & Eeckhout, J. (2018). Global market power. National Bureau of
+      Economic Research. Working Paper #24768. http://10.3386/w24768. https://
+      www.nber.org/system/ﬁles/working_papers/w24768/w24768.pdf.
+Del Sorbo, M., Vértesy, D., & Damioli, G. (2018). An EU-US statistical overview:
+      Business demography and scaling up comparisons. European Commission, Joint
+      Research Centre, Ispra. https://ec.europa.eu/research/participants/documents/
+      downloadPublic?documentIds=080166e5c0dca59d&appId=PPGMS.
+Djelic, M.-L. (2001). Exporting the American model: The postwar transformation of
+      European business. Oxford University Press.
+Döttling, R., Gutiérrez, G., & Philippon, T. (2017). Is there an investment gap in
+      advanced economies? If so, why? NYU Working Paper. Retrieved from https://
+      www.ecb.europa.eu/press/conferences/shared/pdf/20170626_ecb_forum/T_
+      Philippon_Is_there_an_investment_gap_in_advanced_economies_If_so_why_
+      with_R_Dottling_and_G_Gutierrez.pdf
+ECN. (2023). “Statistics”. European Competition Network. https://ec.europa.eu/
+      competition/ecn/statistics.html
+Ergen, T., & Kohl, S. (2019). Varieties of economization in competition policy: In-
+      stitutional change in German and American antitrust, 1960–2000. Review of
+      International Political Economy, 26(2), 256–286. https://doi.org/10.1080/
+      09692290.2018.1563557
+European Commission. (1980). Ninth report on competition policy. Retrieved from
+      https://op.europa.eu/en/publication-detail/-/publication/26e12860-4710-46be-
+      bcfc-60582d4e51b2/language-en.
+European Commission. (2020). Commission Staff Working Document: Evaluation of
+      the Vertical Block Exemption Regulation. (SWD/2020/0172 ﬁnal). Retrieved
+      from https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%
+      3A52020SC0172
+
+
+--- PAGE BREAK ---
+
+1232                                             Comparative Political Studies 58(6)
+
+European Commission. (2021). Evaluation support study on the EU competition rules
+      applicable to horizontal cooperation agreements in the HBERs and the Guide-
+      lines. Prepared by Valdani, Vicari & Associates, LE Europe and WFO. Retrieved
+      from https://competition-policy.ec.europa.eu/evaluation-support-study-eu-
+      competition-rules-applicable-horizontal-cooperation-agreements-hbers-and_en
+European Commission. (2022). Communication from the Commission: Guidelines on
+      the application of Union competition law to collective agreements regarding the
+      working conditions of solo self-employed persons (2022/C 374/02). Retrieved
+      from https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%
+      3A52022XC0930%2802%29
+European Commission. (2023). Communication from the Commission: Guidelines on
+      the applicability of article 101 of the Treaty on the Functioning of the European
+      Union to horizontal co-operation agreements. European Commission. Retrieved
+      from https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.C_.
+      2023.259.01.0001.01.ENG&toc=OJ%3AC%3A2023%3A259%3ATOC
+Fiebig, A. (1999). Crisis cartels and the triumph of industrial policy over competition
+      law in Europe. Brooklyn Journal of International Law, 25, 607–638.
+Fligstein, N. (1993). The transformation of corporate control. Harvard University Press.
+Foster, C. (2022). Varieties of neoliberalism: Courts, competition paradigms and the
+      Atlantic divide in anti-trust. Socio-Economic Review, 20(4), 1653–1678. https://
+      doi.org/10.1093/ser/mwab050
+Foster, C., & Thelen, K. (2023). Brandeis in Brussels? Bureaucratic discretion, social
+      learning, and the development of regulated competition in the European Union.
+      Regulation & Governance. Advanced Online Publication. https://doi.org/10.
+      1111/rego.12570
+Galbraith, J. K. (1952). American capitalism: The concept of countervailing power.
+      Houghton Mifﬂin.
+Gallo, J. C., Dau-Schmidt, K., Craycraft, J. L., & Parker, C. J. (2000). Department of
+      Justice antitrust enforcement, 1955-1997: An empirical study. Review of In-
+      dustrial Organization, 17(1), 75–133. https://doi.org/10.1023/a:1007865923061
+Gerber, D. J. (1994). Constitutionalizing the economy: German Neo-liberalism,
+      competition law and the “new” Europe. American Journal of Comparative Law,
+      42(1), 25–84. https://doi.org/10.2307/840727
+Gerber, D. J. (1998). Law and competition in Twentieth century Europe: Protecting
+      prometheus. Oxford University Press.
+Gifford, D. J., & Kudrle, R. T. (2015). The Atlantic divide in antitrust: An examination
+      of US and EU competition policy. University of Chicago Press.
+Gillingham, J. (2004). Coal, steel, and the rebirth of Europe, 1945-1955: The Germans
+      and French from Ruhr Conﬂict to economic community. Cambridge University
+      Press.
+Gooberman, L., & Hauptmeier, M. (2022). The adaptation and resilience of employers’
+      organizations. In L. Gooberman, & M. Hauptmeier (Eds.), Contemporary em-
+      ployers’ organizations: Adaptation and resilience. New York: Routledge.
+
+
+--- PAGE BREAK ---
+
+Foster and Thelen                                                                  1233
+
+Grullon, G., Larkin, Y., & Michaely, R. (2019). Are US industries becoming more
+     concentrated? Review of Finance, 23(4), 697–743. https://doi.org/10.1093/rof/
+     rfz007
+Guardiancich, I., & Guidi, M. (2016). Formal independence of regulatory
+     agencies and Varieties of Capitalism: A case of institutional complemen-
+     tarity? Regulation & Governance, 10(3), 211–229. https://doi.org/10.1111/
+     rego.12080
+Gutiérrez, G., & Philippon, T. (2017). Declining competition and investment in the US.
+     NBER Working Paper No. 23583. Cambridge, MA: National Bureau of Economic
+     Research. https://doi.org/10.3386/w23583
+Gutiérrez, G., & Philippon, T. (2018). How EU markets became more competitive than
+     US markets: A study of institutional drift. NBER Working Paper No. 24700.
+     Cambridge, MA: National Bureau of Economic Research. https://www.nber.org/
+     papers/w24700.
+Hacker, J. S., Hertel-Fernandez, A., Pierson, P., & Thelen, K. (2022). The American
+     political economy: Markets, power, and the meta politics of US economic
+     governance. Annual Review of Political Science, 25(1), 197–217. https://doi.org/
+     10.1146/annurev-polisci-051120-013916
+Haﬁz, H. (2022). The brand defense. Berkeley Journal of Employment and Labor Law,
+     43(1), 1–78. https://doi.org/10.15779/Z38B56D557
+Hall, P. A., & Soskice, D. (2001). An introduction to varieties of capitalism. In P. A.
+     Hall, & D. Soskice (Eds.), Varieties of capitalism: The institutional foundations of
+     comparative advantage. Oxford University Press.
+Harding, C., & Joshua, J. (2010). Regulating cartels in Europe: A study of legal control
+     of corporate delinquency. Oxford University Press.
+Hawk, B. E. (1972). Antitrust in the EEC--the ﬁrst decade. Fordham Law Review,
+     41(2), 229–292.
+Hawley, E. W. (1966). The New Deal and the problem of monopoly: A study in
+     economic ambivalence. Princeton University Press.
+Hawley, E. W. (1976). Antitrust on the defensive: The American movement for a
+     cartelized economy, 1918-33. Reviews in American History, 4(4), 582–587.
+     https://doi.org/10.2307/2701435
+Hay, C. (2020). Does capitalism (still) come in varieties? Review of International
+     Political Economy, 27(2), 302–319. https://doi.org/10.1080/09692290.2019.
+     1633382
+Höpner, M., & Schäfer, A. (2012). Embeddedness and regional integration: Waiting for
+     Polanyi in a Hayekian setting. International Organization, 66(3), 429–455.
+     https://doi.org/10.1017/s002081831200015x
+Kalemli-Ozcan, S., Sørensen, B. E., Villegas-Sanchez, C., Volosovych, V., & Yesiltas,
+     S. (2024). How to construct nationally representative ﬁrm level data from the
+     Orbis Global database: New facts on SMEs and aggregate implications for in-
+     dustry concentration. American Economic Journal: Macroeconomics, 16(2),
+     353–374. https://doi.org/10.1257/mac.20220036
+
+
+--- PAGE BREAK ---
+
+1234                                             Comparative Political Studies 58(6)
+
+Keller, M. (1981). The Pluralist state: American economic regulation in comparative
+     perspective, 1900-1930. In T. K. McCraw (Ed.), Regulation in perspective:
+     Historical Essays (p. 65). Harvard University Press.
+Khan, L. (2016). Amazon’s antitrust paradox. The Yale Law Journal, 126(3), 710–805.
+Killick, J. (2021). Europe takes a tougher approach to technology mergers. White &
+     Case, LLP. https://www.whitecase.com/insight-our-thinking/europe-takes-
+     tougher-approach-technology-mergers.
+Koltay, G., Lorincz, S., & Valletti, T. M. (2023). Concentration and competition:
+     Evidence from Europe and implications for policy. Journal of Competition
+     Law and Economics, 19(3), 466–501. https://doi.org/10.1093/joclec/
+     nhad012
+Kovacic, W. E. (2003). The modern evolution of US competition policy enforcement
+     norms. Antitrust Law Journal, 71(2), 377–478.
+Kovacic, W. E., & Shapiro, C. (2000). Antitrust policy: A century of economic and
+     legal thinking. The Journal of Economic Perspectives, 14(1), 43–60. https://doi.
+     org/10.1257/jep.14.1.43
+Kovaleff, T. P. (1980). Business and government during the Eisenhower adminis-
+     tration: A study of the antitrust policy of the Antitrust Division of the Justice
+     Department. Athens, Ohio: Ohio University Press.
+Krueger, A. B., & Ashenfelter, O. (2022). Theory and evidence on employer collusion
+     in the franchise sector. Journal of Human Resources, 57(S), S324–S348. https://
+     doi.org/10.3368/jhr.monopsony.1019-10483
+Lamoreaux, N. R. (1988). The great merger movement in American business, 1895-
+     1904. Cambridge University Press.
+Lancieri, F., Posner, E. A., & Zingales, L. (2022). The political economy of the decline
+     of antitrust enforcement in the United States. National Bureau of Economic
+     Research. https://www.nber.org/papers/w30326.
+La Porta, R., Lopez-de-Silanes, F., Shleifer, A., & Vishny, R. W. (1998). Law and
+     ﬁnance. Journal of Political Economy, 106(6), 1113–1155. https://doi.org/10.
+     1086/250042
+Larouche, P., & de Streel, A. (2021). The European digital markets act: A revolution
+     grounded on traditions. Journal of European Competition Law & Practice, 12(7),
+     542–560. https://doi.org/10.1093/jeclap/lpab066
+Madrian, B. C. (1994). Employment-based health insurance and job mobility: Is there
+     evidence of job-lock? Quarterly Journal of Economics, 109(1), 27–54. https://
+     doi.org/10.2307/2118427
+McFarland, V., & Colgan, J. D. (2023). Oil and power: The effectiveness of state
+     threats on markets. Review of International Political Economy, 30(2), 487–510.
+     https://doi.org/10.1080/09692290.2021.2014931
+Milward, A. S. (1984). The reconstruction of western Europe, 1945-51. Routledge.
+Monti, G. (2021). Collective labour agreements and EU competition law: Five re-
+     conﬁgurations. European Competition Journal, 17(3), 714–744. https://doi.org/
+     10.1080/17441056.2021.1930452
+
+
+--- PAGE BREAK ---
+
+Foster and Thelen                                                                 1235
+
+Mueller, W. F. (1967). The Celler-Kefauver Act: Sixteen years of enforcement. US
+     Government Printing Ofﬁce.
+Nagy, C. I. (2016). EU and US competition law: Divided in unity? The rule on re-
+     strictive agreements and vertical intra-brand restraints. Routledge.
+Naidu, S., Posner, E. A., & Weyl, G. (2018). Antitrust remedies for labor market power.
+     Harvard Law Review, 132(2), 536–601.
+Nourry, A., & Rabinowitz, D. (2020). European champions: What now for EU merger
+     control after Siemens/Alstom? European Competition Law Review, 41(3),
+     116–124.
+Orbach, B. Y. (2011). The antitrust consumer welfare paradox. Journal of
+     Competition Law and Economics, 7(1), 133–164. https://doi.org/10.1093/
+     joclec/nhq019
+Ordóñez-De-Haro, J. M., Borrell, J. R., & Jiménez, J. L. (2018). The European
+     Commission’s ﬁght against cartels (1962–2014): A retrospective and forensic
+     analysis. JCMS: Journal of Common Market Studies, 56(5), 1087–1107. https://
+     doi.org/10.1111/jcms.12708
+Paul, S. (2020). Antitrust as allocator of coordination rights. UCLA Law Review, 67(2),
+     378–431.
+Peinert, E. (2023). Monopoly politics: Price competition, learning, and the evolution of
+     policy regimes. World Politics, 75(3), 566–607. https://doi.org/10.1353/wp.2023.
+     a900713
+Philippon, T. (2019). The great reversal: How America gave up on free markets.
+     Harvard University Press.
+Phillips Sawyer, L. (2018). American fair trade: Proprietary capitalism, corpo-
+     ratism, and the “New Competition,” 1890–1940. Cambridge University
+     Press.
+Piketty, T. (2014). Capital in the twenty-ﬁrst century. Harvard University Press.
+Pistor, K. (2019). The code of capital: How the law creates wealth and inequality.
+     Princeton University Press.
+Posner, E. A. (2020). The antitrust challenge to covenants not to compete in em-
+     ployment contracts. Antitrust Law Journal, 83(1), 165–200.
+Posner, E. A. (2021). How antitrust failed workers. Oxford University Press.
+Posner, R. A. (1970). A statistical study of antitrust enforcement. The Journal of Law
+     and Economics, 13(2), 365–419. https://doi.org/10.1086/466698
+Posner, R. A. (1979). The Chicago School of antitrust analysis. University of
+     Pennsylvania Law Review, 127(4), 925–948. https://doi.org/10.2307/
+     3311787
+Pryor, F. L. (2001). New trends in US industrial concentration. Review of Industrial
+     Organization, 18(3), 301–326. https://doi.org/10.1023/a:1007888323241
+Quack, S., & Djelic, M.-L. (2005). Reinforcement: The story of antitrust and com-
+     petition law in Germany and Europe. In Thelen, K. and Streeck, W., eds. Beyond
+     continuity: Institutional change in advanced political economies (pp. 255–281).
+     New York: Oxford University Press.
+
+
+--- PAGE BREAK ---
+
+1236                                             Comparative Political Studies 58(6)
+
+Roy, W. G. (1999). Socializing capital: The rise of the large industrial corporation in
+      America. Princeton University Press.
+Sanders, E. (1986). Industrial concentration, sectional competition, and antitrust
+      politics in America, 1880–1980. Studies in American Political Development, 1,
+      142–214. https://doi.org/10.1017/s0898588x00000353
+Schröter, H. (1996). Cartelization and decartelization in Europe, 1870-1995: Rise and
+      decline of an economic institution. Journal of European Economic History, 25(1),
+      129–153.
+Schröter, H. (2013). Cartels revisited: An overview on fresh questions, new methods,
+      and surprising results. Revue Économique, 64(6), 989–1010. https://doi.org/10.
+      3917/reco.646.0989
+Schweitzer, H. (2008). The history, interpretation and underlying principles of Sec.
+      2 Sherman act and art. 82 EC. In C.-D. Ehlermann, & M. Marquis (Eds.), Eu-
+      ropean competition law annual: 2007 A reformed approach to article 82 EC
+      (pp. 119–164). Hart Publishing.
+Shanahan, M., & Fellman, S. (2022). A history of business cartels: International
+      politics, national policies and anti-competitive behaviour. Taylor & Francis.
+Sklar, M. J. (1988). The corporate reconstruction of American capitalism, 1890-1916:
+      The market, the law, and politics. Cambridge University Press.
+Šmejkal, V. (2015). Competition law and the social market economy goal of the EU.
+      International Comparative Jurisprudence, 1(1), 33–43. https://doi.org/10.1016/j.
+      icj.2015.10.002
+Spillman, L. (2012). Solidarity in strategy: Making business meaningful in American
+      trade associations. University of Chicago Press.
+Staszak, S. (2020). Privatizing employment law: The expansion of mandatory arbi-
+      tration in the workplace. Studies in American Political Development, 34(2),
+      239–268. https://doi.org/10.1017/s0898588x20000061
+Streeck, W. (2009). Re-forming capitalism: Institutional change in the German po-
+      litical economy. Oxford University Press.
+Teubner, G. (2001). Legal irritants: How unifying law ends up in new divergences.
+      In P. A. Hall, & D. Soskice (Eds.), Varieties of capitalism: The institutional
+      foundations of comparative advantage (pp. 417–442). Oxford University
+      Press.
+Thatcher, M. (2014). European Commission merger control: Combining competition
+      and the creation of larger European ﬁrms. European Journal of Political
+      Research, 53(3), 443–464. https://doi.org/10.1111/1475-6765.12040
+Thelen, K. (2020). Employer organization and the law: American exceptionalism in
+      comparative perspective. Law and Contemporary Problems, 83, 23–48.
+Thelen, K. (2024). Attention, shoppers!: American retail capitalism and the origins of
+      the Amazon economy. Princeton University Press.
+Tilly, R. (1982). Mergers, external growth, and ﬁnance in the development of large-
+      scale enterprise in Germany, 1880–1913. The Journal of Economic History, 42(3),
+      629–658. https://doi.org/10.1017/s0022050700027984
+
+
+--- PAGE BREAK ---
+
+Foster and Thelen                                                               1237
+
+Traxler, F. (2004). Employer associations, institutions and economic change: A
+     crossnational comparison. Industrielle Beziehungen/The German Journal of
+     Industrial Relations, 11(1/2), 42–60.
+Waller, S. W. (2004). The antitrust legacy of Thurman Arnold. St. John’s Law Review,
+     78(3), 569–614.
+Watkins, M. W. (1961). Electrical equipment antitrust cases: Their implications for
+     government and for business. University of Chicago Law Review, 29(1), 97–110.
+     https://doi.org/10.2307/1598521
+Webb, S. B. (1980). Tariffs, cartels, technology, and growth in the German steel
+     industry, 1879 to 1914. The Journal of Economic History, 40(2), 309–330. https://
+     doi.org/10.1017/s0022050700108228
+Wells, W. (2001). Antitrust and the formation of the postwar world. Columbia
+     University Press.
+Wigger, A., & Nölke, A. (2007). Enhanced roles of private actors in EU business
+     regulation and the erosion of Rhenish capitalism: The case of antitrust en-
+     forcement. JCMS: Journal of Common Market Studies, 45(2), 487–513. https://
+     doi.org/10.1111/j.1468-5965.2007.00719.x
+Williamson, O. E. (1985). The economic institutions of capitalism. Free Press.
+Wu, T. (2018). The Supreme Court devastates antitrust law. The New York Times.
+     https://www.nytimes.com/2018/06/26/opinion/supreme-court-american-express.
+     html#:∼:text=With_its_ﬁve_more_conservative,are_blatantly_anticompetitive_
+     and_raise
+Yeh, C., Macaluso, C., & Hershbein, B. (2022). Monopsony in the US labor market.
+     American Economic Review, 112(7), 2099–2138. https://doi.org/10.1257/aer.
+     20200025
+
+
+Author Biographies
+Chase Foster is Lecturer of Public Policy and Management at SOAS Uni-
+versity of London and incoming Lecturer in Politics at King’s College
+London. His book manuscript, Trust on Trial: Competition Law, Coordination
+Rights, and the Making of Modern Capitalism comparatively examines how
+competition law shaped the development of capitalism in Europe and the
+United States during the long 20th century.
+Kathleen Thelen is Ford Professor of Political Science at MIT. Her most
+recent books are The American Political Economy: Politics, Markets, and
+Power (with Jacob Hacker, Alexander Hertel-Fernandez, and Paul Pierson,
+2022) and Attention, Shoppers! American Retail Capitalism and the Origins
+of the Amazon Economy (2024).
+

@@ -1,0 +1,1312 @@
+Regulation & Governance (2024) 18, 1083–1103                                                                                          doi:10.1111/rego.12570
+
+
+
+
+Brandeis in Brussels? Bureaucratic discretion, social
+learning, and the development of regulated competition in
+the European Union
+Chase Foster
+School of Finance & Management, SOAS University of London, London, UK
+
+
+Kathleen Thelen
+Political Science, Massachusetts Institute of Technology, Cambridge, Massachusetts, USA
+
+
+
+
+Abstract
+Neo-Brandeisian legal scholars have recently revived the ideas of Supreme Court Justice Louis Brandeis, who championed state
+regulation that preserved market competition and economic liberty in the face of concentrated private power. Yet ultimately
+and perhaps paradoxically, it has been Europe and not the United States that has proved more hospitable to accommodating
+key features of the Brandeisian approach. We explain this outcome by tracing the evolution of EU competition law to gain
+insight into the social learning processes through which such regimes change over time. We argue that the EU’s administrative
+system, which provides the European Commission with signiﬁcant bureaucratic discretion, has facilitated processes of ongoing
+deliberative adjustment to policy and practice, which over time has resulted in a system of “regulated competition” with strik-
+ing similarities to the Brandeisian vision. The analysis highlights how administrative law institutions condition how regulatory
+regimes evolve in response to acquired experience and knowledge.
+
+Keywords: American antitrust, Brandeis, competition policy, EU, Europe, policy learning, progressive era.
+
+
+1. Introduction
+A marked rise in industrial concentration across a wide range of industries, and the growth to dominance of
+ﬁrms such as Meta, Google, Amazon, and Apple have propelled monopoly power and antitrust policy to the cen-
+ter of contemporary debates across the rich democracies. Within the United States, a new generation of legal
+scholars who are committed to reforming American antitrust policy and practice has assumed key positions of
+power in the Department of Justice (DOJ) and the Federal Trade Commission (FTC). Many of these new faces
+are self-described “neo-Brandeisians” who draw inspiration from ideas promoted by the famed 20th century legal
+scholar and Supreme Court Justice Louis Brandeis. These reformers argue that competition law should “protect
+market structures that [distribute] individual opportunity and prosperity” and ensure that “excessive concentra-
+tions of private power” do not undermine economic freedom and democracy (Khan, 2018, p. 132). To achieve
+this goal, they call for a strong but adaptable system of state regulation aimed at promoting economic and indus-
+trial liberty while also maintaining technical and productive efﬁciency.
+     While the resulting intellectual ferment has opened up important new space for debate, discussion so far has
+concentrated almost entirely on the United States. Yet, paradoxically it has been Europe and not the
+United States that has proved more hospitable to the institutionalization of the kind of “regulated competition”
+that Brandeis promoted at the beginning of the 20th century. The outcome is at ﬁrst blush puzzling but as we
+show, less perplexing in light of the evolution of the European model. It is puzzling because at the time Brandeis
+was writing, European antitrust was virtually nonexistent and cartels were ubiquitous. Moreover, neither the
+founders of the European Union nor contemporary practitioners in Brussels have demonstrated much interest in
+
+
+    Correspondence: Chase Foster, School of Finance & Management, SOAS University of London, London,
+    UK. Email: cf49@soas.ac.uk
+     Accepted for publication 21 November 2023.
+© 2023 The Authors. Regulation & Governance published by John Wiley & Sons Australia, Ltd.
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided
+the original work is properly cited.
+
+
+--- PAGE BREAK ---
+
+                                                                                                                                               17485991, 2024, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/rego.12570 by Capes, Wiley Online Library on [30/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+C. Foster and K. Thelen                                                                                         BRANDEIS IN BRUSSELS?
+
+
+Brandeis. But closer inspection allows us to explain this outcome by showing how European private and public
+governance models institutionalized at the beginning of the 20th century served as sources of inspiration for
+Brandeis’ vision of regulated competition. The current EU system has crucially retained many of the features that
+historically distinguished Europe’s approach to competition policy even while adopting a range of institutional
+innovations. In line with Brandeis’ vision for the American FTC, the European Commission (Commission)
+applies its expertise to permit “healthy” forms of coordination (e.g., among less powerful economic actors such as
+small businesses and workers) while prohibiting “unhealthy” (e.g., coercive) forms—and to continually update its
+rules in line with new information, technological developments, and feedback from industry. Placing concerns
+about preserving open and fair markets at the heart of case law and policy, EU regulators consistently use their
+powers to limit dominant companies’ ability to exploit their economic power while still allowing mergers and
+restrictive practices that improve technical or productive efﬁciency.
+    We argue that Europe’s ability to more closely approximate the Brandeisian vision goes back in large measure
+to a crucial, and longstanding, difference to the US competition regime, which lies in the mirror-image relation-
+ship it institutionalizes between administrative and judicial authority. In Europe, regulators retain broad rule-
+making and direct enforcement authority that holds unless and until it is successfully challenged in courts that
+usually defer to the Commission’s expertise on policy questions. By contrast, in America’s juridiﬁed system, it is
+the other way around: agency rules and enforcement actions do not take effect unless and until they are sanc-
+tioned by courts, and courts often reject agency conclusions in favor of their own alternative assessments of the-
+ory and facts. We argue that this core institutional difference—which was forged in the early 20th century and
+has been maintained in altered form into the 21st—is what has rendered the European regime more congenial to
+the development of a system of “regulated competition” that empowers state ofﬁcials to permit certain forms of
+inter-ﬁrm cooperation while simultaneously policing restraints of trade that exploit private economic power.
+    We identify two features of the Commission’s bureaucratic discretion that have been critical to these out-
+comes. First, the Commission enjoys signiﬁcant procedural discretion regarding the interpretation of the Treaties
+and the organization of its own implementation authority in the competition domain. This authority has allowed
+the Commission to selectively adopt new institutional forms and practices, while simultaneously defending and
+preserving core elements of the administrative model that Brandeis admired and that characterized European
+competition regulation during the ﬁrst half of the 20th century. Second, the Commission’s broad administrative
+rulemaking and enforcement authority provides the competition directorate with substantive discretion over how
+market competition rules are applied in particular cases. This administrative discretion has allowed the Commis-
+sion to develop the responsive and adaptive approach to competition policy that Brandeis envisioned: placing
+strong constraints on “coercive” agreements while simultaneously permitting and even encouraging beneﬁcial
+forms of inter-ﬁrm coordination that upgrade competition.
+    Our analysis combines insights from the literatures in political science and sociology on “social learning”
+(Hall, 1993; Heclo, 1974) and the public policy literature on cross-national “lesson drawing” (Rose, 1991, 1993).
+Scholars in these ﬁelds have closely analyzed the channels and mechanisms through which the European Com-
+mission in particular has shaped the development of competition law, and how its own ambitions have been con-
+strained by external political demands and established competition traditions (Büthe, 2007; Jabko, 2006).
+However, less attention has been paid to how the organization of bureaucratic discretion and judicial review con-
+ditions social learning, deﬁned as the “deliberative attempt to adjust the goals or techniques of policy in response
+to past experience and new information” (Hall, 1993: 278).
+    Our analysis points to the design of administrative law as a crucial factor in social learning. In the European
+Union, the Commission’s broad administrative rule-making and block exemption authority combined with its
+direct administrative enforcement powers has facilitated ongoing social learning in the competition domain. Spe-
+ciﬁcally, because the Commission has procedural discretion to shape the methods used to enforce the law and
+substantive discretion to interpret how competition rules are applied in practice, it has been able to deliberatively
+adjust and update policy and practice in response to emerging market developments, new research, and feedback
+from industry. This contrasts with the adversarial legal antitrust system in the United States, where the judiciary
+has a history of limiting administrative power in this ﬁeld and where since the 1980s these efforts have been bol-
+stered by a conservative legal movement committed to disempowering the administrative state. Thus, while Ame-
+rica’s common law tradition in principle should allow jurisprudence to evolve in ways that incorporates new
+1084                                              © 2023 The Authors. Regulation & Governance published by John Wiley & Sons Australia, Ltd.
+
+
+--- PAGE BREAK ---
+
+                                                                                                                          17485991, 2024, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/rego.12570 by Capes, Wiley Online Library on [30/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BRANDEIS IN BRUSSELS?                                                                           C. Foster and K. Thelen
+
+
+information and permits a signiﬁcant degree of administrative discretion, in practice the judicialized system of
+US antitrust has undermined learning processes, creating barriers to updating policy in response to new develop-
+ments and feedback.
+    The paper is organized as follows. We begin our analysis by examining the transatlantic transfer of competi-
+tion law ideas and policies from the early 20th century until today. As we show, Brandeis’ own ideas in the 1910s
+were inspired by his familiarity with—and admiration for—certain aspects of the alternative practices unfolding
+in some countries across the Atlantic. We then document how, in the postwar period, Europeans retained key
+features that Brandeis had admired—speciﬁcally administrative enforcement and systematic forbearance toward
+some forms of horizontal coordination—while selectively embracing elements of the American model to produce
+a distinctively deliberative and adaptive model. We then consider the subsequent development of competition
+law at the EU level since the 1960s, examining the ways in which European regulators have continued to adapt
+these inherited institutions in ways that over time have come to embody many of the goals and functions that
+Brandeis had envisioned for the United States in the 1920s. Furthermore, we document how some of the most
+recent developments in the EU have moved closer still to the Brandeisian ideal by taking an increasingly strong
+stand against dominant actors. We conclude by underscoring the lessons the EU case holds for social learning
+processes across different institutional contexts.
+
+
+
+2. Transatlantic exchange, social learning, and administrative structure
+The rise of dominant tech ﬁrms and signs of growing market concentration across a wide range of industries has
+reinvigorated policy debates concerning competition policy. Within the United States, a new group of scholars,
+practitioners, journalists, and regulators associated with a “New Brandeisian” movement have fundamentally
+challenged the Chicago (Posner, 1979) and post-Chicago (Yoo, 2019) frameworks that have guided American
+antitrust policy since the early 1980s. Rejecting the Chicago School’s consumer welfare standard (Bork, 1978),
+neo-Brandeisians seek to re-establish a structuralist and process-based standard that is concerned not only with
+consumer prices, but also other factors such as productive efﬁciency, technological innovation, the fairness of the
+competitive process and the threats that concentrated economic power pose to democracy (Khan, 2016, 2019;
+Steinbaum & Stucke, 2020). To achieve these goals, they have called for an institutional overhaul that shifts the
+balance of decision-making away from the judiciary and toward federal agencies empowered not only to enforce
+existing anti-monopoly laws more rigorously, but also to play an active role in developing rules and legislation to
+proactively address the problem of economic dominance and exclusionary behavior by powerful players
+(Chopra & Khan, 2020; Paul, 2021). Finally, they have sought to disperse economic power by supporting broader
+“coordination rights” for weaker parties, particularly workers, while directing horizontal enforcement toward col-
+lusion between big companies (Paul, 2020; Vaheesan & Pasquale, 2018).
+    In a short period of time, neo-Brandeisians have shifted the discourse at leading law schools while also mak-
+ing signiﬁcant inroads in policymaking circles (Kovacic, 2021). Yet, the scholarly and public debate over the
+future of American antitrust has focused virtually exclusively on developments—past and present—in US law and
+policy, thereby ignoring relevant historical and comparative experiences in other parts of the world. The omission
+is entirely understandable given that reformers have as their immediate goal the transformation of the American
+competition regime. Certainly, within a legal order that provides little consideration for comparative or interna-
+tional law, it is important to demonstrate that an anti-monopoly program is compatible with existing US antitrust
+law and jurisprudence and in line with the original intent of Congress when the antitrust laws were enacted.
+    However, even in a parochial policymaking environment such as the United States, comparison can be a pow-
+erful and productive project. Engaging with alternatives and possibilities that have been pursued elsewhere can
+serve to denaturalize taken-for-granted understandings about how states and markets must work (Hacker
+et al., 2022). Brandeis himself understood the power of comparison and, along with other progressive reformers
+in his time, he drew much inspiration from European approaches to common public policy challenges in areas as
+diverse as city planning, agricultural improvement, and social insurance (Rodgers, 1998). Brandeis was also
+attuned to speciﬁc features of Europe’s distinctive approach to competition policy, including forbearance toward
+coordination among non-dominant competitors in the market and the advantages of an administrative (rather
+© 2023 The Authors. Regulation & Governance published by John Wiley & Sons Australia, Ltd.                       1085
+
+
+--- PAGE BREAK ---
+
+                                                                                                                                                17485991, 2024, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/rego.12570 by Capes, Wiley Online Library on [30/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+C. Foster and K. Thelen                                                                                          BRANDEIS IN BRUSSELS?
+
+
+than solely judicial) approach to competition policy that focused on actively regulating competition (rather than
+simply sanctioning monopoly).
+    Today, the European competition regime shares many common features with the American system, not least
+because it was directly shaped in important ways by US policymakers and experts in the postwar period
+(Djelic, 2001; Wells, 2001). Yet EU law and practice still reﬂect a distinct paradigm, both substantively and proce-
+durally (Gerber, 1998). Over time, the EU system has come to embody aspects of Brandeis’ ideal of “regulated
+competition” that have not been realized as fully in the United States. Not only does the EU competition system
+contain strong rules that limit the exploitation of economic power, but European regulators have developed con-
+crete and practical ways to reconcile this goal with efﬁciency concerns and new technological developments. Rules
+governing horizontal relations empower smaller and weaker parties to coordinate their activities against larger
+companies while also aggressively policing cartel activity. Finally, the administrative system provides regulators
+with more authority not only to develop and enforce rules but also to provide forbearance to ﬁrms in response to
+technological and market developments. In each of these areas, the European system contrasts with the predomi-
+nant American approach since the 1980s, which has been characterized by strict enforcement against horizontal
+coordination, lax rules regarding dominance, and judicialized policymaking and enforcement that minimizes
+administrative discretion.
+
+
+2.1. Social learning and administrative law
+The evolution of European competition policy offers an opportunity to more closely investigate how the organi-
+zation of administrative law conditions social learning, or the deliberative adjustment of the goals and strategies
+of policy based on accumulated experience, knowledge, and new information (Hall, 1993; Heclo, 1974). While
+not an explicit focus in the existing literature, there are theoretical and empirical reasons to think that the degree
+to which bureaucracies rather than courts shape the procedural and substantive rules that deﬁne a particular pol-
+icy arena conditions broader social learning processes. Scholars of regulation have consistently noted how bureau-
+cratic discretion—understood as a regulatory agency’s independent decision-making authority within certain
+bounds (Thatcher & Sweet, 2002)—is a necessary component of deliberative policymaking, where policymakers
+weigh and reﬂect preferences, values and interests through factually-informed discussions that consider multiple
+perspectives (Mansbridge, 2015; Sabel & Zeitlin, 2008). In order to adjust policy in response to new information
+and experience, regulators require signiﬁcant independent decision-making authority so they can consider a range
+of technical, organizational, and practical factors necessary for effective policymaking (Mashaw, 1985;
+Wilson, 1989). Such learning also often entails cross-jurisdictional lesson drawing, which can help policymakers
+better understand the nature of a common problem and the likely effects of a range of public policy solutions
+(Dolowitz & Marsh, 1996; Rose, 1991).
+     Judicial review, by deﬁnition, circumscribes bureaucratic discretion. At a minimum, court review requires
+agencies to substantiate their decisions with reference to law and precedent, and to follow particular procedures
+(Mashaw, 2010). But it can also entail stricter and more “aggressive” forms of scrutiny, where courts overturn an
+agency’s substantive ﬁndings and substitute judge-made policies for agency ones (Sunstein, 1989). While the judi-
+cial review of administrative procedure is widely viewed as a necessary if costly mechanism for protecting the
+rights of stakeholders and upholding the rule of law in regulatory processes, the aggressive review of an agency’s
+factual and analytical determinations is often seen as an impediment to social learning (Breyer, 1986;
+Wilson, 1989).1 As reactive institutions that must wait (sometimes years) for cases to reach them and then assess
+evidence under the constraints of adversarial legal process, courts usually lack the capacity to devise sound and
+adaptive regulatory policy (Breyer, 1986). Courts also tend to emphasize abstract theory and logic over the practi-
+cal, technical, or organizational knowledge needed to implement policy; to devise general rather than the tailored
+rules appropriate for addressing complex situations; and to rein in rather than empower agencies to achieve their
+organizational missions (Wilson, 1989, pp. 635–674). Empirical studies of judicialized areas of regulatory policy
+consistently ﬁnd that when courts second-guess every administrative determination, social learning processes are
+more unwieldy and protracted (Horowitz, 2010; Melnick, 2010; Rabkin, 1989). As Wilson has observed in his
+pathbreaking work on American bureaucracy, aggressive judicial review tends to discourage institutional innova-
+tion and adaptation within administrative agencies:
+1086                                               © 2023 The Authors. Regulation & Governance published by John Wiley & Sons Australia, Ltd.
+
+
+--- PAGE BREAK ---
+
+                                                                                                                             17485991, 2024, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/rego.12570 by Capes, Wiley Online Library on [30/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BRANDEIS IN BRUSSELS?                                                                              C. Foster and K. Thelen
+
+
+     “Judicializing agency procedures not only takes time and money, it often makes agency heads reluctant to
+     change… The more one has to explain and justify the less one is likely to do. If the cost of issuing a regulation
+     increases, fewer regulations will be issued, especially those that embody novel ideas or approaches” (649).
+
+
+2.2. Competition law, institutional design, and social learning
+Building on these insights, we hypothesize that the structure of administrative law in Europe and the
+United States will condition social learning processes in the competition arena. Speciﬁcally, we expect that in sys-
+tems where a regulatory agency has more independent decision-making authority within the bounds of a legal
+mandate, social learning processes will be more dynamic and extensive. In this respect, we expect two dimensions
+of discretion to matter. Procedural discretion, deﬁned as control over the speciﬁc legal procedures and methods
+used to enforce the law, should make it easier to adjust the organization of competition law institutions and
+enforcement processes in response to past experience. Substantive discretion, deﬁned as control over the princi-
+ples and rules that deﬁne the law’s interpretation in practice and the factual and analytical conclusions used in
+enforcement actions, should facilitate adjustments to substantive policy in response to changing market dynamics,
+empirical studies, or feedback from industry.
+     Such discretion is likely to be more circumscribed in contexts, such as the American, that are characterized
+by adversarial legalism, a system of legal contestation and decision-making that is dominated not by government
+ofﬁcials but disputing parties before a third-party judge (Kagan, 2019). Most antitrust enforcement occurs
+through litigation, whether initiated by public or private parties. More even than most other policy areas, federal
+courts have established the procedural and substantive rules that structure the meaning of antitrust law and the
+way that it is applied in practice (Hovenkamp, 2005). Historically, US courts have signiﬁcantly curtailed bureau-
+cratic discretion in this ﬁeld. Until the late 1930s, courts showed little deference to bureaucratic agencies and
+developed competition rules in line with their own understanding of sound economic policy (Sklar, 1988). While
+courts showed more bureaucratic deference during the Warren Court (Gidron & Kaplan, 2017), they have since
+limited bureaucratic discretion in response to agency criticism (Kovacic, 1982), the rise of law and economics the-
+ories of antitrust and public choice theories of regulatory capture (Posner, 1979; Stigler, 1971) and the growing
+strength of a conservative legal movement that fundamentally opposes the administrative state (Teles, 2008). The
+resulting low degree of procedural and bureaucratic discretion should make social learning more difﬁcult in
+the antitrust domain. While institutional change will still occur, it will be a protracted process that is structured
+by narrow economic theories that presume the efﬁciency of economic consolidation and inefﬁciency of regulatory
+interventions, is characterized by ongoing private legal challenges to administrative determinations, and is biased
+toward non-enforcement since courts can overrule agencies but not vice versa.
+     The EU’s competition system, by contrast, more closely approximates bureaucratic legalism, a system that
+relies on a combination of formal rules with hierarchically organized decision-making (Foster, 2024). Whereas
+adversarial legalism “decentralizes enforcement, putting government ofﬁcials to the side,” bureaucratic legalism
+reinforces the authority of state ofﬁcials to implement policy directly through administrative processes (Burke &
+Barnes, 2017, p. 14). The EU’s competition directorate (DG Competition), possesses the authority to initiate pre-
+liminary investigations, launch case proceedings, issue statements of objections to companies, conduct oral hear-
+ings, issue decisions, and assess ﬁnes, all without recourse to courts (Cseres, 2010). Judges only become involved
+if a sanctioned company requests an appeal and even then, they tend to limit their review to questions of funda-
+mental rights, procedural rules, and factual accuracy while deferring to administrative judgment on most ques-
+tions of substantive analysis (Ibid).
+     As we show in the historical case study that follows, the institutional arrangements associated with this
+administrative model of regulatory governance have facilitated extensive and recursive processes of social learning
+and ongoing institutional adaptation through rule-making and enforcement that incorporates theoretical and
+practical knowledge, and that responds to developments at home and abroad. The Commission’s discretion over
+procedural rules has allowed it to selectively “modernize” institutional design and enforcement policies based on
+administrative expertise and relative autonomy (Wilks, 2005). At the same time, the Commission’s discretion
+over substantive rules has allowed it to make nuanced distinctions regarding different kinds of restrictive agree-
+ments and practices and to update these rules in response to new information, acquired experience, and lessons
+© 2023 The Authors. Regulation & Governance published by John Wiley & Sons Australia, Ltd.                          1087
+
+
+--- PAGE BREAK ---
+
+                                                                                                                                              17485991, 2024, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/rego.12570 by Capes, Wiley Online Library on [30/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+C. Foster and K. Thelen                                                                                        BRANDEIS IN BRUSSELS?
+
+
+drawn from foreign jurisdictions. We argue that over time, this dynamic learning process has led EU competition
+law to increasingly approximate Brandeis’ ideal: to “supplement the prohibition of monopoly by the regulation of
+competition” (Brandeis, 1913 reprinted in Fraenkel, 1934, p. 124).
+     This ideal has been more difﬁcult to realize in the judicialized American antitrust system, despite good-faith
+efforts of many practitioners. Federal judges have consistently limited agencies’ procedural discretion, most nota-
+bly by discouraging the FTC from using its rulemaking authority to develop clear rules regulating “unfair compe-
+tition” (Chopra & Khan, 2020; Rybnicek & Wright, 2013). The judiciary has played an equally consequential role
+limiting agencies’ substantive discretion in enforcement actions, often substituting its own factual or analytical
+determinations for that of agencies. Judges operating on the assumption that speciﬁc economic theories are supe-
+rior to administrative expertise have made it more difﬁcult to make the nuanced distinctions between “beneﬁcial”
+and “harmful” types of interﬁrm coordination as envisioned by Brandeis. This institutional constellation has also
+disincentivized and sometimes even prevented regulators from updating policy and practice in response to past
+experience, new information, and lessons from other countries.
+
+
+3. Industrialization, competition regimes, and the Brandeisian ideal
+The United States and Europe charted distinctive paths of competition policy over a century ago. In the turbulent
+closing years of the 19th century, political economies on both sides of the Atlantic were upended by ﬁnancial cri-
+ses and deep economic depressions. Overcapacity across key markets caused wages and proﬁts to plummet, set-
+ting in motion vicious cutthroat competition among ﬁrms and provoking considerable industrial strife. American
+and European ﬁrms across a wide range of industries sought to stabilize markets by banding together into
+arrangements to defend against destructive competition and to restore industrial peace.
+     The fate of these arrangements turned centrally on the response of the state and the courts. In the
+United States, where the development of a strong administrative state followed rather than preceded the rise of
+large corporations, the judiciary played an outsized role in the early development of federal economic regulation
+(Skowronek, 1982). On the question of economic coordination between ﬁrms, the US Supreme Court was
+unusually—indeed, in comparative perspective, uniquely—hostile to emerging forms of horizontal organization
+while simultaneously taking a permissive approach to corporate consolidation and economic dominance that fell
+short of a complete monopoly.2 The passage of the Sherman Act, or more precisely the Court’s interpretation of
+that law, created strong prohibitions on horizontal coordination, providing tools for employers to attack nascent
+worker organizations and encouraging large producers to stabilize markets through alternative strategies such as
+corporate consolidation or the use of vertical restraints to restrict competition from above. The ensuing “great
+merger movement” in the United States at the turn of the century led to corporate hierarchy and arms-length
+exchange becoming the dominant modes of coordination (Lamoreaux, 1988; Sklar, 1988). The strong binary
+between “pure” competition and corporate hierarchy that the American judiciary enforced and policed left a deep
+imprint on the American political economy (Berk, 1996, p. 108; Paul, 2020; Phillips Sawyer, 2018).
+     By contrast, competition policy in European countries during this period was characterized by a laissez-faire
+approach that largely permitted the emergence of private governance structures to stabilize market volatility
+(Djelic, 2001, pp. 42–64). Where courts did weigh in on private law disputes they showed forbearance toward
+(if not active support for) these emerging forms of coordination.3 Such forbearance of course gave rise to cartels,
+but it also provided a more hospitable context for the growth of centralized labor unions and strong trade associ-
+ations that would come to deﬁne Europe’s more “coordinated” variety of capitalism (Hall & Soskice, 2001;
+Thelen, 2020). So, while cartels were legal and widespread, national courts and governments also took a more
+neutral stance toward organizations of workers, farmers, and small producers, all of which were consistently
+undercut by judge-made law in the United States.4
+     When European countries did eventually enact public statutes and create regulatory ofﬁces to address compe-
+tition concerns, they adopted administrative models that maintained a forbearing approach to many forms of
+horizontal agreements. The ﬁrst German Cartel Law, enacted in 1923, became the blueprint for other early
+European competition regulations, including in Sweden (1925), Holland (1935), and Denmark (1937)
+(Harding & Joshua, 2010, pp. 80–81). Unlike in the United States, these laws were not designed to suppress car-
+tels, but were instead meant to root out cartel “abuses” through public monitoring and sanctions
+1088                                             © 2023 The Authors. Regulation & Governance published by John Wiley & Sons Australia, Ltd.
+
+
+--- PAGE BREAK ---
+
+                                                                                                                            17485991, 2024, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/rego.12570 by Capes, Wiley Online Library on [30/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BRANDEIS IN BRUSSELS?                                                                             C. Foster and K. Thelen
+
+
+(Feldenkirchen, 1992; Harding & Joshua, 2010, pp. 74–81; Lapidus, 2013). Crucially, all European systems
+depended on administrative—rather than judicial—models of cartel regulation. Under these systems, economics
+ministries were given wide legal discretion to directly intervene in cartel activity if it was deemed to endanger
+public welfare, while leaving it largely up to expert administrators how to deﬁne these speciﬁc conditions
+(Fellman & Shanahan, 2015; Gerber, 1998, p. 120).
+    In the interwar period, these regulatory systems came to be rightly criticized as overly-permissive, particularly
+in Germany, where cartels grew powerful and reactionary. But virtually all European countries—including
+Austria, Belgium, Finland, the Netherlands, Norway, Sweden, Switzerland, Spain, Italy, and the United
+Kingdom—took a comparatively permissive stance toward horizontal coordination (Schröter, 1996).5 Moreover,
+these arrangements were not captured by powerful private interests everywhere, nor was administrative regulation
+inevitably ineffective. In Norway, for example, all cartel agreements were required to be published and explicitly
+approved by a politically independent regulator that was granted broad authority to demand information from
+companies and to investigate the conduct of cartels and dominant ﬁrms. During the interwar period, this Norwe-
+gian Cartel Control ofﬁce decided more than 800 cases, placing signiﬁcant constraints on “price discrimination,
+exclusive dealings and certain boycotts” if they were found to be harmful to the public interest (Gerber, 1998,
+pp. 156–159). Large ﬁrms were subject to special scrutiny, and enforcement centered, among other things, on
+ensuring fair terms and conditions for weaker cartel members (Espeli, 2015). The competition authority possessed
+considerable discretion, including the ability to alter cartel terms, block cartel enforcement actions and even to
+dissolve cartel organizations, although the most extreme of these measures were rarely invoked (Espeli, 2015,
+pp. 145–148; Gerber, 1998). While the Norwegian experience was in some ways exceptional, that country’s com-
+petition laws shared with a far wider range of European countries an orientation that focused on policing abuse
+rather than enforcing strict prohibitions, and that was therefore distinct from the hard-lined prohibitions devel-
+oped by courts in the United States (Gerber, 1998, pp. 158–164).
+    Europe’s distinct approach to competition policy was a choice not an oversight. Lawmakers in the late 19th
+and early 20th centuries had often drawn “negative lessons” from US antitrust policy, explicitly considering—and
+rejecting—the American approach. They saw the US Supreme Court’s interpretation of the Sherman Antitrust
+Act and the strict prohibition against horizontal combinations as detrimental for the way it encouraged monop-
+oly power while allowing cutthroat competition among ﬁrms to go unchecked. Indeed, coordination among ﬁrms
+was viewed as highly desirable to prevent the growth of large US-type monopolies—both to forestall “destructive”
+competition and to protect against the “ravages of hyper-individualism” (Nörr, 1995, p. 7).
+    In the same way that Europeans were looking to the United States in this period (albeit in the case of anti-
+trust, as a negative model), American observers in the early 20th century had looked across the ocean from the
+other side, and some of them found much to recommend in Europe’s alternative approach to social and eco-
+nomic institutions (Rodgers, 1998). In the area of competition policy speciﬁcally, the Progressive Era lawyer and
+anti-monopolist Louis Brandeis admired some elements of Europe’s alternative model of “organized” or “man-
+aged” capitalism, especially its cooperative associations and strong trade organizations (Berk, 2009;
+Brandeis, 1912; Strum, 1993, p. 41; Winerman, 2003, p. 36). Brandeis had observed how unrestricted competition
+in the United States often led to monopoly by fueling cycles of overproduction and destructive competition, what
+he called “competition that kills” (Brandeis, 1913). He was struck by the fact that in many European countries
+industrialization had not resulted in the same degree of corporate consolidation, and “ruinous competition” had
+been more limited, in large part because of the role these cooperative and trade associations played in
+regulating—and in important ways limiting—competition. He expressed particular admiration for Europe’s
+vibrant cooperative movements, which combined efﬁciencies of scale with local democratic control. He praised
+Danish cooperatives for allowing small producers to hold their own against dominant actors, and held up
+Britain’s Cooperative Wholesale Society as a “beneﬁcent” alternative to concentrated power in American industry
+(Brandeis, 1914).
+    Like many American progressives of the period, Brandeis was familiar with the German Historical School of
+Economics, which opposed the laissez-faire system defended by classical economists and contended that state reg-
+ulation and private associations could foster economic and social progress by, among other things, raising the
+plane of competition (Dorfman, 1955; Nörr, 1995). Similarly, Brandeis’ approach to economics was based more
+on inductive reasoning through empirical historical analysis of how the economy actually worked than the
+© 2023 The Authors. Regulation & Governance published by John Wiley & Sons Australia, Ltd.                         1089
+
+
+--- PAGE BREAK ---
+
+                                                                                                                                               17485991, 2024, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/rego.12570 by Capes, Wiley Online Library on [30/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+C. Foster and K. Thelen                                                                                         BRANDEIS IN BRUSSELS?
+
+
+deductive and formalistic reasoning preferred by classical and marginalist economists (Adelstein, 1989, pp. 632–
+634). Applying this inductive approach to German and Danish trade associations, Brandeis observed that
+industry-led coordination on price or output could upgrade competition in ways that allowed smaller ﬁrms (often
+catering to niche markets) to survive, without sacriﬁcing productivity. Indeed, such agreements could be
+productivity-enhancing because they channeled competition away from price and toward innovation and quality
+(Berk, 2009, pp. 60–62; Brandeis, 1912). In Brandeis’ words, “the proper role of the government is to encourage
+not combination, but co-operation” (Winerman 2003, p. 1). Practices such as information sharing among non-
+dominant competitors in an industry, joint standard setting, and transparency in pricing could facilitate scale
+economies through cooperation rather than consolidation, while also preventing the cycles of over-production
+and cutthroat price competition that foster economic centralization in capitalism (Phillips Sawyer, 2011).
+    Brandeis was well aware of the potential abuses that could occur within private regulatory structures, particu-
+larly when dominant companies were permitted to coerce smaller ﬁrms. Without a neutral state arbiter that could
+direct competition and coordination toward beneﬁcial ends, while also policing the abuses of dominant players,
+trade associations and cartels brought with them the risk of private exploitation (Berk, 2009, p. 57). The solution
+for Brandeis, however, was not to develop strict rules that enforced competition in every case. He called instead
+for a system of “regulated competition” that empowered state ofﬁcials to permit certain forms of inter-ﬁrm coop-
+eration especially among non-dominant players that encouraged meritorious competition or upgraded production
+into higher value-added products while also policing restraints of trade that suppressed competition or exploited
+private economic power (Berk, 2009; Phillips Sawyer, 2011, 2018). In short, Brandeis envisioned a system of com-
+petition regulation characterized by signiﬁcant bureaucratic discretion to write and enforce rules directly, and to
+update these policies and practices on an ongoing basis as they acquired new experience and knowledge about
+how competition worked in practice.
+    Thus, in debates over the Clayton Act, Brandeis articulated a vision for the FTC designed to re-center
+decision-making away from the federal courts and toward a more responsive and proactive expert administrative
+agency. Noting that the decades since the Sherman Act had laid bare the failures of the previous regime, he joined
+the call for judicial remedies to be “supplemented by other adequate machinery to be administered by a federal
+board or a commission” (Brandeis, 1913 reprinted in Fraenkel, 1934, p. 124 and p. 131). Administrative expertise
+would be brought to bear not just to prohibit monopoly but to regulate competition: “We need the inspector and
+the policeman, even more than we need the prosecuting attorney; and we need for the enforcement of the Sher-
+man law and regulation of competition, an administrative board with broad powers….” (Brandeis, 1913 in
+Fraenkel, 1934, p. 134). In fact, he envisioned a board whose authority would grow over time: “it is probable that
+whatever powers are conferred upon the board at the outset will be increased from time to time as we learn from
+experience what powers may be safely conferred upon the board” (Brandeis, 1913 in Fraenkel, 1934, p. 134).6
+    In short, Brandeis foresaw regulators using their expertise and discretion to distinguish “good” from “bad”
+coordination—i.e., combining rules that permit some forms of cooperation between competitors, while also
+protecting coordination among ﬁrms by embedding competition within a body of rules that limits aggressive
+forms of competition that would jeopardize the economic freedom of smaller producer groups and workers. In
+Brandeis’ view, such a distinction would be difﬁcult to achieve through judicial processes that emphasized
+abstract, universally applied legal principles over the technical knowledge and practical experience relevant to the
+operation of competition in practice and where the prevailing interpretation of the law often varied from judge to
+judge (McCraw, 1986, p. 116). Rather, he envisioned expert administrators, ideally with previous regulatory expe-
+rience working closely with industry, developing stable and predictable rules through deliberative processes char-
+acterized by extensive fact-ﬁnding and research and ongoing consultation with stakeholders.
+    The FTC was initially granted signiﬁcant bureaucratic discretion, including the authority to regulate unfair
+competition, to determine the meaning of these provisions, and to enforce them directly through “cease-and-
+desist” orders (Averitt, 1979). For a time, the early FTC used this authority to facilitate “cooperative
+competition,” developing programs to foster industrial standard setting, uniform accounting methods, informa-
+tion sharing regarding inventory and shipments, and the adoption of best practices through trade associations
+(Hawley, 1979; Peritz, 1996, pp. 76–77). Through its Trade Practices Conference Division, the agency ﬁnalized
+more than 100 standardization and conservation agreements and more than 50 trade practice codes across a wide
+range of industries (Hawley, 1979, pp. 102–104). As Phillips Sawyer (2018) has shown in a detailed study, the
+1090                                              © 2023 The Authors. Regulation & Governance published by John Wiley & Sons Australia, Ltd.
+
+
+--- PAGE BREAK ---
+
+                                                                                                                            17485991, 2024, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/rego.12570 by Capes, Wiley Online Library on [30/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BRANDEIS IN BRUSSELS?                                                                             C. Foster and K. Thelen
+
+
+experiment with associationalism during this period was important for American political development, generat-
+ing “lasting effects on the development of state police powers, bureaucratic capacity, and antitrust policy, not to
+mention private trade associations” (3).
+    However, the fact that antitrust had been institutionalized within an adversarial legal system that severely cir-
+cumscribes bureaucratic discretion made it difﬁcult to stabilize a durable system of regulated competition along
+the lines Brandeis envisioned. The FTC’s efforts were consistently frustrated or blocked by federal courts, which
+prevented the agency from developing an independent, directive role over the economy (Kovacic, 1982, p. 616).
+Courts largely prevented the FTC from using its delegated rulemaking authority to establish clear and predictable
+rules to regulate both competition and monopoly as envisioned by Brandeis and intended by Congress
+(McCraw, 1986).7 When the agency sought to approve “beneﬁcial” agreements that it believed upgraded competi-
+tion, it found itself stymied by the decentralized judicial enforcement system, which allowed public and private
+actors to challenge approved trade practices, limiting their enforceability (Hawley, 1979; Himmelberg, 1976). The
+DOJ proved to be a particular problem, prosecuting trade associations for antitrust violations and challenging
+many of the FTC’s agreements in court (Berk, 2009, pp. 228–232).
+    Agency efforts to curtail “unfair competition” also ran into problems. When the agency sought to investigate
+or limit corporate abuses, its orders were often dismissed by judges or overturned on appeal (Winerman &
+Kovacic, 2010, pp. 176–192). In its ﬁrst ruling on the FTC’s authority, the Supreme Court overturned an FTC
+order forbidding a tying arrangement by a dominant steel company on the grounds that this practice had not
+previously been forbidden in case law. As Justice McReynolds explained in the majority opinion: “it is for the
+courts, not the commission, ultimately to determine as a matter of law what they include.”8 FTC challenges to
+other unfair competition practices, including exclusive dealing in the publishing industry, exclusive contracts
+between dominant oil companies and retailers, price discrimination against cooperatives and individual retailers,
+and base point pricing in the oil and steel industries were all struck down by judges (2010, 177-187). FTC
+monopolization cases against Eastman Kodak, General Electric, and the Aluminum Company of America were
+similarly blocked by courts (2010, 188-190). All in all, 82% of the restraint-of-trade orders issued during its ﬁrst
+decade were either dismissed by judges outright or eventually overturned during judicial review.9 The one area
+where the FTC did ﬁnd some courtroom success was in prosecuting horizontal conspiracies—a category of agree-
+ments that were already prohibited in Sherman Act case law, and where Brandeis had long argued for a more
+permissive approach (2010, pp. 192–193).
+
+
+4. The development of regulated competition in Europe
+The upheaval of World War II—and the monumental political and economic changes it inspired in the
+postwar—created a rare opportunity to completely overhaul European economic policy, including in the competi-
+tion ﬁeld. During the occupation of Germany, Americans presided over the dismantling of that country’s most
+notorious cartels, forcing a break with the industrial production model that predominated at the beginning of the
+20th century (Djelic, 2001). The war and its aftermath had also profoundly shaken European elites’ belief in
+the economic effectiveness and political legitimacy of cartels, which now had strong associations with fascism
+(Djelic, 2001; Wells, 2001).
+     Yet even as outright cartels were delegitimized, most national competition laws in the postwar maintained
+core aspects of the administrative system of cartel control developed during the interwar period. At the core of
+the model was the idea that “law should protect the process of competition by administratively controlling the
+harmful conduct of economically powerful ﬁrms rather than by prohibiting particular types of conduct”
+(Gerber, 1998, pp. 163–164). Toward that end, most European countries established variants of “cartel registries”
+that empowered regulators to approve “beneﬁcial” forms of coordination while proscribing discrete forms of car-
+tel abuse (Fellman & Shanahan, 2015).
+     At the supranational level, US government ofﬁcials were again heavily involved in designing the competition
+provisions of the European Coal and Steel Community and the US experience with the Sherman Act provided a
+primary reference point for the competition regime established a few years later in the European Economic Com-
+munity (EEC) (Djelic, 2001; Wells, 2001). In particular, the stricter approach to price agreements and output
+restrictions would have a lasting effect on European Community law, contributing to the decartelization of
+© 2023 The Authors. Regulation & Governance published by John Wiley & Sons Australia, Ltd.                         1091
+
+
+--- PAGE BREAK ---
+
+                                                                                                                                               17485991, 2024, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/rego.12570 by Capes, Wiley Online Library on [30/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+C. Foster and K. Thelen                                                                                         BRANDEIS IN BRUSSELS?
+
+
+European industry and the instantiation of market competition as a core principle of the European Union
+(Djelic, 2001; Jabko, 2006). Nonetheless, in several important respects, the EU competition system preserved sig-
+niﬁcant features of the historically evolved understandings and practices reviewed in the previous
+section (Freyer, 2006, pp. 278–314; Gerber, 1998). The European system would essentially blend these orienta-
+tions inherited from the past (including, centrally, administrative enforcement and forbearance toward coordina-
+tion among non-dominant actors) with elements of the so-called “ordoliberal” school of competition that
+crystallized in Germany in the post war period and that called for a “constitutional” framework to limit the
+power of dominant actors (Gerber, 1994).
+    The supranational European system established under the Treaties of Paris and Rome stemmed from a series
+of political compromises. The enactment of substantive rules that prohibited cartels while providing broad
+exemptions for “beneﬁcial” horizontal agreements reﬂected a compromise between “cross-national liberal mod-
+ernizers” supportive of the American cartel prohibition model and European business associations and unions,
+which saw horizontal cooperation as essential for rationalization, standardization, and specialization in European
+industry (Djelic, 2001, pp. 232–235). The instantiation of an administrative enforcement system whose decisions
+could be reviewed by independent courts reﬂected a compromise between Germany, which preferred a strong
+juridical element, and France, which wanted to maintain a more discretionary administrative control approach
+(Gerber, 1998, pp. 343–344).
+    The “hybrid” combination of a French-style administration with a German-inspired ordoliberal framework
+developed into a set of institutions that are arguably closer to Brandeis’ vision of “fair trade” and “regulated com-
+petition” than most observers recognize, and certainly closer to that vision than ever achieved in the
+United States. In particular, the current system embodies key features that Brandeis had identiﬁed as important
+to managing markets and preserving competition. Some of these are procedural—in particular, the central role
+assigned to agencies staffed with experts to preside over an administrative system aimed at preserving a competi-
+tive market structure while also encouraging forms of cooperation seen as improving economic performance.
+Others are substantive—in particular, recognizing the beneﬁts of providing weaker parties with coordination
+rights as a form of countervailing power, while also aggressively policing large companies to combat their efforts
+to exploit their economic clout. In what follows, we discuss the emergence and evolution of EU competition law,
+highlighting parallels to America’s own “lost historical alternative” of the Brandeisian vision on each of these
+dimensions (Schneiberg, 2007).
+
+
+4.1. Proactive administrative enforcement
+Central to Brandeis’ model of “regulated competition” was a proactive system of administrative governance.
+Toward this end, he supported the establishment of an expert administrative agency, empowered to devise tai-
+lored rules that were based on economic studies and consultation with industry. As he explained in a 1913 article
+outlining his preferred approach, “In the complicated questions involved in dealing with ‘Big Business’, the ﬁrst
+requisite is knowledge—comprehensive, accurate, and up-to-date—of the details of business operations”
+(reprinted in Fraenkel, 1934: 134). While Brandeis preferred a cooperative relationship between business and gov-
+ernment, he also recognized that for such a system to be effective, administrators would need to be delegated an
+authoritative say over the rules of competition as well as “coercive” powers to police abuses, particularly by domi-
+nant players (Berk, 2009, p. 101). As he noted: “The time has come to utilize that experience and to embody its
+dictates into rules of positive law, which will instruct the many business men who desire to obey the statute, what
+they should avoid—and admonish those less conscientious what they must avoid” (Brandeis, 1913 in
+Fraenkel, 1934: 131).
+    From the start, the European Community’s system of competition law hewed to older European traditions in
+opting for an administrative rather than judicial system of enforcement that empowered an expert agency to write
+rules that permitted as well as prohibited certain categories of restrictive agreements. During the negotiations over
+the Treaties of Paris and Rome, the six founding member states (all steeped in a civil law rather than a common
+law tradition) explicitly rejected proposals modeled on the US antitrust system that would criminalize all horizon-
+tal intercompany agreements and be enforced by private and public litigants in courts. Across all six of the
+founding countries of the EEC, industry (organized into strong trade associations) joined with labor unions to
+1092                                              © 2023 The Authors. Regulation & Governance published by John Wiley & Sons Australia, Ltd.
+
+
+--- PAGE BREAK ---
+
+                                                                                                                          17485991, 2024, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/rego.12570 by Capes, Wiley Online Library on [30/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BRANDEIS IN BRUSSELS?                                                                           C. Foster and K. Thelen
+
+
+oppose, to varying degrees, the establishment of a “Sherman Act” in Europe, which they saw as undermining
+their ability to pursue cooperative arrangements that were needed for economic recovery and reconstruction
+(Gillingham, 2004; Milward, 1984).
+    Member states chose instead to grant the Commission signiﬁcant procedural and substantive discretion over
+the development and enforcement of competition policy (Majone, 2001; Pollack, 2003). Reﬂecting continental tra-
+ditions of bureaucratic legalism, the system was both hierarchical and formalistic. Decision-making was domi-
+nated by the European Commission, which was empowered to develop authoritative norms and standards
+regarding both the structure of its own implementation authority as well as the speciﬁc rules that companies
+should follow. At the same time, individual bureaucratic decisions conformed to written legal guidelines and pro-
+cedures that set out in great detail the kinds of restrictive practices that were permitted and prohibited and the
+speciﬁc processes involved in enforcement.
+    The foundational procedural rules enacted by the new EEC gave the Commission the exclusive authority both
+to enforce violations of competition rules and to provide forbearance to registered business agreements deter-
+mined to be economically or socially beneﬁcial (Kelleher, 1967). A few years later, this authority was expanded to
+include block exemptions, providing the Commission with a quasi-legislative power over inter-ﬁrm agreements
+(Gerber, 1998, pp. 350–351). The Commission’s broad administrative authority was made subject to judicial
+review. But unlike US courts, which have a long history of overruling antitrust regulators, the Court of Justice of
+the European Union (CJEU) has generally supported the Commission’s substantive determinations, establishing
+the precedent of deferring to the Commission’s expertise in questions involving “complex evaluations of eco-
+nomic matters” even as it also demanded a strong evidentiary basis for decisions and strict compliance with pro-
+cedural and rule of law norms (Kalintri, 2016). In practice, this provided the Commission with “sufﬁcient
+discretion to resolve difﬁcult competition issues, including the granting of exemptions” (Freyer, 2006, p. 285).
+    During the 1960s and 1970s, the European Commission used its bureaucratic discretion to develop rules and
+procedures that sought to distinguish between “healthy” and “unhealthy” forms of cooperation that bear a strong
+resemblance to the role that Brandeis had envisioned for the FTC in the 1910s. Whereas the US DOJ has long
+been skeptical of the beneﬁts of business cooperation, the European Commission developed rules that were more
+permissive and sometimes even supportive of cooperation agreements that were viewed as serving the purpose of
+either breaking down national barriers or increasing productive efﬁciency. As Hans von der Groeben, the ﬁrst
+competition commissioner explained in an early policy document, the enforcement of European competition law
+should not be based on overly broad legal presumptions such as the per se ban against horizontal cartels devel-
+oped by American courts (von der Groeben, 1961). Rather, the Commission would develop tailored rules that
+were informed by the economic analysis of agreements in practice. Whether considering a horizontal arrange-
+ment between a group of small manufacturers, the marketing practices of a large company, or a member state
+government’s industrial policy, the evaluation could not be determined by legal content alone, but instead
+required an “economic interpretation in each case” (13).
+    Despite signiﬁcant changes over time, this model of proactive administrative management has generally
+proved resilient. Following a political impasse in the 1960s and 1970s, the Commission’s administrative pow-
+ers have steadily grown, with the Commission increasingly using legislation and guidelines to establish com-
+petition law norms, substituting “an administrative institution for a judicial institution as the driving force
+within the system” (Gerber, 1998, p. 381). This administrative rulemaking authority allows the Commission
+to “provide lists of speciﬁc clauses that are considered, respectively, acceptable, unacceptable, and possibly
+acceptable,” and then “induce ﬁrms to structure their agreements to conform to these checklists”
+(Gerber, 1998, pp. 378–379). In effect, this makes it possible for the Commission to distinguish between
+“good” and “bad” restrictive agreements (Georgieva, 2015). Even after substantial “modernization” reforms
+enacted in 2004 that decentralized enforcement by empowering national regulators and courts to also enforce
+the law, the Commission still retains broad substantive discretion in this arena (European Commission,
+2009). The Commission not only maintained its authority to issue block exemptions and directly enforce the
+law through administrative processes, but also received new remedial and investigative powers, including the
+ability to impose structural remedies, to provide leniency to cooperative companies, and to enter settlements
+with parties under investigation (Wilks, 2005).
+
+© 2023 The Authors. Regulation & Governance published by John Wiley & Sons Australia, Ltd.                       1093
+
+
+--- PAGE BREAK ---
+
+                                                                                                                                              17485991, 2024, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/rego.12570 by Capes, Wiley Online Library on [30/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+C. Foster and K. Thelen                                                                                        BRANDEIS IN BRUSSELS?
+
+
+4.2. Recognizing the beneﬁts of horizontal coordination among weaker parties
+As indicated earlier, Brandeis strongly supported arrangements that endowed weaker parties—smaller competi-
+tors, workers, farmers—with what Paul (2020) terms “coordination rights” as a way of countervailing the power
+of large corporations. Far from demanding the suppression of all forms of coordination, therefore, Brandeis called
+for nurturing precisely those forms of coordination that safeguard competition by channeling it away from price
+(and labor sweating) into quality and innovation. Beyond providing certain weaker parties such as farmers and
+workers with antitrust immunity and supporting collective bargaining with labor, Brandeis also thought state reg-
+ulators should actively facilitate “economic improvement and collaborative learning” among ﬁrms by organizing
+trade practice conferences or setting best practices in areas such as cost accounting and providing ﬁrms with
+incentives to adopt them (Berk, 2009, p. 96). Speciﬁcally, he advocated for the FTC to be “empowered and
+directed to obtain detailed and comprehensive knowledge” [of agreements among companies]—noting that some
+of these agreements are “doubtless reasonable and beneﬁcent restraints upon trade and should be permitted
+[while] others are doubtless vicious and should be abrogated” (Brandeis, 1913 reprinted in Fraenkel, 1934: 135).
+The FTC should be authorized to scrutinize such agreements, and to offer relief from criminal liability to the
+ﬁrms that furnish the Commission with the requisite information about their agreements, unless and until
+the agency or the DOJ deems them to be in contravention of law (135-36).
+    In the European Union, policymakers have established a similar set of arrangements, to investigate and make
+such determinations. The Treaty of Rome, which prohibits certain restrictive practices, includes a broad exception
+for any agreement “which contributes to improving the production or distribution of goods or to promoting
+technical or economic progress” and does not run afoul of other general principles. As the European Commission
+has developed and adjusted its policies and practices, these exceptions came to include a wide range of horizontal
+inter-ﬁrm collaborations and joint ventures. Thus, during the EEC’s ﬁrst two decades, the Commission generally
+approved horizontal coordination beyond the boundaries of the ﬁrm where agreements were viewed as increasing
+productivity, diffusing new technology, or fostering cross-border cooperation (Buch-Hansen & Wigger, 2011,
+pp. 65–68). For instance, the Commission issued early block exemptions to permit and encourage competing
+ﬁrms under some circumstances to pursue specialization agreements, to cooperate in research and development,
+to jointly advertise their products, and to develop common trademarks and standardization processes
+(Hawk, 1972, pp. 257–265).
+    To encourage coordination and technology transfer between small- and medium-sized enterprises (SMEs),
+the Commission also exempted companies with a level of economic activity below a certain threshold, covering
+an estimated 90% of all companies (Buch-Hansen & Wigger, 2011, p. 67). Indeed, the EEC competition authority
+actively sought to promote cooperation between SMEs as a way to allow them to more effectively compete against
+larger companies (Mestmacker, 1972). As von der Groeben explained, “cooperation between SMEs of different
+Member States was not only irrelevant in terms of EC cartel law, but actually politically much desired” (Buch-
+Hansen & Wigger, 2011, p. 67). By 1980, more than 4000 cooperation agreements between SMEs had been
+approved by the Commission (European Commission, 1980, p. 16).
+    The kind of overt price-ﬁxing cartels of the interwar period are long gone, and indeed cartel enforcement has
+dramatically increased in the EU (Harding & Joshua, 2010; Ordoñez-De-Haro et al., 2018). However, the Com-
+mission has continued to provide signiﬁcant exemptions for horizontal cooperation between competitors in areas
+it deems to be economically or socially beneﬁcial.10 These include: (1) research and development agreements,
+where competitors pool their research efforts and jointly exploit research ﬁndings; (2) specialization
+agreements, where ﬁrms with complementary assets agree to cease production of a certain product or service and
+instead purchase it from a competitor; (3) purchasing and commercialization agreements, which allow smaller
+ﬁrms to achieve economies of scale through cooperation; (4) standardization agreements, which lower production
+costs, improve quality, or ensure interoperability and compatibility; and (5) information exchange agreements
+about market conditions or best practices, which reduce information asymmetry, facilitate benchmarking, or
+economize production and distribution.11
+    In fact, these block exemptions have, if anything, been widened not narrowed, as the Commission continues
+to expand and clarify its policy in response to acquired experience, new research, and consultation with industry
+groups (Gerber, 1998, p. 379). For instance, over the past three decades the market share threshold for many
+types of horizontal agreements has gradually increased, allowing more companies to fall under the exemption.
+1094                                             © 2023 The Authors. Regulation & Governance published by John Wiley & Sons Australia, Ltd.
+
+
+--- PAGE BREAK ---
+
+                                                                                                                             17485991, 2024, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/rego.12570 by Capes, Wiley Online Library on [30/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BRANDEIS IN BRUSSELS?                                                                              C. Foster and K. Thelen
+
+
+The Commission has also increased the range of permitted activities in response to new developments in technol-
+ogy and new political imperatives to address climate change. For instance, the draft 2022 Horizontal Block
+Exemption Regulations (HBER) speciﬁcally seeks to adapt to “economic and societal developments of the last ten
+years, such as digitalization and the pursuit of sustainability goals.”12 Toward this goal, a 19-page chapter on sus-
+tainability has been added, one that deﬁnes sustainability broadly to include not only environmental concerns but
+also social objectives such as labor and human rights, and gives companies substantial space to coordinate activi-
+ties aimed at decarbonization and the green transition. The HBER also adds new guidance for companies operat-
+ing in digital markets, including rules for exchanging algorithms, sharing mobile infrastructure, and pursuing
+joint commercialization agreements within digital markets.
+     In the United States, certain kinds of cooperation are also in principle permissible if they represent efﬁciency-
+enhancing collaborations. The US regulatory agencies rarely prosecute joint ventures and have established “safe
+harbor” guidelines that share some similarity to the European approach.13 However, because agency guidelines
+are embedded in an adversarial legal system, where judges rather than bureaucrats determine the law’s substan-
+tive and procedural rules, American antitrust law is “riddled with uncertainties that discourage potential collabo-
+ration” (Nathani, 1992, p. 164). In particular, the risk of paying treble damages to private plaintiffs in a ﬁeld
+where courts have not established clear standards has led ﬁrms to forego collaboration where in principle it is
+allowed (Nathani, 1992, pp. 170–173). In practice, research joint venture rates are far more common in Europe
+than in the United States (Nathani, 1992, p. 176).14
+     Beyond a more forbearing stance on coordination among small ﬁrms, the original Brandeisian vision also
+foresaw strong coordination rights for workers. Like other progressives, Brandeis recognized that labor’s coordi-
+nation rights are critical to unions’ ability to challenge autocratic power at all levels, including within corpora-
+tions themselves (Khan, 2018, p. 131). The European integration project, with its early emphasis on “negative”
+over “positive” integration has not always been kind to organized labor (Höpner & Schäfer, 2012; Scharpf, 2010).
+But when it comes to competition law, the EU Commission continues a broader European tradition of overall
+greater support for worker organization than we ﬁnd in the United States.
+     While the founding documents of EU competition law did not explicitly address labor’s rights to coordinate,
+labor unions and collective bargaining agreements were viewed as protected by other parts of the European
+Treaties that promoted high levels of employment and social protection and were never challenged under EU
+competition law (Monti, 2021). In an important 1999 case on the boundaries between European labor law and
+competition policy, the European Court of Justice expressly reafﬁrmed that collective bargaining agreements
+between one ﬁrm and its employees as well as inter-ﬁrm collective labor agreements that apply to an entire sector
+were fully compatible with European competition law.15
+     European policymakers have also signaled greater support for labor rights in the face of employer strategies of
+ﬁssurization, for example, relying on “independent contractors” to avoid or minimize their obligations under collective
+labor contracts. In Europe, a key court ruling in 2014 expanded on the precedent set by the 1999 case in ways that sig-
+nal stronger support for such “ﬁssurized” workers. This ruling extended the antitrust exemption to protect the orga-
+nizing efforts of what are termed “false [or “fake”] self-employed” workers who are de jure independent but de facto
+dependent wage employees (Šmejkal, 2015). Following on these decisions, the Commission adopted Guidelines in
+2022 that explicitly protect independent contractors who seek to organize as long as they are “in a situation compara-
+ble to workers” and are in a “weak negotiating position” (European Commission, 2022).
+     In the United States, by contrast, antitrust law was historically weaponized to hobble labor unions. Well into
+the 20th century, US courts interpreted the Sherman Act to prohibit many union activities, and even allowed
+companies to collect damages from workers who went on strike. While Congress enacted explicit antitrust labor
+exemptions that became fully institutionalized in case law during the New Deal period, labor organizing involving
+independent contract workers is still subject to antitrust liability (Paul, 2015).16 Efforts on the part of gig workers
+to organize have thus been met with private antitrust challenges and charges of illegal price ﬁxing
+(Steinbaum, 2019). One of the most high-proﬁle such cases involved the Chamber of Commerce’s successful chal-
+lenge to the City of Seattle’s enactment of legislation that would have allowed rideshare drivers to bargain collec-
+tively with Uber and Lyft.17 Such lawsuits have so far undermined virtually all legislative efforts to expand
+collective bargaining rights to cover independent contractors.18
+
+© 2023 The Authors. Regulation & Governance published by John Wiley & Sons Australia, Ltd.                          1095
+
+
+--- PAGE BREAK ---
+
+                                                                                                                                                  17485991, 2024, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/rego.12570 by Capes, Wiley Online Library on [30/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+C. Foster and K. Thelen                                                                                            BRANDEIS IN BRUSSELS?
+
+
+4.3. Policing the exploitation of private economic power
+The dominant through line in Brandeis’ work is his concern about economic concentration and the many abuses
+that can stem from it. While many economists of his day viewed monopoly as inevitable, reﬂective of technologi-
+cal developments and economies of scale, Brandeis argued that consolidation often emerged through predatory
+tactics that had more to do with the exertion of economic power than with economies of scale or technical inno-
+vation (Berk, 2009; McCraw, 1986). Although he recognized that certain industries were characterized by techni-
+cal requirements that required a degree of scale, he also argued that large-scale production in many instances
+undermined economic progress because monopolistic industries were likely to squash innovations that challenged
+established, standardized processes. Brandeis was therefore highly attuned to questions of economic power—and
+the ways such power could undermine both the freedom of producer groups and the legitimacy of democracy
+itself. Consequently, he believed that larger companies should be subjected to more stringent rules than smaller
+companies and that certain predatory, exclusionary, and abusive practices should be forbidden in most cases.
+     The European Union also places concerns about the exploitation of economic power at the center of its com-
+petition law. The Treaty of Rome dedicates an entire article to the “abuse of dominance,” which regulates the
+restrictive practices and agreements of undertakings with substantial market shares. Under the Treaty, this
+includes such things as “unfair purchase or selling prices or other unfair trading conditions,” “applying dissimilar
+conditions to equivalent transactions with other trading parties,” and “making the conclusion of contracts subject
+to acceptance by the other parties of supplementary obligations.” In its ﬁrst abuse of dominance investigation,
+which involved the American Continental Can Company, at the time the world’s largest producer of metal cans,
+the Commission charged the company with distorting the competitive process by creating barriers to entry and
+restricting the liberty of its smaller European distributors. In developing the case, the Commission drew directly
+from competition rules based on the ordoliberal economic ideology outlined above (Behrens, 2018). The CJEU
+upheld the Commission’s decision, afﬁrming the bureaucratic body’s substantive determination that abuse of
+dominance covered not only exclusionary practices that directly harmed consumers but also those that caused
+indirect harm through “their impact on an effective competition structure” (Schweitzer, 2008). Subsequent Com-
+mission and court decisions reinforced this orientation, establishing a “special obligation” on large companies not
+to exploit their economic power, and prohibiting a range of “unfair” methods of competition (Behrens, 2018).
+     Empirical analyses suggest that, at both the European and national levels, regulators actively apply the abuse
+of dominance provision to address a wide range of exclusionary practices that reﬂect concerns over private eco-
+nomic power. There are now extensive rules, adopted into both hard and soft law, that prohibit dominant compa-
+nies from engaging in a range of practices, including the creation of barriers to entry, the use of predatory pricing
+and price discrimination, the refusal to sell or buy products from competitors, and “squeezing” the proﬁts of sup-
+pliers or distributors below a certain margin (Graf & Mostyn, 2022). Dominant companies also have extensive
+obligations to facilitate access to core infrastructures (i.e., essential facilities), to license intellectual property, and
+to provide interoperability information if such access is deemed necessary for a company to effectively compete.
+Since the year 2000, the European Commission has ﬁnalized more than 70 infringement and commitment deci-
+sions under this article across a wide range of industries (Foster, 2022). Commission decisions have generated
+more than €13B in ﬁnes and mandated sweeping behavioral changes to some of the world’s most powerful
+companies.
+     Most of these cases have sought to address power inequalities between larger and smaller ﬁrms. Of the
+39 Commission abuse of dominance decisions ﬁnalized between 2009 and 2019, nearly half involved facilitating
+access for a competitor to an “essential facility,” resource, or other infrastructure controlled by a dominant player;
+21% involved stopping a dominant company from leveraging its power in one market over another one in a way
+that limited opportunities for competitors to compete; and 15% involved preventing predatory behavior that was
+seen as foreclosing the competitive process (Foster, 2022). Perhaps most notably, the European Commission has
+pursued major cases against dominant online platform companies such as Google, Amazon, Apple, and Meta
+(Facebook), which required them not only to pay large ﬁnes in some cases but also to make major changes to
+their business models.19
+     The EU has also established a Merger Regulation that prohibits mergers or acquisitions that create or enhance
+forms of dominance that would distort or impair effective competition. Although the EU has increasingly made
+economic efﬁciency a key criterion, it has taken a tougher line than the United States on vertical and
+1096                                                 © 2023 The Authors. Regulation & Governance published by John Wiley & Sons Australia, Ltd.
+
+
+--- PAGE BREAK ---
+
+                                                                                                                           17485991, 2024, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/rego.12570 by Capes, Wiley Online Library on [30/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BRANDEIS IN BRUSSELS?                                                                            C. Foster and K. Thelen
+
+
+conglomerate mergers (Gifford & Kudrle, 2015, pp. 57–62). Recent empirical studies demonstrate that the EU
+has a systematically higher merger challenge rate in proposed mergers involving dominant ﬁrms (Bergman
+et al., 2019).
+    Many of these previous interventions and ongoing investigations were and are of course post hoc. They stem
+from investigations that are initiated long after violations have occurred and which usually take years to investi-
+gate and ﬁnalize. Brandeis, as discussed earlier, preferred “prophylactic” approaches to economic dominance by
+encouraging business rivalry to take productive rather than predatory forms (Winerman, 2003, pp. 34–38). As he
+explained to the US House of Representatives in 1914, an effective competition regulator would “create condi-
+tions which will render less likely the existence of restraints of trade and monopolies,” rather than just “correct
+them when they are discovered” (quoted in Berk, 2009, p. 95). The new European Digital Markets Act is clearly
+designed to confront economic coercion more preemptively—preventing abuses before they occur. This legisla-
+tion was spearheaded by the European Commission and deeply shaped by its previous experience enforcing com-
+petition law in the high technology sector. It designates a number of large online platforms as “gatekeeper” ﬁrms
+and then subjects these ﬁrms to a range of stringent requirements designed to ensure market fairness and
+contestability (Larouche & de Streel, 2021). For instance, the DMA will obligate companies to apply fair and
+non-discriminatory conditions to the ranking of services and products, a principle that was ﬁrst developed in the
+Google cases. The broader requirement for business users to receive the data that they generate on the platform
+parallels in many ways Brandeis’ concern for preserving the freedom of all market players and preventing preda-
+tion by the powerful over the weak.
+    The robust enforcement record seen in Europe is the mirror image of the United States, where US regulators
+have not successfully prosecuted a major anti-monopoly case since the 1990s. Much of this relates to the substan-
+tive and procedural rules developed by courts. For instance in a 2018 Supreme Court decision, Ohio v. American
+Express Co., the Court blocked a state Attorneys General lawsuit challenging American Express’ practice of con-
+tractually forbidding merchants from encouraging customers to use cheaper payment options, ruling that such
+restrictive practices were “pro-competitive” since they had created incentives for American Express to invest in
+expanding its credit card network (Wu, 2018b). In 2019, a key appellate court blocked an FTC challenge to
+Qualcomm’s exclusive licensing agreements as anticompetitive, ruling that the agency had failed to demonstrate
+that the company’s policies had hurt consumers. Most recently, FTC efforts to take a more proactive approach to
+merger regulation involving dominant companies such as Microsoft and Meta, have similarly been blocked by US
+courts.20 This suggests that even in an area where Congress has delegated to regulators signiﬁcant discretionary
+authority under legislation, the broader adversarial legal structure limits this discretion in practice.
+
+
+5. The role of social learning in the evolution of competition law
+Over a century ago, progressive reformers such as Brandeis looked to Europe for inspiration as they sought to
+develop governance systems to upgrade competition without encouraging consolidation. In the meantime, Ame-
+rica’s “monopoly problem” has once again worked its way to the center of public debate, and the emergence of a
+strong “new Brandeisian” critique of American antitrust has opened up new possibilities for addressing it
+(Khan, 2016, 2018; Wu, 2018a). President Biden’s appointment of Lina Khan and Jonathan Kanter, two leading
+ﬁgures in the neo-Brandeisian movement, to head the FTC and Division of Antitrust, respectively, may herald
+important changes. In this article, we have traced the origins and trajectory of European competition law and
+argued that the EU’s administrative institutions have facilitated processes of social learning that have contributed
+to the development of a more “Brandeisian” approach in European competition law and policy in the present.
+    Although it is far from a perfect expression, the EU competition regime embodies some of the core features
+of the system that Brandeis envisioned and championed. In particular, the EU’s more proactive and responsive
+administrative system of economic management allows expert administrators to distinguish between healthy
+(competition-enhancing) and unhealthy (competition-destroying) forms of coordination and to continually
+update these rules in line with rapidly evolving markets. EU competition law thus permits a good deal of coopera-
+tion, especially between smaller competitors, while also helping to protect coordination among these ﬁrms by
+embedding competition within a body of rules that limits aggressive forms of competition and exploitative behav-
+iors by dominant ﬁrms that would jeopardize the economic freedom of less powerful producer groups.
+© 2023 The Authors. Regulation & Governance published by John Wiley & Sons Australia, Ltd.                        1097
+
+
+--- PAGE BREAK ---
+
+                                                                                                                                              17485991, 2024, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/rego.12570 by Capes, Wiley Online Library on [30/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+C. Foster and K. Thelen                                                                                        BRANDEIS IN BRUSSELS?
+
+
+    In line with Brandeis’ original vision for the FTC, the European competition regime has made it possible for
+smaller ﬁrms to pursue a range of cooperative strategies that have allowed them to more effectively compete
+against bigger ﬁrms. As long as ﬁrms, workers, and the associations that represent them do not clearly discrimi-
+nate against economic actors located in other EU member states or violate a limited number of hard-core prohi-
+bitions, they have rarely faced a challenge from the Commission. Indeed, as we have seen, many forms of
+coordination have been explicitly endorsed by the Commission, especially if they were seen as increasing eco-
+nomic productivity, facilitating economic cooperation across member states, or achieving important social
+functions.
+    This model, as we have shown, does not reﬂect a static approach that is impervious to change or external
+inﬂuence. Quite the contrary: it is the culmination of a process of long-term social learning, one in which
+European policy makers have drawn insights from Europe’s own experience and traditions, while responding as
+well to the inﬂuence of foreign regulatory regimes—including, of course the United States. The EU system has
+been able to adapt its institutions and practices in response to rapidly changing markets and new research in part
+because it has been outward-looking and because regulators possess signiﬁcant discretion over the procedures
+and principles used to apply competition law in response to practical experience, economic analysis, and chang-
+ing market dynamics.
+    By contrast, social learning in the United States has been funneled through federal courts that are committed
+to views that are deeply hostile toward administrative agencies, and have therefore circumscribed regulators’ dis-
+cretion. This has resulted in general rules that are based on particular economic ideologies more than empirical
+knowledge of how the economy works in practice, and a protracted and cumbersome process of institutional
+change that limits regulators’ ability to proactively respond to new developments. The adversarial legal structure
+has also made social learning more parochial, with policy evolution drawing largely on American precedents,
+American doctrines, and studies of American experiences—all interpreted through the lens of a particular set of
+economic theories. This inward-looking approach to social learning stands in sharp contrast to the Progressive
+Era, when US policymakers were deeply engaged in cross-national lesson-drawing in antitrust as well as a variety
+of other policy ﬁelds. Indeed, as we saw, many of Brandeis’ core ideas—from the beneﬁts of trade association gov-
+ernance to the need for an independent but ﬂexible administrative system of “regulated competition”—were
+directly inspired by industry practices and private governance structures prominent in western and northern
+Europe at the turn of the last century.
+    Our analysis has implications for the comparative literature in antitrust as well as the broader literature on
+social learning. A growing literature in comparative political economy and economic sociology have noted an
+Atlantic Divide in Antitrust, especially on the question of economic dominance. In explaining these differences,
+some scholars have emphasized the role of business interests (Philippon, 2019) while others stress the distinct
+professional ideas (Ergen & Kohl, 2019) and “competition paradigms” that have been institutionalized into policy
+and jurisprudence (Foster, 2022). Our study builds on these insights by highlighting how differences in adminis-
+trative law may contribute to this divide, by shaping how particular ideas or methodologies are institutionalized
+and put into practice.
+    Relatedly, the study has implications for the role of economics in competition policy. While the contemporary
+antitrust debate in the United States usually associates “economics” with non-enforcement, this is neither faithful
+to Brandeis’ vision nor the European approach. Indeed, the EU case shows that economic analysis is an essential
+component of an effective system of regulated competition. Instead of asking whether economics should be a cri-
+terion in decision-making, it may be more helpful to consider how economics is institutionalized and especially
+how broadly economic impact is construed.
+    Finally, our study contributes to the broader literature on social learning. The organization of administra-
+tive law has not been an explicit focus of the literatures in social learning and cross-national lesson drawing.
+Yet as Wilson (1989) reminds us: “Judges and bureaucrats see the world differently, partly because of their
+different backgrounds but mostly because of the tasks they perform and the organizations in which they
+operate” (666). As we have shown in this case study, administrative systems that give expert agencies the
+discretion to develop substantive and procedural rules may be better capable of developing and enforcing
+tailored rules that incorporate both theoretical and practical knowledge and nimbler in updating these rules
+in response to acquired experience and new information. Judicialized regulatory policy can be important for
+1098                                             © 2023 The Authors. Regulation & Governance published by John Wiley & Sons Australia, Ltd.
+
+
+--- PAGE BREAK ---
+
+                                                                                                                                       17485991, 2024, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/rego.12570 by Capes, Wiley Online Library on [30/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BRANDEIS IN BRUSSELS?                                                                                        C. Foster and K. Thelen
+
+
+establishing some checks on bureaucratic power, but administrative policy may be better suited to more
+dynamic, ongoing social learning.
+    Taking a step back to observe the long history of antitrust, from its emergence in North America at the turn
+of the 20th century to its ongoing evolution in the European Union today, it becomes clear that social learning
+and cross-national borrowing have played essential roles in the evolution of the European competition regime.
+Today, as the American competition policy system itself undergoes signiﬁcant reform, there is once again an
+opportunity for social learning and meaningful cross-national lesson drawing. Much as Brandeis learned from
+the European model at the beginning of the 20th century, New Brandeisians can beneﬁt from a consideration of
+European competition law today.
+
+
+
+ACKNOWLEDGEMENTS
+For valuable suggestions and comments on an earlier version of this manuscript, the authors thank Gerald Berk,
+James Brandt, and ﬁve anonymous reviewers. For providing institutional support, we thank Tim Büthe, Eugénia
+da Conceição-Heldt, the Munich School of Politics and Public Policy at the Technical University of Munich, and
+SOAS University of London.
+
+
+
+DATA AVAILABILITY STATEMENT
+The data that support the ﬁndings of this study are available from the corresponding author upon reasonable
+request.
+
+
+
+Endnotes
+ 1
+     For a more positive account of the deliberative qualities of “aggressive judicial review,” see Sunstein (1989).
+ 2
+     Paul (2021), Roy (1999), and Sklar (1988) all emphasize that common law itself was not entirely hostile toward combina-
+     tions among ﬁrms, and indeed Roy in particular documents the existence of many such arrangements in the
+     United States before the Sherman Act. However, scholars agree that the Supreme Court’s interpretation of the Sherman
+     Act was particularly intolerant of most forms of coordination across different ﬁrms.
+ 3
+     For instance, in 1890, the German Reichsgericht ruled that businesses were permitted to regulate the market through
+     “self-help on a cooperative basis.” The German High Court afﬁrmed this precedent in the 1897 Saxon Wood Pulp deci-
+     sion, which made cartel agreements legally enforceable. See generally Nörr (1995).
+ 4
+     Thus, for example, cooperatives—both worker and small producer and retailing cooperatives—enjoyed forbearance in
+     Europe on a scale unknown in the United States (Spicer, 2024; Thelen, 2023).
+ 5
+     Even in Britain, America’s closest European (and common-law) cousin, trade associations grew unencumbered through-
+     out the early 20th century and the interwar period, taking an active role in managing competition among their members
+     (Mercer, 1995: especially chapter 2).
+ 6
+     He went on to specify that at a minimum, such a board should have “ample powers of investigation, not only as mainly
+     for the purpose of detecting and exposing lawless business, but in order to foster and build up law-abiding business” …
+     to co-operate with the Department of Justice in “supply[ing] the court with … detailed and expert knowledge” to inform
+     the administration of the Sherman law” … [and] “to aid in securing compliance with the law” (Brandeis, 1913 in
+     Fraenkel, ed. 1934, pp. 134–35).
+ 7
+     Still today, the agency’s authority to write rules regulating unfair competition remains dormant, and recent efforts to
+     revive this authority face stiff opposition in the courts. See generally CRS (2023).
+ 8
+     See FTC v. Gratz, 253 U.S. 421 (1920).
+ 9
+     From 1915 to 1924, courts dismissed 287 of 382 FTC restraint-of-trade orders; an additional 28 orders were lost by the
+     FTC during judicial review. Calculations by the authors using Posner (1970).
+10
+     For a complete list of Horizontal Block Exemption Regulations, see https://competition-policy.ec.europa.eu/antitrust/
+     legislation/horizontal-block-exemptions_en.
+© 2023 The Authors. Regulation & Governance published by John Wiley & Sons Australia, Ltd.                                    1099
+
+
+--- PAGE BREAK ---
+
+                                                                                                                                                      17485991, 2024, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/rego.12570 by Capes, Wiley Online Library on [30/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+C. Foster and K. Thelen                                                                                                BRANDEIS IN BRUSSELS?
+
+11
+     Australia’s competition law similarly allows for forbearance to be granted to cooperative arrangements between businesses
+     where the competition authority determines that the beneﬁts to the public outweigh the possible anti-competitive effects
+     (McCrystal, 2022).
+12
+     The 2023 Horizontal Block Exemption Regulations and Horizontal Guidelines are available at https://ec.europa.eu/
+     commission/presscorner/detail/en/IP_23_2990.
+13
+     See for instance “Antitrust Guidelines for Collaborations Among Competitors,” Federal Trade Commission, 2000. https://
+     www.ftc.gov/sites/default/ﬁles/documents/public_events/joint-venture-hearings-antitrust-guidelines-collaboration-among-
+     competitors/ftcdojguidelines-2.pdf.
+14
+     For instance, Link (2021) identiﬁes 614 registered research joint ventures in the United States from 1986 to 1996. In
+     Europe, over the same period, 4754 were registered in the European Union. See Hernan, Marin, and Siotis (2003,
+     pp. 79–80).
+15
+     See Becu, C-22/98, EU:C:1999:419, paragraph 26 and Albany International BV v. Stichting Bedrijfspensioenfonds
+     Textielindustrie (1999) C-67/96, [1999] ECR I-5751, [2000] 4 CMLR 446.
+16
+     See Hovenkamp (2023) for a different, more sanguine perspective on labor and antitrust.
+17
+     Chamber of Commerce v. Seattle 890 F.3d 769 (9th Cir. 2018). For an overview of the case, see https://harvardlawreview.
+     org/print/vol-132/chamber-of-commerce-v-city-of-seattle/. The city responded to the loss by extending its statutory mini-
+     mum wage laws to rideshare drivers; see https://www.nytimes.com/2020/09/29/business/economy/seattle-uber-lyft-
+     drivers.html.
+18
+     An exception to this pattern is a ruling by the First Circuit in 2022 that allowed jockeys to bargain collectively. See:
+     https://www.scotusblog.com/2022/10/in-puerto-rico-horse-racing-dispute-a-looming-question-over-independent-
+     contractors/.
+19
+     The Amazon cases were closed after the company agreed to extensive commitments. See https://ec.europa.eu/commission/
+     presscorner/detail/en/ip_22_7777. For the Commission’s Statement of Objection against Meta, see https://ec.europa.eu/
+     commission/presscorner/detail/en/ip_22_7728. For the Commission’s statement of objection against Apple, see https://ec.
+     europa.eu/commission/presscorner/detail/en/ip_22_2764.
+20
+     From January 2021 to July 2023, the FTC/DOJ initially lost 4 of 4 litigated cases involving non-horizontal mergers, and
+     4 of 7 litigated cases involving horizontal mergers. See https://www.reuters.com/legal/transactional/assessing-state-affairs-
+     ftcdoj-merger-enforcement-2023-07-10/.
+
+
+
+References
+Adelstein, R. P. (1989). “Islands of conscious power”: Louis D. Brandeis and the modern corporation. Business History Review,
+     63(3), 614–656.
+Averitt, N. W. (1979). The meaning of unfair methods of competition in Section 5 of the Federal Trade Commission Act. Bos-
+     ton College Law Review, 21, 227.
+Behrens, P. (2018). The ordoliberal concept of ‘abuse’ of a dominant position and its impact on article 102 TFEU. In F. Di
+     Porto & R. Podszun (Eds.), Abusive practices in competition law (pp. 5–25). Edward Elgar Publishing.
+Bergman, M. A., Coate, M. B., Mai, A. T., & Ulrick, S. W. (2019). Does merger policy converge after the 2004 European Union
+     reform? Journal of Competition Law & Economics, 15(1), 664–689.
+Berk, G. (1996). Communities of competitors: Open price associations and the American state, 1911–1929. Social Science His-
+     tory, 20(3), 375–400.
+Berk, G. (2009). Louis D. Brandeis and the making of regulated competition, 1900–1932. Cambridge University Press.
+Bork, R. H. (1978). The antitrust paradox: A policy at war with itself. Basic Books.
+Brandeis, L. (1912). Trusts and the export trade. Collier’s Weekly. https://louisville.edu/law/library/special-collections/the-louis-
+     d.-brandeis-collection/business-a-profession-chapter-14
+Brandeis, L. (1913). Competition that kills. Harper’s Weekly. https://louisville.edu/law/library/special-collections/the-louis-
+     d.-brandeis-collection/business-a-profession-chapter-15
+Brandeis, L. (1914). Other people’s money: And how the bankers use it. F.A. Stokes.
+Breyer, S. (1986). Judicial review of questions of law and policy. Administrative Law Review, 38(4), 363–398.
+Buch-Hansen, H., & Wigger, A. (2011). The politics of European competition regulation: A critical political economy perspec-
+     tive). Routledge.
+Burke, T. F., & Barnes, J. (2017). Varieties of legal order: The politics of adversarial and bureaucratic legalism. Routledge.
+Büthe, T. (2007). The politics of competition and institutional change in European Union: The ﬁrst ﬁfty years. In S. Meunier &
+     K. R. McNamara (Eds.), Making history: European integration and institutional change at ﬁfty (pp. 175–193). Oxford
+     University Press.
+Chopra, R., & Khan, L. M. (2020). The case for “unfair methods of competition” rulemaking. The University of Chicago Law
+     Review, 87(2), 357–380.
+1100                                                     © 2023 The Authors. Regulation & Governance published by John Wiley & Sons Australia, Ltd.
+
+
+--- PAGE BREAK ---
+
+                                                                                                                                        17485991, 2024, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/rego.12570 by Capes, Wiley Online Library on [30/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BRANDEIS IN BRUSSELS?                                                                                         C. Foster and K. Thelen
+
+
+European Commission. (1980). Ninth report on competition policy, Published in conjunction with the Thirteenth General
+      Report on the Activities of the European Communities. European Economic Community. Brussels. http://tinyurl.com/
+      a6f42asn
+European Commission. (2009). Commission Staff Working Paper accompanying the Communication from the Commission
+      to the European Parliament and Council: Report on the functioning of Regulation 1/2003, 29 April. COM(2009) 206 ﬁnal,
+      Brussels. https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52009SC0574
+European Commission. (2022). Communication from the commission: Guidelines on the application of Union competition law
+      to collective agreements regarding the working conditions of solo self-employed persons, 30 September. 2022/C 374/02. Brus-
+      sels. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52022XC0930%2802%29
+CRS. (2023). The FTC’s competition rulemaking authority. Congressional Research Service https://crsreports.congress.gov/
+      product/pdf/LSB/LSB10635
+Cseres, K. (2010). Comparing laws in the enforcement of EU and National Competition Laws. European Journal of Legal
+      Studies, 3(1), 7–44.
+Djelic, M.-L. (2001). Exporting the American model: The postwar transformation of European business. Oxford University
+      Press.
+Dolowitz, D., & Marsh, D. (1996). Who learns what from whom: A review of the policy transfer literature. Political Studies,
+      44(2), 343–357.
+Dorfman, J. (1955). The role of the German Historical School in American economic thought. The American Economic
+      Review, 45(2), 17–28.
+Ergen, T., & Kohl, S. (2019). Varieties of economization in competition policy: Institutional change in German and American
+      antitrust, 1960–2000. Review of International Political Economy, 26(2), 256–286.
+Espeli, H. (2015). Transparency of cartels and cartel registers: A regulatory innovation from Norway? In Regulating competi-
+      tion (pp. 133–151). Routledge.
+Feldenkirchen, W. (1992). Competition policy in Germany. Business and Economic History, 21, 257–269.
+Fellman, S., & Shanahan, M. (2015). Regulating competition: Cartel registers in the twentieth-century world. Routledge.
+Foster, C. (2022). Varieties of neoliberalism: Courts, competition paradigms and the Atlantic divide in anti-trust. Socio-
+      Economic Review, 20(4), 1653–1678.
+Foster, C. (2024). Legalism without adversarialism?: Bureaucratic legalism and the politics of regulatory implementation in the
+      European Union. Regulation & Governance, 18(1), 53–72.
+Fraenkel, O. K. (Ed.). (1934). The curse of bigness: Miscellaneous papers of Louis D. Brandeis, 1856–1941. Viking Press.
+Freyer, T. A. (2006). Antitrust and global capitalism, 1930–2004. Cambridge University Press.
+Georgieva, Z. (2015). Soft law in EU Competition Law and its judicial reception in member states: A theoretical perspective.
+      German Law Journal, 16(2), 223–260.
+Gerber, D. J. (1994). Constitutionalizing the economy: German neo-liberalism, competition law and the “New” Europe. The
+      American Journal of Comparative Law, 42(1), 25–84.
+Gerber, D. J. (1998). Law and competition in twentieth century Europe: Protecting Prometheus. Oxford University Press.
+Gidron, N., & Kaplan, Y. (2017). Institutional gardening: The supreme court in economic liberalization. Lewis & Clark Law
+      Review, 21, 685.
+Gifford, D. J., & Kudrle, R. T. (2015). The Atlantic divide in antitrust: An examination of US and EU competition policy. Uni-
+      versity of Chicago Press.
+Gillingham, J. (2004). Coal, steel, and the rebirth of Europe, 1945–1955: The Germans and French from Ruhr conﬂict to Eco-
+      nomic Community. Cambridge University Press.
+Graf, T., & Mostyn, H. (2022). The dominance and monopolies review: European Union. The Law Reviews, 10. https://
+      thelawreviews.co.uk/title/the-dominance-and-monopolies-review/european-union
+Hacker, J. S., Hertel-Fernandez, A., Pierson, P., & Thelen, K. (2022). The American political economy: Markets, power, and
+      the meta politics of US economic governance. Annual Review of Political Science, 25, 197–217.
+Hall, P. A. (1993). Policy paradigms, social learning, and the state: The case of economic policymaking in Britain. Comparative
+      Politics, 25(3), 275–296.
+Hall, P. A., & Soskice, D. (2001). An introduction to varieties of capitalism. In P. A. Hall & D. Soskice (Eds.), Varieties of capi-
+      talism: The institutional foundations of comparative advantage. Oxford University Press.
+Harding, C., & Joshua, J. (2010). Regulating cartels in Europe: A study of legal control of corporate delinquency. Oxford Univer-
+      sity Press.
+Hawk, B. E. (1972). Antitrust in the EEC—the ﬁrst decade. Fordham Law Review, 41, 229.
+Hawley, E. W. (1979). The great war and the search for a modem order. St. Martins Press.
+Heclo, H. (1974). Modern social politics in Britain and Sweden: From relief to income maintenance. Yale University Press.
+Hernan, R., Marin, P. L., & Siotis, G. (2003). An empirical evaluation of the determinants of research joint venture formation.
+      The Journal of Industrial Economics, 51(1), 75–89.
+Himmelberg, R. (1976). The origins of the National Recovery Administration. Fordham University Press.
+Höpner, M., & Schäfer, A. (2012). Embeddedness and regional integration: Waiting for Polanyi in a Hayekian setting. Interna-
+      tional Organization, 66(3), 429–455.
+Horowitz, D. L. (2010). Courts and social policy. Brookings Institution Press.
+Hovenkamp, H. (2005). The antitrust enterprise: Principle and execution. Harvard University Press.
+Hovenkamp, H. (2023). Worker welfare and antitrust. University of Chicago Law Review. 90(2), 511–543.
+Jabko, N. (2006). Playing the market: A political strategy for uniting Europe, 1985–2005. Cornell University Press.
+Kalintri, A. (2016). What’s in a name? The marginal standard of review of “complex economic assessments” in EU competi-
+      tion enforcement’. Common Market Law Review, 53(5), 1283–1316.
+© 2023 The Authors. Regulation & Governance published by John Wiley & Sons Australia, Ltd.                                     1101
+
+
+--- PAGE BREAK ---
+
+                                                                                                                                                    17485991, 2024, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/rego.12570 by Capes, Wiley Online Library on [30/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+C. Foster and K. Thelen                                                                                              BRANDEIS IN BRUSSELS?
+
+
+Kagan, R. A. (2019). Adversarial Legalism: The American Way of Law. Harvard University Press.
+Kelleher, G. W. (1967). The common market antitrust laws: The ﬁrst ten years. The Antitrust Bulletin, 12, 1219–1252.
+Khan, L. (2016). Amazon’s antitrust paradox. Yale Law Journal, 126(3), 710–805.
+Khan, L. (2018). The new Brandeis movement: America’s antimonopoly debate. Journal of European Competition Law & Prac-
+      tice, 9(3), 131–132.
+Khan, L. (2019). Book review: The end of antitrust history revisited. Harvard Law Review, 133, 1655–1682.
+Kovacic, W. E. (1982). The Federal Trade Commission and congressional oversight of antitrust enforcement. Tulsa Law Jour-
+      nal, 17(4), 587–671.
+Kovacic, W. E. (2021). Root and branch reconstruction: The modern transformation of US antitrust law and policy? Antitrust,
+      35(3), 46–56.
+Lamoreaux, N. R. (1988). The great merger movement in American business, 1895–1904. Cambridge University Press.
+Lapidus, J. (2013). Why such a permissive attitude towards monopolistic associations?: Social democracy up to the ﬁrst Swed-
+      ish law on cartels in 1925. Scandinavian Journal of History, 38(1), 65–88.
+Larouche, P., & de Streel, A. (2021). The European digital markets act: A revolution grounded on traditions. Journal of
+      European Competition Law & Practice, 12(7), 542–560.
+Link, A. N. (2021). Collaborative R&D and the National Research Joint Venture Database: A statistical analysis. Emerald Pub-
+      lishing Limited.
+Majone, G. (2001). Two logics of delegation: Agency and ﬁduciary relations in EU governance. European Union Politics, 2(1),
+      103–122.
+Mansbridge, J. (2015). A minimalist deﬁnition of deliberation. Deliberation and development: Rethinking the role of voice and
+      collective action in unequal societies, 27–50.
+Mashaw, J. L. (1985). Prodelegation: Why administrators should make political decisions. The Journal of Law, Economics, and
+      Organization, 1(1), 81–100.
+Mashaw, J. L. (2010). Bureaucracy, democracy, and judicial review.
+McCraw, T. K. (1986). Prophets of regulation: Charles Francis Adams, Louis D. Brandeis, James M. Landis, Alfred E. Kahn.
+      Harvard University Press.
+McCrystal, S. (2022). The public beneﬁt of liberalizing coordination between small economic players: the Australian experi-
+      ence.        https://lpeproject.org/blog/the-public-beneﬁt-of-liberalizing-coordination-between-small-economic-players-the-
+      australian-experience/
+Melnick, R. S. (2010). Regulation and the courts: The case of the Clean Air Act. Brookings Institution Press.
+Mercer, H. (1995). Constructing a competitive order: The hidden history of British antitrust policies. Cambridge University
+      Press.
+Mestmacker, E.-J. (1972). Concentration and competition in the EEC. Journal of World Trade Law, 6(6), 615–647.
+Milward, A. S. (1984). The reconstruction of Western Europe, 1945–51. Routledge.
+Monti, G. (2021). Collective labour agreements and EU competition law: Five reconﬁgurations. European Competition Journal,
+      17, 1–31.
+Nathani, S. (1992). From the United States to Europe: A comparative study of production joint ventures. Duke Journal of
+      Comparative & International Law, 2, 163.
+Nörr, K. W. (1995). Law and market organization: The historical experience in Germany from 1900 to the law against
+      restraints of competition (1957). Journal of Institutional and Theoretical Economics (JITE)/Zeitschrift für die gesamte
+      Staatswissenschaft, 151(1), 5–20.
+Ordoñez-De-Haro, J. M., Borrell, J. R., & Jiménez, J. L. (2018). The European commission’s ﬁght against cartels (1962–2014):
+      A retrospective and forensic analysis. Journal of Common Market Studies, 56(5), 1087–1107.
+Paul, S. (2015). The enduring ambiguities of antitrust liability for worker collective action. Loyola University Chicago Law
+      Journal, 47, 969–1048.
+Paul, S. (2020). Antitrust as allocator of coordination rights. UCLA Law Review, 67, 378–431.
+Paul, S. (2021). Recovering the moral economy foundations of the Sherman act. Yale Law Journal, 131, 175–255.
+Peritz, R. J. (1996). Competition policy in America: History, rhetoric, law. Oxford University Press.
+Philippon, T. (2019). The great reversal: How America gave up on free markets. Harvard University Press.
+Phillips Sawyer, L. (2011). The economics and ideology of American fair trade: Louis Brandeis and Open Price Associations,
+      1911-1919. Business & Economic History On-Line, 9, 1–10. Available at SSRN: https://ssrn.com/abstract=2274308.
+Phillips Sawyer, L. (2018). American fair trade: Proprietary capitalism, corporatism, and the ‘New Competition,’ 1890–1940.
+      Cambridge University Press.
+Pollack, M. A. (2003). The engines of European integration: Delegation, agency, and agenda setting in the EU. OUP Oxford.
+Posner, R. A. (1970). A statistical study of antitrust enforcement. The Journal of Law and Economics, 13(2), 365–419.
+Posner, R. A. (1979). The Chicago school of antitrust analysis. University of Pennsylvania Law Review, 127(4), 925–948.
+Rabkin, J. A. (1989). Judicial compulsions: How public law distorts public policy.
+Rodgers, D. T. (1998). Atlantic crossings: Social politics in a progressive age. Harvard University Press.
+Rose, R. (1991). What is lesson-drawing? Journal of Public Policy, 11(1), 3–30.
+Rose, R. (1993). Lesson-drawing in public policy: A guide to learning across time and space. Chatham House Publishers.
+Roy, W. G. (1999). Socializing capital: The rise of the large industrial corporation in America. Princeton University Press.
+Rybnicek, J. M., & Wright, J. D. (2013). Deﬁning section 5 of the FTC act: The failure of the common law method and the
+      case for formal agency guidelines. George Mason Law Review, 21, 1287.
+Sabel, C. F., & Zeitlin, J. (2008). Learning from difference: The new architecture of experimentalist governance in the EU.
+      European Law Journal, 14(3), 271–327.
+
+1102                                                   © 2023 The Authors. Regulation & Governance published by John Wiley & Sons Australia, Ltd.
+
+
+--- PAGE BREAK ---
+
+                                                                                                                                     17485991, 2024, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/rego.12570 by Capes, Wiley Online Library on [30/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BRANDEIS IN BRUSSELS?                                                                                      C. Foster and K. Thelen
+
+
+Scharpf, F. W. (2010). The asymmetry of European integration, or why the EU cannot be a ‘social market economy’. Socio-
+      Economic Review, 8(2), 211–250.
+Schneiberg, M. (2007). What’s on the path? Path dependence, organizational diversity and the problem of institutional change
+      in the US economy, 1900–1950. Socio-Economic Review, 5(1), 47–80.
+Schröter, H. G. (1996). Cartelization and decartelization in Europe, 1870-1995: Rise and decline of an economic institution.
+      Journal of European Economic History, 25(1), 129.
+Schweitzer, H. (2008). The history, interpretation and underlying Principles of Sec. 2 Sherman Act and Art. 82 EC. In C.-D.
+      Ehlermann & M. Marquis (Eds.), European competition law annual: 2007 a reformed approach to Article 82 EC (pp. 119–
+      164). Hart Publishing.
+Sklar, M. J. (1988). The corporate reconstruction of American capitalism, 1890–1916: The market, the law, and politics. Cam-
+      bridge University Press.
+Skowronek, S. (1982). Building a new American state: The expansion of national administrative capacities, 1877–1920. Cam-
+      bridge University Press.
+Šmejkal, V. (2015). Competition law and the social market economy goal of the EU. International Comparative Jurisprudence,
+      1(1), 33–43.
+Spicer, J. S. (2024). Cooperative enterprise in comparative perspective: Exceptionally un-American? Oxford University Press.
+Steinbaum, M. (2019). Antitrust, the gig economy, and labor market power. Law & Contemporary Problems, 82, 45–64.
+Steinbaum, M., & Stucke, M. E. (2020). The effective competition standard. The University of Chicago Law Review, 87(2),
+      595–623.
+Stigler, G. J. (1971). The theory of economic regulation. The Bell Journal of Economics and Management Science, 2, 3–21.
+Strum, P. (1993). Brandeis: Beyond progressivism. University Press of Kansas.
+Sunstein, C. R. (1989). On the costs and beneﬁts of aggressive judicial review of agency action. Duke Law Journal, 522, 522.
+Teles, S. M. (2008). The rise of the conservative legal movement: The battle for control of the law. Princeton University Press.
+Thatcher, M., & Sweet, A. S. (2002). Theory and practice of delegation to non-majoritarian institutions. West European Poli-
+      tics, 25(1), 1–22.
+Thelen, K. (2020). Employer organization and the law: American exceptionalism in comparative perspective. Law & Contem-
+      porary Problems, 83, 23–48.
+Thelen, K. (2023). Attention shoppers: American retail capitalism and the rise of the Amazon economy.
+Vaheesan, S., & Pasquale, F. (2018). The politics of professionalism: Reappraising occupational licensure and competition pol-
+      icy. Annual Review of Law and Social Science, 14, 309–327.
+von der Groeben, HH. (1961). Policy on competition in the EEC. European Commission http://aei.pitt.edu/32825/
+Wells, W. (2001). Antitrust and the formation of the postwar world. Columbia University Press.
+Wilks, S. (2005). Agency escape: Decentralization or dominance of the European Commission in the modernization of compe-
+      tition policy? Governance, 18(3), 431–452.
+Wilson, J. Q. (1989). Bureaucracy: What government agencies do and why they do it. Basic Books.
+Winerman, M. (2003). The origins of the FTC: Concentration, cooperation, control, and competition. Antitrust Law Journal,
+      71(1), 1–98.
+Winerman, M., & Kovacic, W. E. (2010). Outpost years for a start-up agency: The FTC from 1921–1925. Antitrust Law Jour-
+      nal, 77(1), 145–203.
+Wu, T. (2018a). The curse of bigness: Antitrust in the new gilded age. Columbia Global Reports.
+Wu, T. (2018b). The supreme court devastates antitrust law. The New York Times.
+Yoo, C. S. (2019). The post-Chicago antitrust revolution: A retrospective. University of Pennsylvania Law Review, 168, 2145.
+
+
+
+
+© 2023 The Authors. Regulation & Governance published by John Wiley & Sons Australia, Ltd.                                  1103
+

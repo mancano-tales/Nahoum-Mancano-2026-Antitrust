@@ -12,7 +12,7 @@ da reorganização (mapeamento arquivo-por-arquivo, decisões de design).
 ## Estrutura
 
 - `cade-proceedings/` — autos e votos dos 3 casos analisados/citados no artigo:
-  - `ambev-antarctica-brahma-1999_AC-08012.005846-1999-12/` — caso central do artigo (Seção 5, Ambev). Volumes 1–31 (numerados `vol-NN.pdf`; **vol-07 está ausente do arquivo original**, não é erro de renomeação), mais os 2 volumes "via CADE" e um anexo com número de processo diferente (`annex_...VERIFY`, ver Pendências).
+  - `ambev-antarctica-brahma-1999_AC-08012.005846-1999-12/` — caso central do artigo (Seção 5, Ambev). Volumes 1–31 (numerados `vol-NN.pdf`; **vol-07 está ausente do arquivo original**, não é erro de renomeação), mais os 2 volumes "via CADE" e um anexo com número de processo diferente (`annex_...VERIFY`, ver Pendências). Tem uma subpasta `text-extracts/` (2026-07-22) com OCR em texto plano dos 30 volumes principais, para permitir busca via `grep` em vez de abrir cada PDF — ver o README dela para limitações (encoding, paginação) e para as citações já localizadas.
   - `gerdau-pains-laisa-1995_AC-0016-1994/` — caso central do artigo (Seção 4, Gerdau-Pains). Volumes 1–4, mais os votos (`votes_AC-0016-1994.pdf`, citado no `.qmd` como "Votos AC 16-1994, p. 947–949") e o parecer da economista Elizabeth Farina (`expert-opinion_elizabeth-farina.pdf`).
   - `brahma-miller-1995_AC-0058-1995_VERIFY/` — caso de contexto (Seção 5) — **[VERIFY]**: confirmar com o autor que "AC 58-1995" corresponde mesmo a este caso antes de considerar o nome definitivo.
 - `legislative-history/` — histórico legislativo da Lei 8.884/94 (Lei CADE): exposições de motivos, Diário/Anais do Congresso Nacional (1993–1994).
