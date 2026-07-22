@@ -16,11 +16,13 @@ Onde `<fonte>` representa a IA ou plataforma utilizada (ex: `claude`, `antigravi
 
 ## Como Exportar Conversas
 
-Utilize a skill ou execute diretamente o script utilitário em Python:
+Utilize a skill `export-conversation` (ou `close-task`, que já a executa como parte da cerimônia de encerramento), ou rode diretamente o script utilitário em R:
 ```bash
-python tools/export_conversa.py <session_uuid> [slug]
+Rscript tools/export_conversa.R <session_uuid> [slug]
 ```
-O script lê o arquivo de log JSONL original da sessão e converte-o para Markdown estruturado (com timestamps e raciocínios internos em seções recolhíveis `<details>`). Após a exportação, registre a nova entrada na tabela de inventário abaixo.
+> **Fonte de verdade do caminho**: a chave `script_exportar_conversa` em `CLAUDE.md` § "Configuração de Skills". Se este README divergir dela, o `CLAUDE.md` prevalece — corrija aqui, não lá.
+
+O primeiro argumento aceita o UUID da sessão (ou um prefixo dele) ou o caminho completo do `.jsonl`. O script lê o arquivo de log JSONL original da sessão — Claude Code ou Antigravity — e converte-o para Markdown estruturado (com timestamps e raciocínios internos em seções recolhíveis `<details>`), gravando direto nesta pasta já com o nome no padrão acima. Após a exportação, registre a nova entrada na tabela de inventário abaixo.
 
 ---
 
