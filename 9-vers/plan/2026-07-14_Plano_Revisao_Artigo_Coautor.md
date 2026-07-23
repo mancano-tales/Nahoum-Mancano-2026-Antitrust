@@ -1,7 +1,7 @@
 ---
 tipo: Plano
 titulo: "Revisão do artigo com o coautor André Vereta-Nahoum: densidade dos casos, literatura (Ergen), trechos em português e infraestrutura de citação (.bib/Zotero)"
-status: ATIVO
+status: PARCIAL # rebaixado de ATIVO em 2026-07-22 21:11 no encerramento de sessão — Foster-Thelen/revisão de língua/citações Ambev concluídos e commitados, mas Ergen & Kohl (literatura + diagnóstico da Seção 8) seguem pendentes; não é CONCLUÍDO
 criado: "2026-07-14 13:38"
 concluido: null
 agentes:
@@ -16,10 +16,11 @@ tarefas:
   - { desc: "Adicionar campo bibliography ao YAML do .qmd apontando para o .bib, e registrar o arquivo como arquivo_gerenciado_externamente no CLAUDE.md", status: concluida, data: "2026-07-15" }
   - { desc: "Converter as citações em texto plano para citation keys reais do Quarto (@citekey)", status: concluida, data: "2026-07-22" }
   - { desc: "Ampliar a revisão de literatura da Seção 2 (e possivelmente Discussion) citando Ergen & Kohl (2019, RIPE) e Ergen & Kohl (2022, SER) — textos já extraídos para 9-vers/references/, ainda não lidos integralmente nem incorporados ao .qmd", status: pendente, data: null }
-  - { desc: "Incorporar Foster & Thelen (2024, Regulation & Governance) e Foster & Thelen (2025, Comparative Political Studies) — aplicado no .qmd em 2026-07-22 (ver Seção 5): uma frase citando Foster-Thelen2024 na Seção 2, um parágrafo novo citando Foster-Thelen2025 na Discussion; render de validação em HTML confirmou que ambas as citações resolvem e aparecem na lista de referências. Aguardando revisão do autor antes do commit", status: aplicado_aguardando_revisao, data: "2026-07-22" }
-  - { desc: "Revisão ortográfica/gramatical/de língua do .qmd completo — parte mecânica aplicada em 2026-07-22; os 5 itens substantivos da Seção 6 (frase em português não traduzida, modificador solto, referente perdido, sujeito incoerente, paralelismo confuso) também aplicados em 2026-07-22 a pedido explícito do autor na conversa. Item 6 (marcador [Citação do Processo?]) e item 7 (consistência terminológica opcional) permanecem intocados. Aguardando revisão do autor antes do commit", status: aplicado_aguardando_revisao, data: "2026-07-22" }
-  - { desc: "Diagnóstico de incorporação de Ergen & Kohl (2019) — discutido e avaliado em 2026-07-22 (ver Seção 8), NÃO aplicado ao .qmd ainda. Sequenciamento recomendado: Contribuições I/II/IV + tensão do @Boucas2018 numa próxima rodada; contraste alemão (III) e método de dicionário ficam para depois", status: diagnosticado_nao_executado, data: "2026-07-22" }
-relacionados: []
+  - { desc: "Incorporar Foster & Thelen (2024, Regulation & Governance) e Foster & Thelen (2025, Comparative Political Studies) — aplicado no .qmd em 2026-07-22 (ver Seção 5): uma frase citando Foster-Thelen2024 na Seção 2, um parágrafo novo citando Foster-Thelen2025 na Discussion; render de validação em HTML confirmou que ambas as citações resolvem e aparecem na lista de referências. Commitado em 18e7856", status: concluida, data: "2026-07-22" }
+  - { desc: "Revisão ortográfica/gramatical/de língua do .qmd completo — parte mecânica aplicada em 2026-07-22; os 5 itens substantivos da Seção 6 (frase em português não traduzida, modificador solto, referente perdido, sujeito incoerente, paralelismo confuso) também aplicados em 2026-07-22 a pedido explícito do autor na conversa. Item 6 (marcador [Citação do Processo?]) e item 7 (consistência terminológica opcional) permanecem intocados. Commitado em 18e7856", status: concluida, data: "2026-07-22" }
+  - { desc: "Diagnóstico de incorporação de Ergen & Kohl (2019) — discutido e avaliado em 2026-07-22 (ver Seção 8), NÃO aplicado ao .qmd ainda. Sequenciamento recomendado: Contribuições I/II/IV + tensão do @Boucas2018 numa próxima rodada; contraste alemão (III) e método de dicionário ficam para depois. Nota do plano commitada em 4b18fd7, execução no .qmd ainda pendente", status: diagnosticado_nao_executado, data: "2026-07-22" }
+relacionados:
+  - "9-vers/llm-reviews/2026-07-15_2028_revisao-ripe-literatura-citacoes_conversa-claude.md"
 news: []
 ---
 
