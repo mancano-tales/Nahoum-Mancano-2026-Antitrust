@@ -3,6 +3,20 @@
 > Entrada mais recente no topo.
 > **Convenção de timestamp**: Todas as datas em cabeçalhos (## YYYY-MM-DD HH:MM) e no campo Data/Hora dos metadados DEVEM incluir hora e minuto no fuso local. Nunca use datas isoladas.
 
+## 2026-07-22 21:09 — Diagnóstico de incorporação de Ergen & Kohl (2019) registrado no plano
+
+Discussão com Tales sobre como o artigo pode dialogar com Ergen & Kohl (2019, "Varieties of Economization in Competition Policy", *RIPE*) para fins de submissão. Texto lido por completo (extraído para `9-vers/references/`) e avaliado criticamente — inclusive uma correção factual a um diagnóstico prévio (`Ergen-Kohl2019`/`Ergen-Kohl2022` já estavam no `.bib`, só faltava citar no `.qmd`) e uma discordância pontual sobre a alegação de que `@Khan2016`/`@Khan-Vaheesan2017`/`@Juhasz-etal2024` não sustentariam a frase onde já são citados. Registrada como Seção 8 (nova) em `9-vers/plan/2026-07-14_Plano_Revisao_Artigo_Coautor.md`: quatro contribuições propostas (tipologia effect-based/form-based como "terceira variedade de economização"; mecanismo de personnel replacement na recomposição do CADE; contraste com o caso alemão Daimler-MBB/1989; canal ruidoso vs. silencioso de conversão), avaliação de risco de cada uma, e a tensão não resolvida da citação `@Boucas2018` (hoje comentada no `.qmd`, ataca a durabilidade da "conversão" reivindicada pelo artigo). **Nada foi aplicado ao `.qmd` ainda** — é diagnóstico e plano de ataque, não execução; sequenciamento recomendado (Contribuições I/II/IV numa rodada, contraste alemão e método de codificação de dicionário depois) fica registrado para a próxima sessão.
+
+Extraídos também, nesta limpeza, os textos de `Ergen-Kohl2022` ("Rival Views of Economic Competition") e `Juhasz-etal2024` ("The New Economics of Industrial Policy") para `9-vers/references/` — extração feita por outra pessoa/sessão antes desta conversa, incluída aqui por completude já que a Seção 8 do plano referencia esse conjunto de leituras. `Ergen-Kohl2022` ainda não foi lido integralmente; tratar como pendência separada antes de decidir se sustenta algum ponto da Seção 8.
+
+Achado colateral de auditoria, **não corrigido aqui de propósito**: ao rodar `/git-cleanup`, encontrado o plano `9-vers/plan/2026-07-22_Plano_Revisao_Citacoes_Gerdau_Jobim.md` (outra sessão, Claude Opus 4.8, ainda `EM EXECUÇÃO`, tarefas T9-T11 pendentes) com uma discrepância: as tarefas T6 (representação de Miguel Rossetto na PGR) e T7 (contexto de R$18bi na pauta do CADE de 1995) constam como `concluída` no YAML do plano, mas esse conteúdo não foi localizado no `.qmd` atual — só T1-T5/T8b (Artigo 50, data do despacho de Jobim, doutrina sobre o alcance do CADE, reconciliação de percentuais de mercado) de fato aparecem no texto, e esses já tinham sido incorporados ao artigo antes desta sessão (foram comitados sem essa atribuição no commit anterior, `18e7856`, por desconhecimento de que vinham de outra sessão paralela). Deixado para quem estiver conduzindo aquele plano resolver — arquivo de plano não commitado nesta rodada, por decisão de Tales.
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-07-22 21:09 (Horário Local)
+- **Agente**: Claude Sonnet 5 / Claude Code / VS Code
+- **Mensagem do Commit**: "docs(plan): register Ergen & Kohl (2019) engagement diagnosis for RIPE submission"
+- **Arquivos afetados**: `9-vers/plan/2026-07-14_Plano_Revisao_Artigo_Coautor.md`, `9-vers/references/Ergen-Kohl-2019-Varieties-of-economization-in-competition-policy.txt`, `9-vers/references/Ergen-Kohl-2022-Rival-views-of-economic-competition.txt`, `9-vers/references/Juhasz-Lane-Rodrik-2024-The-New-Economics-of-Industrial-Policy.txt`, `NEWS.md`
+
 ## 2026-07-22 20:32 — Literatura Foster & Thelen incorporada, revisão de língua e citações Ambev resolvidas
 
 Sessão de revisão do artigo motivada por uma avaliação crítica de prontidão para submissão à RIPE feita a pedido de Tales (registrada em `TODO.md`, Prospectivo). Quatro frentes, todas em `3-texts/Nahoum-Mancano-2026-Antitrust-Article.qmd`:

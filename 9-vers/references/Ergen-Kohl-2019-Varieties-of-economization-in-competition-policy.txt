@@ -1,0 +1,1770 @@
+      Review of International Political Economy
+
+
+
+
+      ISSN: 0969-2290 (Print) 1466-4526 (Online) Journal homepage: https://www.tandfonline.com/loi/rrip20
+
+
+
+
+Varieties of economization in competition policy:
+institutional change in German and American
+antitrust, 1960–2000
+
+Timur Ergen & Sebastian Kohl
+
+To cite this article: Timur Ergen & Sebastian Kohl (2019) Varieties of economization in competition
+policy: institutional change in German and American antitrust, 1960–2000, Review of International
+Political Economy, 26:2, 256-286, DOI: 10.1080/09692290.2018.1563557
+
+To link to this article: https://doi.org/10.1080/09692290.2018.1563557
+
+
+
+
+       © 2019 The Author(s). Published by Informa
+       UK Limited, trading as Taylor & Francis
+       Group.
+
+       Published online: 16 Jan 2019.
+
+
+
+       Submit your article to this journal
+
+
+
+       Article views: 296
+
+
+
+       View Crossmark data
+
+
+
+
+                      Full Terms & Conditions of access and use can be found at
+             https://www.tandfonline.com/action/journalInformation?journalCode=rrip20
+
+
+--- PAGE BREAK ---
+
+REVIEW OF INTERNATIONAL POLITICAL ECONOMY
+2019, VOL. 26, NO. 2, 256–286
+https://doi.org/10.1080/09692290.2018.1563557
+
+
+
+
+Varieties of economization in competition policy:
+institutional change in German and American
+antitrust, 1960–2000
+Timur Ergena and Sebastian Kohla,b
+a
+ Max Planck Institute for the Study of Societies, Cologne, Germany; bUppsala University,
+Sociology/IBF, Uppsala, Sweden
+
+    ABSTRACT
+    This paper explains the different trajectories of German and American competition pol-
+    icy and its permissiveness toward economic concentration in the last few decades.
+    While the German political economy had moved to a stronger antitrust regime after
+    1945 and stuck to it even after the economic governance shifts of the 1980s, the trad-
+    itional antitrust champion, the United States, has shed considerable parts of its basic
+    governance toolkit against anticompetitive conduct since the 1960s. Drawing on theo-
+    ries of institutional change driven by bureaucratic and professional elites, the paper
+    claims that different pathways of professional ideas in competition policy can account
+    for the cross-country differences. In the 1960s and early 1970s, movements to
+    strengthen competition policy enforcement emerged in both countries. While German
+    as well as American professionals reacted to the seemingly increasing encroachment of
+    societal concerns into antitrust with economized notions of the policies’ goals, they did
+    so in fundamentally different ways. Whereas US professionals proposed an effect-based
+    approach in which consumer welfare and gains in efficiency may justify less competi-
+    tion, the more strongly law-based profession in Germany to a degree strengthened a
+    form-based approach aiming at the preservation of competitive market structures.
+    Such extrapolitical pathways of ideas, we argue, provide important guidelines for the
+    implementation of competition policy by administrations and courts, whose decisions
+    can have a far-reaching impact on industries and political economies as a whole.
+
+
+KEYWORDS Competition; institutional change; professions, ideas; governance; liberalization
+
+
+
+1. Introduction
+When do concentrations of power in the economy become a problem for capital-
+ism and democracy? When industrial capitalism matured during the late nineteenth
+century, intellectuals, social movements and legislators intensely debated this basic
+political question. While some countries, like the United States, settled on a skep-
+tical position toward corporate power and on regulation of anticompetitive con-
+duct, others, like Germany, followed a more permissive stance and appreciated the
+
+CONTACT Timur Ergen            te@mpifg.de         Max Planck Institute for the Study of Societies, Paulstr. 3, 50676
+Cologne, Germany
+ß 2019 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://
+creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided
+the original work is properly cited.
+
+
+--- PAGE BREAK ---
+
+                                       REVIEW OF INTERNATIONAL POLITICAL ECONOMY       257
+
+
+advantages of big corporations and cooperation between competitors. Since the
+1960s, however, the cards in the antitrust debates have been reshuffled. While the
+German political economy incrementally developed a stronger antitrust regime in
+the control of concentration and anticompetitive conduct after 1945 – and stuck to
+it even through the 1980s and 1990s – the traditional antitrust champion, the
+United States, has moved toward a more lax position on corporate power since the
+1970s (Gutierrez & Philippon, 2018).
+    This paper tries to explain why these two countries have been diverging cases in
+competition policy. Drawing on public debates, secondary literature and reports by
+competition authorities in the US and Germany, we claim that the different develop-
+ments on the two sides of the Atlantic cannot be understood through the three domin-
+ant explanations, business power, varieties of capitalism (VoC) and legal systems.
+Rather, we argue that ideological orientations that gained the upper hand in the
+respective national regulatory and intellectual communities are an important and over-
+looked factor in understanding the differences across countries and time. As we docu-
+ment, there were similarly inspired intellectual movements to push back against
+increasingly vocal progressive interpretations of competition policy in both countries
+since the late 1960s. Yet, the intellectual moves by reformers in the US allowed for an
+incremental weakening of the regime over time, while the reaction in Germany locked
+the regime into a more robust path. While both regimes moved away from the explicit
+consideration of overall societal goals and were hence changed in the spirit of neo-
+liberal ideas (Buch-Hansen & Wigger, 2010), they diverged in their enforcement norms
+concerning industrial concentration. Reacting to calls for a more effective US competi-
+tion policy that would actively reduce concentration in American industry, institutional
+entrepreneurs in the US pushed for economization, a reorientation of the regime from
+broad societal considerations toward purely economic goals – ‘consumer welfare’ above
+all. This effect-based approach to competition regulation, inspired by the Chicago
+school, allows for business cooperation and concentration if it is in the interest of eco-
+nomic goals, notably overall efficiency and consumer welfare. Compared to the 1950s
+and 1960s, enforcement norms in virtually every field of antitrust except pure price-fix-
+ing between competitors have been weakened. German antitrust elites, by contrast,
+rejected early progressive calls for a more instrumental competition policy by question-
+ing in principle the practical, goal-directed application of the law as such – irrespective
+of whether these goals were economic or noneconomic in nature. Instead, their form-
+based approach to competition regulation, inspired by the Ordoliberal school, main-
+tains that rule-based state intervention in favor of competitive pluralistic market struc-
+tures is a safeguard against economic and political abuse as well as inefficiencies.
+    The two countries under study are largely dissimilar in terms of the most fre-
+quent typologies in political economy, not least with regard to the trajectory of
+their competition policies. Starting in the late nineteenth century, when the concen-
+tration of industry became subject to debate and regulation, the United States’ anti-
+trust policy established a tradition of populist protest and public regulation against
+monopoly power (Letwin, 1965). At the same time, significant parts of German
+intellectual and political discourse considered the cartelization of the economy to
+be a more efficient means of coordinating economic development and nurturing
+domestic – a tradition that, with few interruptions, persisted throughout the Third
+Reich (Ambrosius, 1981). The power of big business and cartels was considered to
+be one of the factors behind German military aggressiveness and fascism, and the
+
+
+--- PAGE BREAK ---
+
+258     T. ERGEN AND S. KOHL
+
+
+Allies transplanted American antitrust ideas and regulation after the war (Quack &
+Djelic, 2005). These ideas fell on fertile grounds in Ordoliberal thought, which rose
+to dominance in Germany during the postwar years and shaped such important
+economic institutions as the Bundesbank, the German Council of Economic
+Experts and, most relevant here, the antitrust authorities (Hien & Joerges, 2017).
+These views, entrenched in regulatory authorities and reproduced through the legal
+profession, remained an ideological bulwark against the diffusion of the ‘more eco-
+nomic’ or effect-based approach to antitrust.
+   Our focus on ideational and professional changes intends to complement a
+range of alternative explanations for institutional differences between the German
+and American political economies. It contributes to the comparative study of insti-
+tutional inertia and change across countries by highlighting the important role that
+different professional ideas can play. It shows within the American case how the
+zeal of charismatic movements, such as the anti-monopolist Populists, can become
+disenchanted in bureaucratic bodies where original ideas can even be perverted. It
+thus contributes to the growing literature on economic professions in the making
+of modern capitalism (Seabrooke & Henriksen, 2017) and the literature on bureau-
+cratic institutions (central banks, regulatory agencies, competition authorities in
+our case), whose Eigenlogik, at times beyond democratic control, can have an
+important impact on political economic outcomes. Overall, we break new ground
+in the neglected comparative study of antitrust in comparative political economy
+(CPE). Given the importance of market structures for consumers, workers, political
+systems, and societies as a whole, this particular policy field has been largely over-
+looked or all too often subsumed under countries’ general type of capitalism.
+   The remainder of the article is divided into three parts. We first situate our ana-
+lysis in the literature on institutional change through professional ideas and bur-
+eaucratic agencies and in the general political science literature on competition
+policy. Secondly, we review changes in American antitrust since the 1960s. The
+reorientation of US antitrust, we argue, resulted from an intellectual opposition
+movement against activist tendencies in the 1960s that championed a narrowing of
+the objectives of competition policy and a strictly economic consequentialist rea-
+soning in antitrust enforcement. Opposition against similar activist tendencies took
+a very different form in Germany. In a third step, we show how the German
+opposition movement was led by legal rather than economic thinking, which ques-
+tioned the legitimacy of effect-oriented reasoning in competition policy in general.
+The paradoxical effect of this movement was that even though the reaction against
+activist competition policy in Germany was intellectually more radical in the begin-
+ning, German antitrust enforcement became partly immune to the incremental eco-
+nomic appreciation of the potentially beneficial effects of anticompetitive behavior
+that happened in the United States. Finally, we conclude by highlighting the rele-
+vance of the study of bureaucratic agencies as forgotten drivers of large-scale insti-
+tutional change that can have an explanatory say beyond institutional VoC.
+
+
+2. Antitrust regimes and extrapolitical institutional change
+To lay the ground for our comparative historical analysis, this section establishes
+three points. First, we argue that prominent explanations of institutional change in
+competition policy fail to comprehensively account for decisive historical turning
+
+
+--- PAGE BREAK ---
+
+                                      REVIEW OF INTERNATIONAL POLITICAL ECONOMY     259
+
+
+points as well as international variation. Second, we connect conceptual arguments
+from political economy, institutional theory, and political sociology to demonstrate
+that analyses of bureaucracies and professional communities can explain path-
+breaking change in situations of low politicization and issue salience. Third, we
+argue that competition policy as a regulatory field is vulnerable for change on the
+level of enforcement.
+
+
+2.1. Weaknesses of alternative accounts of institutional change
+in competition policy
+Debates on the causes of institutional change in competition policy over the last 50
+years have not been settled conclusively. While the literature in the antitrust field
+itself is vast and of great historical depth, it rarely aims at systematic explanation
+and theoretical generalization. By contrast, in-depth studies of antitrust regimes are
+rare in the political economy literature, while there are plenty of passing generaliza-
+tions about the drivers of institutional change in competition policy – especially for
+the American case. We review three types of explanations of changes in competi-
+tion policy – accounts highlighting business pressures, national institutions, and
+legal systems. Our aim is not to outright reject these perspectives, but to demon-
+strate that they have difficulties to make sense of the historical record and the
+larger comparative picture, which can be remedied by an examination of the inter-
+sections between professional communities and bureaucracies.
+    Accounts of economic policy change since the 1960s in the United States often
+locate the origin of path-breaking policy initiatives in the troubling situation of
+American business in the 1970s and early 1980s. In this view, domestic and inter-
+national pressures on economic activity and profits led to a concerted counter-
+movement by business and its political allies to improve American firms’ standing
+at home and abroad. The most elaborate version of this argument applied to com-
+petition policy is Christophers’ recent study of twentieth century competition and
+patent policy in Great Britain and the United States (Christophers, 2016). Drawing
+heavily on economic historian Galambos (2004), Christophers argues that laxer
+antimonopoly enforcement and more permissive merger and takeover policing
+since the 1980s were essentially industrial policies, meant to hasten restructuring
+and revitalize American industry in international competition. Attacks on rigorous
+antitrust enforcement on revitalization grounds were indeed common in the 1970s
+and 1980s – as undertaken by both progressive as well as conservative thought
+leaders (Graham, 1992), the business community (Driggs, 1985), parts of the
+Congress (US Congress, 1985), and the Reagan administration (DPC/EPC, 1985).
+    While the political significance of revitalization pressures cannot be denied, we
+see two problems with this explanatory strategy. First, institutional change in com-
+petition policy has not been implemented in a comprehensive manner, but through
+piecemeal precedent and experiments. In consequence, political economic interests
+with respect to individual cases and enforcement practices were much more hetero-
+geneous than business pressure-accounts make them out to be. To give just a single
+example, the landmark 1983 permission of the Federal Trade Commission to let
+General Motors and Toyota jointly operate their NUMMI-plant in Fremont,
+California, was fiercely attacked by their American competitors (New York Times,
+1984). In more abstract terms, issue- and case-specific changes in competition
+
+
+--- PAGE BREAK ---
+
+260     T. ERGEN AND S. KOHL
+
+
+policies almost as a rule divide the business community internally into short-run
+winners and losers, which arguably makes business an unreliable driver of institu-
+tional change. Second, relaxing antitrust enforcement is not a natural reaction to
+depressed business activity. To the contrary, as Galambos (2004, p. 155) recognizes,
+just a few years earlier, the natural competition policy strategy to spur industrial
+growth was stepping up enforcement to eliminate what New Deal antitrust cham-
+pion Thurman Arnold called the Bottlenecks of Business. Furthermore, although
+revitalization via more permissive competition policies was a prominent strategy in
+the United States in that specific historical period, other countries with large-scale
+industrial restructuring and revitalization needs lacked similarly vigorous move-
+ments. Economic pressures have to be ‘channeled’ into specific policy action or
+inaction (Gourevitch, 1986). As we argue in this article, a critical channeling mech-
+anism making sense of our comparative-historical puzzle consisted of the workings
+of ideas, professional communities, and enforcement agencies.
+    The fact that different states pursued different strategies in antitrust enforcement
+despite similar economic challenges of course does not imply that ideational proc-
+esses played a critical role. As antitrust regimes significantly impact the structure of
+the supply side of economies, a second straightforward candidate for explaining
+divergence is the institutional setup of different political economies. The CPE lit-
+erature dedicated to antimonopoly policies is surprisingly limited, which makes it
+difficult to derive clear-cut theoretical predictions from this line of research.
+Building on the logic of institutional complementarities, the original 2001 volume
+on VoC contains sparse remarks that the US political economy is characterized by
+‘rigorous antitrust regulations’, while coordinated models of capitalism lean toward
+laxer enforcement (Hall & Soskice, 2001, p. 31; Tate, 2001). Especially for the
+period between World War II and the early 1980s, this is a fitting observation.
+Often discussed examples of German and Japanese business practices foreign to the
+American competition policy regime were intensive intra-industry collaboration in
+research and development, extensive cross-shareholding in certain industries and
+business groups, interfirm cooperation in skill-formation, and the use of rational-
+ization and crisis cartels (Dore, 1986; Streeck, 1991). Since the 1970s, however, the
+institutional trajectories of the German and the American competition policy
+regimes moved in the opposite direction. Orthodox readings of the original VoC-
+formulation are a poor guide to understand key developments in competition pol-
+icy. Good examples are the movement against resale price maintenance in
+Germany, while US administrators stepped away from their traditionally strict
+policing of such restrictions on wholesalers and retailers or the increasing appreci-
+ation of consortia and growing friendliness toward large-scale mergers and acquisi-
+tions in the US.
+    There exists a more refined argument applying a comparative institutionalist
+framework to explain international differences of antimonopoly policies. This argu-
+ment does not primarily focus on substantive differences in antitrust, but on differ-
+ences of enforcement procedures. In an article criticizing European Commission
+efforts in the early 2000s to move European antitrust enforcement practices closer
+to American conventions, Wigger and N€           olke (2007) argue that Continental
+European procedural codes and legal traditions historically supported ‘Rhenish’
+models of capitalism. Two traditions in particular strike them as supportive of a
+‘long-term orientation’ and of ‘long-term investments’ by curbing legal
+
+
+--- PAGE BREAK ---
+
+                                      REVIEW OF INTERNATIONAL POLITICAL ECONOMY      261
+
+
+uncertainties. The weakness of private competition policy enforcement in Europe
+means that businesses have to deal with challenges from a limited set of relatively
+transparent state agencies. The existence of advance notification systems, which
+allow corporations to gain certainty about the legality of business practices before
+committing to them, furthermore, may decrease legal uncertainties. While their
+argument about the homologies between production and legal systems is illuminat-
+ing, Wigger and N€    olke’s enforcement system characteristics leave a number of sig-
+nificant historical developments unexplained. As documented in our comparative
+analysis in Section 3, German attempts to reform antitrust enforcement in consid-
+eration of broader societal values in the late 1960s proposed more, not less, case-
+specific flexibility, while the ensuing Ordoliberal rejection of more flexible enforce-
+ment practices tried to block, rather than preserve, the influence of wider societal
+concerns on competition policy. Equally problematic, the Common law based US
+competition policy regime produced a large number of structure-oriented per se
+rules until the 1960s, which only later came under increasing fire. Similar to the
+under-determination of policies through economic pressures, institutional regimes
+leave considerable room for conflicts, deviating policies, and institutional
+experiments.
+    A third alternative explanation would see change in the US and resistance in
+Germany as consequences of the respective legal regimes. The general resistance of
+the German legal profession against the more recent economic arguments is also
+an expression of its more general skepticism against ‘law and economics’ – i.e. the
+application of economic theories and principles to the analysis of law (Kirchner,
+1991). In Common law systems economic approaches were often seized by the
+judiciary in its struggle for a balance of power. The German judiciary has historic-
+ally been much more confined to interpreting the laws as set by the legislature or
+to interpreting cases as defined by existing legal doctrines (Kirchner, 1991).
+Emblematically, although the subject of law and economics is taught at universities
+in Germany, it is not a required part of German lawyers’ training. Furthermore,
+Continental European legal regimes are often characterized as inquisitorial, in con-
+trast to Anglo-American adversarial regimes (Rueschemeyer, 1976). While the for-
+mer rely more heavily on justices and state officials as neutral participants in trials,
+the latter give more room to the contending parties to introduce evidence and
+structure trials. Modern economic antitrust thinking, with its emphasis on complex
+economic modeling and on questions of quantitative trade-offs, seems to be more
+fitting for an adversarial system in which there are extensive possibilities for the
+parties involved to present expert assessments of the given case. While both dimen-
+sions of institutional difference have undoubtedly contributed to the trajectories of
+antitrust thinking, we would caution against a monocausal institutional explan-
+ation. Widespread beliefs in underlying systems of thought are not a necessary con-
+dition for the adoption of certain doctrinal elements, as Germany’s immediate
+postwar legal history documents. In addition, state agencies and courts around the
+world have tried to keep up with the increasing technical demands of modern anti-
+trust prosecution, which shows that the skills necessary are in no way exclusive to
+contending parties.
+    While legal traditions certainly influence pathways of legal change, they as well
+leave room for deviant actors and processes, which may culminate in institutional
+
+
+--- PAGE BREAK ---
+
+262     T. ERGEN AND S. KOHL
+
+
+change. The purpose of the following section is to suggest that changing ideas in
+bureaucracies and associated professions can shape such deviations.
+
+
+2.2. Bureaucracies and professional ideas as sources of institutional change
+Our paper draws on two strands of literature to understand the phenomenon of
+cross-country and over-time differences in antitrust enforcement practices: the pol-
+itical sociology of bureaucracies and research on the role of ideas in shaping insti-
+tutional change. At the latest since Evans, Rueschemeyer, and Skocpol (1985) call
+to bring the state back in, CPE has come to pay attention to the structure of state
+institutions to explain country-specific political economic pathways. The institu-
+tions covered range from parliaments, governments, and regulatory agencies to
+entire political systems. As pointed out by a number of recent disciplinary surveys,
+however, the comparative institutionalist literature has less frequently analyzed the
+intricacies of political economic change generated after major laws have been
+implemented and major political battles have been settled (Hacker, Pierson, &
+Thelen, 2015; Mahoney & Thelen, 2010, pp. 13–14; Patashnik & Zelizer, 2013). In
+this implementation phase of policies and regulations, the semi-autonomous nature
+of bureaucracies and related professional communities can become a major driver
+of large-scale institutional change.
+
+
+2.2.1. Study of state bureaucracies
+The role of bureaucracies in institutional change has often been described as one
+of incremental state-building. Almost as a rule, more encompassing regulations and
+state functions emerge with low levels of specification and practical enactment.
+Past research has traced how bureaucracies, in interaction with societal forces and
+professional discourse, translated vague regulatory missions into full-blown regula-
+tory regimes – for example in Equal Opportunity regulation or in environmental
+policy (Dobbin, 2009; Uek€    otter, 2014). The often-implicit model of institutional
+change underlying accounts of incremental state-building locates political conflict
+and actual change in policies and thereby belittles implementation as a process of
+translating vague regulatory missions into practice. Policy implementation regularly
+appears as a technical matter that, even if riddled with professional fads and
+mission creep by concerned agencies, is less consequential for institutional develop-
+ment than political processes. Related to this understanding of policy implementa-
+tion are strong distinctions between ‘settled’ and ‘unsettled’ social formations
+(Swidler, 1986), the latter giving rise to fundamental institutional change.
+   We suggest going beyond such an – admittedly highly stylized – understanding
+of the role of bureaucracies in institutional change in two respects. First, we argue
+that the technical implementation of policies has a politics of its own – with pos-
+sibly equally far-reaching institutional effects. Second, we argue that the sharp div-
+ide between bureaucratized and politicized institutional realms is misleading. The
+common idea that ideological conflicts, clashes of interest, and social movement-
+like fads are largely confined to the sphere of the political system whereas bureau-
+cratized fields grow through technical processes can leave important changes in
+modern political economies unexplained. As our comparative study shows, antitrust
+‘as a technique’ was no less shaped by value-laden, ‘non-rational’ factors than
+
+
+--- PAGE BREAK ---
+
+                                      REVIEW OF INTERNATIONAL POLITICAL ECONOMY      263
+
+
+antitrust as a political creed. The difference is one of the type, rather than the
+intensity, of political challenge.
+    Belittling the ‘implementation’ of legal rules or social norms in favor of
+emphases on their emergence or change is a longstanding deficiency in the social
+sciences – especially in macro-sociology and political economy. Great legislative
+victories or defeats, battles of grand ideologies, and mass mobilization obviously
+strike observers as much more relevant for societal development than changes in
+the nitty-gritty of administrative procedures or in the day-to-day enforcement prac-
+tices. There are, however, notable exceptions to the focus on legislative politics in
+the investigation of institutional change – especially in various more recent institu-
+tionalist literatures (a useful overview of earlier studies is in Evans et al., 1985).
+
+
+2.2.2. Institutional change through bureaucracies
+Two main types of argument as to why bureaucracies can be at the origins of proc-
+esses of institutional change are especially relevant for our comparative case study.
+The first stresses the ambiguity of legal provisions and describes bureaucracies as
+the agents, which bring certain interpretations into practice. The second builds on
+the idea that bureaucracies are the institutional ‘bridges’ between professional ideas
+and the state, which enable policy change through ideational change without overt
+politicization.
+   The first perspective has been worked out in detail by Lauren Edelman. In a
+number of studies, she has advanced a perspective called the endogeneity of legal
+regulation. In what might in part be an outgrowth of her research focus on a
+Common law system and a comparatively weak state,1 she demonstrates how
+diverse organizations influence the interpretation of legal rules by establishing
+dominant forms of compliance, by lobbying for favorable jurisdiction and enforce-
+ment practices, and by contributing to professional networks’ activities (Edelman,
+1991, 1992). For the American context, policy analyses in the 1970s and 1980s
+stressed that governance evolves in issue-specific networks between specialized state
+agencies, parts of the legislature and government, courts, and dominant interest
+groups.2 In a similar vein, Streeck and Thelen made the interpretative flexibility of
+rules a starting point to theorize institutional change in general: ‘the meaning of a
+rule is never self-evident and always subject to and in need of interpretation,’ they
+assert (Streeck & Thelen, 2005, p. 14). Therefore, the ‘real meaning of an institu-
+tion … is inevitably … subject to evolution driven, if by nothing else, by its
+necessarily imperfect enactment on the ground, in directions that are often unpre-
+dictable’ (Streeck & Thelen, 2005, p. 16). The more recent institutionalist literature
+in political science has identified bureaucracies and courts as the main arenas for
+such forms of incremental change. Hacker et al. (2015, p. 189) argue that institu-
+tions vary in their ‘precision.’ Hence, one may expect different political processes
+around policies laying out clear enforcement criteria and policies ‘whose provisions
+are ambiguous and whose effects depend on interpretation and discretion’ and
+thereby ‘offer fertile terrain for strategies of conversion’ (ibd.). The latter are sub-
+ject to challenges through ‘backroom’ strategies by state agents, organized interests,
+and professional groups and generally involve a high degree of what Culpepper
+(2011) has called ‘quiet politics.’
+
+
+--- PAGE BREAK ---
+
+264     T. ERGEN AND S. KOHL
+
+
+    The second perspective on institutional change through bureaucracies builds on
+the fact that bureaucratic agencies work at the intersection of professional com-
+munities and the state, which strengthens the role of ideas in institutional change
+and persistence (Evans et al., 1989). Bureaucratic agencies are staffed with profes-
+sionally trained officials – in most developed countries predominantly by lawyers,
+social scientists, and engineers – who can become the institutional carriers of ideas
+in policy-making. This can happen both through ideological conversion and
+through personnel replacement, and often takes place gradually. Hence, new ideas
+are often only realized when the existing staff of regulatory bodies makes an ideo-
+logical shift – or, more likely, when it is replaced by a new generation of bureau-
+crats trained within a new ideational current. Both processes can give rise to
+country-specific pathways in policy and regulation as they are shaped by the struc-
+tures of the respective agencies and communities. Comparing the diffusion of
+Keynesian ideas into US and UK economic policy-making since the Great
+Depression, Margaret Weir, for example has shown how, contingent on the struc-
+ture of the respective bureaucracies, demand management diffused slowly but in a
+resilient way into the hierarchical official apparatus in the UK, while it gained
+quick support in the open and fragmented US administration without taking a lon-
+ger-term hold (Weir, 1989). With a similar theoretical outlook, Christopher Allen
+has claimed that ideational resilience at the German Bundesbank – which since the
+1970s maintains its own university – helped to undermine the diffusion of
+Keynesian ideas into Germany’s economic policies (Allen, 1989). Pierre Bourdieu
+analyzed the change from capital-heavy ‘stone-based’ housing subsidies to individu-
+ally tailored housing allowances in France in the 1970s as caused by the economet-
+ric ideas brought in by a new generation of technocrats (Bourdieu, 2005). Similar
+processes of ideational infusion at the level of bureaucracies are at play when new
+state capacities are built up. Thus, the influence of interest groups like realtors in
+the creation of the New Deal housing administration, made up in large part by for-
+mer realtors, was key to creating an industry-friendly housing policy and keeping
+the US from supporting public housing more systematically (Mason, 2014). In
+France, by contrast, the inflow of former public works engineers from the Pont-de-
+Chaussee school into the newly formed ministry of housing led to the infamous
+state Grands Ensembles constructions (Thoenig, 1973).
+
+
+2.3. Implementation of competition policies and incremental change
+Competition policies are paradigmatic cases of the two openings for incremental
+change outlined above. First, they are characterized by widely acknowledged ambi-
+guity with regard to enforcement practices and enforcement goals. In the above-
+mentioned terminology, they have a very low degree of institutional precision.
+Second, they are significantly shaped by national and transnational professional
+communities in legal studies and economics.
+   The far-reaching susceptibility of competition policy regimes to processes of
+reinterpretation has often been pointed out (Fligstein, 1990, p. 213; Gerber, 1998).
+During the first years of its existence, the American antitrust regime, for example,
+changed from being essentially a dead letter to being used to prosecute labor
+unions – and from there to the basis for the breaking up of Standard Oil. Whether
+caused by cynicism or by the genuine substantial puzzlement of legislators
+
+
+--- PAGE BREAK ---
+
+                                      REVIEW OF INTERNATIONAL POLITICAL ECONOMY     265
+
+
+(Hofstadter [1964] 1996, pp. 191–192, 198–200), early American antitrust statutes
+consisted of an odd mix of potentially very far-reaching prohibitions and vague
+specifications. In effect, it was up to administrators and the courts to translate gen-
+eral regulatory principles into enforcement practices. What is more, far-reaching
+ambiguity and ambivalence marked competition policy as a regulatory field.
+Depending on business context and theoretical sensemaking, one and the same
+business activity – for example, undercutting one’s rival – can have radically differ-
+ent meanings for antitrust objectives. There exists a long history of different meth-
+ods, conventions, and theories to categorize competitive conduct with regard to
+antitrust objectives. In addition, competition law, since its inception, has been
+plagued by ambivalence regarding the exact nature and interrelationships of its
+principles and goals. To give just one example, the Sherman Act was passed in a
+time of intense popular critique of ‘bigness’ in economic life – especially with
+regard to the consequences of monopolies for the political arena – while at the
+same time the economics profession began to favorably reinterpret the causes and
+consequences of economic concentration in a ‘new economy’ characterized by the
+giant corporation and oligopolistic competition.3 Over the last 130 years, competi-
+tion policy was pursued for a number of – sometimes complementary, sometimes
+conflicting – goals, like consumer sovereignty, consumer welfare, democracy, geo-
+graphical decentralization, or national economic development. Again, it was regu-
+larly up to the enforcement layer of antitrust, and only occasionally to that of its
+design, to come up with specifications and trade-offs for competing objectives.
+    The vulnerability of competition policy to institutional change through spill-
+overs between professional communities and bureaucracies is an equally well-estab-
+lished finding. Particularly Eisner has worked out a comprehensive account of
+institutional change in American antitrust enforcement standards that advances the
+claim that in antitrust ‘politics … lagged behind policy’ (Eisner, 1991, p. 233). He
+documents how the so-called Reagan Revolution in antitrust was ‘at most a coup’
+(Eisner, 1991, p. 189): the administration merely reaffirmed changed enforcement
+practices in the antitrust agencies and at many courts which were caused by
+changed thinking about competition policy. Similar assessments about the root
+causes of institutional change in American antitrust are advanced by legal scholars
+and industrial economists (Kovacic, 1990, 2003; Pitofsky, 2008). What distinguishes
+these accounts from the traditional view of the role of bureaucrats in institutional
+change cited above is that state agents and professional communities do not just
+extend or implement policies in a path-dependent manner, but are themselves
+responsible for incremental, but quite drastic, changes of policy course. Such
+accounts hardly fit a standard model of bureaucratic activity in which bureaucracies
+serve as agents taking care of the straightforward application of policies to practice.
+Our cross-country comparison serves to illustrate exactly that point. State agents
+and professional communities reacted to similar perceived challenges with funda-
+mentally different intellectual currents, which led to diverging trajectories of incre-
+mental change in competition policy.
+
+
+3. Varieties of economization in competition policy
+Our comparative historical analysis reconstructs the historical origins of what com-
+mentators have called the ‘Atlantic divide’ in antitrust (Gifford & Kudrle, 2015;
+
+
+--- PAGE BREAK ---
+
+266     T. ERGEN AND S. KOHL
+
+
+Gutierrez & Philippon, 2018). Competition policy regimes are complex regulatory
+structures, composed of a loosely coupled multitude of regulations and multiple
+enforcement layers. Today, most competition policy regimes in advanced countries
+are roughly composed of four main regulatory areas – the prosecution of cartel
+activities, the policing of attempts to monopolize markets, the control of merger
+activity, and the enforcement of statutes against deceptive and unfair trade practi-
+ces. The diagnosis of an ‘Atlantic divide’ is a widely shared professional generaliza-
+tion based on observations of diverging enforcement practices, in particular with
+respect to attempts to monopolize markets and mergers. Antitrust scholars speak
+about these historically highly flexible parts of competition policy as ‘antitrust law
+other than cartel law,’ as the prosecution of ‘hard-core cartels,’ fixing prices, out-
+put, or structures of distribution, has rarely been contentious and in need of inter-
+pretation and might even have been strengthened across the globe during the last
+50 years (Fox, 2008, p. 98, Fn. 18).
+    Despite being widely shared among antitrust scholars, the exact parameters of
+divergence between Europe and the US – of policy change in either region as well
+as in comparison – are notoriously difficult to pin down with precision. It is gener-
+ally difficult to estimate the effects antitrust policies have on the overall structure
+of industrial organization. Effective competition policies would, to a large degree,
+prevent actions in restraint of competition before the fact. It is equally difficult to
+quantify the effects of new doctrines on the activity of state agencies. Rising or fall-
+ing case numbers, for example, say very little about the direction of enforcement
+practice, both because cases vary widely in their scope and depth and because
+numbers of cases are contingent on agency activity as well as economic activity.
+Moreover, as complex regulatory structures as a rule involve decentral experiments,
+there are numerous cases deviating from the more general pattern of regime devel-
+opment. These measurement problems are at the core of fundamentally different
+views of how American antitrust enforcement has changed since the 1960s. What
+for some amounts to a ‘corporate takeover of the market’ (Crouch, 2011, Ch. 3) or
+‘a return to the period of neglect of the 1920s’ (Pitofsky, 2008, p. 5), represents a
+healthy dose of self-questioning and analytical sharpening for others (Kovacic,
+2003; Scherer, 2008).
+    Scholars often resort to key cases and decisions in Europe and the US to make
+the case for divergence. One example is the European blocking of the merger
+between GE and Honeywell, which had passed US enforcement agencies without
+problems, another one the European tendency to enforce rules against price dis-
+crimination and bundling by dominant firms. Finally, there are repeated European
+attempts to apply antitrust laws more aggressively to the IT and software sectors.4
+Another apparent indication of divergence is the fact that the European
+Commission, which until the 2000s took over leadership in significant parts of EU
+Member States’ enforcement functions, faced outright hostility from professionals
+and national antitrust authorities when it since the late 1990s tried to implement
+conventions firmly established in American enforcement (Buxbaum, 2005; Gerber,
+2007). What the extensive conflicts over the ‘modernization’ of European antitrust
+law brought to the fore was that significant parts of European doctrine and
+enforcement practice were incompatible with the way the antitrust enterprise had
+changed across the Atlantic.
+
+
+--- PAGE BREAK ---
+
+                                      REVIEW OF INTERNATIONAL POLITICAL ECONOMY       267
+
+
+   We argue that the major fault lines of the Atlantic divide can be made explicit
+through a focus on the German antitrust doctrine and hence German–American
+comparison. For once, the German antitrust authorities were originally as much an
+institutional blueprint in the set-up of the European ones as was the Bundesbank
+for the European Central Bank. Then, it was German professionals and agencies,
+which were at the forefront of critique of the EU’s ‘modernization’ initiatives since
+the 1990s. Among European nations, Germany sticks out, due to the size of its
+economy and its importance for antitrust in Europe. More than 50% of all
+European merger and acquisition cases since 1991, for instance, included a German
+company (own calculation). Finally, from a structural-economic perspective,
+Germany could arguably have been a likely nation to follow Chicago School doc-
+trines given its strong restraint of trade-friendly stance in the past.
+   In fact, our analysis shows that core parts of the incompatibilities between
+European and American antitrust enforcement can be traced back to the specific
+way in which the German antitrust profession reacted to progressive reform pro-
+posals in the 1960s and 1970s. The German profession incrementally developed
+beliefs about the proper goals and procedures of competition policy enforcement
+that – like its American counterpart – sought to push back against the influence of
+broader societal concerns. But, it did so in a way that shielded its enforcement sys-
+tem from the lowering of enforcement standards seen across the Atlantic.
+   As growing incompatibilities between doctrines are difficult to describe compre-
+hensively, we resort to an analysis of the language used by competition policy
+authorities to describe their activities and goals. An indication of the diverging tra-
+jectories of German and American enforcement can be found in the annual activity
+reports antitrust authorities produce for their supervisory bodies. In contrast to
+content analyses of more explicit political documents, like manifestos and speeches,
+the more procedural nature of competition policy reports makes an analysis of the
+implicitly used categories more suitable to uncover changes over time than a clas-
+sical discourse analysis.
+   To this purpose, we constructed a dictionary for the typical vocabulary associ-
+ated with the more traditional form-based approach (and hence not the more
+recent effect-based approach). We expect documents to be more likely of the form-
+based orientation if they refer to economic concentration as a problem, if economic
+freedom is an ideal, and if small- and medium-sized enterprises facing monopoly
+power are a concern.5 The over-time trend of the terms (and their variants) mak-
+ing up this dictionary is depicted in Figure 1 for the American case. The relative
+frequency of all terms tends to decline over time, which we take as supportive evi-
+dence for a decreasing importance of the form-based approach in the US. The con-
+cern for free competition and small enterprises or the fear of monopoly power was
+very present from the 1940s to 1960s, as when a report stated in 1947 that the
+‘democratic political structure upon which this country is based requires a system
+of free competitive enterprise to sustain it industrially and to realize its fullest eco-
+nomic potential.’ By 1994, in turn, the language had shifted as when the respective
+report claimed that ‘competitive markets serve consumers by fostering innovation
+and efficient resource allocation.’
+   Quite a different picture over time is found in the reports of the German anti-
+trust authorities, as shown in Figure 2. There the occurrence of references to con-
+centration and freedom remain important through time, while the concern about
+
+
+--- PAGE BREAK ---
+
+268       T. ERGEN AND S. KOHL
+
+
+
+
+Figure 1. Relative frequency of form-based dictionary terms in US antitrust reports. Source: Extracted from
+the annual antitrust reports of the Attorney General from 1945 to 1999. See Department of Justice
+(1982/1986).
+
+
+
+
+Figure 2. Relative frequency of form-based dictionary terms in German antitrust reports. Source:
+Bundeskartellamt, Ta€tigkeitsberichte. See Bundeskartellamt (1959/1978/1982/1984/1987/2000/2001).
+
+
+monopolies and a proper market structure even increases. Only references to small
+businesses and – very recently – monopolies decrease, although later and less
+severe than in the US. An explanation for this finding might be that, compared to
+the US, European antitrust institutions were more heavily involved in the de novo
+creation of Union-wide markets. The focus on nation states’ established restrictions
+of trade often referred to formal and quasi-monopolies or monopoly like struc-
+tures, which have been reduced significantly in the construction of the European
+Common Market. Despite this, the general picture of diverging antitrust vocabula-
+ries reveals sufficient variation to justify our comparative focus on the evolution of
+professional doctrines.
+
+
+--- PAGE BREAK ---
+
+                                         REVIEW OF INTERNATIONAL POLITICAL ECONOMY             269
+
+
+3.1. The administrative economization of American antitrust
+Compared to the German case, the historical literature on institutional change in
+American competition policy since the 1960s is large and well developed. We pre-
+sent a highly stylized historical account of that process, highlighting the main pro-
+grammatic cleavages at the core of debates about the direction of US competition
+policy in the formative period between the late 1960s and the mid-1980s. The goals
+of our analysis are twofold: We document the emergence and structure of enforce-
+ment doctrines that enabled substantial institutional changes and lay the ground
+for understanding the alternative path of German doctrines.
+
+
+3.1.1. Strengthening antitrust
+The vulnerability of the American antitrust system for processes of incremental
+change has important institutional determinants. It formally operates largely inde-
+pendent from the political system. American antitrust is jointly enforced by the
+Department of Justice Antitrust Division and the Federal Trade Commission, sub-
+ject to extensive judicial review, and relies heavily on litigation by private parties.
+Estimates for the share of private initiative in American antitrust suggest that
+‘private cases filed annually in US District Courts ranged from 83 to 96 percent of
+the total from 1975 to 2003’ (Gifford & Kudrle, 2015, p. 18). The DOJ and the
+FTC share many authorities, cooperate in investigations, and traditionally specialize
+by sectors or industries. While both bureacracies’ heads are appointed by
+Administrations, commentators usually credit them with substantial independence
+and discretion (Kovacic, 2011).
+   This institutional embedding was at the core of the dramatic incremental expan-
+sion of enforcement activity between the 1920s and 1970s, largely in the absence of
+momentous legislative changes (Hofstadter, [1964] 1996). With regard to enforce-
+ment practices, the American antitrust bureaucracy since the New Deal has usually
+been characterized as an entrepreneurial driver of expansion in the direction of
+early populist understandings of the antitrust laws. Without further qualifications,
+Richard Hofstadter was able to claim that antitrust in his time was ‘essentially a
+political rather than an economic enterprise’ (Hofstadter, [1964] 1996, p. 200).
+Even though the history of governmental attempts to use the antitrust laws as a
+tool to lower the concentration of American industry after the fact is, with few
+exceptions, a history of costly failures and misses (Kovacic, 1989), deconcentration
+for economic, political, and cultural reasons has been a centerpiece of the antitrust
+agenda since the 1930s. In many high-profile cases before the 1970s, it was offi-
+cially recognized by American courts (Gifford & Kudrle, 2015, pp. 12–13). Court
+opinions and politicians’ speeches before the 1970s contained references to small
+businesses as ‘worthy men’, warned against the political ramifications of corporate
+concentration, and quoted the ‘social and moral effects’ of economic independence
+(Pitofsky, 1979). The ‘political content of antitrust’ (ibid.) pervaded large parts of
+post-New Deal enforcement and jurisdiction, often with a good amount of enthusi-
+astic ‘overshooting’:
+   … tiny mergers that could not seriously be viewed as challenges to a competitive market
+   were consistently blocked, abbreviated (so-called per se) rules were introduced to outlaw
+   behavior that rarely produced anticompetitive or anticonsumer effects, and licensing
+   practices were challenged, which were little more than efforts to engage in aggressive
+
+
+--- PAGE BREAK ---
+
+270         T. ERGEN AND S. KOHL
+
+
+      innovation. All of this was accompanied by an almost total disregard for business claims of
+      efficiency. (Pitofsky, 2008, p. 4)
+
+   The intellectual bases of much of this activist style of enforcement stemmed
+from what came to be called the Harvard School of industrial economics – a school
+of microeconomic analysis with a longstanding interest in systematizing the struc-
+tural preconditions of anticompetitive behavior.6 In effect, many of the activist
+enforcement policies of the postwar decades were legitimized by the belief that the
+preservation of certain industry structures would render future anticompetitive
+behavior more unlikely. Both the profession’s focus on structure and its pursuit of
+the deconcentration agenda in many ways culminated in the report of Lyndon
+Johnson’s Task Force on Antitrust Policy, the so-called Neal Report. The experts
+suggested the passage of what they called the Concentrated Industries Act, a meas-
+ure that would allow administrators to force firms in concentrated industries to
+divest structures to limit their market share to 12% (Neal, 1968).7
+
+
+3.1.2. The effect-based revolution
+While the administrative movement against such activist tendencies came to for-
+mally dominate the field during the presidency of Ronald Reagan, conclusive evi-
+dence exists that the so-called Reagan Revolution in competition policy was merely
+part of an official acknowledgment of changes already firmly anchored among pro-
+fessionals, bureaucrats, and in the judiciary (Eisner, 1991; Eisner & Meier, 1990).
+The original doctrinal challenge carrying that movement is captured in Robert
+Bork’s dissenting statement to the Neal Report. Bork, who in many ways led the
+intellectual assault on structure-focused activist antitrust, was a member of the
+Neal Commission and criticized the proposed deconcentration initiative on the
+basis of a then comparatively extreme faith in market processes that widely diffused
+into US antitrust thinking during the following decades,
+      When firms grow to sizes that create concentration or when such a structure is created by
+      merger and persists for many years, there is a very strong prima facie case that the firms’
+      sizes are related to efficiency … If the leading firms in a concentrated industry are
+      restricting their output in order to obtain prices above the competitive level, their
+      efficiencies must be sufficiently superior to that of all actual and potential rivals to offset
+      that behavior. Were this not so, rivals would be enabled to expand their market shares
+      because of the abnormally high prices and would thus deconcentrate the industry. Market
+      rivalry thus automatically weighs the respective influences of efficiency and output
+      restriction and arrives at the firm sizes and industry structures that serve consumers best
+      (Bork, 1969, p. 54).
+
+   There was both an analytical and a normative side to critiques like Bork’s.
+Analytically, they challenged established views of what certain market structures
+and processes ‘actually meant’ in economic terms. Many theoretical attacks
+revolved around the question of whether certain business activities formerly catego-
+rized as attempts to restrict competition – like extensive conglomerate mergers,
+price wars, or tie-ins, for example – could really be understood as directed against
+competition on the basis of neoclassical microeconomics. In rebutting theories of
+‘predatory pricing’ (firms’ attempts to undercut rivals at a loss, in order to profit
+from increased market power after the rivals’ exit), for example conservative
+thinkers made reference to turn-of-century arguments about the disciplining role
+of ‘potential competition’ and to the long-run rationality of businesses to discredit
+
+
+--- PAGE BREAK ---
+
+                                            REVIEW OF INTERNATIONAL POLITICAL ECONOMY                 271
+
+
+the view that aggressive underselling could at any time be interpreted as an attempt
+to achieve market power:
+   Selling below cost in order to drive out a competitor is unprofitable even in the long run,
+   except in the unlikely case in which the intended victim lacks equal access to capital to
+   finance a price war. The predator loses money during the period of predation and, if he
+   tries to recoup it later by raising his price, new entrants will be attracted, the price will be
+   bid down to the competitive level, and the attempt at recoupment will fail. Most alleged
+   instances of below-cost pricing must, therefore, be attributable to factors other than a
+   desire to eliminate competition (Posner, 1979, p. 927).8
+
+   Such analytical rebuttals of earlier thought about anticompetitive conduct
+appeared for almost every target of postwar antitrust enforcement during the 1970s
+and 1980s – notably for vertical integration, many kinds of vertical restraints, and
+persistent high concentration (Bork, 1954; Burns, 1993; Hovenkamp, 2009).
+   The accompanying normative assault on antitrust enforcement practices targeted
+the question of the legitimate aims of competition policy. Conservative thinkers
+and practitioners in the 1960s and 1970s directly reacted to the multitude of values
+and political objectives in antitrust enforcement:
+   That amalgam of muddled thinking, social mythology, and sentimental rhetoric known to
+   its intimates as “the social purposes of antitrust,” however sonorously it may ring upon
+   ritual occasions for mock-Jeffersonian oratory, must be excluded from judicial and
+   prosecutorial decisions about actual cases (Bork, 1970, p. 666).
+
+    In favor of antitrust as a political common carrier (Pierson, 2004, pp. 109–110)
+that reacted to a multitude of political objectives, efficiency in the service of con-
+sumer welfare came to be the dominant criterion to judge whether business activ-
+ities fell into the purview of antitrust agencies. In practice this meant a decline of
+per se reasoning by the bureaucracy and by courts, a higher technical threshold for
+charging businesses with anticompetitive conduct, and the extension of thinking in
+terms of ‘welfare trade-offs’ between the negative effects of concentration and anti-
+competitive conduct and the efficiency advantages of certain restraining activities
+and structures (Williamson, 1968). Most important, perhaps, Chicago antitrust
+thinkers openly stated that their intellectual attacks had a political economic object-
+ive to push back against what they perceived to be increasingly interventionist ten-
+dencies in the deconcentration movement:
+   A further aspect of the Chicago–Harvard difference on deconcentration arises from the
+   difference between the deep distrust of government intervention that is associated with the
+   Chicago School of Economics … and the (rapidly diminishing) complacency toward such
+   intervention associated with traditional Harvard-M.I.T. economic thinking.
+   Deconcentration is a more ambitious form of public control than is usually involved in
+   antitrust enforcement, so one’s attitudes toward the capabilities of regulatory-type
+   governmental interventions naturally come into play (Posner, 1979, p. 948, Fn. 67).
+
+   It is difficult to unbundle the historical causes of the spectacular success of effi-
+ciency criteria in American antitrust. In the last three decades it was, it seems,
+overdetermined. There certainly has been executive sanctioning of the new doctrine
+by the Nixon, Carter, and Reagan administrations, as visible, for example, in
+Nixon’s installation of his own task force on the state of antitrust headed by
+Chicago economist George Stigler; in the Carter administration’s experimentation
+with supply side economic revitalization policies; in several nominations, guide-
+lines, and statements by the Reagan administration; or in the extension of
+
+
+--- PAGE BREAK ---
+
+272     T. ERGEN AND S. KOHL
+
+
+intellectual property protection since the 1970s. In the academy, the more rigorous
+approach to industrial economics revived academic interest in thinking about com-
+petition, while the earlier, more empirical Harvard School of microeconomics was
+a relatively marginalized field. Within the rising Chicago School itself, there had
+also been a shift from a previous anti-monopoly stance to a much more permissive
+position toward concentration in business (Van Horn, 2011). Furthermore, as is
+visible in the success of the law and economics movement, the legal profession in
+the United States was remarkably open to economic reasoning and an instrumen-
+talist logic in enforcement. To give just one example of how far thinking about
+monopoly in the American political economy changed with the prominence of wel-
+fare economics, Robert Crandall, a consultant to Microsoft during the failed gov-
+ernmental attempts to break up the corporation, after reviewing the welfare effects
+of structural remedies in American history, concluded that
+    ‘“a number of empirical studies suggest that the total cost of monopoly is very
+small indeed. [One study, TE/SK] found that the social cost of monopoly is only
+0.1% of gross national product … If monopoly is not much of a problem in the
+first place, it is understandable that Section 2 cases are rare and Section 2 remedies
+are not very effective’ (Crandall, 2001, pp. 196–197) (Section 2 of the Sherman Act
+covers attempts to monopolize a market).
+    The change in enforcement doctrines was not so much about a switch from
+unfocused or habitual types of enforcement toward a more reasoned and goal-ori-
+ented approach, as Chicago school representatives often had it, but about the incre-
+mental replacement of the mission of the regime – with quite drastic changes for
+the character of the institution of antimonopoly policy. To reiterate, measuring the
+precise impact of these changes on enforcement activity and industrial organization
+is inherently difficult. There is, however, scattered evidence that antitrust enforce-
+ment became more permissive since the 1960s – that it changed course from deca-
+des of activist expansion. It is uncontested among both proponents and critics of
+the Chicago revolution in antitrust thinking that the regulation of both horizontal
+and vertical mergers has been more lax since the early 1980s, when the William
+Baxter-led Antitrust Division codified many of the new efficiency-focused ideas in
+revised merger guidelines in reaction to what it described as ‘changes in economic
+analysis and judicial precedent’ (Department of Justice, 1982, p. 135). To give
+another example of the entrepreneurial activities of the new generation of bureau-
+crats to disseminate the new ideational current in merger control, the Antitrust
+Division helped prepare legislative proposals for an overhaul of the Clayton Act
+regulating mergers in 1986, promising ‘to distinguish more clearly between pro-
+competitive mergers and mergers that create a significant probability of increasing
+prices to consumers’ (Department of Justice, 1986, p. 112). During the 1980s anti-
+trust division repeatedly pushed for legislative reform, for example in intellectual
+property right protection, as these would ‘promote consumer welfare, enhance the
+ability of U.S. firms to compete in worldwide marketplaces, and stimulate product-
+ivity and efficiency’ (ibd.). The prosecution of predatory competition has, after a
+brief revival during the 1980s, virtually been abandoned in the early 1990s. In fact,
+the 1986 Antitrust Division of the Department of Justice (DOJ) voluntarily filed a
+Supreme Court amicus brief to push back against a lower court’s decision that
+might have allowed competitors to challenge mergers based on the possibility that
+the post-merger firm would engage in predatory pricing, citing ‘the strong
+
+
+--- PAGE BREAK ---
+
+                                     REVIEW OF INTERNATIONAL POLITICAL ECONOMY     273
+
+
+incentive of competitors to block procompetitive transactions … , the rarity of
+actual predation and the ease with which intense competition may be characterized
+as predation’ (Department of Justice, 1986, p. 113). Several high-profile cases
+against dominant firms were settled during the 1980s, notably those against IBM
+and AT&T. In many fields of enforcement, courts have denied the applicability of
+per se rules. And the ‘efficiency-defense’ for anticompetitive conduct has been
+firmly established in both the bureaucracy and the judiciary.9
+
+
+3.2. Impaired ‘modernization’ in Germany
+In the larger historical picture, the main puzzling fact about German competition
+policy might be its similarity to American antitrust in the postwar era, rather than
+the remaining institutional differences which concern us here (see Djelic, 2002).
+After all, until the late 1950s when the German antitrust law was passed, the
+German political economy was the prime example of an advanced political econ-
+omy organized by doctrines revolving around sectoral organization, coordinated
+industrial upgrading, and horizontal agreements, rather than by American ideals of
+oligopolistic competition.10
+    A few decades after the end of the Second World War, however, the German
+and other European nations had full-blown antitrust regimes in place, considerable
+parts of which were either directly transferred from or modeled after the American
+doctrinal and institutional system. In terms of codified legal rules, European and
+American antitrust regimes are remarkably similar – in both content and structure.
+Still, there always have been significant remaining institutional differences. Even
+though the European Court of Justice, for example, has shown a strong tendency
+to extend its own reach and thereby ‘drive’ rather than ‘interpret’ the law (Scharpf,
+2016), the US and many European nations still have different legal regimes with
+respect to case law or the adversarial design of trials.
+    With regard to its institutional structure, German competition policy is
+embedded in the multilevel EU governance regime. The original German antitrust
+authority, the Bundeskartellamt founded in 1957, from the beginning enjoyed far-
+reaching independence from the political system. Like in the US, the German cartel
+office independently investigates cases and is subject to extensive judicial review by
+both district and national courts and since the 1960s by the European Court of
+Justice. German states (L€ander) maintain additional cartel offices, which are less
+independent, but usually perceived to work in tandem with the federal agency
+(Fiebig, 1993). Different from the United States, antitrust enforcement responsibil-
+ities in the executive are not located in the German Ministry of Justice, but in the
+Ministry of the Economy, which has the (in practice limited) ability to block
+enforcement in cases of overarching public concern. The relationship between
+national competition authorities and the European Union since the Treaty of Rome
+of 1957 is contentious, complex, and constantly evolving. For a long time, specific
+sectors, like steel and coal, were handled at the EU-level. European governance in
+principle is based on subsidiarity, so that national authorities are in charge of
+national cases and prosecution. From certain relevance thresholds of European
+activities and revenues onwards, however, the European Commission usually takes
+over investigations.
+
+
+--- PAGE BREAK ---
+
+274     T. ERGEN AND S. KOHL
+
+
+   With regard to substance, European enforcement for a long time seemed to be
+more lenient toward restraints on trade than that of the United States during its
+activist enforcement era. For a long time, European and German competition pol-
+icy was seen to be an ‘incomplete’ institutional transfer (good overviews are Hesse,
+2016a; Quack & Djelic, 2005). Until recently, German and European competition
+law contained quite far-reaching explicit exceptions with respect to various eco-
+nomic sectors and various types of horizontal cooperation (Hardach, 2016, pp.
+223–226), such as the 1957 field exemption of banking and insurance that was
+repealed only in 1998. Formal merger control was only added to German antitrust
+in 1973. Private litigation is still underdeveloped in Europe and is bound to public
+authorities’ discovery of wrongdoing (Gifford & Kudrle, 2015, p. 20). And
+Europeans displayed a general hesitance when it came to activist antitrust and
+deconcentration in the private sector – notwithstanding the bureaucracy’s later
+enthusiasm for using competition law to go against state interference in the econ-
+omy and limited support for American decartelization initiatives in the immediate
+postwar time, which were organized by temporary special laws.
+   During the last two decades, institutional divergence in the opposite direction
+has occurred. European antitrust agencies still prosecute predatory competition,
+they go after numerous types of vertical restraints, they are still more open to per
+se reasoning and, for a long time at least, they stuck to more form-based stances in
+merger control (Gifford & Kudrle, 2015). In the following section, we argue that
+more hesitant enforcement during the American activist era and more strict
+enforcement during the era of American leniency have a common and underappre-
+ciated cause – professional identities and doctrines in German legal thinking about
+competition and the role of the state that to a large degree solidified in reaction to
+an activist challenge similar to the one in the United States. 11
+
+
+3.2.1. Resisting activist antitrust
+The German and European antitrust agencies have a strong non-economic legal
+tradition, and even though they have hired increasing numbers of economics pro-
+fessionals since the early 1970s, legal professionals still make up about half of their
+bureaucrats today (Buch-Hansen & Wigger, 2011; Ortwein, 1998).12
+   The resistance to American enforcement standards is not the first case in which
+German Ordoliberal legal elites resisted economic definitions of the goals of com-
+petition policy and in which they had a hard time bringing a policy in line with
+liberal convictions that made deep state interventions into the economy the norm.
+Ordoliberalism, a loose network of intellectuals that emerged in the 1920s, is a typ-
+ically German variety of liberal thought that came to dominate postwar debates
+about the economy (Hien & Joerges, 2017). Ideologically situated between a rejec-
+tion of state planning and the idea that competitive markets need sustaining state
+institutions, this school came to shape many postwar economic institutions in
+Germany and Europe.
+   While Ordoliberal elites certainly were the driving domestic forces for the adop-
+tion of both the European and German antitrust regimes (Quack & Djelic, 2005),
+they had difficulties coming up with a conception of the new law that was compat-
+ible with their political guiding principle of process-neutral ‘framework policies’
+from the very beginning. The enforcement of ‘perfect competition’ – or the
+
+
+--- PAGE BREAK ---
+
+                                     REVIEW OF INTERNATIONAL POLITICAL ECONOMY     275
+
+
+enforcement of behavior of powerful firms as if they were in ‘perfect competition’
+– would mean that the state had to push the economy into an arbitrary and artifi-
+cial state of organization. At the latest during the 1960s, Ordoliberals converged on
+an ideal conception of the new law that limited it to ‘negative’ state interventions,
+meaning that it was only to ‘prevent’ but not to ‘prescribe’ economic activities in
+the service of the maintenance of market structures that would limit market power.
+The core purpose of such a system was not the creation of a specific form of com-
+petition, but something Ordoliberals early on called ‘competitive freedom.’ German
+cartel law was intended to protect the freedom to engage in competition and the
+freedom of sellers and buyers to choose among competing offers. Thus, the first
+annual report of the antitrust agency emphasized that
+    ‘ the law is not supposed to punish but to create order. It leaves every possible
+freedom to the entrepreneur, as long as he does not attempt to arbitrarily alter the
+economic conditions through distortions of and obstacles to competition. Thus, the
+law not only serves an economic, but a societal purpose’(Bundeskartellamt, 1959, p.
+11; our translation).
+    What sounded like an odd legalistic formalization of an institutional transfer led
+into heated debates about enforcement practices in the 1960s and 1970s that came
+to be known as the Hoppmann-Kantzenbach controversy. This intellectual battle
+was triggered by a series of publications in which Erhard Kantzenbach, a microeco-
+nomist whose ideas were closely related to the American Harvard School and who
+became chairman of the German Monopoly Commission between 1979 and 1986,
+tried to develop a system of desirable functions of economic competition as a
+guideline for antitrust enforcement (Kantzenbach, 1968). As such, these functions
+were largely uncontentious – improving factor allocation, stimulating technological
+change, and enhancing the adaptability of the industrial system, for example. What
+triggered the fierce attack by Erich Hoppmann, the successor to Friedrich Hayek at
+the Ordoliberal bastion, the Walter Eucken Institute at the University of Freiburg,
+were policy prescriptions formulated by Kantzenbach to allow certain ‘limited’
+restraints on trade in antitrust enforcement if these served his system of the desired
+effects of competition – temporary cartels and the stimulation of mergers, for
+example – and his openness toward a more active deconcentration agenda.
+    In a series of publications, Hoppmann violently attacked Kantzenbach’s plea for
+a more instrumental approach to antitrust in its infancy. First, Ordoliberals seemed
+to be concerned about the political economic consequences of Kantzenbach’s vision
+for antitrust. They feared a slippery slope which would turn competition policy
+into another tool of state intervention and planning. After all, the late 1960s and
+1970s were the high time of experimentation in industrial policy in rich Western
+nations. Moves away from per se restrictions toward increasing consideration of
+individual cases could have further opened the regime up to the increasing influ-
+ence of interest groups on cartel policy, undermining the central bank-like inde-
+pendent status of the cartel office. Second, Hoppmann fundamentally doubted the
+claim that there were conflicts between Kantzenbach’s functions of competition
+and a formalistically enforced ‘freedom to compete’ which could be known to
+bureaucrats before the competitive process unfolded. Most distinctive, perhaps,
+Hoppmann took up the early Ordoliberal notion of ‘competitive freedom’ and
+emphasized that it should have a certain non-teleological character – it
+
+
+--- PAGE BREAK ---
+
+276         T. ERGEN AND S. KOHL
+
+
+      is about competition as an end in itself, as certain forms of economic freedom are
+      manifested in it. Freedom of competition means: freedom of initiative, freedom to advance
+      into new technical, organizational, and economic territories, to create new goods, new
+      processes, new markets, freedom of economic progress. On the other side of the market
+      there is a corresponding freedom to choose among alternatives … Restraints of the
+      freedom of competition are identical to the artificial creation of market power and vice
+      versa. The norm of competition policy must be that kind of competition that results if the
+      freedom of competition is secured against restraining business practices (Hoppmann, 1966,
+      p. 19; our translation).
+
+   The doctrine of competitive freedom developed in two important strands of
+thought. On the one hand, the epistemological argument against instrumentalist
+antitrust enforcement became one of the main arguments for a form-based and
+rule-oriented approach. If the results of competition were known in advance, an
+often-cited 1969 quip by Friedrich Hayek went, capitalist societies would not have
+to rely on it to organize their economies in the first place:
+      Competition is thus, like experimentation in science, first and foremost a discovery
+      procedure. No theory can do justice to it which starts from the assumption that the facts
+      to be discovered are already known. There is no predetermined range of known or “given”
+      facts which will ever all be taken into account. All we can hope to secure is a procedure
+      that is on the whole likely to bring about a situation where more of the potentially useful
+      objective facts will be taken into account than would be done in any other procedure
+      which we know. It is the circumstances which makes so irrelevant for the choice of a
+      desirable policy all evaluation of the results of competition that starts from the assumption
+      that all the relevant facts are known to some single mind (Hayek, [1979] 1998, p. 68).
+
+
+
+3.2.2. From resisting activism to blocking economization
+In such a view, early German deconcentration debates, proposed merger control
+(on which Hoppmann later revised his views), and Kantzenbach’s instrumental
+vision for antitrust enforcement became just another hopeless exercise in central
+planning, in which state agents tried to come up with optimal firm sizes, proper
+market shares and desirable rates of industrial adjustment. While radical arguments
+like Hayek’s never came to dominate the German and European antitrust profes-
+sion, they made generations of practitioners more hesitant when it came to more
+‘rational’, ‘modern’, and ‘goal-oriented’ enforcement standards.
+    Subsequently, the idea that competition policy protects competitive freedom ‘in
+itself’ proved to be widely influential in legal thought. In part, the allergic reaction
+of legal scholars to welfare goals in antitrust was a symptom of a more general dis-
+trust of postwar legal thought with positivist, instrumental interpretations of the
+rule of law. In the hands of one of the most influential legal scholars in the
+German antitrust profession, Ernst-Joachim Mestm€acker, the ‘value-rational’ pro-
+tection of competitive freedom came to symbolize the autonomy of the law. In an
+attack on the law and economics movement, he lamented,
+      Cost-benefit analysis is end-neutral. It can be applied to any given purpose. Constitutions,
+      statutes and precedents, however, are as a rule not end-neutral. The question then is how
+      to accommodate the normative implications of economic analysis with diverse non-
+      economic legal purposes. In law, the relation of ends to means is more than a pragmatic
+      methodological operation … Wealth maximization is no substitute for the purpose of law
+      in general (Mestm€acker, 2007, p. 13).
+
+
+--- PAGE BREAK ---
+
+                                     REVIEW OF INTERNATIONAL POLITICAL ECONOMY    277
+
+
+    Such debates were not exclusive to academia. As Hesse (2016b, pp. 443–446)
+documents, they were at the core of conflicts between key actors in economic pol-
+icy during the first Grand Coalition in Germany (1966–1969). Eberhard G€     unter, a
+key bureaucrat behind the original 1957 German antitrust law and until 1976 the
+first President of the German antitrust authority, publicly subscribed to
+Kantzenbach’s general plea in 1967, what led ordoliberal intellectuals to send pro-
+test-notes to the economics ministry. Karl Schiller, progressive economics minister
+from 1966 to 1972, had his bureaucracy work toward a far-reaching amendment of
+German antitrust law ‘to stimulate structural change in industry and productivity
+growth’ since 1968 and tried to steer the scientific advisory board of the economics
+ministry toward the development of an accompanying new mission statement for
+German antitrust (Hesse, 2016b, p. 445). These plans were blocked when key legal
+members of the board, such as Franz B€     ohm, diverted discussions from different
+theories of competition toward the problem of ‘instrumentality,’ as discussed by
+Hoppmann and Mestm€acker. In general, personnel and ideational spill-overs
+between ordoliberal intellectuals and the political sphere can be observed over the
+entire history of German antitrust. Mestm€acker, for example became the first presi-
+dent of the antitrust- commission Monopolkommission an expert council, which
+advises the government on antitrust matters and annually publishes general and
+special reports on the state of competition in Germany that was instituted to
+accompany German merger control in 1973.
+    As a whole, the professional doctrines around competitive freedom, as refined
+in the 1960s’ and 1970s’ debates, worked as a strong barrier to the transatlantic
+‘harmonization’ of antitrust enforcement. Since the early 2000s, the EU
+Commission’s Directorate-General for Competition launched a campaign to bring
+EU member states’ enforcement practices into line with modern American stand-
+ards (Gerber, 2007). Through a series of discussion papers, conferences, court deci-
+sions, restructuring moves, and guidelines worked out since the late 1990s, the
+Commission tried to institutionalize new, more welfare-focused tests of abusive
+behavior, the efficiency defense in merger control and abuse cases, and a focus on
+consumer welfare in the multi-level EU antitrust regime. While many of the pro-
+posed changes have affected antitrust practices across the EU in one way or
+another, almost all of them met with staunch resistance from significant legal intel-
+lectuals and antitrust practitioners and ended up in hybrid practical manifestations
+(Buxbaum, 2005; Gerber, 2007). Compared to the spectacularly far-reaching econo-
+mization of US competition law since the 1960s, ‘modern’ economic thinking in
+European antitrust enforcement has been markedly impaired by systems of ideas
+and doctrines.
+    These doctrines were not simply detached from the enforcing agencies, but are
+referred to in their commentary, mission statements, and advocacy output. Thus,
+the aforementioned Hayek is often cited in general commitments to competition as
+a method of discovery (Bundeskartellamt, 1982, p. 6), and legal professionals like
+Mestm€acker and Ulrich Immenga led influential antitrust commissions in the
+1970s and 1980s. One of the main representatives of the legal doctrine of competi-
+tive freedom, Immenga, resigned as head of the German Monopolkommission in
+1989 in a public battle about the merger of Daimler and MBB as part of the Airbus
+project, which was blocked by antitrust authorities but subsequently allowed by the
+German economics ministry on industrial policy grounds (for a richer account of
+
+
+--- PAGE BREAK ---
+
+278         T. ERGEN AND S. KOHL
+
+
+the battle of German Ordoliberals against the ‘industrial policy relativization’ of
+competition policy, see Monopolkommission, 1992). In the process, Immenga
+declared that the passage of the merger would ‘give insights into conflicts between
+industrial policy and competition policy, especially if one understands competition
+not just as an economic phenomenon, but recognizes its function in society to safe-
+guard freedom’ (quoted in Ortwein, 1998, p. 231; our translation).
+    A closer look at the annual reports of the German antitrust agency reveals that
+the discourse in favor of continuing form-oriented interventions promoting compe-
+tition remained prominent in the 1980s (cf. Figure 2), even though the general per-
+ception of increasing international competition made this a contested policy issue.
+When German corporations seemed to maintain international competitiveness in
+the 1980s, the antitrust agency even claimed credit, arguing that it enhanced com-
+panies’ international competitiveness by cultivating competition in the home mar-
+ket (Bundeskartellamt, 1984, p. 4) – a striking difference from US reformers’
+catering to the 1980s’ industrial policy debates in praise of more lenient enforce-
+ment standards (see, e.g. Baxter, 1985). Another frequent argument mentioned in
+administrators’ self-descriptions is support of small and medium-sized enterprises
+for whom, unlike for big ones, certain forms of horizontal cooperation were a trad-
+itionally permitted means to survive in competition with big corporations
+(Bundeskartellamt, 1987). Along similar lines, the institutionalization of merger
+control in Germany and the establishment of an independent agency monitoring
+concentration in German industry, the Monopolkommission, were accompanied by
+pleas to simultaneously ease cooperation between small and medium enterprises
+(Brandt, 1969). The high inflation period of the 1970s raised the specter of less
+competition driving prices even further (Bundeskartellamt, 1978, p. 6). Finally, in
+the pro-market atmosphere of the 1980s, the antitrust agency successfully sold its
+activity to safeguard the competitive process – not distributional results – as fur-
+thering a common cause.
+    By the end of the 1990s, the antitrust agency more frequently discussed the
+‘more economic approach,’ which by then had been adopted more broadly in the
+US. These discussions were triggered by initiatives by the European Commission’s
+DG for Competition under Mario Monti (1999–2004) and successive European
+Court of Justice case law, which were favoring the American effects-based approach
+to competition law. Significant parts of the German antitrust profession reacted
+adversely to reform proposals. In a 2000 discussion paper, for example, a softening
+of basic enforcement principles in cases of horizontal cooperation between compa-
+nies was basically rejected by the German antitrust agency (Bundeskartellamt,
+2000), a position shared by the German government in its commentary on the
+annual antitrust report:
+      From the point of view of the federal government, the consideration of economic insights
+      may not counteract the basic principles of competition policy. The core and agreed-upon
+      goal of competition law, to work toward the long-term interests of consumers by
+      structurally safeguarding dynamic competition, should not be called into question in the
+      process of adapting to analytical methods in industrial economics. Hence, the
+      “economization of competition law” should not lead to a replacement of the practice of
+      antitrust enforcement in Germany that has been developed and proven for decades
+      (Bundeskartellamt, 2001).
+
+
+--- PAGE BREAK ---
+
+                                      REVIEW OF INTERNATIONAL POLITICAL ECONOMY     279
+
+
+    Similar resistances to change at the European level can be found in the process
+of merger guideline revision and in the German positioning against the immediate
+introduction of tests of market dominance that were common in the US and in
+Canada (Buch-Hansen & Wigger, 2011, pp. 112–13).
+    While changing doctrines in the American antitrust profession have certainly
+left their mark on German competition policy and agency practices, administrators
+over the years have reaffirmed their suspicion of ‘modern’ enforcement practices.
+The ‘welfare standard,’ former cartel office president and trained economist
+Bernhard Heitzer still emphasized in a conciliatory speech to EU professionals in
+2008, appeared to be ‘a perfect servant for theoretical analysis. But it is a very poor
+master for law enforcers’ (Heitzer, 2008, p. 9; emphasis in the original).
+
+
+4. Conclusions
+In the 1960s, Hofstadter ([1964] 1996) observed a bureaucratic routinization of
+antitrust enforcement in postwar embedded liberalism. While his diagnosis that
+competition policy had been transformed from an issue relevant for mass mobiliza-
+tion and contentious politics to a professional enterprise turned out to be highly
+accurate, the amount of policy change through processes within that routinized sys-
+tem was beyond his grasp. All four regimes of antitrust enforcement described
+above – the activist and economized US regimes and the postwar German regimes
+– did not just exist in states of rule-bound ‘implementation.’ They were driven by
+ideational fads and systems of professionally negotiated beliefs and values. In our
+discussion of alternative approaches to explain change in competition policy, we
+highlighted the fact that structural determinants of economic regulation under-
+determine policy trajectories. This is what the trajectories of American and
+German enforcement doctrines reveal. Switches from form-based to effect-based
+approaches within legal regimes, from deconcentrating agendas to efficiency
+enhancing ones and vice versa within established Varieties of Capitalism, and
+diverging trajectories despite similar economic pressures are examples of how
+changing ideas can alter policy directions in ‘imprecise’ institutional regimes.
+   A note on the comparative dimension of our study: as it should not per se be
+considered surprising that different national bureaucracies maintain indigenous
+practices over time, we want to highlight that the two national pathways we
+described are, at their core, not stories of mere cultural persistence or institutional
+path dependence. It was the decade-long struggle on the level of enforcement to
+enact the antitrust laws – to act on the challenge to deal with concentrations of pri-
+vate economic power – that made the American regime vulnerable to a change in
+enforcement doctrines that would eventually counteract some of the core ideas of
+the laws themselves. In the German context, the ideas that impaired American-style
+economization since the 1990s emerged in conflicts about how to implement com-
+petition policy – they were to a certain degree endogenous to the regime and a
+contingent outcome of ideological battles between professionals. The goal of look-
+ing at two – historically intimately related – cases was to demonstrate that alterna-
+tive politics on the enforcement level of competition policy led to alternative
+regime characteristics, not directly to highlight national characteristics as decisive
+factors in policy design. Our study suggests that rule-enforcement practices are not
+
+
+--- PAGE BREAK ---
+
+280     T. ERGEN AND S. KOHL
+
+
+time-invariant structures but must be constantly upheld by the respective profes-
+sional groups in order to retain stable characters (Stinchcombe, 1997, p. 9).
+    Our findings have broader implications for debates on neoliberal ideas and on
+technocratic liberalization. The discussion of the antitrust case reveals that competi-
+tion policies cut across simple classifications into left and right, into neoliberal and
+non-neoliberal ideas. Both the Ordoliberal and the Chicago-school ideas on compe-
+tition are part of the economics profession and both embrace free-market ideas to
+the fullest, albeit with different views on what a free market actually is (Wigger,
+2017). Ordoliberals have thus been far from letting broader societal goals intrude
+into the shaping of market structures and cannot simply be equated with a non-
+market liberal or left-wing movement favoring a ‘social market economy’. The
+paper thus highlights the need to distinguish between sweeping claims about neo-
+liberalism from more fine-grained accounts of economization through economic
+professionals which, as we have seen, can differ across time and countries. It thus
+speaks to the rather underdeveloped comparative empirical study of the economic
+profession (Fourcade, 2009), not only in its academic ramifications but also among
+practicing professionals in their often ‘performative’ institutional work (Eberle &
+Lauter, 2011; MacKenzie, Muniesa, & Siu, 2007; Seabrooke & Henriksen, 2017).
+While there exist excellent case studies of individual antitrust authorities, doctrines,
+and cases, truly comparative antitrust is still largely absent from the IPE or
+CPE literature.
+    Finally, our analysis points to important country differences in regulatory bodies
+that are not directly and democratically elected, whose decisions can still have last-
+ing impacts on consumer welfare and economic structure. The neglect of these
+technocratic agencies – general bureaucracies, central banks (Braun, 2016), courts
+(H€ opner, 2011), or consumer protection agencies (Prasad, 2012), to name just a
+few – results from the idea that their role is restricted to implementation and fol-
+lowing of the rules of a delegating principal. With parliamentary capacity being
+restricted by supranational powers, ideological stalemates, or global pressures, these
+agencies are becoming more powerful actors than was previously thought (Quinn,
+2010). Freed from overt political struggles, under day-to-day pressures to solve
+immediate problems, under loose democratic monitoring, and organized around
+homogeneous professional corps, these agencies can in part pursue their
+own agendas.
+
+
+Notes
+ 1. For a comparative institutional specification of such a perspective, see
+    Dobbin (2009).
+ 2. Good early overviews of that literature are Rourke ([1969] 1976) and Sabatier and
+    Mazmanian (1980).
+ 3. A good overview of that movement and its relevance for the competition policy
+    debate is Morgan (1992).
+ 4. For a brief overview of the relevant cases and literature, see Gifford and Kudrle
+    (2015, ch. 1).
+ 5. We chose these terms because they approximate the form-based tenets best and
+    because they are most unambiguously associated with it in the texts. Moreover, an
+    automated text analysis (topic-model) did not produce sensible topics for our
+    purposes, possibly due to the reports’ strong focus on individual cases. We
+
+
+--- PAGE BREAK ---
+
+                                            REVIEW OF INTERNATIONAL POLITICAL ECONOMY            281
+
+
+      constructed the dictionary by starting with the most basic keyword and their
+      variants which we then checked in its context of occurrence, using R’s quanteda
+      package (Benoit et al., 2018) and an annotation tool of our own (D€                 €ft & Kohl,
+                                                                                    usterho
+      2019). To exclude non-matching contexts, we refined the keyword and added
+      further variants. We iterated this process up to the point where a random sample
+      of 100 keywords in context yielded more than 95 correct matches. As the
+      document type and language are different across countries, we only compare
+      trends, not absolute levels. The dictionaries for English and German are (all used as
+      regular expressions): ‘concentrat’, (‘free to’, ’freedom’, ‘free compet’, ‘free market’,
+      ‘free-market’, ‘free choice’), (‘small business’, ‘small enterp’, ‘small comp’, ‘small and
+      medium’),(‘monopol’, ‘oligopol’, ‘market power’), (‘market structur’, ‘industry
+      structur’, ‘share of’); ‘konzentr’, (‘freiheit’, ‘frei zugang’, ‘frei wahl’, ‘frei wettbewerb’,
+      ‘diskriminierungsfrei’), (‘mittlere unternehm’, ‘mittelst’, ‘kleiner’), (‘monopol’,’oligopol’,
+      ‘marktbeherrsch’), (‘marktstruktur’, ‘struktur voraussetzung’, ‘wettbewerbsstruktur’,
+      ‘branchenstruktur’).
+ 6.   See Mason (1939) for an early programmatic piece. See Bain (1951) and Scherer
+      (1970) for examples of that school’s thought at its height. Hovenkamp (1989) gives
+      a historical overview of the parallel development of industrial economics and
+      antitrust enforcement.
+ 7.   An overview of the history and fate of the deconcentration movement is provided
+      by Hovenkamp (2009).
+ 8.   The history of thought and enforcement with regard to predatory pricing illustrates
+      the complexities of the link between expertise and bureaucracies. The original
+      Chicago attack on predation pushed by Posner had been published in 1958. Yet, it
+      was only in the mid-1970s that courts started to put higher burdens on plaintiffs
+      and only in the mid-1990s that such a fully sceptical reasoning made successful
+      predation cases almost impossible to win. A full overview of the history of
+      predatory pricing in economic thought and in American courts is provided by
+      Giocoli (2013).
+ 9.   Balanced overviews of these and other changes in enforcement practices can be
+      found in Kovacic (1990, 2003).
+10.   For a good overview, see Ambrosius (1981).
+11.   While the Americanization of German antitrust – and antitrust more generally in
+      Europe – remained incomplete, the transfer of German legal ideas and practices to
+      the level of the emerging antitrust commission of the European Union has also
+      been said to be incomplete (Buch-Hansen & Wigger, 2011, p. 28). Though this
+      transfer was originally also inspired by Ordoliberal thinking, some researchers claim
+      that increasing international competition fueled a desire to enhance market power
+      and promote ‘Euro Champions’, causing the Ordoliberal character of European
+      competition policy to get watered down (ibid.).
+12.   Historically, state bureaucracies in Germany have been much more largely staffed
+      by the legal profession, often in permanent civil service, while the later state-
+      building in the US has led to more professional specialization in state employment
+      (Rueschemeyer, 1976).
+
+
+Acknowledgments
+Earlier versions of this paper have been presented at the 2016 Studying Capitalist Phenomena in
+Time conference in Uppsala and at the 2016 SASE Annual Meeting in Berkeley. We thank the
+participants for their comments. We would like to thank Jens Beckert, Benjamin Braun, Helen
+Callaghan, Josef Hien, Paul Tucker, and the anonymous reviewers for helpful comments on
+the manuscript.
+
+
+--- PAGE BREAK ---
+
+282       T. ERGEN AND S. KOHL
+
+
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+
+
+Notes on contributors
+Timur Ergen is a senior researcher at the Max Planck Institute for the Study of Societies,
+Cologne. His research focuses on deindustrialization, energy and industrial policies, technological
+innovation, and economic competition.
+Sebastian Kohl was a researcher at Uppsala University and the Institute for Housing and Urban
+Research in Uppsala from 2015 to 2017 and is currently a senior researcher at the Max Planck
+Institute for the Study of Societies. His research focuses on housing, insurance, and economic
+competition.
+
+
+
+References
+Allen, C. (1989). ‘The underdevelopment of keynesianism in the Federal Republic of Germany’. In
+   P. A. Hall (Ed.) The political power of economic ideas: Keynesianism across nations (pp.
+   263–90). Princeton, NJ: Princeton University Press.
+Ambrosius, G. (1981). Die Entwicklung des Wettbewerbs als wirtschaftspolitisch relevante Norm
+   und Ordnungsprinzip in Deutschland seit dem Ende des 19. Jahrhunderts [The evolution of
+   competition as a norm and principle of order of relevance to economic policy in Germany
+   since the 19th century]. Jahrbuch f€ur Sozialwissenschaft, 32(2), 154–201.
+Bain, J. S. (1951). Relation of profit rate to industry concentration: American manufacturing,
+   1936–1940. Quarterly Journal of Economics, 65(3), 293–324. doi:10.2307/1882217
+Baxter, W. F. (1985). Antitrust law and technological innovation. Issues in Science and Technology,
+   1(2), 80–91.
+Benoit, K., Watanabe, K., Wang, H., Nulty, P., Obeng, A., M€            uller, S., & Kuha, J. (2018).
+   Quanteda: Quantitative analysis of textual data [R Package Version 1.2].
+Bork, R. H. (1954). Vertical integration and the Sherman Act: The legal history of an economic
+   misconception. University of Chicago Law Review, 22(1), 157–201. doi:10.2307/1598229
+Bork, R. H. (1969). Separate statement of Robert H. Bork. Antitrust Law and Ecoomics Review, 53,
+   53–56.
+Bork, R. H. (1970). Antitrust in dubious battle. St. John’s Law Review, 44(5), 663–676.
+Bourdieu, P. (2005). Principles of an economic anthropology. In N. Smelser and R. Swedberg
+   (Eds.), The handbook of economic sociology (pp. 75–89), Princeton, NJ: Princeton University
+   Press.
+Brandt, W. (1969). Regierungserkla€rung von Bundeskanzler Willy Brandt vor dem deutschen
+   Bundestag in Bonn am 28. Oktober 1969 [Government declaration by Chancellor Willy Brandt
+   in Bonn on October 28 1969], Presse- und Informationsamt der Bundesregierung. Bonn.
+Braun, B. (2016). Speaking to the people? Money, trust, and central bank legitimacy in the age of
+   quantitative easing. Review of International Political Economy, 23(6), 1064–1092. doi:10.1080/
+   09692290.2016.1252415
+Buch-Hansen, H., & Wigger, A. (2010). Revisiting 50 years of market-making: The neoliberal
+   transformation of European competition policy. Review of International Political Economy,
+   17(1), 20–44. doi:10.1080/09692290903014927
+Buch-Hansen, H., & Wigger, A. (2011). The politics of European competition regulation. A critical
+   political economy perspective, New York: Routledge.
+Bundeskartellamt.     (1959/1978/1982/1984/1987/2000/2001)          T€atigkeitsberichte. Bonn/Berlin:
+   Deutscher Bundestag. Retrieved from https://www.bundeskartellamt.de/DE/UeberUns/
+   Publikationen/Taetigkeitsberichte/taetigkeitsberichte_node.html.
+Burns, J. W. (1993). Vertical restraints, efficiency, and the real world. Fordham Law Review, 62(3),
+   597–651.
+
+
+--- PAGE BREAK ---
+
+                                             REVIEW OF INTERNATIONAL POLITICAL ECONOMY             283
+
+
+Buxbaum, H. L. (2005). German legal culture and the globalization of competition law: A histor-
+   ical perspective on the expansion of private antitrust enforcement. Berkeley Journal of
+   International Law, 23(2), 474–495.
+Christophers, B. (2016). The great leveler. Capitalism and competition in the court of law.
+   Cambridge, MA: Harvard University Press.
+Crandall, R. W. (2001). The failure of structural remedies in Sherman Act monopolization cases.
+   Oregon Law Review, 80, 109–198.
+Crouch, C. (2011). The strange non-death of neoliberalism. Cambridge, MA: Polity.
+Culpepper, P. D. (2011). Quiet politics and business power: Corporate control in Europe and Japan.
+   Cambridge, MA: Cambridge University Press.
+Department of Justice. (1982/1986) Annual report of the Attorney General of the United States.
+   Washington, DC: GPO.
+Djelic, M.-L. (2002). Does Europe mean Americanization? The case of competition. Competition
+   & Change, 6(3), 233– 250. doi:10.1080/10245290215046
+Dore, R. (1986). Flexible rigidities. Industrial policy and structural adjustment in the Japanese econ-
+   omy, 1970-80. Stanford: Stanford University Press.
+Dobbin, F. R. (2009). Inventing equal opportunity. Princeton, NJ: Princeton University Press.
+DPC/EPC. (1985). Memorandum for the president. Subject: antitrust review. Reagan Presidential
+   Library, S. G. McCaffrey Files, Box OA 16079, Folder 2.
+Driggs, M. A. (1985). Memorandum for the cabinet council on commerce and trade.
+   Recommendations of the President’s Commission on Industrial Competitiveness. Reagan
+   Presidential Library, R. Porter Files, Box OA15009, Folder 1.
+D€usterh€oft, M., & Kohl, S. (2019). AnnotatoR: A manual support tool for quantitative text analysis
+   in R. Version 0.1.
+Eberle, D., & Lauter, D. (2011). Private interests and the EU-US dispute on audit regulation: The
+   role of the European accounting profession. Review of International Political Economy, 18 (4),
+   436–459. doi:10.1080/09692290.2010.499798
+Edelman, L. B. (1991). Review of The transformation of corporate control. By Neil Fligstein.
+   Cambridge: Harvard University Press, 1990., American Journal of Sociology, 97(2), 549–551.
+   doi:10.1086/229796
+Edelman, L. B. (1992). Legal ambiguity and symbolic structures: Organizational mediation of civil
+   rights law. American Journal of Sociology, 97(6), 1531–1576. doi:10.1086/229939
+Eisner, M. A. (1991). Antitrust and the triumph of economics. Institutions, expertise, and policy
+   change. Chapel Hill: University of North Carolina Press.
+Eisner, M. A., & Meier, K. J. (1990). Presidential control versus bureaucratic power: Explaining
+   the Reagan revolution in antitrust. American Journal of Political Science, 34(1), 269–287. doi:
+   10.2307/2111519
+Evans, P. B., Rueschemeyer, D., Skocpol, T. (Eds.). (1985). Bringing the state back in, Cambridge,
+   MA: Cambridge University Press.
+Fiebig, A. R. (1993). The German Federal Cartel Office and the application of competition law in
+   reunified Germany. University of Pennsylvania Journal of International Law, 14(3), 373–408.
+Fligstein, N. (1990). The transformation of corporate control. Cambridge, MA: Harvard University
+   Press.
+Fourcade, M. (2009). Economists and societies: Discipline and profession in the United States,
+   Britain, and France, 1890s to 1990s. Princeton, NJ: Princeton University Press.
+Fox, E. (2008). The efficiency paradox. In R. Pitofsky (Ed.), How the Chicago school overshot the
+   mark: The effect of conservative economic analysis on U.S. Antitrust (pp. 77–88). Oxford:
+   Oxford University Press.
+Galambos, L. (2004). The monopoly enigma, the Reagan administration’s antitrust experiment,
+   and the global economy. In L. Lipartito & D. Sicilia (Eds.), Constructing corporate America:
+   History, politics, culture (pp. 149–154). Oxford: Oxford University Press.
+Gerber, D. J. (1998). Law and competition in twentieth century Europe: Protecting prometheus.
+   Oxford: Oxford University Press.
+Gerber, D. J. (2007). Two forms of modernization in European competition law. Fordham
+   International Law Journal, 31(5), 1235–1265.
+Gifford, D. J., & Kudrle, R. T. (2015). The Atlantic divide in antitrust: An examination of US and
+   EU competition policy. Chicago, IL: University of Chicago Press.
+
+
+--- PAGE BREAK ---
+
+284      T. ERGEN AND S. KOHL
+
+
+Giocoli, N. (2013). Games judges don’t play: Predatory pricing and strategic reasoning in US anti-
+   trust. Supreme Court Economic Review, 21(1), 271–330.
+Gourevitch, P. A. (1986). Politics in hard times. Comparative responses to international economic
+   crises. Ithaca: Cornell University Press.
+Graham, O. L. (1992). Losing time: The industrial policy debate, Cambridge, MA: Harvard
+   University Press.
+Gutierrez, G., and., & Philippon, T. (2018). How EU markets became more competitive than US
+   markets: A study of institutional drift. NBER Working Paper 24700.
+Hacker, J. S., Pierson, P., & Thelen, K. (2015). Drift and conversion: The hidden faces of institu-
+   tional change. In J. Mahoney & K. Thelen (Eds.), Advances in comparative-historical analysis
+   (pp. 180–210). Cambridge: Cambridge University Press.
+Hall, P. A., & Soskice, D. (2001). An introduction to varieties of capitalism. In P. A. Hall & D.
+   Soskice (Eds.), Varieties of capitalism: The institutional foundations of comparative advantage
+   (pp. 1–68). Oxford: Oxford University Press.
+Hardach, G. (2016). Wettbewerbspolitik in der Sozialen Marktwirtschaft [Competition policy in
+   the Social Market Economy]. In W. Abelshauser (Ed.), Das Bundeswirtschaftsministerium in der
+   €
+   Ara   der Sozialen Marktwirtschaft. Der deutsche Weg der Wirtschaftspolitik (pp. 193–262).
+   Oldenbourg: De Gruyter.
+Hayek, F. A. V. [1979] (1998). The political order of a free people. Law, legislation and liberty
+   (Vol. 3). London: Routledge.
+Heitzer, B. (2008). Economic assessment in competition enforcement: Developments in France and
+   Germany, Conference paper, Annual conference of CRA International ‘Economic developments
+   in European competition policy’, Brussels, 3 December.
+Hesse, J.-O. (2016a). Abkehr vom Kartelldenken? Das Gesetz gegen Wettbewerbsbeschr€ankungen
+   als ordnungspolitische und wirtschaftstheoretische Z€asur der €   Ara Adenauer [Turning away
+   from cartel thought? The law against restraints of competition as a political and theoretical
+   break during the era Adenauer]. In H. G. Hockerts & G. Schulz (Eds.), Der “Rheinische
+   Kapitalismus” in der Ara€ Adenauer. Rh€ondorfer Gespr€ache, bd (Vol. 26, pp. 29–50). Paderborn:
+   Ferdinand Sch€oningh.
+Hesse, J. O. (2016b). Wissenschaftliche Beratung in der Wirtschaftspolitik [Scientific consulting in
+   economic policy]. In W. Abelshauser (Ed.), Das Bundeswirtschaftsministerium in der €     Ara der
+   Sozialen Marktwirtschaft. Der deutsche Weg der Wirtschaftspolitik (pp. 390–481). Oldenbourg:
+   De Gruyter.
+Hien, J. & Joerges, C. (Eds.). (2017). Ordoliberalism, law and the rule of economics. Oxford: Hart.
+Hofstadter, R. [1964] (1996). What happened to the antitrust movement?. In R. Hofstadter (Ed.),
+   The paranoid style in American politics and other essays (pp. 188–237). Cambridge: Harvard
+   University Press.
+H€opner, M. (2011). Der Europa€ische Gerichtshof als Motor der Integration: Eine akteursbezogene
+   Erkla€rung [The European Court of Justice as driver of integration: An actor-based explanation].
+   Berliner Journal F€ur Soziologie, 21(2), 203–229. doi:10.1007/s11609-011-0154-z
+Hoppmann, E. (1966). Das Konzept der optimalen Wettbewerbsintensit€at: Rivalit€at oder Freiheit
+   des Wettbewerbs: Zum Problem eines wettbewerbspolitisch ad€aquaten Ansatzes der
+   Wettbewerbstheorie [The concept of the optimal intensity of competition: Rivalry or freedom
+   of competition. On the problem of an approach to theories of competition that is adequate for
+   competition policy]. Jahrb€ucher F€ ur National€okonomie Und Statistik, 179, 286–323.
+Hovenkamp, H. (1989). The antitrust movement and the rise of industrial organization. Texas
+   Law Review, 68(1), 105–167.
+Hovenkamp, H. (2009). The Neal Report and the crisis in antitrust. Legal Studies Research Paper
+   (9). University of Iowa, Iowa City, IA.
+Kantzenbach, E. (1968). Das Konzept der optimalen Wettbewerbsintensita€t.: Eine Erwiderung auf
+   den gleichnamigen Besprechungsaufsatz von Erich Hoppmann [The concept of the optimal
+   intensity of competition. A reply to Erich Hoppmann’s review essay of the same name].
+   Jahrbu€Cher Fu€r Nationalo€Konomie Und Statistik, 181, 193–241.
+Kirchner, C. (1991). The difficult reception of law and economics in Germany. International
+   Review of Law and Economics, 11(3), 277–292. doi:10.1016/0144-8188(91)90005-X
+Kovacic, W. E. (1989). Failed expectations: The troubled past and uncertain future of the
+   Sherman Act as a tool for deconcentration. Iowa Law Review, 74, 1105–1150.
+
+
+--- PAGE BREAK ---
+
+                                            REVIEW OF INTERNATIONAL POLITICAL ECONOMY            285
+
+
+Kovacic, W. E. (1990). The antitrust paradox revisited: Robert Bork and the transformation of
+   modern antitrust policy. Wayne Law Review, 36, 1413–1471.
+Kovacic, W. E. (2003). The modern evolution of U.S. competition policy enforcement norms.
+   Antitrust Law Review, 71(2), 377–478.
+Kovacic, W. E. (2011). Competition agencies, independence, and the political process. In J. Drexl,
+   W. Kerber & R. Podszun (Eds.), Competition policy and the economic approach (pp. 291–311).
+   Cheltenham: Edward Elgar.
+Letwin, W. (1965). Law and economic policy in America. The evolution of the Sherman Antitrust
+   Act, New York, NY: Random House.
+MacKenzie, D., Muniesa, F., & Siu, L. (Eds.). (2007). Do economists make markets? Princeton, NJ:
+   Princeton University Press.
+Mahoney, J., & Thelen, K. (2010). Explaining institutional change: Ambiguity, agency and power.
+   Cambridge: Cambridge University Press.
+Mason, D. L. (2014). The American savings and loan industry, 1831–1935. Volume 4. Serving the
+   people: Women, immigrants, African Americans and the promotion of home ownership. London:
+   Pickering and Chatto.
+Mason, E. S. (1939). Price and production policies of large-scale enterprises. American economic
+   review, 29(1), 61–74.
+Mestm€acker, E.-J. (2007). A legal theory without law: Posner v. Hayek on economic analysis of law.
+   T€ubingen: Mohr Siebeck.
+Monopolkommission (1992). Wettbewerbspolitik oder Industriepolitik, Hauptgutachten IX
+   [Competition policy or industrial policy, Main report IX]. Baden-Baden: Nomos.
+Morgan, M. S. (1992). Competing notions of ‘competition’ in late-nineteenth century American eco-
+   nomics. Economic History Working Papers 1/92, Department of Economic History, London
+   School of Economics and Political Science.
+Neal, P. C., Baxter, W. F., Bork, R. H., Fulda, C. H., Jones, W. K., Lyons, D. G., & Posner, S. P.
+   (1968). Report of the white house task force on antitrust policy. Antitrust Law and Ecoomics
+   Review, 11, 11–52.
+New York Times. (1984). G.M.-Toyota venture criticized by Iacocca. February 9, 1984, D21.
+                                                             €
+Ortwein, E. (1998). Das Bundeskartellamt. Eine Politische Okonomie       deutscher Wettbewerbspolitik
+   [The federal cartel office: A political economy of German competition policy], Baden-Baden:
+   Nomos.
+Patashnik, E. M., & Zelizer, J. E. (2013). The struggle to remake politics: Liberal reform and the
+   limits of policy feedback in the contemporary American state. Perspectives on Politics, 11(04),
+   1071–1087. doi:10.1017/S1537592713002831
+Pierson, P. (2004). Politics in time: History, institutions, and social analysis. Princeton, NJ:
+   Princeton University Press.
+Pitofsky, R. (1979). The political content of antitrust. University of Pennsylvania Law Review,
+   127(4), 1051–1075. doi:10.2307/3311791
+Pitofsky, R. (2008). Introduction: Setting the stage. In R. Pitofsky (Ed.), How the Chicago school
+   overshot the mark: The effect of conservative economic analysis on U.S. Antitrust (pp. 3–6).
+   Oxford: Oxford University Press.
+Posner, R. A. (1979). The Chicago school of antitrust analysis. University of Pennsylvania Law
+   Review, 127(4), 925–948. doi:10.2307/3311787
+Prasad, M. (2012). The land of too much. American abundance and the paradox of poverty.
+   Cambridge: Harvard University Press.
+Quack, S., & Djelic, M.-L. (2005). Adaptation, recombination, and reinforcement: The story of
+   antitrust and competition law in Germany and Europe. In W. Streeck & K. Thelen (Eds.),
+   Beyond continuity. Institutional change in advanced political economies (pp. 255–281). Oxford:
+   Oxford University Press.
+Quinn, S. L. (2010). Government policy, housing, and the origins of securitization, 1780–1968.
+   ProQuest: UMI Dissertation Publishing.
+Rourke, F. E. [1969] (1976). Bureaucracy, politics, and public policy. Boston, Toronto: Little,
+   Brown.
+Rueschemeyer, D. (1976). Juristen in Deutschland und in den USA: Eine vergleichende
+   Untersuchung von Anwaltschaft und Gesellschaft [Legal professionals in Germany and the US: A
+   comparative study of attorney practice and society]. Stuttgart: Enke.
+
+
+--- PAGE BREAK ---
+
+286       T. ERGEN AND S. KOHL
+
+
+Sabatier, P., & Mazmanian, D. (1980). The implementation of public policy: A framework of ana-
+   lysis. Policy Studies Journal, 8(4), 538–560. doi:10.1111/j.1541-0072.1980.tb01266.x
+Scharpf, F. W. (2016). De-constitutionalization and majority rule. A democratic vision for Europe.
+   MPIfG Discussion Paper 16/14. Cologne: MPIfG.
+Scherer, F. M. (1970). Industrial market structure and economic performance, Chicago, IL: Rand
+   McNally&Co.
+Scherer, F. M. (2008). Conservative economics and antitrust. A variety of influences. In R.
+   Pitofsky (Ed.), How the Chicago school overshot the mark. The effect of conservative economic
+   analysis on U.S. antitrust (pp. 30–39). Oxford: Oxford University Press.
+Seabrooke, L., & Henriksen, L. F. (2017). Professional networks in transnational governance.
+   Cambridge: Cambridge University Press.
+Stinchcombe, A. L. (1997). On the virtues of the old institutionalism. Annual Review of Sociology,
+   23(1), 1–18. doi:10.1146/annurev.soc.23.1.1
+Streeck, W. (1991). On the institutional conditions of diversified quality production. In E.
+   Matzner & W. Streeck (Eds.), Beyond Keynesianism. The socio-economics of production and full
+   employment (pp. 21–61). Aldershot: Elgar.
+Streeck, W., & Thelen, K. (2005). Introduction: Institutional change in advanced political econo-
+   mies. In W. Streeck & K. Thelen (Eds.), Beyond continuity: Institutional change in advanced
+   political economies (pp. 1–39). Oxford: Oxford University Press.
+Swidler, A. (1986). Culture in action: Symbols and strategies. American Sociological Review, 51(2),
+   273–286. doi:10.2307/2095521
+Tate, J. (2001). National varieties of standardization. In P. A. Hall & D. Soskice (Eds.), Varieties of
+   capitalism: The institutional foundations of comparative advantage (pp. 442–473). Oxford:
+   Oxford University Press.
+Thoenig, J.-C. (1973). L’ere des technocrates. Le cas des ponts et chaussees [The era of the techno-
+   crats. The case of the ponts de chaussees], Paris: Les editions d’organisation.
+Uek€otter, F. (2014). The greenest nation? A new history of German environmentalism, Cambridge,
+   MA: MIT Press.
+US Congress. (1985). Review of findings of the President’s Commission on Industrial
+   Competitiveness. Hearing before the Committee on Finance, US Senate. March 29.
+Van Horn, R. (2011). Chicago’s shifting attitude toward concentrations of business power
+   (1934–1962)., Seattle University Law Review, 34, 1527–1544.
+Weir, M. (1989). Ideas and politics: The acceptance of Keynesianism in Britain and the United
+   States. In P. A. Hall (Ed.), The political power of economic ideas: Keynesianism across nations
+   (pp. 53–86). Princeton, NJ: Princeton University Press.
+Wigger, A. (2017). Debunking the myth of the ordoliberal influence on post-war European inte-
+   gration. In J. Hien & C. Joerges (Eds.). Ordoliberalism, law and the rule of economics (pp.
+   161–78). Oxford: Hart Publishing.
+Wigger, A., & N€   olke, A. (2007). Enhanced roles of private actors in EU business regulation and
+   the erosion of Rhenish Capitalism: The case of antitrust enforcement. Journal of Common
+   Market Studies, 45(2), 487–513. doi:10.1111/j.1468-5965.2007.00719.x
+Williamson, O. E. (1968). Economies as an antitrust defense: The welfare tradeoffs. American
+   Economic Review, 58(1), 18–36.
+

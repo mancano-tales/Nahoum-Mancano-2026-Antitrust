@@ -1,0 +1,1735 @@
+                          Socio-Economic Review, 2022, Vol. 20, No. 3, 937–965
+                                                            doi: 10.1093/ser/mwaa041
+                             Advance Access Publication Date: 29 October 2020
+
+
+
+
+                                                                                                                     Downloaded from https://academic.oup.com/ser/article/20/3/937/5942748 by Harvard College Library, Cabot Science Library user on 28 October 2022
+                                                                       Article
+
+
+
+Article
+
+Rival views of economic competition
+                      1                                          1,2,
+Timur Ergen and Sebastian Kohl                                      *
+1
+ Department of Sociology, Max Planck Institute for the Study of Societies, Paulstr. 3, Köln 50676,
+Germany and 2Center for European Studies, Harvard University, Cambridge, MA, USA
+
+*Correspondence: kohl@mpifg.de
+
+
+Abstract
+Competition is a constitutive feature of capitalist societies. Social conflicts over the
+introduction, abolition and regulation of market organization are saturated with im-
+plicit moral arguments concerning the desirability of competition. Yet, unlike private
+property, exchange relations and social inequalities, economic competition has
+rarely been the explicit core of moral debates over capitalism. Drawing on a broad
+variety of social science literature, this article reconstructs, maps and systematizes
+ethical arguments about economic competition in capitalist societies. We discuss
+six contradictory rival views of economic competition and illustrate their influence
+by providing historical examples of the respective views in action in political-
+economic debates. This article serves as a mapping groundwork for reviving the
+systematic ethical debate on economic competition. In addition, our map of rival
+views lends itself to use as a structuring tool in empirical research on the moral
+economy and ideational embeddedness of capitalist societies, markets and firms.
+
+Key words: competition, moral norms, social theory, Hirschman, antitrust issues and policies, his-
+tory of economic thought, equity, justice, inequality, and other normative criteria and
+measurement
+
+JEL classification: A40; B00; D63
+
+
+
+1. Introduction
+Political philosophy, social theory and the sociology of morality are remarkably silent on
+the normative desirability of economic competition. This is despite the fact that, in the his-
+tory of economic ideas, few features of market organization have been as normatively
+charged as the competitive organization of the economy. Over the last 300 years, it has been
+‘enthusiastically advertised as a source of stability, progress, efficiency, justice, equality, har-
+mony, freedom, diversity and healthy individualism; while, at the same time, it has been con-
+demned as a source of instability, poverty, inefficiency, injustice, inequality, alienation,
+coercion, and insecurity’ (Dennis, 1977, p. x). While critics of capitalism have rarely focused
+
+V The Author(s) 2020. Published by Oxford University Press and the Society for the Advancement of Socio-Economics.
+C
+
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://
+creativecommons.org/licenses/by/4.0/), which permits unrestricted reuse, distribution, and reproduction in any
+medium, provided the original work is properly cited.
+
+
+--- PAGE BREAK ---
+
+938                                                                          T. Ergen and S. Kohl
+
+
+
+ Competition is harmful
+
+
+
+
+                                                                                                    Downloaded from https://academic.oup.com/ser/article/20/3/937/5942748 by Harvard College Library, Cabot Science Library user on 28 October 2022
+                     9
+
+                     8
+
+                     7
+
+                     6
+
+                     5
+
+                     4
+
+                     3
+
+                     2
+
+   Competition is good
+
+                          0                     10                      20                  30
+
+                                             Percentage of respondents
+
+Figure 1. World Value Survey evaluation of competition.
+Source: World Value Survey, longitudinal file; sample is weighted by S018.
+
+
+on the relationship between competitors or on competition as a feature of modern capitalism
+(but see Etzioni, 1988)—presumably because it is too thoroughly taken for granted and not
+specific to capitalism alone—its proponents are generally much more inclined to cite compe-
+tition as a desirable organizing principle of capitalist economies and beyond. Positive conno-
+tations of competition are dominant in contemporary economic thought, if not in Western
+societies more broadly. The desirability of competition, provided it is ‘fair competition’,
+seems to have slipped beyond the purview of normative critique. The World Value Survey
+has been surveying the populations of a large number of countries on their normative stance
+towards competition since the 1980s, and, throughout the different waves and countries, a
+significant majority agree with the statement that competition is ‘good’ rather than ‘harmful’
+(cf. Figure 1).
+    Normative views on competition have not always been this unambiguous. This article
+reconstructs the structure of moral debates for and against economic competition by draw-
+ing on a broad corpus of 1117 works in economics and the social sciences, which we system-
+atize in a schematic tableau idéologique. Both the title and structure of our essay pay tribute
+to Albert O. Hirschman’s classic essay on rival interpretations of market society . While
+Hirschman discussed the interplay between society and the market more broadly, however,
+we focus on ethical debates concerning the element of economic competition in a narrower
+sense. Across the social sciences, competition is most frequently debated in non-moral terms,
+such as when the ‘principle of competition’ is presupposed in economic models. But there is
+also a significant number of implicit and explicit moral uses of the term.
+    We structure the moral debate—and the main body of our article—along six dominant
+axes of rival views on competition: competition can be judged normatively on the basis of its
+effects on economic welfare, social order, distribution, freedom, human character and inter-
+personal harm. The result of this stylized collection of ideas is that the normative views can
+be grouped in a scheme of six contradictions. In a further step, we take a random sample of
+occurrences of ‘competition’ and related terms in a broader corpus of literature from
+
+
+--- PAGE BREAK ---
+
+Rival views of economic competition                                                           939
+
+
+economics and the social sciences and use our scheme to code the respective arguments as
+they occur. We show that the normative arguments about competition that we identified oc-
+
+
+
+
+                                                                                                     Downloaded from https://academic.oup.com/ser/article/20/3/937/5942748 by Harvard College Library, Cabot Science Library user on 28 October 2022
+cur quite frequently and that our tableau idéologique generally passes the test of empirical
+applicability and representativeness.
+    Beyond making a contribution to normative debate, this article contributes to the empiri-
+cal sociology of morality in two ways: first, we illustrate the occurrence of moral positions
+in debates and suggest how our scheme allows for further content analyses of political-
+economic debates, but possibly also of debates on competition outside of economic contexts,
+which contemporary societies are increasingly facing in the course of economization and
+marketization (e.g. in the fields of education, health and politics). Second, in using a large
+corpus of classical texts we try to go beyond the analysis of ideas by outstanding intellectual
+figures, a practice often employed in the sociology of morality and the sociological and polit-
+ical analysis of economic ideas.
+
+
+2. Economic competition—systematizing the debate
+Numerous features of capitalism have come under normative attack, but the critique of com-
+petition has arguably not figured as centrally as many others. Thus, a large proportion of
+contemporary critiques of capitalist society starts from the effects that profit-oriented behav-
+ior, free exchange and the market-based allocation of resources have on domains outside of
+the market proper (Herzog, 2013): they may exploit workers and the vulnerable (Satz,
+2010), corrupt moral values or destroy the natural environment (Sandel, 2012), undermine
+social ties, institutions and overall legitimacy (Polanyi, 2001; Honneth, 2014), and make the
+realization of distributive justice problematic (Anderson, 1990).
+    In the old and new sociology of morality (Abend, 2010), too, the evaluation of competi-
+tion has not figured prominently. While the traditional sociology of morality in the economy
+tended to focus on issues of the moral limits of market exchange, the problem of the sacred
+and the infusion of social values into market value (Zelizer, 2017), its ‘new’ counterpart has
+mainly analyzed how markets transmit, configure and cement notions of worth between per-
+sons, objects and categories (Fourcade and Healy, 2007; Kiviat, 2019). The determination
+of societal worth through market outcomes is certainly one way in which competition relates
+to the moral fabric of capitalist societies. However, norms governing the introduction, regu-
+lation and abolition of competition as a core interpersonal relationship in market societies
+are rarely discussed in this literature.
+    This is not to deny that normative thinking about competition, particularly it being ‘fair’
+or ‘unfair’, has received much attention, and there is an entire legal field as well as antitrust
+authorities dealing with these normative questions on a daily basis. But this is not the main
+part of the moral problem that is the focus of this article, because the question of fair or un-
+fair competition already presupposes that competition exists in principle and concerns only
+the proper or improper ways to behave within it. To illustrate this distinction, an analogy
+with Michael Walzer’s Just and unjust wars is helpful (Walzer, 2006, ch. 1). Much as the re-
+alist view on wars regards them as the inevitable result of self-interested states, a realist view
+of economic life sees it as being governed by the ‘law of competition’, through which the
+competing interests of market participants are transformed into, and held in check by, equi-
+librium prices (Dennis, 1977, p. 113). A practical illustration of this thinking can be found
+in firms’ blame-avoidance strategies, for example, in debates about layoffs necessitated by
+
+
+--- PAGE BREAK ---
+
+940                                                                        T. Ergen and S. Kohl
+
+
+the ‘forces of the market’ (Ulrich, 2008, p. 141ff). But much as for wars, where the justifica-
+tions for starting a war (ad bellum) and for behavior within wars (in bello) can be discussed,
+
+
+
+
+                                                                                                     Downloaded from https://academic.oup.com/ser/article/20/3/937/5942748 by Harvard College Library, Cabot Science Library user on 28 October 2022
+the reasons for introducing economic competition (ad concurrentiam) and for justifying cer-
+tain behaviors within a given competition (in concurrentia) can (and should) be subject to
+moral debate.
+    Societies around the world have without doubt developed a rich repertoire of in concur-
+rentia norms and debates about them. In the majority of advanced capitalist countries, there
+has been a rise of specialized antitrust authorities and competition laws that regulate what a
+‘fair’ sort of economic competition should look like (Djelic, 2005).1 Typical intuitions and
+norms of fairness governing competitive activities include the intuition that competition be-
+tween competitors of largely unequal size is problematic; that competition without
+equal starting conditions is unfair; that practices aiming at the outright destruction of
+competitors make competition ruinous; and that competition by illicit and fraudulent means
+is forbidden. Beyond these common intuitions, there is a range of more informal norms de-
+fining good behavior among competitors, some of which are codified in optional codes of
+ethical practices, while others are part of tacit knowledge in the business community.
+While the exact boundary between in concurrentia and ad concurrentiam norms—as in the
+analogy of war—is not always clearly demarcated, we still rely on Walzer’s stylized distinc-
+tion to deal with the more principled debates surrounding ad concurrentiam norms in this
+article.
+    In what follows, we discuss six axes of normative conflict over the desirability of compe-
+tition. The first four are largely consequentialist in nature, the last two also rely on virtue-
+ethical and deontological reasoning. Since they are not just intellectually relevant, but also
+widespread in societal debates, we present societal conflicts and debates alongside each posi-
+tion. Although we focus on the normative core of the respective arguments, we want to be
+clear that the disagreements between them are not solely based on explicitly ethical position-
+taking. Ethical disagreements and disagreements about what competition actually is or does
+regularly go hand in hand. As amply demonstrated in the sociology of morality, moral
+conflicts often consist of quarrels over construal and classification as well as over ethical
+principles themselves (Boltanski and Thévenot, 2006; Fourcade and Healy, 2013).
+
+2.1 Engine for well-being or wasteful enterprise?
+The first group of arguments bases judgments on the desirable or undesirable economic con-
+sequences of competition, above all, on increases or decreases in ‘aggregate’ economic well-
+being. Most of the views belonging to this group are far from naive denials of the fact that
+competition has immediate economic consequences of mixed desirability. Thus, typical costs
+incurred in the process of competition are what economists refer to as externalities: damage
+to the natural environment and to the well-being of workers, for example. Economic
+consequentialist views of competition are not blindly progressivist, but they do argue that
+overall—or even overall and in the long run—certain gains in productivity, efficiency and
+well-being should consistently outpace obvious costs of competition, allowing at least in
+principle for compensation of the respective losers. By lowering prices, competition could it-
+self act as one mechanism for this redistribution to some workers who lose jobs in the
+
+1   The influence of non-economic goals and explicit fairness considerations in competition policy
+    varies considerably over time and between regulatory regimes (Ergen and Kohl, 2019).
+
+
+--- PAGE BREAK ---
+
+Rival views of economic competition                                                                  941
+
+
+competitive process.2 Overall, economic consequentialist arguments often run into
+utilitarian deliberations about which costs and benefits there are, how to weigh them inter-
+
+
+
+
+                                                                                                           Downloaded from https://academic.oup.com/ser/article/20/3/937/5942748 by Harvard College Library, Cabot Science Library user on 28 October 2022
+subjectively and how to evaluate the resultant utility balance.
+
+2.1.1 Competition as a source of prosperity
+Proponents of unhampered rivalry in the economic sphere cite a wide variety of mechanisms
+that lead from competition to prosperity. Probably the most influential position values the
+extrinsic motivation function of competition. Actors who are in competition for their eco-
+nomic livelihood—intentionally or unintentionally—force each other to raise their levels of
+effort in order to keep up. Competition, in this view, encourages industriousness. While this
+view of the benefits of competition has been applied to all kinds of economic domains, it
+appears most often in debates on competition between workers and on social policy. A good
+early example of the reasoning behind this position can be found in the much-discussed
+arguments of opponents of the English Poor Laws (Polanyi, 2001). Early forms of modern
+social policy came under heavy criticism from liberal thinkers, as they were held to increase,
+rather than decrease, misery among the working population. Malthus’s forerunner
+Townsend based his critique of the Poor Laws on the conjecture that the more the state pro-
+vided for the poor, the less inclined they would be to be hardworking and industrious:
+
+    What is most perplexing is, that poverty and wretchedness have increased in exact proportion to
+    the efforts which have been made for the comfortable subsistence of the poor; and that wherever
+    most is expended for their support, there objects of distress are most abundant; whilst in those
+    countries or provincial districts where the least provision has been made for their supply, we
+    hear the fewest groans. Among the former we see drunkenness and idleness cloathed in rags;
+    among the latter we hear the chearful songs of industry and virtue. (Townsend, 1817, p. 7).
+
+
+    References to the extrinsic motivation function of competition—though in less radical
+versions than in earlier liberal thought—are equally prominent in contemporary debates. An
+influential example is the economist Arthur Okun’s idea of a ‘tradeoff’ between equality and
+efficiency. Okun’s starting point is that equality seems to be a core feature of virtually all
+domains of American society except for the economy in which competition reigns supreme:
+
+    American society proclaims the worth of every human being . . . As American citizens, we are all
+    members of the same club. Yet at the same time, our institutions say ‘find a job or go hungry‘,
+    ‘succeed or suffer’. They prod us to get ahead of our neighbors economically after telling us to
+    stay in line socially. They award prizes that allow the big winners to feed their pets better than
+    the losers can feed their children. (Okun, 2015, p. 1)
+
+
+    For Okun, the competitive organization of capitalist economies was justified as ‘a system
+of rewards and penalties that is intended to encourage effort and channel it into socially pro-
+ductive activity’ (Okun, 2015).
+    Okun’s reference to the ‘channeling’ effects of economic competition captures the second
+prominent economic justification for competitive organization: its allocative functions.
+Allocation-based arguments in favor of competition were especially prominent in early writ-
+ings on the division of labor. Competition, in arguments of this systemic type, dynamically
+
+2   Empirically, the question of the influence of competition on consumer prices and innovation in mar-
+    kets remains surprisingly unresolved (Fear, 2008, pp. 284–287; Shaikh, 2016, chs. 7 and 8).
+
+
+--- PAGE BREAK ---
+
+942                                                                                 T. Ergen and S. Kohl
+
+
+regulates the allocation of individuals to economic activities and of resources to economic
+uses. Adam Smith’s most cited example of this function is the price-mediated adaptation of
+
+
+
+
+                                                                                                            Downloaded from https://academic.oup.com/ser/article/20/3/937/5942748 by Harvard College Library, Cabot Science Library user on 28 October 2022
+the textile industry to a sudden rise in demand for black cloth due to an episode of public
+mourning (Smith, 1981, pp. 132–133; Okun, 2015, pp. 76–77). Allocation-based arguments
+were among the core economic arguments for the superiority of capitalist over socialist soci-
+eties. In an influential critique of government planning, Friedrich Hayek reasoned that the
+adaptation of economic systems to changing environmental conditions would necessarily
+overburden the capacities of central planners. No matter how wasteful in terms of parallel
+efforts and collateral damage, competition would provide the only suitable decentralized
+mechanism to allocate societies’ resources to competing uses (Hayek, 1945). Allocative argu-
+ments were often at the core of economists’ and policymakers’ opposition to government
+efforts to cushion the effects of economic depressions. As depressions were seen to be large-
+scale reallocation processes, governments could only make matters worse by interfering with
+the economic ‘weeding out’ of inefficiencies, a position Blyth (2013, p. 121) has aptly called
+‘liquidationism’:
+
+   In all cases . . . [of depressions under study] recovery came of itself . . . But this is not all: our
+   analysis leads us to believe that recovery is sound only if it does come of itself. For any revival
+   which is merely due to artificial stimulus leaves part of the work of depressions undone and adds,
+   to an undigested remnant of maladjustment, new maladjustment of its own which has to be liqui-
+   dated in turn, thus threatening business with another crisis ahead. (Schumpeter, 1934, p. 20, em-
+   phasis in original)
+
+
+    A third prominent mechanism in favor of competition sees competitive pressure as gener-
+ating a better climate for innovation and discoveries, stimulating new process and product
+innovations that are necessary for economic growth. In part, this is what Schumpeter (1975)
+referred to when describing competition as a process of ‘creative destruction’ and the econo-
+mist William Baumol has called the ‘free market innovation machine’ 2002). For Baumol,
+competition between firms leads to ‘arms races’ in innovative activity, in which competitors,
+for fear of falling behind, ‘over-invest’ in research and development:
+
+   Without the profit-driven competition of the innovating firms seeking to be the first to learn how
+   to make the better mousetrap or the better computer . . . how much more modest would the
+   growth record of the market economies have been? All this is patently driven by what some call
+   the “profit motive” although others, less affectionately, just call it “greed.” But it is greed har-
+   nessed to work as efficiently and effectively as it can to serve the public interest in prosperity and
+   growth. (Baumol, 2002, p. 15)
+
+
+   Institutionalist economists such as Acemoglu et al. (2012) consider these mechanisms to
+be one of the reasons why rapid industrial growth historically occurred first in the more
+competitive systems of the West, and why ‘cut-throat’ capitalist societies like the American
+system of today seem more likely to bring about radical technological innovations than their
+‘cuddly’ European peers.
+
+2.1.2 Competition as a wasteful enterprise
+Strikingly, for every single mechanism cited by arguments in favor of economic competition
+on the grounds of prosperity, there are counter-arguments with the polar opposite assessments
+of the economic consequences of competitive organization. One of the main lines of critique
+
+
+--- PAGE BREAK ---
+
+Rival views of economic competition                                                                     943
+
+
+against valuing competition for its extrinsic motivation function was captured by Karl
+Polanyi. He ridiculed thinkers like Townsend, Malthus and Ricardo for ‘approaching human
+
+
+
+
+                                                                                                              Downloaded from https://academic.oup.com/ser/article/20/3/937/5942748 by Harvard College Library, Cabot Science Library user on 28 October 2022
+community from the animal side’ and for ‘zoological determinism’ (Polanyi, 2001, pp. 124).
+The idea that only material needs would spur individuals to become productive members of
+society rested on impoverished anthropology, according to Polanyi. By reducing human wants
+to material betterment, proponents of free competition would in effect propose socially and
+economically dysfunctional institutional orders. Polanyi finds exemplary empirical support for
+the negative economic effects of unfettered competition in early experiments with capitalist
+cooperatives, such as Robert Owen’s in New Lanark:
+
+   In a worker’s life wages was only one among many factors such as natural and home surround-
+   ings, quality and prices of commodities, stability of employment, and security of tenure . . . But
+   much more than that was comprised in the adjustment. The education of children and adults,
+   provision for entertainment, dance, and music, and the general assumption of high moral and
+   personal standards of old and young created the atmosphere in which a new status was attained
+   by the industrial population as a whole . . . The profits of New Lanark sprang mainly from the
+   high productivity of labor on shorter hours, due to excellent organization and rested men, advan-
+   tages which outweighed the increase in real wages involved in the generous provisions for a de-
+   cent life. But the latter alone explain the sentiments of all but adulation with which his workers
+   clung to Owen. (Polanyi, 2001, pp. 178–179)
+
+
+    Today, arguments of a similar type are associated with the notion of the ‘crowding-out of
+intrinsic motivation’ by competitive pressures and economic incentives in general (Titmuss,
+1970; Grant, 2011). The sociologist Talcott Parsons famously warned of the dangers of open
+competition in professional fields. Using the example of the medical profession, he argued that
+the proper functioning of the medical field was dependent on professional ethics, as problems
+of asymmetric information and of trust would render professional sincerity essential (Parsons,
+1951, ch. 10). In contemporary social conflicts, professions routinely defend themselves
+against reforms that threaten their autonomy, for example, via incentive schemes or external
+quality control, with reference to such motivational arguments (Exworthy et al., 2016).
+    The second mechanism, allocative arguments, has equally been subject to fundamental
+critique. Among the most prolific theoreticians of economic competition as a wasteful enter-
+prise was Thorstein Veblen. Veblen’s critique of unchecked competition focused on the allo-
+cative consequences of competitive organization. He reasoned that firms under increasing
+competitive pressures would shift their efforts from what he called a focus of ‘serviceability’
+to one of ‘vendibility’. Instead of trying to improve their products or production methods,
+competitors would increasingly ‘waste’ resources to outsell each other. This reasoning was
+the basis of Veblen’s fierce critique of modern advertising:
+
+   Advertising is competitive; the greater part of it aims to divert purchases . . . And to the extent to
+   which the efforts of advertising in all its branches are spent on this competitive disturbance of
+   trade, they are, on the whole, of slight if any immediate service to the community. Such advertis-
+   ing, however, is indispensable to most branches of modern industry; . . . Each concern must ad-
+   vertise, chiefly because the others do. (Veblen, 1927, pp. 57–58)
+
+
+   Similar assessments of competition diverting resources into unproductive activities can
+be found in early socialist thought, especially in Saint Simon (cf. Schmidt am Busch, 2007).
+In the 20th century, such assessments regularly appeared at the core of proposals for
+
+
+--- PAGE BREAK ---
+
+944                                                                               T. Ergen and S. Kohl
+
+
+nonmarket forms of economic organization, such as cartels and large integrated concerns
+(Adams, 1887; Andrews, 1889; Keynes, 1927; Michels, 1928). Path-breaking representa-
+
+
+
+
+                                                                                                            Downloaded from https://academic.oup.com/ser/article/20/3/937/5942748 by Harvard College Library, Cabot Science Library user on 28 October 2022
+tives of this line of argument can be found in early French socialism and among utopian
+socialists such as Robert Owen, who recommended some form of central coordination
+within a ‘social economy’ to counter the waste of chaotic parallel efforts (Fourier, 2012).
+This argument is often motivated by an engineering view of economic systems, which see
+competition as technically deficient. A significant proportion of the American economics
+profession at the turn of the 20th century expected a significant increase in corporate con-
+centration, in parts based on a waste theory of competition (Morgan, 1993). Possibly the cli-
+max of the waste theory of unchecked competition in the American context was the detailed
+1921 report ordered by Herbert Hoover on ‘Waste in Industry’ (American Engineering
+Council, 1921).3 The theory also appeared in New Deal agricultural and industrial adjust-
+ment programs meant to increase efficiency, raise prices and avoid waste (Skocpol and
+Finegold, 1982; Barber, 1996). The inefficiencies of competition also influenced the design
+of some real socialist systems, whose basic anti-competitive rationale Kornai describes with
+hindsight thus:
+
+    Competition based on private property leads to business secrecy, whereas under socialism inno-
+    vations become common property. Competition leads to waste of other kinds, such as the prolif-
+    eration of costly advertising and the eternal changing of models and types of product, which
+    socialism can eliminate. Finally, it puts an end to the frittering away of resources on parasitical
+    consumption by the exploiting classes. (Kornai, 1992, p. 51)
+
+
+    Remnants of a waste theory of competition also appear in contemporary conflicts over
+interfirm cooperation, such as in debates over standardization and limited horizontal agree-
+ments. The argument has seen a surprising renaissance in the writings of the Chicago School
+and in Transaction Cost Economics, such as when concentration in the economy is explicitly
+welcomed on the grounds that the efficiency gains of bigger businesses might outweigh the
+loss of competition (Williamson, 1968; Posner, 1979).
+    The idea that competition is chiefly responsible for innovative activities has been turned
+on its head as well. A common criticism is that competitive systems tend to make short-term
+goals—for example, maximizing shareholder value or short-term profits—more attractive
+than long-term ones (Jackson and Petraki, 2011). Since the 1970s, a strand of critique of
+unchecked competition has emerged which argues that increasing competitive pressures and
+the attendant short-term-oriented rationalization decrease the opportunities for actors,
+organizations and societies to bring about innovations. Contrary to the positions cited
+above, these arguments describe innovations not as a problem of incentives, but as a prob-
+lem of capabilities. Richard Lester and Michael Piore systematized this line of argument in
+the proposition that new products emerge in what they call protected ‘interpretative spaces’.
+Nurturing new ideas and developing new products often require long-term undirected coop-
+erative arrangements, which are stifled by competition:
+
+
+
+
+3   The early 20th-century movement to eliminate waste in industry was not directed against competi-
+    tion per se. Rather, it tried to ameliorate and channel it with regulatory frameworks and through the
+    rationalization of accounting practices (Berk, 2009).
+
+
+--- PAGE BREAK ---
+
+Rival views of economic competition                                                                 945
+
+
+   Interpretation involves cooperation, transparency, and disclosure. It also demands a degree of
+   trust that your interlocutor is not deliberately trying to deceive you. Economic competition, on
+
+
+
+
+                                                                                                          Downloaded from https://academic.oup.com/ser/article/20/3/937/5942748 by Harvard College Library, Cabot Science Library user on 28 October 2022
+   the other hand, fosters opportunism, secrecy, and confidentiality . . . In an economic organiza-
+   tion, interpretation is understandably pushed to the margin . . . These competitive obstacles both
+   within and among firms suggest the need for public spaces within which free-flowing conversa-
+   tions can occur. (Lester and Piore, 2004, p. 119)
+
+
+   Instead of preserving such protected spaces, competition channels resources into immedi-
+ate output-generating or efficiency-enhancing activities. Arguments about preserving dy-
+namic capabilities to innovate to the detriment of open competition regularly appear in
+conflicts over institutions governing corporate control and the public funding of research
+and development. They have recently resurfaced in the critique of the financialization of the
+American corporation (Lazonick, 2010).
+
+2.2 Competition and order
+A common dialectical turn among proponents of competition against the arguments of their
+critics concerning the undesirable economic consequences of competition is to highlight the
+positive effects of competition on political order. New market entrants and other competi-
+tors constantly challenge each other, thus preventing the concentration of economic power
+and the accompanying potential for exploitation. What checks and balances are to the politi-
+cal order, competition is to the economic sphere. Moreover, given that it is hard to prevent
+economic power from spilling over into other social spheres, and given that such spillovers
+are often considered normatively undesirable, competition can even be seen as a promoter of
+both ‘simple’ and ‘complex’ equality (Walzer, 1983): it keeps the size of within-market com-
+petitors relatively equal, but it also prevents one competitor from influencing other spheres
+of society through its power. This function of the creation of order is, according to propo-
+nents such as Hayek (1945), in fact, a very efficient one: a decentralized system of local
+checks and balances that does not require the heavy machinery of central administration
+with its potential vices of corruption and inefficiencies (Hayek, 2006, p. 149).
+
+2.2.1 Order through competition
+In practice, the US antitrust regime is probably the most prominent empirical case in which
+this argument has been used to fight monopolistic structures both in business and in labor
+organization (Pitofsky, 1979). The spillover of cartelized big-business power into conserva-
+tive and radical politics at the end of the Weimar Republic was also an important part of the
+historic narratives of transition authorities and German ordoliberals when they established
+the post-World War II German antitrust laws (Gerber, 1998). This line of reasoning was
+also behind the radical change of attitude of the German Left towards cartelization and big
+business that occurred after World War II (Callaghan and Höpner, 2012). The noncompeti-
+tive features of corporate Germany were held responsible for the rise of the fascist regime.
+    Among the vaunted positive consequences of competition are thus not only a more stable
+economic order but also a more desirable political or social order. Competition is seen as a
+basic social contract and a creator of social order because, after all, competition is a minimal
+and undemanding way for individuals to socialize and settle rivalries over scarce resources;
+it has the characteristic of what Hirschman has called a ‘steady diet of conflict’ typical of
+market societies (Hirschman, 1994). When defining competition, classical sociologists like
+Max Weber or Georg Simmel often emphasized the element of struggle, but they regarded it
+
+
+--- PAGE BREAK ---
+
+946                                                                               T. Ergen and S. Kohl
+
+
+as an essentially peaceful means of conflict resolution compared to situations of outright vio-
+lence or war.
+
+
+
+
+                                                                                                          Downloaded from https://academic.oup.com/ser/article/20/3/937/5942748 by Harvard College Library, Cabot Science Library user on 28 October 2022
+    For Simmel (2008), competition, particularly the relationship between competitors and
+the customers to be served, was the means by which modern market societies became bound
+together. As Hirschman summarizes: ‘In this connection he [Simmel] gave high marks to
+competition as an institution that fosters empathy and the building of strong social ties’ (p.
+1472):
+
+   There is this incredible effect of socializing people: [competition] compels the competitor, who
+   finds his fellow competitor at his side and only as a result of that really starts competing, to ap-
+   proach and appeal to the potential customer, to connect to him, to find out his weaknesses and
+   strengths and to adapt to them, to find or to build all imaginable bridges that might tie the pro-
+   ducer’s existence and performance to the potential customer . . . competition has the effect that
+   those who are destined to lead the masses must subject themselves to the multitudes. (Simmel,
+   2008, p. 961)
+
+
+    Simmel here repeats a theme found throughout his work. Modern market societies
+seemed to have ambivalent effects on social order, undermining old social bonds and hierar-
+chies and creating new ones. Competition, then, was one societal force that separated similar
+social positions and created bonds between heterogeneous ones. The argument that competi-
+tion may force economic elites to ‘listen to’ and ‘bond with’ the broader citizenry has regu-
+larly featured prominently in proposals to bring down international trade restrictions,
+particularly in the developing world. It has influentially been summarized in Douglass North
+and colleagues’ distinction between Open Access Orders and Limited Access Orders, char-
+acterized by rent-seeking and political oppression (North et al., 2007).
+
+2.2.2 Competition—social division and unstable orders
+Praise of the societal bonding effects of competition came under heavy fire in early sociologi-
+cal theory. Émile Durkheim in particular made theories of competitive modern social orders
+the main intellectual opponent for his theory of society. As outlined in the attack on Herbert
+Spencer in Division of Labor, Durkheim reasoned that neither traditional nor modern differ-
+entiated societies could—or did—rely on competition as an integrating force. To the con-
+trary, it was the workings of social structures and morality that prevented competition from
+causing society to disintegrate:
+
+   Indeed when competition opposes isolated individuals not known to one another, it can only sep-
+   arate them still more. If they have ample space at their disposal, they will flee from one another.
+   If they cannot go beyond set limits, they will begin to differentiate, but in a way so that they be-
+   come still more independent of one another. (Durkheim, 1984a, p. 217)
+
+
+    In his more political writings, Durkheim called the abolition of intermediary organiza-
+tions in economic life, like guilds, a ‘serious anomaly’, recommended their reestablishment,
+and saw the causes of the societal disorder of his time in an ensuing ‘under-regulation’ of
+economic life (Durkheim, 1984b, p. lv). Later sociologists saw competition as a root cause
+of social anomie and deviant behavior. While the legitimacy of modern social orders rests on
+principles of meritocracy and fairness, economic systems that are organized by unhampered
+competition can distribute benefits in comparatively unequal and unintelligible ways.
+
+
+--- PAGE BREAK ---
+
+Rival views of economic competition                                                                      947
+
+
+Hence, it was thought to be a challenge for modern capitalist societies to come up with insti-
+tutional regimes that safeguarded the legitimacy of market society as a whole:
+
+
+
+
+                                                                                                               Downloaded from https://academic.oup.com/ser/article/20/3/937/5942748 by Harvard College Library, Cabot Science Library user on 28 October 2022
+   Continuing satisfactions must derive from sheer participation in a competitive order as well as
+   from eclipsing one’s competitors if the order itself is to be sustained. . . . The distribution of sta-
+   tuses and roles through competition must be so organized that positive incentives for conformity
+   to roles and adherence to status obligations are provided for every position within the distribu-
+   tive order. (Merton, 1938, p. 674)
+
+
+    In modern political-economy debates, variations on such arguments regularly appeared
+in pleas for public assistance, protection for displaced workers, and protection for distressed
+industries and regions to prevent social unrest (Hawley, 1966, ch. 3). Arguments against
+unchecked competition based on the protection of social orders should not be mistaken for
+a mostly leftist or progressive line of reasoning. They have been equally prominent in illib-
+eral conservative movements in history as well as in contemporary politics, the aim being to
+limit markets in order to preserve traditional social hierarchies and national social orders
+(Kolozi, 2017; Bluhm and Varga, 2019).
+
+2.3 Competition and distributional justice
+Market organization in general and competition in particular have regularly been associated
+with both just and unjust distributional outcomes. Of course, many of the distributional
+arguments for or against capitalist social orders have nothing to do with competition proper.
+For instance, arguments concerning the distributional consequences of private property,
+‘free’ exchange, or the capital-labor nexus concern other features of capitalist society. Yet, a
+significant proportion of classic and contemporary assessments of capitalism based on con-
+cerns about distributional justice implicitly rests on rival views of competition.
+
+2.3.1 Competition, consumer empowerment and meritocracy
+Arguments justifying competition on distributional grounds broadly belong to two catego-
+ries: arguments valuing consumer empowerment and arguments associating competitive out-
+comes with meritocratic ideals of distributional justice. By their very nature, competitive
+systems do not produce equal outcomes directly, but this position contends that the indirect
+or long-term outcome is more egalitarian and, given fair competition, justifiably unequal.
+There is a long, and in part precapitalist, history of popular demands to subject producers to
+the disciplinary force of competitive markets in the name of buyers and consumers. E. P.
+Thompson, for example, reports premodern popular revolts against grain producers’
+attempts to ‘hide’ produce from the ‘open market’ (Thompson, 1971). The transparency
+and social control in ‘open markets’ (here meaning physical ‘marketplaces’) were believed to
+make usury and production restrictions more difficult and, hence, to protect the poor from
+the caprice of producers. Intuitions and theories about the consumer-empowering effects of
+competition—often coupled with the subtext that consumers are ‘many’, ‘weak’, and ‘disor-
+ganized’—have been core arguments in favor of competitive organization throughout the
+history of capitalist societies. The Western popularization of a strongly consumer-based jus-
+tification of market organization is often attributed to Adam Smith’s Wealth of Nations
+(Schumpeter, 1954, p. 302). Building on earlier economic thinkers and social philosophers,
+Smith used highly moralized language when criticizing restrictions on competition: ‘[T]o
+
+
+--- PAGE BREAK ---
+
+948                                                                               T. Ergen and S. Kohl
+
+
+narrow the competition must always be against [the interest of the public]’, he conjectured,
+‘and can serve only to enable the dealers, by raising their profits above what they naturally
+
+
+
+
+                                                                                                          Downloaded from https://academic.oup.com/ser/article/20/3/937/5942748 by Harvard College Library, Cabot Science Library user on 28 October 2022
+would be, to levy, for their own benefit, an absurd tax upon the rest of their fellow-citizens’
+(Smith, 1981, p. 267). During the previous two centuries, many kinds of restrictions on com-
+petition have been attacked on consumer welfare grounds. They have been and still are one
+of the main arguments against barriers to international trade (Irwin, 2017), banking and fi-
+nancial market regulation (Krippner, 2011) and antitrust violations (Ergen and Kohl, 2019).
+    This position would not deny unequal immediate outcomes through competition—there
+are obvious winners and losers. But given fair initial conditions, competition is thought of as
+the best way of realizing meritocratic principles which make these direct inequalities justifi-
+able. Only in free competition are economic functions, countries, organizations and actors
+remunerated according to their talents, efforts and social value. Nullmeier (2000) and
+Davies (2016) have argued that there exists a continuity of beliefs in ‘just’ outcomes pro-
+duced by ‘fair’ competition from antiquity and early modern thought to parts of today’s lib-
+eral thought. Such positions are often based on the idea that competition functions as both a
+check on unjustified claims on resources and as a ‘discovery procedure’ to determine the
+‘true’ value or nature of things and persons.
+
+2.3.2 Competition and inequality
+Competition has been criticized on two diametrically opposed grounds: it is supposed to
+make societies more unequal and to fail to achieve meritocracy. Especially since the
+Industrial Revolution, intellectuals and policymakers of various stripes have questioned the
+potential of competition to serve as a check on the powerful and have instead argued that it
+is the basis of perpetuated, if not increasing, inequalities. Among the most prominent varie-
+ties of this line of argument are theories of monopoly capitalism, which posit that market
+competition has a built-in tendency towards corporate concentration. Theories of monopoly
+capitalism were among the most prominent Marxist theories of competition, popularized by
+authors such as Hilferding (1985) and Sweezy (1942).4 They were at the core of distribu-
+tional arguments of the Fabians, justifying socialism on ethical grounds by appealing to
+Yeomen ideals:
+
+    The combinations controlling production become larger and fewer . . . Each one of us is quite
+    ‘free’ to ‘compete’ with these gigantic combinations, as the Principality of Monaco is ‘free’ to go
+    to war with France should the latter threaten her interests. The mere forms of freedom remain;
+    but monopoly renders them nugatory. (Shaw, 1911, p. 74)
+
+
+    Monopolization tendencies thus do not lead to a more egalitarian distribution of resour-
+ces but to a solidification of unequal starting positions. But does competition in this view
+achieve meritocracy and thus justify the inequality it produces? Reformist positions still be-
+lieve in the virtues of competition in this regard, if—and only if—it is properly regulated and
+the self-destructing initial equality condition is safeguarded by the state. The old American
+antitrust tradition therefore sought to protect ‘small’ competitors from the ‘unfair’ practices
+of ‘large’ firms (Pitofsky, 1979). Its basic tenet is also regularly brought up in trade disputes,
+for example, when producer groups and governments decry certain corporate, political and
+
+4   For a good overview and suggestions for further development of the argument, see Shaikh (2016).
+
+
+--- PAGE BREAK ---
+
+Rival views of economic competition                                                                   949
+
+
+competitive practices for violating the principle of a ‘level playing field’. For some liberal
+intellectuals, requiring equal starting conditions in order to defend competitive organization
+
+
+
+
+                                                                                                              Downloaded from https://academic.oup.com/ser/article/20/3/937/5942748 by Harvard College Library, Cabot Science Library user on 28 October 2022
+on the grounds of distributional justice was so daring that they warned not to rely on distri-
+butional arguments at all, as acknowledging them might ‘produce a nightmare’ (Hayek,
+1998, p. 85).
+    More revolutionary positions, by contrast, do not believe in a remedy for the self-
+destructive tendencies of competition. Only replacing the competitive principle with, for in-
+stance, an economy of solidarity would eliminate its concentrating and inequality-increasing
+tendencies. What is more, even under perfect initial conditions, competition might not be the
+best way to achieve meritocracy, as competition can get deflected from its original purpose
+and produce undesired outcomes (Binswanger, 2010). When competitors outcompete each
+other with ever more marketing and customer persuasion, the winner is arguably the best in
+this competition, but without earning any other merits, such as increasing production effi-
+ciency or product quality.5
+
+2.4 Competition and freedom
+While the previous arguments focused on economic, social and distributional consequences
+of competition, competition has also been valued and condemned as an expression of hu-
+man freedom or unfreedom. In this dimension, the debates do not necessarily revolve around
+whether competition itself is free or not, or whether it requires political freedom to exist.
+Rather, the question is whether competition itself has emancipatory qualities.
+
+2.4.1 Freedom manifested in competition
+Some of the major intellectual origins of this line of thought date from the period in which
+the political and economic order of feudalism obstructed many personal freedoms. A strong
+notion of negative freedom developed in conflicts over feudalism, and traditional regulation
+is an influential founding myth of competitive capitalism (Schumpeter, 1954, pp. 80—81).
+While simple histories of the emergence of capitalism routinely remark upon increases in
+economic welfare, they almost always regard an order built around the notion of freedom as
+better in principle, regardless of material, social or distributional consequences.
+    Whenever more principled debates on social order occur, or market society as such is
+called into question, the appeal of this founding myth regains its initial strength. For in-
+stance, German ordoliberal thinkers upheld the principle of competition as a general expres-
+sion of human freedom—endangered in the economically centralized Weimar economy and
+abolished in the politically centralized Nazi regime (brief overviews of the idea of competi-
+tive freedom are Hellwig (2006) and Thielemann (2010, ch. 3)). The principled nature of
+this kind of reasoning is also revealed when European ordoliberals in antitrust policy
+rejected enforcement norms allowing higher levels of economic concentration, even if they
+would raise welfare and efficiency, on the grounds that they principally run counter to the
+realization of competitive freedoms (Ergen and Kohl, 2019). What is more, the ‘freedom to
+compete’ achieved quasi-constitutional character in Europe through the case law of the
+European Court of Justice and is regularly used to challenge trade barriers erected by EU
+Member States (Scharpf, 2010).
+
+5   In fact, meritocracy itself has been criticized for being fundamentally at odds with egalitarian ideals
+    (Young, 1979).
+
+
+--- PAGE BREAK ---
+
+950                                                                               T. Ergen and S. Kohl
+
+
+2.4.2 Unfree in competition
+The relationship between competition and freedom has been described in contradictory
+
+
+
+
+                                                                                                          Downloaded from https://academic.oup.com/ser/article/20/3/937/5942748 by Harvard College Library, Cabot Science Library user on 28 October 2022
+terms. Within the competitive process, the participating actors tend to lose sight of the origi-
+nal and overarching purposes of action and replace them with the sole purpose of ‘winning
+the game’. There is an inversion of means and ends, a topic that was at the core of the social
+critique of turn-of-the-century and postwar sociology. If competition was introduced as a
+means to the end of increasing overall welfare, then, in the inverted logic, it becomes an end
+in itself, with welfare possibly only serving as a means to maintain competition. In the words
+of Georg Simmel, who elsewhere pointed to the socializing effects of competition:
+
+   With increasing competition and increasing division of labor, the purposes of life become harder
+   to attain; that is, they require an ever-increasing infrastructure of means. A larger proportion of
+   civilized man remains forever enslaved, in every sense of the word, in the interest in technics. The
+   conditions on which the realization of the ultimate object depends claim their attention, and they
+   concentrate their strength on them, so that every real purpose completely disappears from con-
+   sciousness. (Simmel, 2004, p. 232)
+
+
+    Similar diagnoses of dominating ‘means of action’—and hence of unfreedom—through
+competition can be found in the works of Max Weber and Karl Marx. Weber (1984, p.
+181) famously described the decoupling of the ascetic work ethic from its Protestant origins
+in capitalist societies: ‘The Puritan wanted to work in a calling; we are forced to do so’. Karl
+Marx relied on competition to make his theory of capitalist development a structural theory,
+independent of both individual and collective intentions: ‘the immanent laws of capitalist
+production manifest themselves in the external movement of the individual capitals, assert
+themselves as the coercive laws of competition, and therefore enter into the consciousness of
+the individual capitalist as the motives which drive him forward’ (Marx, 1982, p. 433).
+    Rather than seeing the ordering virtues of competition, opponents cast doubt on whether
+competition can live up to its promise of being a self-organizing principle. They understand
+the loss of collective control over economic processes as a danger for societies. Arguments
+concerning the loss of collective self-control through competition have been influential in the
+modern environmental movement. The Club of Rome’s influential plea for a conscious end
+to unchecked economic growth, for example, came with the promise that ‘those pursuits
+that many people would list as the most desirable and satisfying activities of man – educa-
+tion, art, music, religion, basic scientific research, athletics, and social interactions – could
+flourish’ (Meadows et al., 1972, p. 175). The opposition between rival views of freedom in
+competition is also visible in the different interpretations of the political and economic
+causes of World War II. Whereas proponents of competition saw restrictions on interna-
+tional trade, the concentration of industry and through unions as the Road to Serfdom
+(Hayek, 2006), opponents rather emphasized the prior excesses of a ‘satanic mill’ of market
+competition as the root cause that destroyed a stabilizing institutional order (Polanyi, 2001).
+
+2.5 Competition and the development of character
+Competition has not only been discussed in terms of collective outcomes for social orders, but
+also in terms of virtue ethics, which considers certain character traits as morally valuable and
+a source of ethical evaluations. As in the previous rounds of the debate, there are directly op-
+posing views about whether competition corrupts individual character by bringing its most
+undesirable traits to the surface or whether it refines it by suppressing its least noble parts.
+
+
+--- PAGE BREAK ---
+
+Rival views of economic competition                                                               951
+
+
+2.5.1 Competition benefiting human character
+The disciplining effect of competition is not only said to be influential at the level of societies,
+
+
+
+
+                                                                                                        Downloaded from https://academic.oup.com/ser/article/20/3/937/5942748 by Harvard College Library, Cabot Science Library user on 28 October 2022
+but it is also vaunted for its effects at the individual level. Albert Hirschman famously de-
+scribed how, during the Scottish Enlightenment, the private interests that the competitive
+system appeals to were seen as the rational governors over uncontrolled passions
+(Hirschman, 1977). In other words, competition not only produces the best outcomes for so-
+ciety, but it is also a mechanism through which virtues are promoted and vices suppressed,
+thus appealing to the very best character traits in humans. Economist Frank Knight searched
+for ethical justifications for competition in non-economic human desires for self-realization,
+artistic creation and creative achievement. Even though Knight conceded that the bulk of
+such self-realization in the economic system of his day was reserved for a ‘winning’ minority,
+he saw intrinsic reasons in human nature to justify competition in the economy (Knight,
+1923, p. 602).
+    Praise of economic competition on the grounds of virtue is especially prominent in elitist
+theories of social order. The economist Joseph Schumpeter, for example, diagnosed an in-
+creasing trustification of Western economies. While the economy of the 19th century, which
+Schumpeter called ‘competitive capitalism’, provided ample room for entrepreneurs, ‘trusti-
+fied capitalism’ would make innovative activity the preserve of large bureaucratic firms. For
+Schumpeter, entrepreneurs were not just economically significant, they represented a partic-
+ular type of human flourishing that he tried to capture with terms like ‘energetic’, ‘creative’,
+‘sharper intelligence and more vivid fantasy’ and ‘delight in social power and creative de-
+sign’, and which he contrasted with a mass of ‘mediocre’, ‘passive’ and ‘hedonistic’ individu-
+als (Schumpeter, 1912). With the incremental decline of the competitive order, this type of
+entrepreneur seemed to die out:
+
+   The development of our psyches runs parallel to . . . socioeconomic and political developments.
+   The instinctive masters and servants of old are being replaced by cripples called professionals,
+   small specialized wheels in machines who have no sense of the richness of existence in earlier
+   times, and whose total personality dries up along with their human relations. (Schumpeter
+   quoted in Dahms (1995, p. 9)).
+
+
+   The idea that participation in competition nourishes valuable features of human character
+has been especially prominent in debates on the welfare state. As nicely captured in
+Townsend’s quote above, social safety nets have repeatedly been criticized for ruining human
+character and for creating obedient, hedonistic and immature personalities. In a similar vein,
+the historian Jenny Andersson has argued that the assumed necessity to stimulate the emer-
+gence of reformed citizens, able to thrive in knowledge economies, was a core belief underlying
+welfare state retrenchment under Western Third Way governments (Andersson, 2009).
+
+2.5.2 Competition destroying character
+More often than it is lauded for its positive effects on individual character, competition has
+been attacked as a social force leading to the corrosion and degeneration of character and
+virtue. Two interrelated lines of this argument figure prominently: first, there is an economic
+argument that maintains that unchecked competition lowers the plane of ethical behavior in
+markets and society; and second, there is a sociological argument that sees competition as a
+force that leads actors away from realizing their true nature.
+
+
+--- PAGE BREAK ---
+
+952                                                                                   T. Ergen and S. Kohl
+
+
+   Arguments about the corrupting effects of competition on ethical behavior were very
+prominent in turn-of-the-century debates on industrial competition. The economist Henry
+
+
+
+
+                                                                                                               Downloaded from https://academic.oup.com/ser/article/20/3/937/5942748 by Harvard College Library, Cabot Science Library user on 28 October 2022
+Carter Adams found examples of this process in the railroad competition of his time and
+cautioned his contemporaries that:
+
+    The free play of individual interests tends to force the moral sentiment pervading any trade down
+    to the level of that which characterizes the worst man who can maintain himself in it. So far as
+    morals are concerned, it is the character of the worst men and not of the best men that gives color
+    to business society [56] . . . It is a necessary result of a competitive society that the plane of busi-
+    ness morals is lower than the moral character of the great majority of men who compose it.
+    (Adams, 1887, p. 43)
+
+
+    Such ‘race to the bottom’ arguments today are very common in debates on labor rights,
+environmental protection, taxation and economic development policies (Shleifer, 2004).
+Their common core is that competition systematically overrules all regard for behavior that
+is not conducive to competitive success. In this vein, scholars have argued that orderly and
+socially beneficial competition relies on ethical foundations and social norms it cannot pro-
+vide for itself (Etzioni, 1985).
+    The second argument approaches competition from a more sociological, or social psy-
+chological, perspective. Its core is that, to the degree that societies’ positions and rewards are
+allocated by competition, a culture may emerge that leads actors away from other bases of
+self-esteem, recognition and human flourishing. A good example of such an argument is
+Adorno and Horkheimer’s fragment on commercial culture in American society:
+
+    In this country there is no difference between a person and that person’s economic fate. No one
+    is anything other than his wealth, his income, his job, his prospects. In the consciousness of ev-
+    eryone, including its wearer, the economic mask coincides exactly with what lies beneath it, even
+    in its smallest wrinkles. All are worth as much as they earn, and earn as much as they are worth.
+    They find out what they are through the ups and downs of their economic life. They know them-
+    selves as nothing else . . . People judge their own selves by their market value and find out who
+    they are from how they fare in the capitalist economy. Their fate, however sad it may be, is for
+    them not something external: they acknowledge it.6 (Horkheimer and Adorno, 2002, p. 175)
+
+
+    While cultural critiques of capitalist personality traits often featured in the sphere of in-
+tellectual debate, similar ideas appear in social conflicts over the welfare state and in popular
+resentment towards the upper classes of capitalist society. The sociologist Michèle Lamont,
+for example, has documented strong beliefs among members of the working class about the
+corrosive personality trait of ‘competitiveness’ among the well-to-do, who they claim to be
+‘two-face’, ‘not real’, ‘people with facades’ and ‘dishonest’ (Lamont, 2000, pp. 108–112).
+
+
+
+6   Horkheimer and Adorno’s ideas on the corrosion of character are of course much more nuanced
+    and complex than to suggest a simple relationship between competitive society and the dominance
+    of the ‘economic mask’. Still, the Dialectic repeatedly suggests that market competition has a distinct
+    and important influence on individual personality, for example, when it claims that: ‘Every bourgeois
+    character expressed the same thing, even and especially when deviating from it: the harshness of
+    competitive society. The individual, on whom society was supported, itself bore society’s taint; in the
+    individual’s apparent freedom he was the product of society’s economic and social apparatus’
+    (Horkheimer and Adorno, 2002, p. 125).
+
+
+--- PAGE BREAK ---
+
+Rival views of economic competition                                                         953
+
+
+2.6 Competition and harm
+A final debate—and the one exhibiting the most pronounced deontological concern with
+
+
+
+
+                                                                                                   Downloaded from https://academic.oup.com/ser/article/20/3/937/5942748 by Harvard College Library, Cabot Science Library user on 28 October 2022
+intentions—is about whether acting in competition is an instance of deliberate harm inflicted
+by competitors on others or whether, to the contrary, it prevents greater harm. Both sides do
+not in principle contest the basic ethical rule, probably one of the most widespread also in
+religious ethics, that it is wrong to deliberately harm others. Even for liberals like John
+Stuart Mill, this was one, or even the only principle that should allow the state to intervene
+in individual affairs (Mill, 1977, p. 223). The question rather revolves around whether this
+principle can be properly applied to economic competition.
+
+2.6.1 Competition as harm
+The intuition that competition is an instance of harmful action is usually motivated by the
+disastrous consequences competition can entail: destroyed family businesses, deserted for-
+mer industrial regions or mass unemployment. As Simmel notes, ‘if one were to destroy the
+economic, social, family or even physical existence of someone through an outright attack to
+the same degree as it can occur through competition . . ., then we would immediately call
+upon the penal law to intervene’ (Simmel, 2008, p. 972). Harm can be done to other com-
+petitors, to those depending on them (workers or suppliers), or to the natural or social envi-
+ronment. But unlike in the first round of the debate, where beneficial versus detrimental
+consequences of competition were at stake, the harm argument simply presupposes that at
+least some consequences of competition can be considered harmful. Its ethical concern, how-
+ever, focuses rather nonconsequentially on the fact that the origin of this harm lies in the
+competitors’ intentions and not simply in unintended competitive processes. Deliberately
+intending to harm others, successful or not, is morally untoward, and competition is the
+kind of economic situation that seems to systematically call for these intentions. While rarely
+backed up by elaborate ethical considerations, harm-based intuitions and arguments are reg-
+ularly put forward in disputes over international trade and unfair competition. Most mod-
+ern trade policy instruments, like anti-dumping and anti-subsidy proceedings, require
+plaintiffs or administrations to prove that foreign entities inflicted ‘substantial’ harm or in-
+jury on domestic firms or industries (Blonigen and Prusa, 2003). The classification of com-
+petitive behaviors as intentional actions to harm competitors often rests on—popular or
+technical—assessments that actors competed in an ‘unfair’ way.
+
+2.6.2 Competition not causing but preventing harm
+The diametrically opposed view not only rejects the above claim that competitive action is
+an instance of deliberately harmful action among competitors, but it also goes further in
+claiming that competition is effectively a means to prevent further harm from occurring. The
+rejection of the harm argument can be based on different grounds. One is an iteration of the
+very first round of the debate: even when one admits that harmful consequences do occur in
+the course of competitive processes, the beneficial consequences are simply claimed to out-
+weigh the harmful ones. Particularly, arguments based on the grounds of consumer welfare
+maximization follow this line of thought: competitors lose as competitors, but they (and
+others) profit as consumers, which is the ultimate end. In the ethics of welfare economics, as
+made explicit by Hausman et al. (2016), competition is unproblematic if the individuals that
+lose out can in principle be compensated. This argument has greatly influenced the
+
+
+--- PAGE BREAK ---
+
+954                                                                        T. Ergen and S. Kohl
+
+
+American antitrust profession since the 1960s, which fiercely attacked antitrust institutions
+to cease from ‘protecting competitors’ from competition (Bork, 1978, pp. 81–88).
+
+
+
+
+                                                                                                    Downloaded from https://academic.oup.com/ser/article/20/3/937/5942748 by Harvard College Library, Cabot Science Library user on 28 October 2022
+    This opposing view, moreover, does not share core assumptions of the harm argument.
+Even if harm occurs, market participants were free to enter the market and into contracts
+and have given mutual consent. Opponents would even deny outright that competitors have
+the intention to harm. To adopt Friedman’s (1970) quip, the firm’s intention is simply to
+make a profit. In indirect competition, some firms might not even be aware of their competi-
+tors and therefore unable to form intentions directed towards them (McNulty, 1968;
+Simmel, 2008). The process of competition thus appears to be one of depersonalization, in
+which competitors’ intentions are directed away from an outright desire to harm other com-
+petitors. As Theodor Geiger has put it, ‘violence is by nature (wesensverschieden) different
+from competition’ (Geiger, 2012, p. 35). The prime focus of the intentions shifts instead to
+the competitive stakes—better products, lower prices or better production processes—
+through which the interaction with competitors is mediated. While wars or uncontrolled
+fights require the kind of intention that is directed at harming competitors outright, competi-
+tion is of a ‘nobler’ sort. Arguments deflecting criticism of competition based on harm can
+regularly be found in antitrust policy and in international trade disputes. As mentioned
+above, the Chicago School in antitrust analysis attacked traditional American antitrust insti-
+tutions precisely on the grounds that they should not grant competitors legitimate claims
+against competitive harm (Ergen and Kohl, 2019).
+
+
+3. Exploring the competition debate empirically
+Our systematic reconstruction of debates about economic competition thus yields a scheme
+of six arguments in favor and six contradictory arguments against competition which we
+identified in classical works of political economy and more recent ones in sociology and
+other fields. How frequent are these arguments beyond our qualitative reading of the few
+classics above? For a more synoptic analysis, we constructed a corpus of 1117 works in po-
+litical economy and tested the empirical applicability of the scheme in an exploratory con-
+tent analysis.
+     To this end, we collected historical texts in political economy according to a broad defini-
+tion that included texts in the social sciences dealing with economic subject matter. We
+therefore included the philosopher David Hume and the sociologist Max Weber, but we ex-
+cluded purely non-economic writings by David Ricardo or John Maynard Keynes. The
+broad definition also implies that we did not collect only a few reception-history star authors
+who populate the cursory histories of thought in textbooks. With this broad definition, we
+tapped a wide variety of different sources that are considered authoritative in the field. First,
+there are online libraries (e.g. McMaster University Archive, History of economic thought,
+marxists.org) offering, with at times obvious ideological predilections, free classical texts
+that are easily accessible and of good graphic quality. To avoid distortions, we collected
+texts from ideologically opposed camps. The second central source is Schumpeter’s classic
+work History of Economic Analysis. We went through its appendix of authors and included
+all economic works of cited authors that were accessible on common online platforms
+(archive.org, HathiTrust, Online Library of Liberty, Bibliothèque Nationale de France,
+Bayerische Staatsbibliothek digital). About 90 of the works cited were not available. Third,
+to cover the classical works in the social sciences, we collected the most frequently referenced
+
+
+--- PAGE BREAK ---
+
+Rival views of economic competition                                                             955
+
+
+classical authors in a variety of social science textbooks.7 Fourth, we went through the
+Wikipedia section and related links for ‘schools of economic thought’, ‘sociology’ and ‘eco-
+
+
+
+
+                                                                                                       Downloaded from https://academic.oup.com/ser/article/20/3/937/5942748 by Harvard College Library, Cabot Science Library user on 28 October 2022
+nomic sociology’ and completed our collection with all named authors and their works
+therein. All these sources still have a selection bias in favor of the accessible texts, but one
+that is very much reduced in comparison to existing analyses.
+    While we included the four (arguably) prevailing languages of classical economics—
+English, German, French and Italian—we focus our exploratory analysis on English-
+language texts and the translated versions to avoid language-related effects. English was also
+the central language of economics in the 19th century, if translation exports and imports are
+taken into consideration (Reinert, 2013). The works collected range in date from 1600 to to-
+day, but more than 90% of the works are from the long 19th century plus the interwar
+years. Our corpus is thus a good collection from the classic period of economics and the
+birth of the social sciences, with the copyright protection duration representing a natural
+limit. These texts also have sufficient quality to identify the key terms, which is more difficult
+in earlier texts. When compared to the seminal Gale corpus ‘Making of the Modern
+World’—which starts in 1450 and consists of 61 000 books—we are clearly dealing with
+only a subsample with a probable reception-history bias. Its comparative advantage is that
+the full texts are available in machine-readable form for computer-assisted quantitative con-
+tent analyses.
+    After cleaning the material (eliminating prefaces, tables of contents, references, running
+heads), we located occurrences of ‘compet*’, ‘monopol*’, ‘rival*’, ‘antitrust’, ‘cartel’ and
+‘emulat*’ with lexical variants, as these terms offered a workable trade-off between false
+negatives and false positives in initial trials. Although a few arguments about competition
+might do without any of these terms, these are arguably unsystematic. Overall, there are 53
+390 occurrences, where 194 works do not contain a single mention and 50% have fewer
+than 10. We defined a 400-word window around these key terms and defined this as a snip-
+pet. Many of these snippets overlap because the terms cluster in the texts. We therefore ap-
+plied the Optimal String Alignment algorithm to delete all redundant snippets with a
+similarity above 0.5 on a scale from 0 to 1. We also excluded the few works with more than
+300 hits as these often have the character of technical treatises on competition (such as
+Chamberlin’s (1933) ‘Monopolistic Competition’) and would have distorted frequency
+counts. This reduces the number of occurrences to a little under 17 000.
+    We take these snippets as the basic unit for a content analysis of arguments for and
+against competition. Automated techniques such as topic modeling and even dictionary
+approaches failed to capture the underlying argumentative structure. We therefore reverted
+to a standard manual coding approach to explore the arguments. Due to the still high num-
+ber of cases, we took a random sample of the works—representing 10% of all snippets, i.e.
+1695 nested in 78 works—to use the tableau idéologique elaborated in Section 2 as a coding
+scheme for the two times six types of arguments (cf. Table 1). In addition, we coded whether
+snippets contained any of these moral arguments at all or whether the competition terms are
+used in an amoral sense (mostly in empirical or technical senses).
+    Our first finding is that in the majority of instances—60%—in which competition is a
+topic, it is referred to in amoral senses. On the one hand, this is not surprising for a discipline
+
+7   Drawing on standard textbooks identified in Korom (2018) and drawing on classical works cited in
+    Mikl-Horke (2015).
+
+
+--- PAGE BREAK ---
+
+956                                                                       T. Ergen and S. Kohl
+
+
+          Pro: use of resources
+
+
+
+
+                                                                                                   Downloaded from https://academic.oup.com/ser/article/20/3/937/5942748 by Harvard College Library, Cabot Science Library user on 28 October 2022
+   Pro: technological progress
+               Pro: social order
+                 Pro: prosperity
+                      Pro: harm
+                  Pro: freedom
+                Pro: distribution
+                 Pro: character
+      Contra: use of resources
+ Contra: technological progress
+            Contra: social order
+             Contra: prosperity
+                  Contra: harm
+               Contra: freedom
+            Contra: distribution
+              Contra: character
+                                    0                  5                 10
+
+                                        Percentage of works containing argument category
+
+Figure 2. Relative frequency of arguments pro and contra competition.
+
+
+that, in the 19th century, begins to settle on decidedly ‘technical’ market analysis. On the
+other hand, the remaining 40% show just how much competition was still being talked
+about with the arguments we identified. The empirical scheme thus has a certain validity be-
+yond individual works of influential authors.
+    A further finding regards the distribution of arguments. For snippets with morally rele-
+vant arguments, their relative frequency averaged over all works is displayed in Figure 2.
+We observe that all argument categories can be found in this random subsample of political-
+economy literature, even though some—for instance, harm-related arguments—are rela-
+tively rare. Generally, there is a slight majority of arguments in favor of competition, and
+the justification of competition through prosperity is the most widespread across all works.
+Among the counterarguments, the negative distributional consequences of competition are
+among the most widespread; in absolute terms, they are also the most frequent, which may
+be driven by two socialist works in the sample. Snippets can contain more than one argu-
+ment and, perhaps not surprisingly, the pro- and counterarguments correlate positively
+among themselves.
+
+
+4. Discussion—Social context and the structure of the debate
+Organized along with six contradictions, our description of the debate might seem highly
+stylized. It is nonetheless puzzling that the very same form of social organization in the econ-
+omy has been subject to such a variety of empirical and normative assessments. Our rival
+views of competition seem to contradict each other in fundamental ways. Can competition
+simultaneously stimulate and stifle innovation? Can it ennoble and corrode character as well
+as destroy and create social order? Evaluating a similarly patterned normative debate on
+market society, Albert Hirschman reasoned that simultaneous countervailing effects of mar-
+kets would not be ‘any more ‘contradictory’ than for a business firm to have income and
+outgo at the same time’ (Hirschman, 1982, p. 1483). The quest for both empirical research
+and normative debates, then, is less about developing an accurate overarching model or
+
+
+--- PAGE BREAK ---
+
+Rival views of economic competition                                                                  957
+
+
+Table 1: Rival views summarized
+
+
+
+
+                                                                                                           Downloaded from https://academic.oup.com/ser/article/20/3/937/5942748 by Harvard College Library, Cabot Science Library user on 28 October 2022
+Evaluative domain     Evaluative axis             Basis of evaluation
+                                                  Pro                          Contra
+
+Economy               Aggregate prosperity        Prosperity                   Industrial waste
+                      Use of resources            Efficient allocations        Industrial inefficiencies
+                      Technological progress      Incentives to innovate       Capabilities to innovate
+Society               Social order                Social stability             Social anomie
+Distribution          Legitimacy of resource      Just distributions           Unjustified inequalities
+                         distribution
+Human freedom         Degree of human             Manifestation of freedom     Diversion of action
+                         freedom
+Human character       Desirability of             Virtue                       Corruption
+                         character traits
+Personal harm         No-harm principle           Prevention of harm           Cause of harm
+
+
+
+
+about ‘solving’ the debate than it is about dealing with questions of balance, interaction, off-
+setting possibilities and geographical and historical varieties.8 Our tableau should prove use-
+ful for tackling such questions in both normative assessments of competition and empirical
+research on moral conflicts over its introduction, regulation and abolition. Table 1 summa-
+rizes the rival normative views of competition and fleshes out their basic axes of disagree-
+ment. The normative complexity of economic competition in modern societies has
+consequences for both moral debates and empirical social research. Here we provide a brief
+sketch of the consequences for each research field.
+    With regard to normative arguments, the variety of arguments for and against competi-
+tion may be a symptom of the fact that the qualities and consequences of competition are
+highly dependent on context. In capitalist societies, judgments about the normative desir-
+ability of competition generally concern specific manifestations in specific fields and in spe-
+cific historical episodes, and this empirical contextualism of debates might help with
+understanding the often contradictory positions in public debate and the history of thought.9
+There are multiple ways to account for why different contexts might be associated with rival
+views of competition.
+    First, there are substantive differences among what counts ethically in different situa-
+tions. Substantively, incentives to innovate are as insignificant for the organization of low-
+skilled retail work as effects on human character are for deciding a medium-scale merger
+case. Different competitive activities, competition in different societal domains and competi-
+tion in different cultural–historical settings may very well represent entirely different objects
+
+
+
+8   One explanation for why there seem to be stable disagreements about the nature and consequences
+    of competition could also lie in the incommensurability of two more fundamental Weltanschauungen
+    (MacIntyre, 1985), a liberal-progressive and a more conservative-protective one, from which the di-
+    verging views of competition derive.
+9   We do not mean to say that arguments about competition should at all times be context-dependent,
+    but simply observe that they empirically are.
+
+
+--- PAGE BREAK ---
+
+958                                                                           T. Ergen and S. Kohl
+
+
+in terms of moral evaluation. Based on contextual specifications, ethical assessments might
+then selectively draw on particular segments of the rival views of competition.
+
+
+
+
+                                                                                                        Downloaded from https://academic.oup.com/ser/article/20/3/937/5942748 by Harvard College Library, Cabot Science Library user on 28 October 2022
+    Second, situated normative judgment is not only useful when assessing the relevance of
+certain arguments but also helps to develop a clearer idea of the relationships and offsetting
+possibilities between arguments. As has been shown empirically for American manufactur-
+ing workers in the postwar era, for example, moral intuitions may limit competitive conduct
+to certain activities and channels, suggesting the prevalence of non-economic, normative
+checks on outright competition in certain social settings (Roy, 1952). In contrast, denying a
+corporate merger in order to preserve the level of competition in a sector might well legiti-
+mately be judged on the basis of offsetting calculations between the projected costs and ben-
+efits of the effects of heightened competition on incentives, the allocation of resources and
+the expected rate of innovation. If there are substantive differences between competitive sit-
+uations with regard to what counts and how arguments are related, empirical investigations
+into the types of evaluative criteria prevalent in a specific social setting may be useful starting
+points even for purely ethical exercises.
+    A similarly situational and pragmatic approach should prove useful in empirical research
+on the moral boundaries of competition. As suggested by the Sociologie des conventions,
+moral conflicts in modern societies often take the form of patterned situational quarrels over
+the proper way to classify and justify acts, events, persons and things (Boltanski and
+Thévenot, 2006). Such quarrels are endemic in conflicts over the introduction and abolition
+of competition. When social groups debate the political and economic consequences of anti-
+trust negligence towards digital platforms, the civilizational and societal consequences of a
+guaranteed basic income or the side-effects of Chinese steel exports to the USA, they do so in
+patterned ways. They resort to rival ethical positions that have become part of Western soci-
+eties’ moral repertoires to judge and legitimate competition.10 As our reconstruction illus-
+trates, these repertoires are not historically unchanging, immovable structural sets. As
+suggested by pragmatic cultural sociology (Swidler, 1986), actors draw on repertoires of
+moral arguments. These may range from general ethical principles to narratives about the
+moral qualities of specific empirical cases. The salience of, and relationship between, rival
+views of competition is highly historical, shaped by agency, institutions, culture, power
+structures and event sequences. To give a few examples of this historicity of the structures of
+moral debates about competition, classical waste theories of competition have all but died
+out in Western societies since the 1970s (a rare exception is the recurrent debate about the
+structure of agricultural production in rich countries). A political-economic manifestation of
+this ideational erosion is the level of recognition among European antitrust regimes of the
+usefulness of crisis and rationalization cartels, which has been diminishing since the 1990s.
+Similarly, the category of judging competition on the basis of its effects on social order has
+almost disappeared since the Second World War. Conversely, the popularity of arguments
+focused on innovation and the stimulation of technological change is largely a product of
+the 1970s and 1980s (Berman, 2011, ch. 3). It is up to a historical sociology of moral ideas,
+then, to explore the determining moments, trends and social carriers of ideas surrounding
+
+10 The notion of repertoires of moral concepts has been used effectively by Abend (2016, pp. 37–39).
+   Our rival views of competition occupy a lower plane of abstractness, however, even when com-
+   pared to Abend’s ‘thick’ concepts. The adequate descriptive term for our rival views might be that
+   of shared moral arguments.
+
+
+--- PAGE BREAK ---
+
+Rival views of economic competition                                                         959
+
+
+competition (Werron, 2015). Our tableau of rival views should help to guide such research
+both for general questions about the moral evaluation of competition and for specific ques-
+
+
+
+
+                                                                                                   Downloaded from https://academic.oup.com/ser/article/20/3/937/5942748 by Harvard College Library, Cabot Science Library user on 28 October 2022
+tions about contentious normative judgments.
+    A historical view of moral repertoires can also shed light on the peculiar structure of the
+debate on the morality of competition. The fact that rival positions have based their cases
+for and against competition on flatly inconsistent assertions might be explained by the fact
+that ideas and moral repertoires change in response to changes in practices and institutions
+(Dobbin, 1994). Competition as an organizing principle of the economy has become firmly
+entrenched in rich Western societies since the Second World War, and nonconsequentialist
+doubts about the commensurability of competition with established ways of social organiza-
+tion have arguably been gradually silenced. Once the lifeworld changes too abruptly, we
+submit, entire repertoires of moral vocabulary might be eroded and generationally trickle
+away (Honneth, 2014). A good example of this process of erosion is the recently revived
+American debate about antitrust enforcement. While the American antitrust tradition was
+influenced by a multitude of evaluative criteria and moral considerations until the 1960s, a
+much narrower interpretation of the laws has become dominant since then (Pitofsky, 2008).
+Often labeled as the Chicago School in antitrust, the new enforcement practices explicitly
+sought to limit the influence of ‘the social purposes of antitrust’ (Bork, 1978, p. 666) and
+centered around the notion that antitrust policy shall exclusively promote economic effi-
+ciency and consumer welfare on the basis of rigorous economic analysis (Kovacic, p. 2003).
+This evaluative reorientation has demonstrably led to a decline in enforcement vigor and
+hence to an increasing level of concentration in important sectors of the American economy
+(Gutiérrez and Philippon, 2018; Grullon et al., 2019). Social movement actors, commenta-
+tors in the media, politicians and intellectuals have in recent years begun to challenge the
+conservative interpretation of the antitrust laws dominant in the USA since the late 1970s
+(Khan, 2018; Wu, 2018; Crane, 2019). Yet, these challenges rarely deviate from the vocabu-
+lary and evaluative standards championed by earlier conservative reformers. They rather
+typically emphasize the costs to American consumers of increased corporate concentration
+(Philippon, 2019) or demonstrate that present-day business models may undermine specific
+arguments about the self-regulating nature of markets (Khan, 2016). Materially, the growth
+of professional groups around technical-economic analysis in competition policy renders re-
+turn to the explicit consideration of ‘non-economic’ evaluative criteria unlikely (Crane,
+2019). While future change away from purely economic goals in antitrust certainly is not
+unthinkable, the ideational, scientific and moral bases of the regime in which courts ‘were
+freely choosing among multiple, incommensurable, and often conflicting values’ (Ginsburg
+cited in Wu, 2018, p. 135) for preserving competition have arguably been eroded.
+
+
+5. Conclusion
+This article’s goal was to recover the debate about the normative qualities of economic com-
+petition from the sphere of intuitions, popular prejudice and niche intellectual debate. We
+have described 12 normative positions, grouped into contradictory pairs along six axes of
+moral evaluation. Each normative position has in addition been explicated ‘in action’ in
+political-economic debates. To develop an understanding of the applicability and representa-
+tiveness of our stylized tableau, we manually coded a random sample of discussions of com-
+petition in a large corpus of social scientific texts. Our exploratory content analysis provided
+
+
+--- PAGE BREAK ---
+
+960                                                                         T. Ergen and S. Kohl
+
+
+provisional insights into the prevalence and distribution of normative assessments of compe-
+tition. Finally, we argued that the peculiar structure of the debate may both be a result of the
+
+
+
+
+                                                                                                      Downloaded from https://academic.oup.com/ser/article/20/3/937/5942748 by Harvard College Library, Cabot Science Library user on 28 October 2022
+historicity of moral repertoires as well as a starting point for empirical analyses of social
+conflicts over economic competition. To conclude, we highlight promising connections to re-
+cent arguments in the sociological literature, contemporary fields for empirical application
+and important future research desiderata.
+    A number of recent arguments in the sociology of morality may be put into fruitful discus-
+sion with our results. First, Kiviat (2019) has recently argued that ‘people use causal theories
+as a tool of moral adjudication’ and that economic practices making causal storytelling im-
+possible may become objects of moral rejection. Competitions in the economy and beyond
+are regularly employed as devices for the purpose of causal sense-making in complex distribu-
+tional problems. Debates about the qualities of competition can then be understood as highly
+relevant to the practical determination of the boundary between morally sound and unsound
+practices. Second, the literature on moralized markets has hitherto mostly focused on the
+moralization of vertical distributional and environmental aspects of markets (Balsiger, 2019).
+The moralization of horizontal relations—the arguably vast world of informal and codified
+norms between workers and producers—has rarely been at the center of attention.
+    Important contemporary fields for the application of our framework are two-fold. First,
+economization often goes hand in hand with the expansion of competition to organize allo-
+cation and distribution. The oft-diagnosed proliferation of economic expertise and logics
+into non-economic fields imply that the normative legitimation and contestation of competi-
+tion will be an increasingly important field of social conflict (Mandelkern, 2019). Second,
+regulatory fields that target horizontal market relations—like competition and trade pol-
+icy—are obvious candidates for empirical application. The transfer of the determination of
+the social boundaries of competition to bureaucratic management in the course of the 20th
+century has transformed these fields into highly technical legal and economic endeavors, of-
+ten disconnected from overtly moral debates (Hofstadter, 1964; Chorev, 2007). As de-
+scribed in Section 4, these fields are nevertheless shaped at their core by tacit and overt
+normative conflicts. Beyond the possible uses of our mapping framework in empirical social
+research, it may be of use in reviving explicitly normative philosophical work, which in our
+view is particularly needed in fields marked by economization and technocratic governance.
+    We see straightforward avenues for further research in both quantitative and qualitative direc-
+tions. Our exploratory content analysis is open to many promising extensions. Important ques-
+tions would be which social actors and authors defend which arguments, and which arguments
+correlate empirically. The debate about the moral qualities of competition is highly historical.
+Questions about the historical sequence, the relationship between moral repertoires and institu-
+tions over time and about geographical and cultural differences would represent rich avenues for
+further empirical research. Qualitatively, our analysis has focused on modern Western discourse.
+Systematic investigations of global cultural understandings of competition would almost certainly
+uncover alternative moral repertoires regulating economic competition.
+
+
+References
+Abend, G. (2010) ‘What’s New and What’s Old about the New Sociology of Morality’. In Hitlin,
+  S.and Vaisey, S. (eds) Handbook of the Sociology of Morality, New York, Springer Science, pp.
+  561–585.
+
+
+--- PAGE BREAK ---
+
+Rival views of economic competition                                                           961
+
+
+Abend, G. (2016) The Moral Background: An Inquiry into the History of Business Ethics,
+   Princeton, Princeton University Press.
+
+
+
+
+                                                                                                     Downloaded from https://academic.oup.com/ser/article/20/3/937/5942748 by Harvard College Library, Cabot Science Library user on 28 October 2022
+Acemoglu, D., Robinson, J. A. and Verdier, T. (2012) ‘Can’t We All Be More Like Scandinavians?
+   Asymmetric Growth and Institutions in an Interdependent World’, NBER Working Paper No.
+   18441, New York, National Bureau of Economic Research.
+Adams, H. C. (1887) ‘Relation of the State to Industrial Action’, Publications of the American
+   Economic Association, 1, 7–85.
+American Engineering Council (1921) Waste in Industry, by the Committee on Elimination of
+   Waste in Industry of the Federated American Engineering Societies, New York, NY,
+   McGraw-Hill.
+Anderson, E. (1990) ‘The Ethical Limitations of the Market’, Economics and Philosophy, 6,
+   179–205.
+Andersson, J. (2009) The Library and the Workshop: Social Democracy and Capitalism in the
+   Knowledge Age, Stanford, Stanford University Press.
+Andrews, E. B. (1889) ‘Trusts According to Official Investigations’, The Quarterly Journal of
+   Economics, 3, 117–152.
+Balsiger, P. (2019) ‘The Dynamics of “Moralized Markets”: A Field Perspective’, Socio-Economic
+   Review. 10.1093/ser/mwz051.
+Barber, W. J. (1996) Designs Within Disorder. Franklin D. Roosevelt, the Economists, and the
+   Shaping of American Economic Policy, 1933–1945, Cambridge, Cambridge University Press.
+Baumol, W. J. (2002) The Free-Market Innovation Machine: Analyzing the Growth Miracle of
+   Capitalism, Princeton, Princeton University Press.
+Berk, G. (2009) Louis D. Brandeis and the Making of Regulated Competition, 1900–1932,
+   Cambridge, Cambridge University Press.
+Berman, E. P. (2011) Creating the Market University: How Academic Science Became an
+   Economic Engine, Princeton, Princeton University Press.
+Binswanger, M. (2010) Sinnlose Wettbewerbe, Freiburg, Herder.
+Blonigen, B. A. and Prusa, T. J. (2003) ‘Antidumping’. In Kwan Choi, E. and Harrigan, J. (eds)
+   Handbook of International Trade, Malden, Blackwell, pp. 251–284.
+Bluhm, K. and Varga, M. (2019) New Conservatives in Russia and East Central Europe, London,
+   Routledge.
+Blyth, M. (2013) Austerity: The History of a Dangerous Idea, Oxford, Oxford University Press.
+Boltanski, L. and Thévenot, L. (2006) On Justification, Economies of Worth, Princeton, Princeton
+   University Press.
+Bork, R. (1978) The Antitrust Paradox: A Policy at War with Itself, New York, Basic Books.
+Callaghan, H. and Höpner, M. (2012) ‘Changing Ideas. Organized Capitalism and the German
+   Left’, West European Politics, 35, 551–573.
+Chamberlin, E. (1933) The Theory of Monopolistic Competition, Cambridge, Harvard University Press.
+Chorev, N. (2007) Remaking U.S. Trade Policy: From Protectionism to Globalization, Ithaca,
+   Cornell University Press.
+Crane, D. A. (2019) ‘A Premature Postmortem on the Chicago School of Antitrust’, Business
+   History Review, 93, 759–776.
+Dahms, H. F. (1995) ‘From Creative Action to the Social Rationalization of the Economy: Joseph
+   A. Schumpeter’s Social Theory’, Sociological Theory, 13, 1–13.
+Davies, W. (2016) The Limits of Neoliberalism: Authority, Sovereignty and the Logic of
+   Competition, London, Sage.
+Dennis, K. G. (1977) ‘Competition’ in the History of Economic Thought, New York, Arno Press.
+Djelic, M.-L. (2005) ‘From Local Legislation to Global Structuring Frame: The Story of Antitrust’,
+   Global Social Policy: An Interdisciplinary Journal of Public Policy and Social Development, 5,
+   55–76.
+
+
+--- PAGE BREAK ---
+
+962                                                                        T. Ergen and S. Kohl
+
+
+Dobbin, F. (1994) Forging Industrial Policy: The United States, Britain, and France in the
+   Railway Age, Cambridge, Cambridge University Press.
+
+
+
+
+                                                                                                     Downloaded from https://academic.oup.com/ser/article/20/3/937/5942748 by Harvard College Library, Cabot Science Library user on 28 October 2022
+Durkheim, É. (1984a) The Division of Labor in Society, Houndmills, London, MacMillan.
+Durkheim, É. (1984b) ‘Preface to the Second Edition’, The Division of Labor in Society,
+   Houndmills, London: MacMillan, pp. xxxi–xlix.
+Ergen, T. and Kohl, S. (2019) ‘Varieties of Economization in Competition Policy: Institutional
+   Change in German and American Antitrust, 1960–2000’, Review of International Political
+   Economy, 26, 256–286.
+Etzioni, A. (1985) ‘Encapsulated Competition’, Journal of Post Keynesian Economics, 7,
+   287–302.
+Etzioni, A. (1988) The Moral Dimension, New York, NY, The Free Press.
+Exworthy, M., Hyde, P. and McDonald-Kuhne, P. (2016) ‘Knights and Knaves in the English
+   Medical Profession: The Case of Clinical Excellence Awards’, Journal of Social Policy, 45,
+   83–99.
+Fear, J. (2008) ‘Cartels’. In Jones, G. G. and Zeitlin, J. (eds) The Oxford Handbook of Business
+   History, Oxford, Oxford University Press, pp. 268–292.
+Fourcade, M. and Healy, M. (2007) ‘Moral Views of Market Society’, Annual Review of
+   Sociology, 33, 285–311.
+Fourcade, M. and Healy, K. (2013) ‘Classification Situations: Life-chances in the Neoliberal Era’,
+   Accounting, Organizations and Society, 38, 559–572.
+Fourier, C. (2012) Über das weltweite soziale Chaos. Ausgewählte Schriften zur Philosophie und
+   Gesellschaftstheorie, Schmidt am Busch Hans-Christoph (ed.), Berlin, Akademie Verlag.
+Friedman, M. (1970) ‘The Social Responsibility of Business is to Increase Its Profits’, New York
+   Times Magazine, 13, 122–126.
+Geiger, T. (2012) Gesamtausgabe. Wirtschafts- und Betriebssoziologie. Konkurrenz, Frankfurt a.
+   M., Peter Lang.
+Gerber, D. J. (1998) Law and Competition in Twentieth Century Europe: Protecting Prometheus,
+   Oxford, Oxford University Press.
+Grant, R. W. (2011) Strings Attached: Untangling the Ethics of Incentives, Princeton, Princeton
+   University Press.
+Grullon, G., Larkin, Y. and Michaely, R. (2019) ‘Are US Industries Becoming More
+   Concentrated?’, Review of Finance, 23, 697–743.
+Gutiérrez, G. and Philippon, T. (2018) ‘How EU Markets Became More Competitive Than US
+   Markets: A Study of Institutional Drift’, NBER Working Paper No. 24700, New York,
+   National Bureau of Economic Research.
+Hausman, D., McPherson, M. and Satz, D. (2016) Economic Analysis, Moral Philosophy, and
+   Public Policy, Cambridge, Cambridge University Press.
+Hawley, E. , W. (1966) The New Deal and the Problem of Monopoly: A Study in Economic
+   Ambivalence, Princeton, Princeton University Press.
+Hayek, F. A. (1945) ‘The Use of Knowledge in Society’, The American Economic Review, 35,
+   519–530.
+Hayek, F. A. (2006) The Road to Serfdom, Abingdon, New York, Routledge.
+Hayek, F. A. (1998) Law, Legislation and Liberty, 3 Volumes, London, Routledge.
+Hellwig, M. (2006) ‘Effizienz oder Wettbewerbsfreiheit? Zur normativen Grundlegung der
+   Wettbewerbspolitik’, Preprints of the Max Planck Institute for Research on Collective Goods
+   Bonn, 20.
+Herzog, L. (2013) ‘Markets’. In Zalta, E. N. (ed.) The Stanford Encyclopedia of Philosophy (Fall
+   2013 Edition), accessed at http://plato.stanford.edu/archives/fall2013/entries/markets/ on
+   August 21, 2020.
+
+
+--- PAGE BREAK ---
+
+Rival views of economic competition                                                         963
+
+
+Hilferding, R. (1985) Finance Capital: A Study of the Latest Phase of Capitalist Development,
+   London, Routledge.
+
+
+
+
+                                                                                                   Downloaded from https://academic.oup.com/ser/article/20/3/937/5942748 by Harvard College Library, Cabot Science Library user on 28 October 2022
+Hirschman, A. O. (1977) The Passions and the Interest, Princeton, Princeton University Press.
+Hirschman, A. O. (1982) ‘Rival Interpretations of Market Society: Civilizing, Destructive, or
+   Feeble?’, Journal of Economic Literature, 20, 1463–1484.
+Hirschman, A. O. (1994) ‘Wieviel Gemeinsinn raucht die liberale Gesellschaft?’, Leviathan, 22,
+   293–304.
+Hofstadter, R. (1964) ‘What Happened to the Antitrust Movement?’. In Hofstaedter, R. (ed.) The
+   Paranoid Style in American Politics and Other Essays, Cambridge, Harvard University Press,
+   pp. 188–237.
+Honneth, A. (2014) Freedom’s Right: The Social Foundations of Democratic Life, New York,
+   Columbia University Press.
+Horkheimer, M. and Adorno, T. W. (2002) Dialectic of Enlightenment, Stanford, Stanford
+   University Press.
+Irwin, D. A. (2017) Clashing over Commerce: A History of US Trade Policy, Chicago, University
+   of Chicago Press.
+Jackson, G. and Petraki, A. (2011) Understanding Short-Termism: The Role of Corporate
+   Governance, Stockholm, Glasshouse Forum.
+Keynes, J. M. (1927) The End of Laissez-Faire, London, Hogarth Press.
+Khan, L. (2018) ‘The New Brandeis Movement: America’s Antimonopoly Debate’, Journal of
+   European Competition Law & Practice, 9, 131–132.
+Khan, L. M. (2016) ‘Amazon’s Antitrust Paradox’, Yale Law Journal, 126, 710–805.
+Kiviat, B. (2019) ‘The Moral Limits of Predictive Practices: The Case of Credit-Based Insurance
+   Scores’, American Sociological Review, 84, 1134–1158.
+Knight, F. H. (1923) ‘The Ethics of Competition’, The Quarterly Journal of Economics, 37,
+   579–624.
+Kolozi, P. (2017) Conservatives Against Capitalism: From the Industrial Revolution to
+   Globalization, New York, Columbia University Press.
+Kornai, J. (1992) The Socialist System. The Political Economy of Socialism, Oxford, Clarendon
+   Press.
+Korom, P. (2018) ‘Does Scientific Eminence Endure? Making Sense of the Most Cited Economists,
+   Psychologists and Sociologists in Textbooks (1970–2010)’, Scientometrics, 116, 909–939.
+Kovacic, W. E. (2003) ‘The Modern Evolution of US Competition Policy Enforcement Norms’,
+   Antitrust Law Review, 71, 377–478.
+Krippner, G. R. (2011) Capitalizing on Crisis, Cambridge, MA, Harvard University Press.
+Lamont, M. (2000) The Dignity of Working Men: Morality and the Boundaries of Race, Class,
+   and Immigration, Cambridge, Harvard University Press.
+Lazonick, W. (2010) ‘Innovative Business Models and Varieties of Capitalism: Financialization of
+   the US Corporation’, Business History Review, 84, 675–702.
+Lester, R. K. and Piore, M. J. (2004) Innovation—the Missing Dimension, Cambridge, MA,
+   Harvard University Press.
+MacIntyre, A. (1985) After Virtue, 2nd edn, London, Duckworth.
+Mandelkern, R. (2019) ‘Neoliberal Ideas of Overnment and the Political Empowerment of
+   Economists in Advanced Nation-states: The Case of Israel’, Socio-Economic Review.
+   10.1093/ser/mwz029.
+Marx, K. (1982) Capital. A Critique of Political Economy, Vol. 1, London, Penguin Classics.
+McNulty, P. J. (1968) ‘Economic Theory and the Meaning of Competition’, The Quarterly
+   Journal of Economics, 82, 639–656.
+
+
+--- PAGE BREAK ---
+
+964                                                                       T. Ergen and S. Kohl
+
+
+Meadows, D. H., Meadows, D. L., Randers, J. and Behrens, W. W. . (1972) The Limits to
+   Growth. A Report for the Club of Rome’s Project on the Predicament of Mankind, New York,
+
+
+
+
+                                                                                                   Downloaded from https://academic.oup.com/ser/article/20/3/937/5942748 by Harvard College Library, Cabot Science Library user on 28 October 2022
+   NY, Universe Books.
+Merton, R. K. (1938) ‘Social Structure and Anomie’, American Sociological Review, 3, 672–682.
+Michels, R. K. (1928) Cartels, Combines, and Trusts in Post-War Germany, New York, NY, Ams
+   Press.
+Mikl-Horke, G. (2015) Historische Soziologie der Wirtschaft, Berlin, de Gruyter.
+Mill, J. S. (1977) ‘On Liberty’. In Robson, J. M. (ed.) Essays on Politics and Society,
+   Toronto/Buffalo, University of Toronto Press, pp. 213–310.
+Morgan, M. S. (1993) ‘Competing Notions of “Competition” in Late Nineteenth-Century
+   American Economics’, History of Political Economy, 25, 563–604.
+North, D. C., Wallis, J. J., Webb, S. B.; Weingast, B. R.. (2007) ‘Limited Access Orders in the
+   Developing World: A New Approach to the Problems of Development’, The World Bank
+   Policy Research Working Paper, No. 4359. Washington, D.C., The World Bank.
+Nullmeier, F. (2000) Politische Theorie des Sozialstaats, Frankfurt, Campus Verlag.
+Okun, A. M. (2015) Equality and Efficiency. The Big Tradeoff, Washington, D.C., Brookings
+   Institution Press.
+Parsons, T. (1951) The Social System, Glencoe, The Free Press.
+Philippon, T. (2019) The Great Reversal: How America Gave up on Free Markets, Cambridge,
+   Harvard University Press.
+Pitofsky, R. (1979) ‘The Political Content of Antitrust’, University of Pennsylvania Law Review,
+   127, 1051–1075.
+Pitofsky, R. (2008) How the Chicago School Overshot the Mark: The Effect of Conservative
+   Economic Analysis on US Antitrust, Oxford, Oxford University Press.
+Polanyi, K. (2001) The Great Transformation: The Political and Economic Origins of Our Time,
+   Boston, Beacon.
+Posner, R. A. (1979) ‘The Chicago School of Antitrust Analysis’, University of Pennsylvania Law
+   Review, 127, 925–948.
+Reinert, S. A. (2013) ‘The Empire of Emulation: A Quantitative Analysis of Economic
+   Translations in the European World, 1500–1849’. In Reinert S.A. and Røge P. (eds) The
+   Political Economy of Empire in the Early Modern World, Springer, London, pp. 105–128.
+Roy, D. (1952) ‘Quota Restriction and Goldbricking in a Machine Shop’, American Journal of
+   Sociology, 57, 427–442.
+Sandel, M. (2012) What Money Can’t Buy? The Moral Limits of Markets, London, Ingram.
+Satz, D. (2010) Why Some Things Should Not Be for Sale: The Moral Limits of Markets, Oxford,
+   Oxford University Press.
+Scharpf, F. W. (2010) ‘The Asymmetry of European Integration, or Why the EU Cannot Be a
+   ’Social Market Economy’, Socio-Economic Review, 8, 211–250.
+Schmidt am Busch, H.-C. (2007) Religiöse Hingabe oder soziale Freiheit: Die Saint-Simonistische
+   Theorie und die Hegelsche Sozialphilosophie, Hamburg, Meiner.
+Schumpeter, J. A. (1912) Theorie der wirtschaftlichen Entwicklung, Berlin, Duncker & Humblot.
+Schumpeter, J. A. (1934) ‘Depressions’. In Brown, D. V. (ed.) The Economics of the Recovery
+   Program, New York, McGraw-Hill, pp. 3–21.
+Schumpeter, J. A. (1954) History of Economic Analysis, Oxford, Oxford University Press.
+Schumpeter, J. A. (1975) Capitalism, Socialism, and Democracy, New York, Harper.
+Shaikh, A. (2016) Capitalism: Competition, Conflict, Crises, Oxford, Oxford University Press.
+Shaw, B. (1911) Fabian Essays in Socialism, New York, Humboldt Publishing.
+Shleifer, A. (2004) ‘Does Competition Destroy Ethical Behavior?’, National Bureau of Economic
+   Research.
+Simmel, G. (2004) The Philosophy of Money, New York, Harper.
+
+
+--- PAGE BREAK ---
+
+Rival views of economic competition                                                          965
+
+
+Simmel, G. (2008) ‘Sociology of Competition’, Canadian Journal of Sociology, 33, 957–978.
+Skocpol, T. and Finegold, K. (1982) ‘State Capacity and Economic Intervention in the Early New
+
+
+
+
+                                                                                                    Downloaded from https://academic.oup.com/ser/article/20/3/937/5942748 by Harvard College Library, Cabot Science Library user on 28 October 2022
+   Deal’, Political Science Quarterly, 97, 255–278.
+Smith, A. (1981) An Inquiry into the Nature and Causes of the Wealth of Nations, Glasgow
+   Edition, Indianapolis, Liberty Press.
+Sweezy, P. M. (1942) The Theory of Capitalist Development: Principles of Marxian Political
+   Economy, New York, Monthly Review Press.
+Swidler, A. (1986) ‘Culture in Action: Symbols and Strategies’, American Sociological Review, 51,
+   273–286.
+Thielemann, U. (2010) Wettbewerb als Gerechtigkeitskonzept. Kritik des Neoliberalismus,
+   Marburg, Metropolis.
+Thompson, E. P. (1971) ‘The Moral Economy of the English Crowd in the Eighteenth Century’,
+   Past and Present, 50, 76–136.
+Titmuss, R. (1970) The Gift Relationship. From Human Blood to Social Policy, London, George
+   Alien & Unwin.
+Townsend, J. (1817) Dissertation on the Poor Laws. By a Well-Wisher to Mankind, London,
+   Ridgways.
+Ulrich, P. (2008) Integrative Wirtschaftsethik. Grundlagen einer lebensdienlichen Ökonomie,
+   Bern, Haupt Verlag.
+Veblen, T. (1927) The Theory of Business Enterprise, New York, Charles Scribner’s Sons.
+Walzer, M. (1983) Spheres of Justice. A Defense of Pluralism and Equality, New York, Basic
+   Books.
+Walzer, M. (2006) Just and Unjust Wars, New York, Basic Books.
+Weber, M. (1984) The Protestant Ethic and the Spirit of Capitalism, London, Unwin Paperbacks.
+Werron, T. (2015) ‘Why Do We Believe in Competition? A Historical-Sociological View of
+   Competition as an Institutionalized Modern Imaginary’, Distinktion: Journal of Social Theory,
+   16, 186–210.
+Williamson, O. E. (1968) ‘Economies as an Antitrust Defense: The Welfare Tradeoffs’, American
+   Economic Review, 58, 18–36.
+Wu, T. (2018) The Curse of Bigness Antitrust in the New Gilded Age, Columbia University:
+   Columbia Global Reports, New York.
+Young, M., (1979) The Rise of the Meritocracy: 1870-2033, New York, Penguin Books.
+Zelizer, V. A. R. (2017) Morals and Markets. The Development of Life Insurance in the United
+   States, New York, Columbia University Press.
+
