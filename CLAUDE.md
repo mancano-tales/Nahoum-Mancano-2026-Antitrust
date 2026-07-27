@@ -1,4 +1,4 @@
-# CLAUDE.md — NahoumMancano2026-Antitrust-as-Industrial-Policy
+﻿# CLAUDE.md — NahoumMancano2026-Antitrust-as-Industrial-Policy
 
 > 🚨 **CRITICAL AGENT RULES (COVENANT) — READ FIRST:**
 > - **RULE 1:** You are operating under the **Agent Covenant** framework. Every commit is audited. Run `Rscript tools/validate-governance.R` to test your edits before committing.
@@ -136,3 +136,4 @@ Para puxar uma atualização, rode `tools/sync-skills.ps1`/`.sh` (relatório dry
 *   **Sincronizar índice de planos a partir do YAML**: `Rscript tools/validate-governance.R --sync`
 *   **Exportar log de conversa de uma sessão**: `Rscript tools/export_conversa.R <session_uuid> [slug]`
 *   **Testes Automatizados**: não há suíte de testes automatizados neste projeto (não é software aplicativo); a validação é a auditoria de governança acima e o `quarto render` bem-sucedido.
+
