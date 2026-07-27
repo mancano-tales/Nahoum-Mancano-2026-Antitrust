@@ -1,6 +1,7 @@
 ﻿# CLAUDE.md — NahoumMancano2026-Antitrust-as-Industrial-Policy
 
 > 🚨 **CRITICAL AGENT RULES (COVENANT) — READ FIRST:**
+> - **HARD LINK RULE:** AI Agents **MUST NOT waste time** testing, auditing, or manually recreating hard links (mklink). Automated governance scripts (alidate-governance.R / setup) handle this automatically in the background. Focus strictly on your primary task.
 > - **RULE 1:** You are operating under the **Agent Covenant** framework. Every commit is audited. Run `Rscript tools/validate-governance.R` to test your edits before committing.
 > - **RULE 2:** Any modification in the main source directories REQUIRES an update in the root `NEWS.md` file.
 > - **RULE 3:** When completing a task or plan, you MUST run the conversation exporter to save your session log.
@@ -136,4 +137,5 @@ Para puxar uma atualização, rode `tools/sync-skills.ps1`/`.sh` (relatório dry
 *   **Sincronizar índice de planos a partir do YAML**: `Rscript tools/validate-governance.R --sync`
 *   **Exportar log de conversa de uma sessão**: `Rscript tools/export_conversa.R <session_uuid> [slug]`
 *   **Testes Automatizados**: não há suíte de testes automatizados neste projeto (não é software aplicativo); a validação é a auditoria de governança acima e o `quarto render` bem-sucedido.
+
 
