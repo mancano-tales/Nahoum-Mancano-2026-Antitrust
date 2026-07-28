@@ -3,6 +3,23 @@
 > Entrada mais recente no topo.
 > **Convenção de timestamp**: Todas as datas em cabeçalhos (## YYYY-MM-DD HH:MM) e no campo Data/Hora dos metadados DEVEM incluir hora e minuto no fuso local. Nunca use datas isoladas.
 
+## 2026-07-28 01:40 — Skills sincronizadas com a nova mãe (`skills`)
+
+Decisão de arquitetura registrada a montante (`skills@ea6227d`, `agentic-research-template@1cb784b`): o repositório `skills` passa a ser a mãe das skills; o `agentic-research-template` é dono de hooks, policy-as-code e validador, e vira consumidor como os demais. Duas mães declaradas para as mesmas 11 skills era o que fazia o `sync-skills` comparar contra uma fonte ambígua e reportar sinal sem significado.
+
+Aplicado aqui:
+
+- `tools/sync-skills.ps1`/`.sh` atualizados com as duas correções feitas hoje. A comparação passa a normalizar conteúdo (BOM, CRLF, linhas em branco no fim) em vez de hashear bytes crus — numa auditoria, 8 de 9 divergências reportadas eram ruído de codificação com conteúdo idêntico. E o relatório cobre só as skills instaladas, em vez de listar as 90 não instaladas como pendência; por consequência, `--apply all` significa "atualizar o que eu já tenho", nunca "instalar as 101".
+- As 11 skills compartilhadas puxadas da mãe. Passam a carregar o campo `autor:` no frontmatter e, em `grill-me`/`grill-with-docs`/`edit-article`, a decisão do autor de 2026-07-17 (`disable-model-invocation: false`) — que até hoje nunca tinha saído do template onde foi tomada.
+
+Este repositório não tem `tools/.skills-source`: a detecção automática resolve para a pasta irmã `skills`, que agora é o padrão correto.
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-07-28 01:40 (Horário de Brasília)
+- **Agente**: Claude Opus 5 / claude-opus-5 / Claude Code (VS Code)
+- **Mensagem do Commit**: "chore(skills): sincroniza com a nova mãe e adota sync-skills corrigido"
+- **Arquivos afetados**: `.claude/skills/` (9 skills), `tools/sync-skills.ps1`, `tools/sync-skills.sh`, `NEWS.md`
+
 ## 2026-07-27 23:45 — Indireção do diretório de governança nos scripts R (prevenção, não correção)
 
 Mudança preventiva propagada do template-mãe. `tools/validate-governance.R` e `tools/export_conversa.R` tinham o nome do diretório de governança (`9-vers`) **fixo no código**, em 6 pontos funcionais somados. Aqui isso não estava causando problema — `9-vers/` é o nome correto neste repositório, onde ele é o slot 9 de uma taxonomia numerada viva (`3-texts/`, `9-vers/`). O risco era de futuro: qualquer renomeação quebraria os scripts em silêncio.
