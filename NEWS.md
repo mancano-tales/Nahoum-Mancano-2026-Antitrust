@@ -3,6 +3,24 @@
 > Entrada mais recente no topo.
 > **Convenção de timestamp**: Todas as datas em cabeçalhos (## YYYY-MM-DD HH:MM) e no campo Data/Hora dos metadados DEVEM incluir hora e minuto no fuso local. Nunca use datas isoladas.
 
+## 2026-07-27 23:45 — Indireção do diretório de governança nos scripts R (prevenção, não correção)
+
+Mudança preventiva propagada do template-mãe. `tools/validate-governance.R` e `tools/export_conversa.R` tinham o nome do diretório de governança (`9-vers`) **fixo no código**, em 6 pontos funcionais somados. Aqui isso não estava causando problema — `9-vers/` é o nome correto neste repositório, onde ele é o slot 9 de uma taxonomia numerada viva (`3-texts/`, `9-vers/`). O risco era de futuro: qualquer renomeação quebraria os scripts em silêncio.
+
+O risco não é teórico. Em 2026-07-26, na raiz `MancanoSync`, esse mesmo caminho fixo fez o exportador gravar uma conversa em `9-vers/llm-reviews/` num repositório que usa `0-meta/` — pasta fora do `.gitignore` em modo whitelist. O arquivo ficou fora do controle de versão e sem backup por um dia, e nada avisou. Três pastas de governança chegaram a coexistir naquela raiz. O `cha-affirmative-action-us-brazil` estava a um export de distância do mesmo estado.
+
+Corrigido aqui adotando a detecção em tempo de execução (`GOV_DIR_CANDIDATOS <- c("0-meta", "9-vers")`, primeiro candidato existente vence), cobrindo também `PATH_BACKUP_DIR`, o filtro T6 e a lista `GOVERNANCE_DOCS`. Verificado: `GOV_DIR` resolve para `9-vers` neste repositório, e ambos os scripts continuam parseando.
+
+**Decisão registrada**: `9-vers/` **permanece** aqui. Não há renomeação prevista para este repositório — o nome está correto no contexto da taxonomia numerada. A indireção existe para que a escolha do nome deixe de ser dívida técnica.
+
+Plano completo (11 work packages, 12 repositórios): `agentic-research-template/9-vers/plan/2026-07-27_Plano_Migracao_AGENTS-md_e_Indirecao_Governanca.md`.
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-07-27 23:45 (Horário de Brasília)
+- **Agente**: Claude Opus 5 / claude-opus-5 / Claude Code (VS Code)
+- **Mensagem do Commit**: "refactor(governance): indireção do diretório de governança nos scripts R (prevenção)"
+- **Arquivos afetados**: `tools/validate-governance.R`, `tools/export_conversa.R`, `NEWS.md`
+
 ## 2026-07-23 00:11 — Citação de Jobim reatribuída à matéria correta da Folha; plano Gerdau-Jobim registrado como PARCIAL
 
 Sessão iniciada por uma pergunta de citação (como citar o relatório do Conselheiro-Relator José Matias Pereira no Pedido de Reapreciação do AC 16/94) e que descobriu, no caminho, uma **má atribuição de citação direta** na Seção 4 do artigo. A fala de Nelson Jobim — "o mercado brasileiro de siderurgia está aberto aos produtos internacionais e o ato de concentração não elimina a concorrência de parte substancial do mercado" — estava creditada a `@Ribeiro1995` (Folha, 07/11/1995, "Nelson Jobim compra briga com o Cade"), mas consta da matéria de **15/11/1995** ("Jobim se opõe ao Cade e acata ação da Gerdau", Alex Ribeiro), fornecida por Tales nesta conversa e por ele confirmada como a única das duas que traz a fala. Entradas `@Ribeiro1995a`, `@CADE1995-AC16-1994` e `@CADE1995-AC16-1994-decisao` redigidas pelo agente e importadas por Tales no Zotero (o `.bib` é arquivo gerenciado externamente — o agente nunca escreve nele).

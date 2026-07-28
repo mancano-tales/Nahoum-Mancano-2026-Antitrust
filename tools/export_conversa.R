@@ -30,7 +30,16 @@ PASTA_ANTIGRAVITY <- file.path(
   Sys.getenv("USERPROFILE", unset = path.expand("~")),
   ".gemini", "antigravity", "brain"
 )
-PASTA_SAIDA <- file.path(getwd(), "9-vers", "llm-reviews")
+# ── Diretório de governança (indireção) ───────────────────────────────────────
+# "9-vers" aqui e nos demais repos de pesquisa (slot 9 de uma taxonomia numerada
+# viva); "0-meta" na raiz MancanoSync, no `skills` e no `cha`. Nenhum dos dois
+# está errado — errado era fixar o nome aqui. Em 2026-07-26 um export foi
+# gravado fora do controle de versão na raiz exatamente por causa disso.
+GOV_DIR_CANDIDATOS <- c("0-meta", "9-vers")
+GOV_DIR <- Find(function(d) dir.exists(file.path(getwd(), d)), GOV_DIR_CANDIDATOS)
+if (is.null(GOV_DIR)) GOV_DIR <- GOV_DIR_CANDIDATOS[[1]]
+
+PASTA_SAIDA <- file.path(getwd(), GOV_DIR, "llm-reviews")
 FUSO <- "America/Sao_Paulo"
 
 # ── Argumentos ────────────────────────────────────────────────────────────────
