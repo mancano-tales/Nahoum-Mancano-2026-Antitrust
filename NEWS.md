@@ -3,6 +3,23 @@
 > Entrada mais recente no topo.
 > **Convenção de timestamp**: Todas as datas em cabeçalhos (## YYYY-MM-DD HH:MM) e no campo Data/Hora dos metadados DEVEM incluir hora e minuto no fuso local. Nunca use datas isoladas.
 
+## 2026-08-03 11:42 — Deck Beamer/Quarto com moldura teórica (economização + discrição administrativa)
+
+Adicionada a versão Beamer da apresentação: `7-presentations/2026-08-03_Antitrust-as-Industrial-Policy_Slides.qmd` (+ `.pdf` renderado) e `7-presentations/figures/`. 18 slides, tema `miniframes`, em inglês, ≤18 por decisão do autor. Deriva do `.odp` de conferência, mas incorpora o aparato teórico trabalhado nesta sessão:
+
+- **Economização (Ergen & Kohl 2019)** e a distinção **form-based × effect-based** como slide próprio, com a leitura das "juntas discricionárias" (o regime form-based tem uma junta mole — mercado relevante; o effect-based tem três — mercado, efeitos, eficiências).
+- **Três destinos da discrição administrativa (Foster & Thelen 2024)**: Alemanha (regras ordoliberais → form-based), UE (aprendizado social → *regulated competition* Brandeisiana), Brasil (discrição capturada pelo Executivo antes de uma profissão discipliná-la → conversão em política industrial velada). O Brasil como a célula que faltava.
+- **Contribuição centrada no *public denial*** (não mais "terceira variedade"): negação → ilegibilidade doutrinária → *process tracing* como método necessário; conversão como política industrial **fiscalmente gratuita** (forbearance, não gasto).
+- Foto do Ministro Malan inserida (confirmada pelo autor); imagens de aço e cerveja removidas a pedido; "inflation regime" reescrito como "runaway inflation".
+
+Citações no deck em texto simples (sem `.bib` acoplado), para render limpo. A extração de Foster & Thelen (2024) já estava rastreada em `9-vers/references/` (mantida a versão existente). O `.odp` original permanece no repositório como registro.
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-08-03 11:42 (Horário de Brasília)
+- **Agente**: Claude Opus 4.8 / claude-opus-4-8 / Claude Code (VS Code)
+- **Mensagem do Commit**: "docs(presentations): add Beamer/Quarto deck with economization + discretion framing"
+- **Arquivos afetados**: `7-presentations/2026-08-03_Antitrust-as-Industrial-Policy_Slides.qmd`, `.pdf`, `7-presentations/figures/*`, `NEWS.md`
+
 ## 2026-08-03 09:52 — Apresentação de slides adicionada ao repositório
 
 Adicionada `7-presentations/Antitrust as Industrial Policy Slides.odp` (18 slides, LibreOffice Impress) ao controle de versão, a pedido do autor. É a apresentação de conferência derivada do artigo, com a estrutura Argumento → Mecanismo → Definição de política industrial → Contexto → Caso Gerdau/Pains → Caso Ambev. Primeira pasta `7-presentations/` do repositório; entra rastreada como conteúdo autoral (não é build artifact, não é `.zip` de fonte primária).
