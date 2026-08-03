@@ -3,6 +3,19 @@
 > Entrada mais recente no topo.
 > **Convenção de timestamp**: Todas as datas em cabeçalhos (## YYYY-MM-DD HH:MM) e no campo Data/Hora dos metadados DEVEM incluir hora e minuto no fuso local. Nunca use datas isoladas.
 
+## 2026-08-03 12:05 — Correção da cronologia Gerdau no deck (reconciliada com o artigo)
+
+O slide "Gerdau–Pains: timeline" encerrava o caso em **1996** ("renewed composition, CADE settles remedies") — herança do `.odp`, em conflito com o artigo. Reconciliado com a cronologia documentada em `3-texts/…qmd` (inclusive blocos comentados e o footnote `gerdau-marketshare`):
+
+- **Mar 1995** adiamento (share 39,6% → 46,2%); **Out 1995** aprovação parcial com desconstituição (46,5% de longos comuns; lei veta >20%); **fim de 1995** recurso a Jobim suspendendo a decisão *contra* o Art. 50; recomposição do CADE por Cardoso (sem data precisa no artigo — mantida sem ano cravado); **Mar 1998** aprovação final com 10 condições (venda da laminação de Contagem e da Transpains, reintegração de trabalhadores, US$78M); **1999** entrada nos EUA (75% da AmeriSteel).
+- Removida a nota "dates to be reconciled" e o "4–2" não documentado no artigo. Datas que o artigo não afirma (ano da recomposição) não foram inventadas.
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-08-03 12:05 (Horário de Brasília)
+- **Agente**: Claude Opus 4.8 / claude-opus-4-8 / Claude Code (VS Code)
+- **Mensagem do Commit**: "fix(presentations): reconcile Gerdau timeline with the article's chronology"
+- **Arquivos afetados**: `7-presentations/2026-08-03_Antitrust-as-Industrial-Policy_Slides.qmd`, `.pdf`, `NEWS.md`
+
 ## 2026-08-03 11:42 — Deck Beamer/Quarto com moldura teórica (economização + discrição administrativa)
 
 Adicionada a versão Beamer da apresentação: `7-presentations/2026-08-03_Antitrust-as-Industrial-Policy_Slides.qmd` (+ `.pdf` renderado) e `7-presentations/figures/`. 18 slides, tema `miniframes`, em inglês, ≤18 por decisão do autor. Deriva do `.odp` de conferência, mas incorpora o aparato teórico trabalhado nesta sessão:
