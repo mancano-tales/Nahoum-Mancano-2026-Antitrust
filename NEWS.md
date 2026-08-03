@@ -3,6 +3,18 @@
 > Entrada mais recente no topo.
 > **Convenção de timestamp**: Todas as datas em cabeçalhos (## YYYY-MM-DD HH:MM) e no campo Data/Hora dos metadados DEVEM incluir hora e minuto no fuso local. Nunca use datas isoladas.
 
+## 2026-08-03 09:52 — Apresentação de slides adicionada ao repositório
+
+Adicionada `7-presentations/Antitrust as Industrial Policy Slides.odp` (18 slides, LibreOffice Impress) ao controle de versão, a pedido do autor. É a apresentação de conferência derivada do artigo, com a estrutura Argumento → Mecanismo → Definição de política industrial → Contexto → Caso Gerdau/Pains → Caso Ambev. Primeira pasta `7-presentations/` do repositório; entra rastreada como conteúdo autoral (não é build artifact, não é `.zip` de fonte primária).
+
+Não confundir com o memorando de discussão teórica criado na mesma sessão (`9-vers/notes/2026-08-03_Ergen-Kohl_debate-economizacao.qmd`), que segue **fora** deste commit — é nota de trabalho, não conteúdo do artigo nem da apresentação.
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-08-03 09:52 (Horário de Brasília)
+- **Agente**: Claude Opus 4.8 / claude-opus-4-8 / Claude Code (VS Code)
+- **Mensagem do Commit**: "docs(presentations): add conference slide deck derived from the article"
+- **Arquivos afetados**: `7-presentations/Antitrust as Industrial Policy Slides.odp`, `NEWS.md`
+
 ## 2026-07-28 01:40 — Skills sincronizadas com a nova mãe (`skills`)
 
 Decisão de arquitetura registrada a montante (`skills@ea6227d`, `agentic-research-template@1cb784b`): o repositório `skills` passa a ser a mãe das skills; o `agentic-research-template` é dono de hooks, policy-as-code e validador, e vira consumidor como os demais. Duas mães declaradas para as mesmas 11 skills era o que fazia o `sync-skills` comparar contra uma fonte ambígua e reportar sinal sem significado.
