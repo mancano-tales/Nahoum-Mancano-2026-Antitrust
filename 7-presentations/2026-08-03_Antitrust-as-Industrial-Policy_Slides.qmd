@@ -14,12 +14,21 @@ format:
     colortheme: dolphin
     outertheme: miniframes
     section-titles: false
+    toc: true
+    toc-title: "Outline"
     fig-align: center
     keep-tex: true
     header-includes: |
       \setbeamertemplate{navigation symbols}{}
+      \setbeamertemplate{frametitle continuation}{}
       \setbeamerfont{footline}{size=\tiny}
       \setbeamerfont{block body}{size=\small}
+      % --- Speaker notes (::: {.notes} blocks) are hidden by default. ---
+      % To print notes on alternating pages, uncomment:
+      % \setbeameroption{show notes}
+      % To show notes on a second screen (needs \usepackage{pgfpages} first):
+      % \usepackage{pgfpages}
+      % \setbeameroption{show notes on second screen=right}
 ---
 
 # Argument
@@ -56,11 +65,13 @@ Yet the same government **sponsored** the mergers that built Gerdau and Ambev.
 
 ## Industrial policy: a working definition
 
-> "A concerted, focused, conscious effort on the part of a government to encourage and promote a specific industry or sector with an array of policy tools that include subsidies or reduced taxes, trade protection, favorable regulation, **forced mergers**, protection from foreign takeovers." (White 2008: 8)
+> "Government policies that **explicitly target the transformation of the structure of economic activity** in pursuit of some public goal. ... A key characteristic is the exercise of **choice and discretion** by the public authorities --- '*We promote X but not Y*' --- though the latter part is **typically left implicit**." (Juhász, Lane & Rodrik 2024)
 
 \vfill
 
-Industrial policy need not be fiscal. Note the list: **favorable regulation** and **forced mergers** --- it can run *through* the regulatory apparatus.
+- **Not fiscal by definition:** "the gamut runs from import protection to **exemptions from specific regulations**" --- industrial policy can run through the regulatory apparatus, at no Treasury cost.
+- **Discretion and denial are built in:** the selective "X but not Y" is "typically left implicit"; in developing countries the term itself is avoided for its "negative connotation."
+- **Exactly our case:** the *targeting* is deliberate --- only the *label* is denied.
 
 ## The received view --- and its crack
 
@@ -73,7 +84,7 @@ Industrial policy need not be fiscal. Note the list: **favorable regulation** an
 
 ## Economization: form-based vs. effect-based
 
-Ergen & Kohl (2019): since the 1960s, competition regimes were **economized** --- reoriented from broad societal goals to purely economic ones --- in two opposed forms.
+Ergen & Kohl (2019): since the 1960s, competition regimes were **economized** --- reoriented from broad societal goals to economic ones --- in two opposed forms.
 
 \vspace{0.4em}
 \footnotesize
@@ -116,6 +127,17 @@ Foster & Thelen (2024): the **administrative-law structure** --- how much discre
 - **The irony.** The effects-based toolkit was built (Chicago) to keep the state *out*; in Brazil it let the state *in*. Conversion runs on **loud executive politics + personnel turnover** --- "covert" is *constitutive*, not cosmetic.
 
 # Context
+
+## From military developmentalism to the regulatory state
+
+- **The military state (1964--85):** national-developmentalism --- import substitution, state-owned firms, market reserves, tariff walls.
+- **FHC's rupture (1995--2002):** trade opening, **privatization** (Vale 1997, Telebrás 1998), the end of market reserves, fiscal discipline.
+- **A new bureaucracy** --- Bresser-Pereira's *managerial reform* (MARE / PDRAE, 1995): from a patrimonial-bureaucratic state to a **regulatory** one, staffed by technocrats and independent agencies (ANEEL, ANATEL, ANP).
+- **CADE (strengthened 1994) is a child of this moment:** a technocratic regulator born as the state stopped *producing* and started *regulating*.
+
+\vfill
+
+**Liberalization *reconfigured* state power --- it did not retreat.** The same move that built the regulatory state built the discretion antitrust would convert.
 
 ## Context: liberalization and runaway inflation
 

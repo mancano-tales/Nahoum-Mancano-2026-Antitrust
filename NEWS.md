@@ -3,6 +3,22 @@
 > Entrada mais recente no topo.
 > **Convenção de timestamp**: Todas as datas em cabeçalhos (## YYYY-MM-DD HH:MM) e no campo Data/Hora dos metadados DEVEM incluir hora e minuto no fuso local. Nunca use datas isoladas.
 
+## 2026-08-03 13:20 — Deck: agenda clicável, slide de contexto (Estado FHC) e definição de política industrial trocada
+
+Três mudanças no deck Beamer, a pedido do autor:
+
+- **Agenda interativa (TOC)** via `toc: true` / `toc-title: "Outline"` — sumário clicável dos capítulos (a tentativa inicial com frame `\tableofcontents` cru quebrava o parsing de frames do Quarto; `toc: true` é a via limpa). Suprimido o numeral de continuação ("Outline I") com `\setbeamertemplate{frametitle continuation}{}`.
+- **Novo slide de contexto** "From military developmentalism to the regulatory state": ruptura do FHC com o Estado desenvolvimentista-protecionista militar (ISI, estatais, reservas de mercado) e a reforma gerencial de Bresser-Pereira (MARE / PDRAE 1995) → Estado regulador, agências independentes; CADE como filho desse momento. Fecha com a tese: liberalização **reconfigurou** o poder estatal, não recuou.
+- **Definição de política industrial trocada de White (2008) para Juhász, Lane & Rodrik (2024)** — estritamente superior para o argumento: é baseada em objetivo (não em instrumento fiscal), embute **discrição** ("we promote X but not Y") e **negação** ("typically left implicit"; termo evitado por "negative connotation" em países em desenvolvimento). Casa com passiva + covert + o eixo da discrição.
+
+Deck agora com 20 slides. `Juhasz-etal2024` já está no `.bib`; `White2008` deixa de ser usado no deck.
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-08-03 13:20 (Horário de Brasília)
+- **Agente**: Claude Opus 4.8 / claude-opus-4-8 / Claude Code (VS Code)
+- **Mensagem do Commit**: "feat(presentations): add TOC menu, FHC state-transformation slide, and Juhász IP definition"
+- **Arquivos afetados**: `7-presentations/2026-08-03_Antitrust-as-Industrial-Policy_Slides.qmd`, `.pdf`, `NEWS.md`
+
 ## 2026-08-03 12:05 — Correção da cronologia Gerdau no deck (reconciliada com o artigo)
 
 O slide "Gerdau–Pains: timeline" encerrava o caso em **1996** ("renewed composition, CADE settles remedies") — herança do `.odp`, em conflito com o artigo. Reconciliado com a cronologia documentada em `3-texts/…qmd` (inclusive blocos comentados e o footnote `gerdau-marketshare`):
