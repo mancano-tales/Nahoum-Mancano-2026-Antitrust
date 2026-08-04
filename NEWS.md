@@ -3,6 +3,23 @@
 > Entrada mais recente no topo.
 > **Convenção de timestamp**: Todas as datas em cabeçalhos (## YYYY-MM-DD HH:MM) e no campo Data/Hora dos metadados DEVEM incluir hora e minuto no fuso local. Nunca use datas isoladas.
 
+## 2026-08-04 09:25 — Deck: caso Ambev reescrito como "guerra pública", notas de orador em todos os slides, navegação restaurada
+
+Rodada de revisão do deck a pedido do autor:
+
+- **Ambev deixa de ser "chato".** O slide de cronologia virou "**Ambev: a public war**", mostrando o vai-e-vem: anúncio no Alvorada com Cardoso, medida cautelar do CADE vs. *fait accompli*, as **três** campanhas da Kaiser, a revolta técnica (SEAE 6,9% vs. 14,1%) e a **investigação de suborno da PF**, a pressão do Executivo (telefonemas de ministros, R$3bi do BNDES de Clóvis Carvalho, "the world runs on oligopoly"), e o **voto dissidente** de Ruy Lima. O fecho do slide seguinte foi reforçado: guerra maior que a de Gerdau, e **ainda assim sem override ilegal** — a doutrina absorveu.
+- **Notas de orador (`::: {.notes}`) em todos os slides**, no mesmo registro das já existentes (analogias para leigos, pré-empção de perguntas, conexão com o fio condutor das "juntas discricionárias"). Ocultas por padrão; instruções para exibi-las já estão no cabeçalho.
+- **Removido o slide de sumário (Outline)** e **restaurados os símbolos de navegação do Beamer** (o "menuzinho" interativo do canto inferior direito), que o template do Quarto suprime por padrão — forçados de volta via `\AtBeginDocument`.
+- Removida a frase "detectable only by process tracing" (slide Discussion), a pedido.
+
+Deck com 19 slides.
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-08-04 09:25 (Horário de Brasília)
+- **Agente**: Claude Opus 4.8 / claude-opus-4-8 / Claude Code (VS Code)
+- **Mensagem do Commit**: "feat(presentations): dramatize Ambev, add speaker notes throughout, restore nav symbols"
+- **Arquivos afetados**: `7-presentations/2026-08-03_Antitrust-as-Industrial-Policy_Slides.qmd`, `.pdf`, `NEWS.md`
+
 ## 2026-08-03 13:20 — Deck: agenda clicável, slide de contexto (Estado FHC) e definição de política industrial trocada
 
 Três mudanças no deck Beamer, a pedido do autor:

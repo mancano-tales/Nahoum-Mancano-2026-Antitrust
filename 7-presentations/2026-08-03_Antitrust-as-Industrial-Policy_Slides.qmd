@@ -14,15 +14,16 @@ format:
     colortheme: dolphin
     outertheme: miniframes
     section-titles: false
-    toc: true
-    toc-title: "Outline"
     fig-align: center
     keep-tex: true
     header-includes: |
-      \setbeamertemplate{navigation symbols}{}
-      \setbeamertemplate{frametitle continuation}{}
       \setbeamerfont{footline}{size=\tiny}
       \setbeamerfont{block body}{size=\small}
+      % Quarto suppresses Beamer navigation symbols by default; force them back on.
+      \AtBeginDocument{\setbeamertemplate{navigation symbols}{%
+        \insertslidenavigationsymbol\insertframenavigationsymbol%
+        \insertsubsectionnavigationsymbol\insertsectionnavigationsymbol%
+        \insertdocnavigationsymbol\insertbackfindforwardnavigationsymbol}}
       % --- Speaker notes (::: {.notes} blocks) are hidden by default. ---
       % To print notes on alternating pages, uncomment:
       % \setbeameroption{show notes}
@@ -35,13 +36,19 @@ format:
 
 ## The argument
 
-**Antitrust can serve as a *passive, fiscally cheap* industrial policy** --- even for a fiscally conservative, liberalizing government that explicitly denies doing industrial policy.
+**Antitrust can serve as a *passive, fiscally cheap* industrial policy** --- we study a case of a fiscally conservative, liberalizing government that explicitly denies doing industrial policy.
 
 \vfill
 
 - **Claim.** Brazil's flexible antitrust enforcement in the 1990s worked as *de facto* industrial policy, forging "national champions."
 - **Evidence.** Two government-backed mergers: **Gerdau/Pains** (steel) and **Antarctica--Brahma → Ambev** (beer).
 - **Mechanism.** **Institutional conversion** (Mahoney & Thelen 2010) of a young competition regime --- against its original intent.
+
+::: {.notes}
+Open with the paradox in a single breath and do not explain it yet --- explaining it is the rest of the talk. The one counter-intuitive claim: a government that publicly swore off industrial policy ran one anyway, through its competition authority. Name the two cases --- steel and beer --- as the evidence, and name the mechanism, institutional conversion, but promise to unpack it rather than unpacking it here.
+
+The hook to plant, and it is what makes the paper fun: nothing in this story is illegal, and almost nothing is even hidden. The statute never changes a word --- only its reading does. About forty-five seconds. This slide is a promise, not an argument.
+:::
 
 ## The puzzle
 
@@ -61,6 +68,12 @@ Yet the same government **sponsored** the mergers that built Gerdau and Ambev.
 :::
 ::::
 
+::: {.notes}
+Read the Malan quote aloud --- it is a gift, so let it land before you say anything. Then turn it: the very government that said this personally sponsored the mergers that built Gerdau and Ambev. Put the question on the table and leave it hanging --- how do you run an industrial policy while denying the category exists?
+
+Shape the answer without giving it away: not by spending, because there was no money --- this is a government in fiscal crisis --- but through how it enforced competition law. "At no cost to the Treasury" is the thread that runs through the entire talk; say it here so the audience is listening for it. The face on the slide is the man who denied the category.
+:::
+
 # Antitrust & industrial policy
 
 ## Industrial policy: a working definition
@@ -73,6 +86,14 @@ Yet the same government **sponsored** the mergers that built Gerdau and Ambev.
 - **Discretion and denial are built in:** the selective "X but not Y" is "typically left implicit"; in developing countries the term itself is avoided for its "negative connotation."
 - **Exactly our case:** the *targeting* is deliberate --- only the *label* is denied.
 
+::: {.notes}
+You need one definition so that "industrial policy" is a concept, not an insult. Use Juhász, Lane and Rodrik --- they are the current authority, and their definition does two jobs for us.
+
+First, it is about goals, not tools: no subsidy required. "The gamut runs from import protection to exemptions from specific regulations." That is exactly what lets antitrust count as industrial policy --- say it and move on.
+
+Second, and this is the sentence that wins the paper: the selective favouring is "typically left implicit," and in developing countries the term itself is avoided for its "negative connotation." The leading industrial-policy economists are telling you that denial is normal. Our case is just the pure form of it --- the targeting is deliberate, only the label is denied. Pre-empt one objection: "explicitly target" does not mean publicly announced; it means deliberately selective.
+:::
+
 ## The received view --- and its crack
 
 - Antitrust scholarship, from **Brandeis to Williamson**, rejects state-led industrial policy as market-distorting.
@@ -81,6 +102,14 @@ Yet the same government **sponsored** the mergers that built Gerdau and Ambev.
 \vfill
 
 **The antitrust / industrial-policy boundary was always porous.** The question is *how* the crossing happens in a liberalizing context.
+
+::: {.notes}
+Set up the opposition in everyday terms before naming any school. For a century these were understood as opposite jobs. Antitrust is the referee: it does not care who wins, only that nobody rigs the game. Industrial policy is the coach: it deliberately picks a team and helps it win. On the received view a state does one or the other.
+
+The crack: Dobbin and Prasad showed that the referee's rulebook was never neutral. Which industries grew in the early United States depended on how the rules of market competition were written and enforced --- no ministry of industry required. So the referee was quietly coaching all along.
+
+That is all this slide needs to establish. We are not claiming the boundary is fake; we are claiming it is porous, and asking how a government crosses it when it is publicly committed to not crossing it.
+:::
 
 ## Economization: form-based vs. effect-based
 
@@ -99,6 +128,20 @@ Ergen & Kohl (2019): since the 1960s, competition regimes were **economized** --
 \normalsize
 
 The two concepts bent in Brazil --- **efficiency** and **relevant market** --- are exactly the joints the effect-based approach pries open.
+
+::: {.notes}
+This is the theoretical engine of the talk. Take it slowly.
+
+Start with what competition law was originally *for*. When these laws were written, the worry was not mainly about prices. It was that concentrated private power is dangerous to a democracy --- it crushes small business, hollows out towns, and buys politicians. Those are broad social goals.
+
+"Economization" is Ergen and Kohl's name for what happened from the 1960s on: regulators quietly dropped those social goals and kept only economic ones. The counterintuitive finding --- and the reason to cite them --- is that the United States and Germany both economized, yet ended up as opposites. Same direction of travel, two different vehicles.
+
+The analogy that lands with a lay audience is traffic enforcement. Form-based is a posted speed limit: over the line is illegal, full stop, no argument about whether you personally were driving safely. Effect-based asks instead, "was your driving actually dangerous?" --- and now you get to argue: empty road, clear weather, skilled driver. Both are real ways to regulate. But only the second requires somebody to make a judgment call in every single case.
+
+Now deliver the payoff, which is the bottom row of the table. Every judgment call is a place where a decision could have gone either way --- we call these discretionary joints. A form-based regime has roughly one: where you draw the boundary of "the market." An effect-based regime has three: the market, the predicted effects, and whether the claimed efficiencies count. More joints means more room for pressure to enter *without anyone breaking a rule*. Hold that thought; it is what explains the difference between our two cases.
+
+One warning. Someone will try to map this onto left versus right --- ordoliberals as the social-democratic good guys, Chicago as the neoliberal villains. Ergen and Kohl explicitly reject that reading. Both are free-market schools; they disagree about what a free market *is*. The ordoliberals were, if anything, more hostile to state economic planning than Chicago was. If the question comes, that is the answer.
+:::
 
 ## Three fates of administrative discretion
 
@@ -119,12 +162,36 @@ Foster & Thelen (2024): the **administrative-law structure** --- how much discre
 
 **Discretion is not destiny --- the *container* decides.** Brazil fills the missing cell: discretion captured *before* a profession could discipline it.
 
+::: {.notes}
+Previous slide was about *ideas*. This one is about the *container* the ideas land in. Foster and Thelen explicitly present themselves as the complement to Ergen and Kohl --- they cite them by name and say: you have shown which ideas won, we show what determines whether an idea can actually be put into practice.
+
+Their variable in plain language is discretion: how much room does the regulator have to decide things for itself, and who can overrule it? In the United States, judges can and constantly do substitute their own judgment for the agency's --- so the agency stops experimenting, because every novel move gets struck down. In the European Union the Commission decides directly and the courts mostly defer on economics --- so it can try things, see what happens, and adjust. Foster and Thelen call that adjustment "social learning."
+
+Two pieces of honesty to keep in your pocket, because a sharp audience will find them.
+
+First, Foster and Thelen think discretion is a *good* thing --- it is what makes learning possible. Our case shows the other face of the same coin: the same room to manoeuvre that lets a regulator learn also lets an executive lean. Say that openly. It is a more interesting finding than pretending they agree with us.
+
+Second, Ergen and Kohl would push back on the container doing too much work. Germany had the continental administrative structure the whole time, and in 1967 the first president of the German cartel office publicly sided with the reformers --- it very nearly went the other way. Structure did not decide; a professional fight did. So present the container as an *enabling condition*, not a cause. Brazil's row on this table is a claim we illustrate, not a variable we have measured.
+:::
+
 ## Brazil's contribution: policy under public denial
 
 - **Public denial is the crux.** Industrial policy pursued while disavowed at the programmatic level (Malan) --- not merely quiet, but officially rejected.
 - **Denial → illegibility.** The developmental aim leaves no trace in the doctrine; it survives only in the case files --- so **process tracing** is the necessary method, not a convenience.
 - **Conversion → fiscally free.** The champion is forged by *forbearance* (letting firms concentrate), not by spending. That is what "*passive*" means.
 - **The irony.** The effects-based toolkit was built (Chicago) to keep the state *out*; in Brazil it let the state *in*. Conversion runs on **loud executive politics + personnel turnover** --- "covert" is *constitutive*, not cosmetic.
+
+::: {.notes}
+This is where we say what is ours. Four beats, and the last one is the one people remember.
+
+On denial: this is not a government being discreet. Malan publicly rejected the whole category of industrial policy. That is stronger than staying quiet, and it is the condition everything else follows from.
+
+On illegibility: if you read CADE's decisions cold, they look like ordinary competition law about consumer welfare. The developmental purpose is simply not in the text. That is why we have to trace the process through case files, press coverage and testimony --- the method is forced on us by the object, it is not a convenience. Make that point explicitly; it pre-empts the "why not just code the decisions?" question.
+
+On "passive": no money changed hands. The state built a national champion by *not* blocking a merger. For a government under fiscal discipline, that is the cheapest industrial policy there is --- which is exactly why it was available when subsidies were not.
+
+Then the irony, and let it breathe. The flexible case-by-case toolkit was invented in Chicago by people whose declared purpose was keeping government out of the economy. Transplanted into Brazil, that same toolkit is precisely what let the government in. Same instrument, opposite politics. Ergen and Kohl document the German ordoliberals blocking that flexibility in the 1970s because they feared it would become industrial policy. Brazil is what they were afraid of.
+:::
 
 # Context
 
@@ -139,6 +206,14 @@ Foster & Thelen (2024): the **administrative-law structure** --- how much discre
 
 **Liberalization *reconfigured* state power --- it did not retreat.** The same move that built the regulatory state built the discretion antitrust would convert.
 
+::: {.notes}
+This slide exists to kill a misreading. People hear "1990s liberalisation in Latin America" and picture the state shrinking and walking off the field. That picture is wrong, and our argument depends on it being wrong.
+
+Cardoso broke with the military model --- import substitution, state firms, market reserves --- but he did not abolish the state; he changed its job. Bresser-Pereira's reform rebuilt the bureaucracy into a regulatory one: independent agencies, technocrats, rules. CADE is a child of exactly that impulse.
+
+Land the closing line and let it carry: liberalisation reconfigured state power, it did not retreat --- and the very discretion the new regulatory state manufactured is what antitrust would later convert. The state did not leave; it changed weapons.
+:::
+
 ## Context: liberalization and runaway inflation
 
 :::: {.columns}
@@ -152,6 +227,12 @@ Foster & Thelen (2024): the **administrative-law structure** --- how much discre
 :::
 ::::
 
+::: {.notes}
+Two facts, held in tension. One: the overriding priority was killing inflation --- the Real Plan --- so competition policy arrived wearing an anti-inflation uniform, not a developmental one. Nobody set CADE up to build champions; it was there to keep prices down. Two: trade opening frightened domestic firms, because foreigners could now walk in and buy them --- the spectre of denationalisation.
+
+So you have an agency designed to discipline the market, operating in a climate terrified of losing its firms to foreigners. Our whole story happens in the gap between those two facts. The photograph is the inflation everyone was desperate to leave behind.
+:::
+
 ## A new competition authority (1994)
 
 - The 1994 law granted autonomy to **CADE** (Administrative Council for Economic Defense); councilors appointed by the President.
@@ -161,6 +242,12 @@ Foster & Thelen (2024): the **administrative-law structure** --- how much discre
 
 **CADE's challenge:** to legitimate a brand-new mandate --- a young regime with **no entrenched professional community** to defend it.
 
+::: {.notes}
+One structural detail here does a lot of work later, so flag it now: CADE became autonomous in 1994, but the President appoints its councillors. Hold that thought for when Cardoso swaps them mid-case. Its official mission was to build a "competition culture" as part of holding inflation down.
+
+But the line to stress is the last one --- this was a two-year-old agency with no professional community behind it. In Germany a century of ordoliberal lawyers stood ready to defend the doctrine; in Brazil there was nobody yet. That vacuum is the reason discretion here had nothing to discipline it. Tie it straight back to the three-fates table: Brazil is the row where the container is empty.
+:::
+
 # Gerdau--Pains
 
 ## The rebars of discord
@@ -168,6 +255,12 @@ Foster & Thelen (2024): the **administrative-law structure** --- how much discre
 - Gerdau acquires Korf's Brazilian assets; the vertical-integration part is approved unanimously.
 - Contention centers on the **steel rebar market** (Korf's core business), where Gerdau's share would approach **50%**.
 - Under Law 8.884/94, a **20% structural threshold** still bit --- a hard, *form-based* element.
+
+::: {.notes}
+First case, and keep it physical. Gerdau bought Korf's Brazilian assets; the vertical part was uncontroversial and waved through. The whole fight is about one product --- rebar, the steel rods in every building site --- where Gerdau would reach nearly half the market.
+
+Plant the one technical fact that matters: the 1994 law still carried a hard number, a twenty-per-cent structural threshold. That is a form-based fossil sitting inside the new regime, and it is about to force an open confrontation. Foreshadow it: because that number is rigid, argument alone will not move it. Remember that when Ambev, which had no such number in play, goes quietly.
+:::
 
 ## Gerdau--Pains: timeline
 
@@ -178,6 +271,12 @@ Foster & Thelen (2024): the **administrative-law structure** --- how much discre
 - **Mar 1998** --- the reconfigured CADE approves with **10 conditions**: keep Pains, but sell the Contagem rolling unit and Transpains, rehire workers, invest US\$78M.
 - **1999** --- the champion goes global: 75% of **AmeriSteel** (US).
 
+::: {.notes}
+Do not read the dates --- narrate the arc. CADE looks at the numbers and says no: partial approval, undo the concentrating part. Gerdau then does something remarkable --- instead of going to court, it goes to the Justice Minister, who suspends CADE's decision, even though the law says in black and white that the executive cannot review CADE. Then the councillors who said no are replaced. And only in 1998, three years on, does a reshaped CADE approve the deal, with ten conditions.
+
+End on the payoff: the champion immediately goes global, buying into the United States the very next year. The point is not the chronology --- it is that winning this one required overriding the law's own rule and changing the referees. That is the expensive, ugly way to convert a regime. Ambev will show the cheap way.
+:::
+
 ## Gerdau: why it took brute force
 
 - **Relevant market** --- firms: steel is a *global commodity*. CADE: domestic prices **decoupled** from world benchmarks → national market.
@@ -186,6 +285,16 @@ Foster & Thelen (2024): the **administrative-law structure** --- how much discre
 \vfill
 
 **Only one soft joint (market definition)** → the executive had to act *against the letter of the law* (Jobim) and **replace the councilors** with transaction-cost economists ("Don't cause me problems!" --- Cardoso).
+
+::: {.notes}
+Cash in the theory here. The 1994 law still had one hard, form-based number in it: twenty per cent. Gerdau would be at forty-six and a half. There is nothing to weigh, nothing to balance --- the number simply decides. So the only thing left to argue about was the one soft joint: where you draw the boundary of "the market."
+
+Explain that move concretely, because it is the single most useful thing a lay audience can take away. If the market is "steel sold in Brazil," Gerdau is enormous. If the market is "steel in the world," Gerdau is a minor player. Same company, same mills, same customers --- the answer flips entirely depending on where you draw the line. That is why the fight was about market definition, and why the minister's order was about exactly that: declaring the Brazilian steel market open to international products.
+
+CADE's counter was empirical and it held: domestic prices had come loose from world benchmarks, so in practice this was a national market. The firms lost the argument on the merits.
+
+Hence the punchline. With only one joint to work, argument was not enough --- the outcome required a minister to override a decision the law said he could not review, and then required replacing the people who made it. Brute force, in public. Remember this when we get to Ambev, where none of that was necessary.
+:::
 
 # Ambev
 
@@ -202,13 +311,30 @@ Foster & Thelen (2024): the **administrative-law structure** --- how much discre
 :::
 ::::
 
-## Ambev: timeline
+::: {.notes}
+Set beer up as more than beer. Through the 1990s the global brewers circled Antarctica and Brahma; the founders' fear --- and their ambition --- was denationalisation. So they fused the two largest domestic brewers into a self-declared "green-and-yellow multinational," a national champion in so many words.
 
-- **Jul 1999** --- merger announced at the **Palácio da Alvorada**, with Cardoso's endorsement.
-- **14 Jul 1999** --- CADE backs a pioneering **precautionary suspension**.
-- **Nov 1999--Jan 2000** --- advisory bodies oppose unconditional approval; efficiencies **6.9%** vs. claimed **14.1%**.
-- **Feb 2000** --- Ministry of Development affirms the **national interest**.
-- **Mar 2000** --- CADE approves with a **Performance Commitment Term** (divestitures, distribution, employment).
+Draw out the fiscal twist, because it ties straight to our thesis: domestic credit was so expensive that a foreign buyer could always outbid a Brazilian one, so building scale at home was the only affordable defence. That is why the state's help had to be non-fiscal --- nobody had cheap money to hand out. The video still is the champion selling itself, literally, as Brazil to the world.
+:::
+
+## Ambev: a public war
+
+- **Jul 1999** --- unveiled at the **Palácio da Alvorada**, Cardoso beside the founders; the new firm holds **~70%** of beer.
+- **14 Jul** --- CADE strikes back with a **precautionary suspension** --- yet the firms already operate as one, a *fait accompli*.
+- **Media war** --- rival **Kaiser** runs **three** press campaigns: "the merger means higher prices, against the consumer."
+- **The staff revolt** --- SEAE finds efficiencies of **6.9%**, not the claimed 14.1%; a **Federal Police bribery probe** brushes the council.
+- **The executive leans in** --- ministers phone CADE's president; Dev. Minister Carvalho dangles **R\$3bn** of BNDES for champions; Cardoso: "the world runs on oligopoly."
+- **Mar 2000** --- approved over **one dissent** (Ruy Lima) --- a Performance Commitment Term: sell the weak *Bavária*, keep *Skol*.
+
+::: {.notes}
+Perform this slide --- do not summarise it. The audience should feel that this was a real public brawl, because the payoff on the next slide depends on the contrast.
+
+The merger is announced not in a boardroom but at the presidential palace, with Cardoso standing between the two founders. CADE slaps a precautionary suspension on it --- but the companies are already running as a single firm, essentially daring the agency to unscramble the egg. The rival Kaiser takes the fight to the public with three separate advertising campaigns. The agency's own technical staff revolt: the promised efficiency gains collapse from fourteen per cent to under seven, and a Federal Police bribery investigation brushes the council. Meanwhile ministers are phoning CADE's president, the development minister is openly offering three billion reais of state-bank money to build champions, and the President is on record that the world runs on oligopoly. One councillor, Ruy Lima, votes no. It passes anyway.
+
+Hold the paradox --- resolve it on the next slide, not here. This was a far bigger, louder war than Gerdau, and yet nobody had to break a law, override a ruling, or replace anyone. That contrast is the whole argument, and it lands hardest if you let this slide be loud and the next one quiet.
+
+On the bribery probe: state it as a fact --- an investigation touched the council --- and move on. Do not insinuate a verdict; our claim does not rest on corruption, and saying so out loud pre-empts the question.
+:::
 
 ## Ambev: the effect-based regime at work
 
@@ -218,7 +344,21 @@ Foster & Thelen (2024): the **administrative-law structure** --- how much discre
 
 \vfill
 
-The same pressure as Gerdau --- but now it **fit inside the doctrine**. No law had to be broken.
+An even louder war than Gerdau --- media, ministers, a bribery probe, a lone dissent --- and **yet no illegal override**. The three joints had room; the doctrine absorbed it.
+
+::: {.notes}
+Walk the three joints in order, so the audience sees the machine from the previous slide actually running.
+
+Joint one, the market. Ambev argued the relevant market was "beverages" and the real rivalry was global, against Coca-Cola. Critics answered: the market is beer, and exports were under one per cent. Same trick attempted as in Gerdau --- but now it is one argument among three rather than the whole battlefield.
+
+Joint two, the effects. Ambev claimed efficiency gains of fourteen point one per cent; the technical bodies found six point nine. Note what has happened: we are now arguing about a *forecast*. Nobody can check it, because the merger has not happened yet. That is not a flaw in anyone's competence --- it is what asking about effects requires.
+
+Joint three, whether those gains count. Even the six point nine was judged speculative and unlikely to reach consumers. And yet the merger was approved, with behavioural conditions rather than structural ones.
+
+Now the comparison, which is the whole point of pairing these cases. The political pressure was at least as heavy as in Gerdau --- the merger was announced at the presidential palace. But nothing illegal happened. No minister overrode anything. No one was replaced. The reasoning simply absorbed it. That is what institutional conversion looks like from the inside: the statute never changed a word, and the outcome changed completely.
+
+If someone asks whether the councillors were corrupt or captured, resist that framing. Our claim is about available doctrine, not about bad faith. A regime with three discretionary joints can reach this outcome with everyone acting in good faith. That is what makes it worth studying.
+:::
 
 # Discussion
 
@@ -228,8 +368,18 @@ The same pressure as Gerdau --- but now it **fit inside the doctrine**. No law h
 - **Ambev (effect-based, installed):** three joints → the same pressure absorbed as routine.
 - The sequence measures **how many discretionary joints the regime had** --- not actor fatigue.
 - **Conversion = a fiscally free industrial policy** (forbearance, not spending): "passive."
-- **Denial = illegibility** → detectable only by process tracing.
+- **Denial = illegibility.**
 - **Caveat (Ergen & Kohl):** change is *piecemeal*; two cases are a precedent, not a permanent regime.
+
+::: {.notes}
+State the caveat yourself rather than waiting for it from the floor. Ergen and Kohl insist that this kind of change happens piece by piece, case by case, never by one comprehensive reform. That cuts against us: two cases establish a repertoire that was *available*, not a regime that was permanently installed. They needed decades of agency reports to make their claim; we have two mergers. Concede it cleanly --- it costs nothing and it buys credibility for everything else.
+
+Two follow-ups worth having ready.
+
+Business power. Someone will say this was simply big business getting what it wanted. Ergen and Kohl supply the rebuttal, and our evidence fits it: case-by-case change splits business into winners and losers. Kaiser ran three advertising campaigns against the Ambev merger. Brazilian business was divided --- so business pressure alone cannot explain the outcome. What explains it is the state taking one faction's side.
+
+Durability. Bouças has argued that CADE changed its rules in the 2000s and would not permit that market share today. That is a fair challenge and we should not dodge it: the honest answer is that the window from 1995 to 2000 may have been a specific conjuncture, and whether the conversion persisted is an open question we flag rather than settle.
+:::
 
 ## Thank you
 
@@ -243,3 +393,9 @@ Tales Mançano · mancano.tales@usp.br
 
 \vfill
 \footnotesize University of São Paulo --- FFLCH / Department of Sociology
+
+::: {.notes}
+Close on the one sentence you want them repeating in the hallway --- the irony. The case-by-case, effects-based toolkit was built in Chicago to keep the state *out* of the economy; in Brazil it is exactly what let the state *in* --- for free, and under public denial.
+
+Then open the floor already holding your two answers. Business power: Kaiser's three campaigns prove business was split, so "big business got its way" cannot explain it --- what explains it is the state taking one side. Durability: Bouças is right that CADE later re-tightened, so concede openly that whether the conversion lasted is an open question, not something we claim to have settled. Thank them, and let the Malan line hang in the air.
+:::
