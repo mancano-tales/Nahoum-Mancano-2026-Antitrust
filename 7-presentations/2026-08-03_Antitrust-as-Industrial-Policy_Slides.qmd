@@ -32,23 +32,7 @@ format:
       % \setbeameroption{show notes on second screen=right}
 ---
 
-# Argument
-
-## The argument
-
-**Antitrust can serve as a *passive, fiscally cheap* industrial policy** --- we study a case of a fiscally conservative, liberalizing government that explicitly denies doing industrial policy.
-
-\vfill
-
-- **Claim.** Brazil's flexible antitrust enforcement in the 1990s worked as *de facto* industrial policy, forging "national champions."
-- **Evidence.** Two government-backed mergers: **Gerdau/Pains** (steel) and **Antarctica--Brahma → Ambev** (beer).
-- **Mechanism.** **Institutional conversion** (Mahoney & Thelen 2010) of a young competition regime --- against its original intent.
-
-::: {.notes}
-Open with the paradox in a single breath and do not explain it yet --- explaining it is the rest of the talk. The one counter-intuitive claim: a government that publicly swore off industrial policy ran one anyway, through its competition authority. Name the two cases --- steel and beer --- as the evidence, and name the mechanism, institutional conversion, but promise to unpack it rather than unpacking it here.
-
-The hook to plant, and it is what makes the paper fun: nothing in this story is illegal, and almost nothing is even hidden. The statute never changes a word --- only its reading does. About forty-five seconds. This slide is a promise, not an argument.
-:::
+# Puzzle
 
 ## The puzzle
 
@@ -59,7 +43,7 @@ The hook to plant, and it is what makes the paper fun: nothing in this story is 
 
 \vspace{1em}
 
-Yet the same government **sponsored** the mergers that built Gerdau and Ambev.
+Yet the government **sponsored** the mergers that built two national champions: Gerdau and Ambev.
 
 **How pursue industrial policy while denying it?** Not through subsidies or protection, but by **reinterpreting the enforcement of competition law** --- at no cost to the Treasury.
 :::
@@ -74,25 +58,23 @@ Read the Malan quote aloud --- it is a gift, so let it land before you say anyth
 Shape the answer without giving it away: not by spending, because there was no money --- this is a government in fiscal crisis --- but through how it enforced competition law. "At no cost to the Treasury" is the thread that runs through the entire talk; say it here so the audience is listening for it. The face on the slide is the man who denied the category.
 :::
 
-# Antitrust & industrial policy
+## The argument
 
-## Industrial policy: a working definition
-
-> "Government policies that **explicitly target the transformation of the structure of economic activity** in pursuit of some public goal. ... A key characteristic is the exercise of **choice and discretion** by the public authorities --- '*We promote X but not Y*' --- though the latter part is **typically left implicit**." (Juhász, Lane & Rodrik 2024)
+**Antitrust can serve as a *passive, fiscally cheap* industrial policy** --- we study a case of a fiscally conservative, liberalizing government that explicitly denies doing industrial policy.
 
 \vfill
 
-- **Not fiscal by definition:** "the gamut runs from import protection to **exemptions from specific regulations**" --- industrial policy can run through the regulatory apparatus, at no Treasury cost.
-- **Discretion and denial are built in:** the selective "X but not Y" is "typically left implicit"; in developing countries the term itself is avoided for its "negative connotation."
-- **Exactly our case:** the *targeting* is deliberate --- only the *label* is denied.
+- **Claim.** Brazil's flexible antitrust enforcement in the 1990s worked as *de facto* industrial policy, forging "national champions" to become brazillian multinational companies.
+- **Evidence.** Two government-backed mergers: **Gerdau/Pains** (steel) and **Antarctica--Brahma → Ambev** (beer).
+- **Mechanism.** **Institutional conversion** (Mahoney & Thelen 2010) of a young competition regime --- against its original intent.
 
 ::: {.notes}
-You need one definition so that "industrial policy" is a concept, not an insult. Use Juhász, Lane and Rodrik --- they are the current authority, and their definition does two jobs for us.
+State the claim in a single breath and do not over-explain it --- explaining it is the rest of the talk. The one counter-intuitive claim: a government that publicly swore off industrial policy ran one anyway, through its competition authority. Name the two cases --- steel and beer --- as the evidence, and name the mechanism, institutional conversion, but promise to unpack it rather than unpacking it here.
 
-First, it is about goals, not tools: no subsidy required. "The gamut runs from import protection to exemptions from specific regulations." That is exactly what lets antitrust count as industrial policy --- say it and move on.
-
-Second, and this is the sentence that wins the paper: the selective favouring is "typically left implicit," and in developing countries the term itself is avoided for its "negative connotation." The leading industrial-policy economists are telling you that denial is normal. Our case is just the pure form of it --- the targeting is deliberate, only the label is denied. Pre-empt one objection: "explicitly target" does not mean publicly announced; it means deliberately selective.
+The hook to plant, and it is what makes the paper fun: nothing in this story is illegal, and almost nothing is even hidden. The statute never changes a word --- only its reading does. Keep it to about forty-five seconds; this slide is a promise, and the promise is that we go to the cases fast.
 :::
+
+# The problem
 
 ## The received view --- and its crack
 
@@ -130,67 +112,13 @@ Ergen & Kohl (2019): since the 1960s, competition regimes were **economized** --
 The two concepts bent in Brazil --- **efficiency** and **relevant market** --- are exactly the joints the effect-based approach pries open.
 
 ::: {.notes}
-This is the theoretical engine of the talk. Take it slowly.
+This is the one piece of theory the cases need --- give it, then get to the cases. Do not linger.
 
-Start with what competition law was originally *for*. When these laws were written, the worry was not mainly about prices. It was that concentrated private power is dangerous to a democracy --- it crushes small business, hollows out towns, and buys politicians. Those are broad social goals.
+Start with what competition law was originally *for*. When these laws were written, the worry was not mainly about prices; it was that concentrated private power is dangerous to a democracy. Those were broad social goals. "Economization" is Ergen and Kohl's name for what happened from the 1960s on: regulators quietly dropped the social goals and kept only economic ones.
 
-"Economization" is Ergen and Kohl's name for what happened from the 1960s on: regulators quietly dropped those social goals and kept only economic ones. The counterintuitive finding --- and the reason to cite them --- is that the United States and Germany both economized, yet ended up as opposites. Same direction of travel, two different vehicles.
+The analogy that lands with a lay audience is traffic enforcement. Form-based is a posted speed limit: over the line is illegal, full stop. Effect-based asks instead, "was your driving actually dangerous?" --- and now you get to argue: empty road, clear weather, skilled driver. Both are real ways to regulate. But only the second requires somebody to make a judgment call in every single case.
 
-The analogy that lands with a lay audience is traffic enforcement. Form-based is a posted speed limit: over the line is illegal, full stop, no argument about whether you personally were driving safely. Effect-based asks instead, "was your driving actually dangerous?" --- and now you get to argue: empty road, clear weather, skilled driver. Both are real ways to regulate. But only the second requires somebody to make a judgment call in every single case.
-
-Now deliver the payoff, which is the bottom row of the table. Every judgment call is a place where a decision could have gone either way --- we call these discretionary joints. A form-based regime has roughly one: where you draw the boundary of "the market." An effect-based regime has three: the market, the predicted effects, and whether the claimed efficiencies count. More joints means more room for pressure to enter *without anyone breaking a rule*. Hold that thought; it is what explains the difference between our two cases.
-
-One warning. Someone will try to map this onto left versus right --- ordoliberals as the social-democratic good guys, Chicago as the neoliberal villains. Ergen and Kohl explicitly reject that reading. Both are free-market schools; they disagree about what a free market *is*. The ordoliberals were, if anything, more hostile to state economic planning than Chicago was. If the question comes, that is the answer.
-:::
-
-## Three fates of administrative discretion
-
-Foster & Thelen (2024): the **administrative-law structure** --- how much discretion regulators hold, and *how it is disciplined* --- decides which paradigm sticks. Ergen & Kohl supply the ideas; the container decides their fate.
-
-\vspace{0.4em}
-\footnotesize
-
-| Regime | Discretion disciplined by | Outcome |
-|---|---|---|
-| **Germany** | Ordoliberal **rules** (form-based profession) | Robust form-based control; blocks economization |
-| **EU** | **Social learning** (deliberative administration) | Brandeisian *"regulated competition"* |
-| **Brazil** | **Nothing yet** --- young regime, executive capture | **Conversion** → covert industrial policy |
-
-\normalsize
-
-\vfill
-
-**Discretion is not destiny --- the *container* decides.** Brazil fills the missing cell: discretion captured *before* a profession could discipline it.
-
-::: {.notes}
-Previous slide was about *ideas*. This one is about the *container* the ideas land in. Foster and Thelen explicitly present themselves as the complement to Ergen and Kohl --- they cite them by name and say: you have shown which ideas won, we show what determines whether an idea can actually be put into practice.
-
-Their variable in plain language is discretion: how much room does the regulator have to decide things for itself, and who can overrule it? In the United States, judges can and constantly do substitute their own judgment for the agency's --- so the agency stops experimenting, because every novel move gets struck down. In the European Union the Commission decides directly and the courts mostly defer on economics --- so it can try things, see what happens, and adjust. Foster and Thelen call that adjustment "social learning."
-
-Two pieces of honesty to keep in your pocket, because a sharp audience will find them.
-
-First, Foster and Thelen think discretion is a *good* thing --- it is what makes learning possible. Our case shows the other face of the same coin: the same room to manoeuvre that lets a regulator learn also lets an executive lean. Say that openly. It is a more interesting finding than pretending they agree with us.
-
-Second, Ergen and Kohl would push back on the container doing too much work. Germany had the continental administrative structure the whole time, and in 1967 the first president of the German cartel office publicly sided with the reformers --- it very nearly went the other way. Structure did not decide; a professional fight did. So present the container as an *enabling condition*, not a cause. Brazil's row on this table is a claim we illustrate, not a variable we have measured.
-:::
-
-## Brazil's contribution: policy under public denial
-
-- **Public denial is the crux.** Industrial policy pursued while disavowed at the programmatic level (Malan) --- not merely quiet, but officially rejected.
-- **Denial → illegibility.** The developmental aim leaves no trace in the doctrine; it survives only in the case files --- so **process tracing** is the necessary method, not a convenience.
-- **Conversion → fiscally free.** The champion is forged by *forbearance* (letting firms concentrate), not by spending. That is what "*passive*" means.
-- **The irony.** The effects-based toolkit was built (Chicago) to keep the state *out*; in Brazil it let the state *in*. Conversion runs on **loud executive politics + personnel turnover** --- "covert" is *constitutive*, not cosmetic.
-
-::: {.notes}
-This is where we say what is ours. Four beats, and the last one is the one people remember.
-
-On denial: this is not a government being discreet. Malan publicly rejected the whole category of industrial policy. That is stronger than staying quiet, and it is the condition everything else follows from.
-
-On illegibility: if you read CADE's decisions cold, they look like ordinary competition law about consumer welfare. The developmental purpose is simply not in the text. That is why we have to trace the process through case files, press coverage and testimony --- the method is forced on us by the object, it is not a convenience. Make that point explicitly; it pre-empts the "why not just code the decisions?" question.
-
-On "passive": no money changed hands. The state built a national champion by *not* blocking a merger. For a government under fiscal discipline, that is the cheapest industrial policy there is --- which is exactly why it was available when subsidies were not.
-
-Then the irony, and let it breathe. The flexible case-by-case toolkit was invented in Chicago by people whose declared purpose was keeping government out of the economy. Transplanted into Brazil, that same toolkit is precisely what let the government in. Same instrument, opposite politics. Ergen and Kohl document the German ordoliberals blocking that flexibility in the 1970s because they feared it would become industrial policy. Brazil is what they were afraid of.
+The payoff is the bottom row, and it is the one thing to carry into the cases. Every judgment call is a place a decision could have gone either way --- a discretionary joint. Form-based has roughly one: where you draw the market. Effect-based has three: the market, the predicted effects, and whether the claimed efficiencies count. More joints, more room for pressure to enter *without anyone breaking a rule*. That single idea is what will explain why Gerdau was a public brawl and Ambev was quiet.
 :::
 
 # Context
@@ -211,7 +139,7 @@ This slide exists to kill a misreading. People hear "1990s liberalisation in Lat
 
 Cardoso broke with the military model --- import substitution, state firms, market reserves --- but he did not abolish the state; he changed its job. Bresser-Pereira's reform rebuilt the bureaucracy into a regulatory one: independent agencies, technocrats, rules. CADE is a child of exactly that impulse.
 
-Land the closing line and let it carry: liberalisation reconfigured state power, it did not retreat --- and the very discretion the new regulatory state manufactured is what antitrust would later convert. The state did not leave; it changed weapons.
+Land the closing line and let it carry: liberalisation reconfigured state power, it did not retreat --- and the very discretion the new regulatory state manufactured is what antitrust would later convert. The state did not leave; it changed weapons. If you are short on time, this is a slide you can move through quickly.
 :::
 
 ## Context: liberalization and runaway inflation
@@ -245,7 +173,7 @@ So you have an agency designed to discipline the market, operating in a climate 
 ::: {.notes}
 One structural detail here does a lot of work later, so flag it now: CADE became autonomous in 1994, but the President appoints its councillors. Hold that thought for when Cardoso swaps them mid-case. Its official mission was to build a "competition culture" as part of holding inflation down.
 
-But the line to stress is the last one --- this was a two-year-old agency with no professional community behind it. In Germany a century of ordoliberal lawyers stood ready to defend the doctrine; in Brazil there was nobody yet. That vacuum is the reason discretion here had nothing to discipline it. Tie it straight back to the three-fates table: Brazil is the row where the container is empty.
+But the line to stress is the last one --- this was a two-year-old agency with no professional community behind it. In Germany a century of ordoliberal lawyers stood ready to defend the doctrine; in Brazil there was nobody yet. That empty container --- discretion with nothing to discipline it --- is the point we cash out at the very end.
 :::
 
 # Gerdau--Pains
@@ -347,7 +275,7 @@ On the bribery probe: state it as a fact --- an investigation touched the counci
 An even louder war than Gerdau --- media, ministers, a bribery probe, a lone dissent --- and **yet no illegal override**. The three joints had room; the doctrine absorbed it.
 
 ::: {.notes}
-Walk the three joints in order, so the audience sees the machine from the previous slide actually running.
+Walk the three joints in order, so the audience sees the machine from the economization slide actually running.
 
 Joint one, the market. Ambev argued the relevant market was "beverages" and the real rivalry was global, against Coca-Cola. Critics answered: the market is beer, and exports were under one per cent. Same trick attempted as in Gerdau --- but now it is one argument among three rather than the whole battlefield.
 
@@ -362,7 +290,7 @@ If someone asks whether the councillors were corrupt or captured, resist that fr
 
 # Discussion
 
-## Discussion
+## Discussion: the two cases compared
 
 - **Gerdau (form-based, still hard):** one discretionary joint → open conflict and an *illegal* override.
 - **Ambev (effect-based, installed):** three joints → the same pressure absorbed as routine.
@@ -372,13 +300,73 @@ If someone asks whether the councillors were corrupt or captured, resist that fr
 - **Caveat (Ergen & Kohl):** change is *piecemeal*; two cases are a precedent, not a permanent regime.
 
 ::: {.notes}
-State the caveat yourself rather than waiting for it from the floor. Ergen and Kohl insist that this kind of change happens piece by piece, case by case, never by one comprehensive reform. That cuts against us: two cases establish a repertoire that was *available*, not a regime that was permanently installed. They needed decades of agency reports to make their claim; we have two mergers. Concede it cleanly --- it costs nothing and it buys credibility for everything else.
+This is the hinge: the two cases went opposite ways, and the reason is the one idea from the economization slide. Gerdau had a hard threshold and one soft joint, so it took brute, illegal force. Ambev had three soft joints, so identical pressure was absorbed with nobody breaking a rule. The difference is not that the actors tired; it is how much room the doctrine gave them.
 
-Two follow-ups worth having ready.
+State the caveat yourself rather than waiting for it from the floor. Ergen and Kohl insist that this kind of change happens piece by piece, never by one comprehensive reform. That cuts against us: two cases establish a repertoire that was *available*, not a regime permanently installed. Concede it cleanly --- it costs nothing and buys credibility for everything else.
 
-Business power. Someone will say this was simply big business getting what it wanted. Ergen and Kohl supply the rebuttal, and our evidence fits it: case-by-case change splits business into winners and losers. Kaiser ran three advertising campaigns against the Ambev merger. Brazilian business was divided --- so business pressure alone cannot explain the outcome. What explains it is the state taking one faction's side.
+Two follow-ups worth having ready. Business power: Kaiser ran three campaigns against the merger, so Brazilian business was divided --- business pressure alone cannot explain the outcome; the state taking one faction's side does. Durability: Bouças notes CADE re-tightened its rules in the 2000s, so whether the conversion persisted is an open question we flag rather than settle.
+:::
 
-Durability. Bouças has argued that CADE changed its rules in the 2000s and would not permit that market share today. That is a fair challenge and we should not dodge it: the honest answer is that the window from 1995 to 2000 may have been a specific conjuncture, and whether the conversion persisted is an open question we flag rather than settle.
+## Brazil's contribution: policy under public denial
+
+- **Public denial is the crux.** Industrial policy pursued while disavowed at the programmatic level (Malan) --- not merely quiet, but officially rejected.
+- **Denial → illegibility.** The developmental aim leaves no trace in the doctrine; it survives only in the case files --- so **process tracing** is the necessary method, not a convenience.
+- **Conversion → fiscally free.** The champion is forged by *forbearance* (letting firms concentrate), not by spending. That is what "*passive*" means.
+- **The irony.** The effects-based toolkit was built (Chicago) to keep the state *out*; in Brazil it let the state *in*. Conversion runs on **loud executive politics + personnel turnover** --- "covert" is *constitutive*, not cosmetic.
+
+::: {.notes}
+This is where we say what is ours. Four beats, and the last one is the one people remember.
+
+On denial: this is not a government being discreet. Malan publicly rejected the whole category of industrial policy. That is stronger than staying quiet, and it is the condition everything else follows from.
+
+On illegibility: if you read CADE's decisions cold, they look like ordinary competition law about consumer welfare. The developmental purpose is simply not in the text. That is why we trace the process through case files, press and testimony --- the method is forced on us by the object.
+
+On "passive": no money changed hands. The state built a champion by *not* blocking a merger. For a government under fiscal discipline, that is the cheapest industrial policy there is --- which is exactly why it was available when subsidies were not.
+
+Then the irony, and let it breathe. The flexible case-by-case toolkit was invented in Chicago by people whose declared purpose was keeping government out of the economy. Transplanted into Brazil, that same toolkit is precisely what let the government in. Same instrument, opposite politics. Ergen and Kohl document the German ordoliberals blocking that flexibility in the 1970s because they feared it would become industrial policy. Brazil is what they were afraid of.
+:::
+
+## Industrial policy: the normality of denial
+
+> "Government policies that **explicitly target the transformation of the structure of economic activity** in pursuit of some public goal. ... A key characteristic is the exercise of **choice and discretion** by the public authorities --- '*We promote X but not Y*' --- though the latter part is **typically left implicit**." (Juhász, Lane & Rodrik 2024)
+
+\vfill
+
+- **Not fiscal by definition:** "the gamut runs from import protection to **exemptions from specific regulations**" --- industrial policy can run through the regulatory apparatus, at no Treasury cost.
+- **Discretion and denial are built in:** the selective "X but not Y" is "typically left implicit"; in developing countries the term itself is avoided for its "negative connotation."
+- **Brazil is not a freak --- it is the pure case:** the *targeting* is deliberate; only the *label* is denied.
+
+::: {.notes}
+Having shown the mechanism in two cases, widen out and pre-empt the "isn't this just Brazil being Brazil?" reaction. Juhász, Lane and Rodrik --- the current authority on industrial policy --- define it in a way that makes our case the normal case, not the exception.
+
+Two moves. First, their definition is about goals, not tools: no subsidy required, "the gamut runs from import protection to exemptions from specific regulations." That is exactly what lets antitrust count. Second, and this is the sentence to land: the selective favouring is "typically left implicit," and in developing countries the term itself is avoided for its "negative connotation." The leading industrial-policy economists are telling you that denial is normal. Brazil is just the pure form of it. Pre-empt one objection: "explicitly target" does not mean publicly announced --- it means deliberately selective.
+:::
+
+## Three fates of administrative discretion
+
+Foster & Thelen (2024): the **administrative-law structure** --- how much discretion regulators hold, and *how it is disciplined* --- decides which paradigm sticks. Ergen & Kohl supply the ideas; the container decides their fate.
+
+\vspace{0.4em}
+\footnotesize
+
+| Regime | Discretion disciplined by | Outcome |
+|---|---|---|
+| **Germany** | Ordoliberal **rules** (form-based profession) | Robust form-based control; blocks economization |
+| **EU** | **Social learning** (deliberative administration) | Brandeisian *"regulated competition"* |
+| **Brazil** | **Nothing yet** --- young regime, executive capture | **Conversion** → covert industrial policy |
+
+\normalsize
+
+\vfill
+
+**Discretion is not destiny --- the *container* decides.** Brazil fills the missing cell: discretion captured *before* a profession could discipline it.
+
+::: {.notes}
+This is the closing widen-out: from our two Brazilian cases to how antitrust works across the world. Recall the economization idea --- which *ideas* win. This slide is about the *container* those ideas land in. Foster and Thelen present themselves as the complement to Ergen and Kohl: they cite them by name and say --- you showed which ideas won, we show what determines whether an idea can be put into practice.
+
+Their variable in plain language is discretion: how much room the regulator has, and who can overrule it. In the United States, judges constantly substitute their judgment for the agency's, so it stops experimenting. In the European Union the Commission decides directly and courts defer on economics, so it can try things and adjust --- "social learning." Germany disciplined discretion with rules and stayed form-based; the EU disciplined it with learning and became Brandeisian; Brazil had the discretion and nothing to discipline it. Same lever, three outcomes --- Brazil is the cell their table was missing.
+
+Two honesties for the floor. First, Foster and Thelen think discretion is a *good* thing --- our case is the other face of the same coin: the room that lets a regulator learn also lets an executive lean. Second, present the container as an *enabling condition*, not a cause --- Germany nearly went the other way in 1967, so it was a professional fight, not structure, that decided. Brazil's row is a claim we illustrate, not a variable we have measured.
 :::
 
 ## Thank you

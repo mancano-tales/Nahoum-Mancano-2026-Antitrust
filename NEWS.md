@@ -3,6 +3,23 @@
 > Entrada mais recente no topo.
 > **Convenção de timestamp**: Todas as datas em cabeçalhos (## YYYY-MM-DD HH:MM) e no campo Data/Hora dos metadados DEVEM incluir hora e minuto no fuso local. Nunca use datas isoladas.
 
+## 2026-08-04 09:50 — Deck reordenado para narrativa "casos primeiro" (12 min)
+
+A pedido do autor (12 min de fala; queixa de "teoria demais antes dos casos" deixando a apresentação abstrata), o deck foi **reordenado sem cortar conteúdo** (o autor pula slides ao vivo se precisar). Novo arco: **Puzzle → problema teórico (breve) → contexto → casos → discussão comparativa profunda**.
+
+- **Puzzle abre** a apresentação (antes vinha depois do slide de argumento); seções da barra de navegação renomeadas para o arco: Puzzle · The problem · Context · Gerdau–Pains · Ambev · Discussion.
+- **Antes dos casos ficou só o essencial** (4 slides): puzzle, argument, "received view" (a tensão antitruste×política industrial) e a lente form/effect (Ergen & Kohl) — necessária para o vocabulário das "juntas" nos casos.
+- **A teoria comparativa pesada foi movida para depois dos casos**, como payoff: "Brazil's contribution" (negação→ilegibilidade, fiscally-free, ironia), o slide Juhász **retitulado "the normality of denial"** (por que o Brasil não é um caso isolado), e "Three fates of administrative discretion" (Foster & Thelen) como clímax comparativo — por que isso importa para como o antitruste funciona no mundo.
+- Notas de orador ajustadas onde havia referência cruzada (a nota do slide de autoridade não aponta mais para uma tabela que agora vem só no fim; as notas de Juhász e "três destinos" foram reescritas para a posição final).
+
+19 slides (mesma contagem, reordenados).
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-08-04 09:50 (Horário de Brasília)
+- **Agente**: Claude Opus 4.8 / claude-opus-4-8 / Claude Code (VS Code)
+- **Mensagem do Commit**: "refactor(presentations): reorder deck to a cases-first narrative for a 12-min talk"
+- **Arquivos afetados**: `7-presentations/2026-08-03_Antitrust-as-Industrial-Policy_Slides.qmd`, `.pdf`, `NEWS.md`
+
 ## 2026-08-04 09:25 — Deck: caso Ambev reescrito como "guerra pública", notas de orador em todos os slides, navegação restaurada
 
 Rodada de revisão do deck a pedido do autor:
