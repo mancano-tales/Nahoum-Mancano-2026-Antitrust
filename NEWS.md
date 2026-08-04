@@ -3,6 +3,16 @@
 > Entrada mais recente no topo.
 > **Convenção de timestamp**: Todas as datas em cabeçalhos (## YYYY-MM-DD HH:MM) e no campo Data/Hora dos metadados DEVEM incluir hora e minuto no fuso local. Nunca use datas isoladas.
 
+## 2026-08-04 10:10 — Roteiro de fala de 12 min (script em inglês, com marcação de slides)
+
+Criado `7-presentations/2026-08-03_Antitrust-as-Industrial-Policy_Talk-Script-12min.md`: a fala em inglês, escrita como prosa falada que se sustenta sozinha (não repete os slides), com marcação `[SLIDE N]` de quando avançar, checkpoints de tempo cumulativos `(~m:ss)` e passagens marcadas `⏩` (Contexto e Juhász) para cortar se o relógio apertar. Calibrado por contagem de palavras: ~1.600 palavras ≈ 12 min a ~135 wpm; com os cortes ⏩, ~11–12 min mesmo em ritmo calmo. Segue a nova ordem "casos primeiro" do deck.
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-08-04 10:10 (Horário de Brasília)
+- **Agente**: Claude Opus 4.8 / claude-opus-4-8 / Claude Code (VS Code)
+- **Mensagem do Commit**: "docs(presentations): add 12-minute English talk script with slide cues"
+- **Arquivos afetados**: `7-presentations/2026-08-03_Antitrust-as-Industrial-Policy_Talk-Script-12min.md`, `NEWS.md`
+
 ## 2026-08-04 09:50 — Deck reordenado para narrativa "casos primeiro" (12 min)
 
 A pedido do autor (12 min de fala; queixa de "teoria demais antes dos casos" deixando a apresentação abstrata), o deck foi **reordenado sem cortar conteúdo** (o autor pula slides ao vivo se precisar). Novo arco: **Puzzle → problema teórico (breve) → contexto → casos → discussão comparativa profunda**.
