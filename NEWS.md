@@ -3,6 +3,16 @@
 > Entrada mais recente no topo.
 > **Convenção de timestamp**: Todas as datas em cabeçalhos (## YYYY-MM-DD HH:MM) e no campo Data/Hora dos metadados DEVEM incluir hora e minuto no fuso local. Nunca use datas isoladas.
 
+## 2026-08-05 09:44 — Artigo: correção jurídica do limiar de 20% no footnote do Gerdau
+
+Correção no `3-texts/…Article.qmd` (footnote `gerdau-marketshare`), com autorização explícita do autor nesta conversa. O texto dizia que "under Law 8,884/94 the agency could **bar** acquisitions and mergers resulting in control of more than 20 percent of a market" — impreciso e ancorado só em fonte jornalística. Reescrito para refletir a lei: 20% do mercado relevante **presume posição dominante** (Art. 20, §3) e **sujeita o ato de concentração a revisão obrigatória** do CADE (Art. 54, §3) [@Brasil1994] — limiar estrutural de escrutínio, não proibição automática. Mesma correção aplicada ao roteiro de fala no commit anterior (`080adac`).
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-08-05 09:44 (Horário de Brasília)
+- **Agente**: Claude Opus 4.8 / claude-opus-4-8 / Claude Code (VS Code)
+- **Mensagem do Commit**: "fix(article): correct the Law 8.884/94 20% threshold in the Gerdau footnote"
+- **Arquivos afetados**: `3-texts/Nahoum-Mancano-2026-Antitrust-Article.qmd`, `NEWS.md`
+
 ## 2026-08-05 09:42 — Script: correção do limiar de 20% + inglês das edições novas; PDF do deck renomeado
 
 Duas coisas na pasta de apresentação. (1) **Correção factual do limiar de 20%** no roteiro (slide 9): a Lei 8.884/94 não *proíbe* automaticamente >20% — 20% do mercado relevante **presume posição dominante** (Art. 20, §3) e **obriga à submissão do ato ao CADE** (Art. 54, §3). O slide passou de "a twenty-percent threshold / the number decides" para "twenty percent of the relevant market, the share at which a firm was presumed dominant and its merger had to clear structural review". (2) **Limpeza de inglês** das edições autorais recentes (slides 4–6: "superada"→"superseded", "innacurate", "bureocracies", "doens belive", "Korpf"→Korf, comma splices). O PDF compilado do deck foi **renomeado** pelo autor (submissão): `…Slides.pdf` → `tales-fernandes-FT1B-----…Slides.pdf` (rename puro no git). A correção equivalente no artigo vai em commit separado (arquivo protegido `3-texts/`).
