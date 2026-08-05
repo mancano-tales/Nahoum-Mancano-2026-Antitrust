@@ -63,3 +63,15 @@ yarn-error.log*
 /file/*
 !/file/README.md
 *.zip
+
+# Histórico de chat gerado automaticamente pela extensão SpecStory (VS Code).
+# Decisão do autor em 2026-08-05: o arquivo canônico de conversas deste repo é
+# `9-vers/llm-reviews/`, com curadoria e inventário; o `.specstory/` é um dump
+# paralelo que cresce sozinho (e `statistics.json` muda a cada sessão).
+/.specstory/
+
+# LaTeX intermediário do deck, gerado pelo `keep-tex: true` do YAML de
+# `7-presentations/…Slides.qmd` — artefato de build regenerável a cada render,
+# mesmo princípio do `/render/` acima. A fonte `.qmd` e o PDF de submissão
+# continuam versionados.
+/7-presentations/*.tex

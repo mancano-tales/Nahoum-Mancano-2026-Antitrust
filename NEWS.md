@@ -3,6 +3,16 @@
 > Entrada mais recente no topo.
 > **Convenção de timestamp**: Todas as datas em cabeçalhos (## YYYY-MM-DD HH:MM) e no campo Data/Hora dos metadados DEVEM incluir hora e minuto no fuso local. Nunca use datas isoladas.
 
+## 2026-08-05 19:16 — Gitignore: histórico do SpecStory e LaTeX intermediário do deck
+
+Duas entradas novas no `.gitignore`, ambas decididas pelo autor nesta sessão de limpeza de `git status`. (1) **`/.specstory/`** — a extensão SpecStory (VS Code) vinha acumulando um dump automático de 16 markdowns de conversa mais um `statistics.json` que muda a cada sessão. O arquivo canônico de conversas deste repositório é `9-vers/llm-reviews/`, com curadoria e inventário em tabela; versionar o dump paralelo duplicaria esse papel e traria ruído recorrente. (2) **`/7-presentations/*.tex`** — o `.tex` do deck é saída do `keep-tex: true` no YAML de `…Slides.qmd`, artefato de build regenerável, mesmo princípio já aplicado a `/render/`. A fonte `.qmd` e o PDF de submissão seguem versionados.
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-08-05 19:16 (Horário de Brasília)
+- **Agente**: Claude Opus 5 / claude-opus-5 / Claude Code (VS Code)
+- **Mensagem do Commit**: "chore(gitignore): ignore SpecStory chat dump and beamer keep-tex output"
+- **Arquivos afetados**: `.gitignore`, `NEWS.md`
+
 ## 2026-08-05 09:44 — Artigo: correção jurídica do limiar de 20% no footnote do Gerdau
 
 Correção no `3-texts/…Article.qmd` (footnote `gerdau-marketshare`), com autorização explícita do autor nesta conversa. O texto dizia que "under Law 8,884/94 the agency could **bar** acquisitions and mergers resulting in control of more than 20 percent of a market" — impreciso e ancorado só em fonte jornalística. Reescrito para refletir a lei: 20% do mercado relevante **presume posição dominante** (Art. 20, §3) e **sujeita o ato de concentração a revisão obrigatória** do CADE (Art. 54, §3) [@Brasil1994] — limiar estrutural de escrutínio, não proibição automática. Mesma correção aplicada ao roteiro de fala no commit anterior (`080adac`).
