@@ -3,6 +3,16 @@
 > Entrada mais recente no topo.
 > **Convenção de timestamp**: Todas as datas em cabeçalhos (## YYYY-MM-DD HH:MM) e no campo Data/Hora dos metadados DEVEM incluir hora e minuto no fuso local. Nunca use datas isoladas.
 
+## 2026-08-05 09:42 — Script: correção do limiar de 20% + inglês das edições novas; PDF do deck renomeado
+
+Duas coisas na pasta de apresentação. (1) **Correção factual do limiar de 20%** no roteiro (slide 9): a Lei 8.884/94 não *proíbe* automaticamente >20% — 20% do mercado relevante **presume posição dominante** (Art. 20, §3) e **obriga à submissão do ato ao CADE** (Art. 54, §3). O slide passou de "a twenty-percent threshold / the number decides" para "twenty percent of the relevant market, the share at which a firm was presumed dominant and its merger had to clear structural review". (2) **Limpeza de inglês** das edições autorais recentes (slides 4–6: "superada"→"superseded", "innacurate", "bureocracies", "doens belive", "Korpf"→Korf, comma splices). O PDF compilado do deck foi **renomeado** pelo autor (submissão): `…Slides.pdf` → `tales-fernandes-FT1B-----…Slides.pdf` (rename puro no git). A correção equivalente no artigo vai em commit separado (arquivo protegido `3-texts/`).
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-08-05 09:42 (Horário de Brasília)
+- **Agente**: Claude Opus 4.8 / claude-opus-4-8 / Claude Code (VS Code)
+- **Mensagem do Commit**: "fix(presentations): correct 20% threshold in script, clean English, rename deck PDF"
+- **Arquivos afetados**: `7-presentations/2026-08-03_…Talk-Script-12min.md`, `7-presentations/…Slides.pdf` (renomeado), `NEWS.md`
+
 ## 2026-08-05 09:35 — Revisão do roteiro de fala: inglês limpo e tom acadêmico
 
 Revisão do `7-presentations/2026-08-03_Antitrust-as-Industrial-Policy_Talk-Script-12min.md` a pedido do autor: (1) tradução dos fragmentos em português e correção de erros nas falas dos slides 2–4; (2) formalização do tom — remoção das metáforas estendidas ("speed limit/driving", "referee/coach") e substituição de "discretionary joints" por "**points of discretion**" de forma consistente (slides 5, 11, 14, 15); (3) suavização de idiomatismos vívidos ("unscramble the egg", "circling", "lean on/lever/cell", "child of that moment" etc.), mantendo idiomatismos leves que ajudam a fala. É um documento de trabalho sob edição autoral ativa.
