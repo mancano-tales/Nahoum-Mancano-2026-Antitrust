@@ -3,6 +3,16 @@
 > Entrada mais recente no topo.
 > **Convenção de timestamp**: Todas as datas em cabeçalhos (## YYYY-MM-DD HH:MM) e no campo Data/Hora dos metadados DEVEM incluir hora e minuto no fuso local. Nunca use datas isoladas.
 
+## 2026-08-05 19:22 — `3-texts/`: versionados os dois `.docx` (artigo e submissão ANPOCS)
+
+Com **autorização explícita do autor nesta conversa** (exigência da proibição de tocar em `3-texts/`, o diretório de autoria primária), entram no git os dois `.docx` que estavam sem rastreamento na pasta: (1) `Nahoum-Mancano-2026-Antitrust-Article.docx`, exportação do artigo datada de 23/07 — registro do estado em que o texto circulou entre os autores, já **superado** pelo `.qmd` (que seguiu sendo editado até 05/08 09:47); e (2) `Multinacionais verde-amerelas_ Sumissão ANPOCS.docx` (03/08), submissão a um outro trabalho, guardada aqui por conveniência do autor. Nenhum dos dois é fonte de build — a fonte continua sendo o `.qmd`. Fica registrado que o `.docx` do artigo é um instantâneo congelado: reexportá-lo a cada rodada de edição não é a intenção, e o `.qmd` permanece a única versão viva.
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-08-05 19:22 (Horário de Brasília)
+- **Agente**: Claude Opus 5 / claude-opus-5 / Claude Code (VS Code)
+- **Mensagem do Commit**: "docs(texts): track the July article export and the ANPOCS submission docx"
+- **Arquivos afetados**: `3-texts/Nahoum-Mancano-2026-Antitrust-Article.docx`, `3-texts/Multinacionais verde-amerelas_ Sumissão ANPOCS.docx`, `NEWS.md`
+
 ## 2026-08-05 19:19 — Nova pasta `9-vers/notes/`: memorando teórico sobre Ergen & Kohl (2019)
 
 Versionado o memorando `9-vers/notes/2026-08-03_Ergen-Kohl_debate-economizacao.qmd`, escrito em 03/08 e até agora sem rastreamento. Ele organiza a discussão teórica sobre como *Varieties of economization in competition policy* (RIPE 26:2) se relaciona com o argumento do artigo: o que E&K de fato defendem (divergência transatlântica explicada por doutrinas profissionais entrincheiradas, não por poder empresarial, VoC ou família jurídica), o conceito de economização, a distinção **form-based vs. effect-based** que sustenta nosso argumento, a calibração do que significa "surdina"/covertness, a tipologia de três casos com a revisão da tese, cautelas de periodização, e uma §11 de pendências bibliográficas. O próprio cabeçalho o declara **memorando de trabalho, não texto de autoria primária** — por isso mora em `9-vers/` e não em `3-texts/`. Inaugura a pasta `9-vers/notes/` (memorandos de discussão teórica), irmã de `9-vers/references/` (extrações de texto das fontes que ele cita por número de linha).
