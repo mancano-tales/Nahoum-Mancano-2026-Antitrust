@@ -3,6 +3,16 @@
 > Entrada mais recente no topo.
 > **Convenção de timestamp**: Todas as datas em cabeçalhos (## YYYY-MM-DD HH:MM) e no campo Data/Hora dos metadados DEVEM incluir hora e minuto no fuso local. Nunca use datas isoladas.
 
+## 2026-08-05 09:35 — Revisão do roteiro de fala: inglês limpo e tom acadêmico
+
+Revisão do `7-presentations/2026-08-03_Antitrust-as-Industrial-Policy_Talk-Script-12min.md` a pedido do autor: (1) tradução dos fragmentos em português e correção de erros nas falas dos slides 2–4; (2) formalização do tom — remoção das metáforas estendidas ("speed limit/driving", "referee/coach") e substituição de "discretionary joints" por "**points of discretion**" de forma consistente (slides 5, 11, 14, 15); (3) suavização de idiomatismos vívidos ("unscramble the egg", "circling", "lean on/lever/cell", "child of that moment" etc.), mantendo idiomatismos leves que ajudam a fala. É um documento de trabalho sob edição autoral ativa.
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-08-05 09:35 (Horário de Brasília)
+- **Agente**: Claude Opus 4.8 / claude-opus-4-8 / Claude Code (VS Code)
+- **Mensagem do Commit**: "docs(presentations): revise talk script for academic tone and clean English"
+- **Arquivos afetados**: `7-presentations/2026-08-03_Antitrust-as-Industrial-Policy_Talk-Script-12min.md`, `NEWS.md`
+
 ## 2026-08-04 10:10 — Roteiro de fala de 12 min (script em inglês, com marcação de slides)
 
 Criado `7-presentations/2026-08-03_Antitrust-as-Industrial-Policy_Talk-Script-12min.md`: a fala em inglês, escrita como prosa falada que se sustenta sozinha (não repete os slides), com marcação `[SLIDE N]` de quando avançar, checkpoints de tempo cumulativos `(~m:ss)` e passagens marcadas `⏩` (Contexto e Juhász) para cortar se o relógio apertar. Calibrado por contagem de palavras: ~1.600 palavras ≈ 12 min a ~135 wpm; com os cortes ⏩, ~11–12 min mesmo em ritmo calmo. Segue a nova ordem "casos primeiro" do deck.
