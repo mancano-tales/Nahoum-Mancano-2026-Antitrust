@@ -3,6 +3,16 @@
 > Entrada mais recente no topo.
 > **Convenção de timestamp**: Todas as datas em cabeçalhos (## YYYY-MM-DD HH:MM) e no campo Data/Hora dos metadados DEVEM incluir hora e minuto no fuso local. Nunca use datas isoladas.
 
+## 2026-08-05 19:19 — Nova pasta `9-vers/notes/`: memorando teórico sobre Ergen & Kohl (2019)
+
+Versionado o memorando `9-vers/notes/2026-08-03_Ergen-Kohl_debate-economizacao.qmd`, escrito em 03/08 e até agora sem rastreamento. Ele organiza a discussão teórica sobre como *Varieties of economization in competition policy* (RIPE 26:2) se relaciona com o argumento do artigo: o que E&K de fato defendem (divergência transatlântica explicada por doutrinas profissionais entrincheiradas, não por poder empresarial, VoC ou família jurídica), o conceito de economização, a distinção **form-based vs. effect-based** que sustenta nosso argumento, a calibração do que significa "surdina"/covertness, a tipologia de três casos com a revisão da tese, cautelas de periodização, e uma §11 de pendências bibliográficas. O próprio cabeçalho o declara **memorando de trabalho, não texto de autoria primária** — por isso mora em `9-vers/` e não em `3-texts/`. Inaugura a pasta `9-vers/notes/` (memorandos de discussão teórica), irmã de `9-vers/references/` (extrações de texto das fontes que ele cita por número de linha).
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-08-05 19:19 (Horário de Brasília)
+- **Agente**: Claude Opus 5 / claude-opus-5 / Claude Code (VS Code)
+- **Mensagem do Commit**: "docs(notes): track the Ergen & Kohl economization memo in a new 9-vers/notes/"
+- **Arquivos afetados**: `9-vers/notes/2026-08-03_Ergen-Kohl_debate-economizacao.qmd`, `NEWS.md`
+
 ## 2026-08-05 19:16 — Gitignore: histórico do SpecStory e LaTeX intermediário do deck
 
 Duas entradas novas no `.gitignore`, ambas decididas pelo autor nesta sessão de limpeza de `git status`. (1) **`/.specstory/`** — a extensão SpecStory (VS Code) vinha acumulando um dump automático de 16 markdowns de conversa mais um `statistics.json` que muda a cada sessão. O arquivo canônico de conversas deste repositório é `9-vers/llm-reviews/`, com curadoria e inventário em tabela; versionar o dump paralelo duplicaria esse papel e traria ruído recorrente. (2) **`/7-presentations/*.tex`** — o `.tex` do deck é saída do `keep-tex: true` no YAML de `…Slides.qmd`, artefato de build regenerável, mesmo princípio já aplicado a `/render/`. A fonte `.qmd` e o PDF de submissão seguem versionados.

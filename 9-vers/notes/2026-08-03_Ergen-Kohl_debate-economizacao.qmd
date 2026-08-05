@@ -1,0 +1,340 @@
+---
+title: "Economização, form-based vs. effect-based e o lugar de Ergen & Kohl (2019) no argumento do artigo"
+subtitle: "Memorando de discussão teórica — não é texto de autoria primária"
+author:
+  - name: Discussão entre André Vereta-Nahoum e Tales Mançano
+  - name: "Organização e síntese: sessão de trabalho com assistente"
+date: 2026-08-03
+lang: pt-BR
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+---
+
+::: {.callout-note title="Escopo deste documento"}
+Este é um **memorando de trabalho**, não prosa do artigo. Ele organiza a discussão sobre
+como Ergen & Kohl (2019), *Varieties of economization in competition policy* (RIPE 26:2),
+se relaciona com o argumento de *Antitrust as industrial policy*. Serve para (i) fixar
+conceitos, (ii) registrar as objeções levantadas por André em 23/07 e as respostas, e
+(iii) deixar decidido o que entra no artigo e onde. As citações a Ergen & Kohl remetem à
+extração em `9-vers/references/Ergen-Kohl-2019-Varieties-of-economization-in-competition-policy.txt`
+(números de linha entre colchetes). Obras ainda **ausentes** do `.bib` são citadas em
+texto simples e listadas na §11.
+:::
+
+# O que Ergen & Kohl (2019) de fato argumenta
+
+A tentação é ler o artigo como "um estudo sobre antitruste como política industrial". Não é.
+A tese central é comparativa e ideacional:
+
+> *diferentes trajetórias de ideias profissionais na política de concorrência explicam as
+> diferenças entre países.*
+
+O **explanandum** é a divergência transatlântica de 1960 a 2000: os EUA — campeão histórico
+do antitruste — afrouxaram o controle de concentração desde os anos 1970, enquanto a Alemanha
+endureceu e resistiu à "modernização" de matriz americana. O **explanans** rejeita as três
+explicações dominantes — poder empresarial, variedades de capitalismo (VoC) e sistemas
+jurídicos — e localiza a causa nas **doutrinas profissionais entrincheiradas nas burocracias
+de enforcement** [124–151].
+
+Consequência para nós: **economização** e **conversão** são o *aparato* de Ergen & Kohl, não
+a sua tese. Devemos tomar deles o aparato, não enquadrá-los como aliados de uma tese de
+"antitruste = política industrial". Essa é a correção de ênfase de André, e ela está correta.
+
+# Economização: o conceito
+
+"Economização" é a reorientação de um regime de concorrência de **finalidades societais
+amplas** (democracia, dispersão do poder, proteção da pequena empresa, descentralização)
+para **objetivos puramente econômicos** [138–140]. O ponto contraintuitivo — e decisivo para
+o nosso artigo — é que a economização ocorreu **nos dois países**, mas em duas formas opostas:
+
+- **EUA — economização *effect-based*** (inspiração Chicago): bem-estar do consumidor e ganhos
+  de eficiência podem *justificar menos concorrência*. Concentração e cooperação são admitidas
+  se servem a esses fins econômicos.
+- **Alemanha — economização *form-based*** (inspiração ordoliberal): intervenção estatal
+  baseada em regras, em favor de estruturas de mercado pluralistas e competitivas, como
+  salvaguarda contra o abuso econômico e político.
+
+Os dois lados expulsaram as finalidades societais amplas. A diferença está em **por qual via**:
+pela via do bem-estar (EUA) ou pela via formal/estrutural (Alemanha) [134–151].
+
+# Form-based vs. effect-based: a distinção que sustenta o artigo
+
+Em uma frase: **o direito da concorrência pergunta pela _forma_ da conduta e pela _estrutura_
+do mercado, ou pergunta pelos _efeitos_ econômicos previstos daquela operação concreta?**
+
+| | **Form-based** (formal/estrutural) | **Effect-based** (consequencialista) |
+|---|---|---|
+| Pergunta | Que tipo de conduta é esta? Que estrutura ela produz? | O que esta operação *fará* ao bem-estar econômico? |
+| Ilicitude | De certas formas e estruturas *em si* | Só se houver dano líquido demonstrado |
+| Instrumentos | Regras *per se*, presunções estruturais, limiares de participação | Regra da razão, análise caso a caso, defesa de eficiência, *trade-offs* de bem-estar |
+| Remédios | Estruturais (desinvestimento, desconstituição) | Comportamentais (compromissos de conduta) |
+| Ônus | Basta estabelecer a forma/estrutura | Cabe ao órgão prever e comprovar efeitos |
+| Custo de enforcement | Baixo, previsível | Alto, técnico, dependente de peritos |
+| Escola | Ordoliberal (Freiburg) | Chicago |
+
+## A justificativa form-based não é a brandeisiana
+
+Erro comum: supor que o lado formal defende estruturas competitivas por razões democráticas
+("concentração ameaça a democracia"). Esse é o argumento **populista/brandeisiano americano**,
+que os ordoliberais também rejeitavam. O argumento ordoliberal é **liberal**, em três camadas:
+
+1. **Liberdade concorrencial como fim em si.** Hoppmann [1136–1144]: a concorrência importa
+   porque nela "se manifestam certas formas de liberdade econômica" — liberdade de iniciativa,
+   de avançar para novos territórios técnicos e econômicos; e, do outro lado, liberdade de
+   escolher entre alternativas. Protege-se a concorrência pelo que ela *é*, não pelo que produz.
+
+2. **O argumento epistemológico (o mais forte).** Hayek, citado por eles [1152–1160]: a
+   concorrência é um *procedimento de descoberta*; se soubéssemos os resultados de antemão, não
+   precisaríamos dela. Logo, um padrão que exige do burocrata *prever* os efeitos econômicos de
+   uma fusão pede que ele saiba justamente o que só o processo competitivo revela. **A crítica
+   mais devastadora ao effect-based vem da direita, não da esquerda.**
+
+3. **Autonomia do direito.** Mestmäcker [1181–1186]: "A análise custo-benefício é neutra quanto
+   a fins. Constituições, estatutos e precedentes, via de regra, não são. … A maximização de
+   riqueza não substitui a finalidade do direito."
+
+## A justificativa effect-based inverte a presunção
+
+Bork, no voto dissidente ao Neal Report [831–840]: se firmas cresceram até criar concentração
+e ela persiste, "há um forte caso *prima facie* de que os tamanhos das firmas se relacionam com
+eficiência", porque a rivalidade de mercado "automaticamente pondera eficiência e restrição de
+produto e chega às estruturas que melhor servem os consumidores". Ou seja: **a concentração
+passa a ser evidência presumida de eficiência, não de dano** — a inversão exata da presunção
+estrutural. No plano normativo, Bork (1970) [878–881] descarta as "finalidades sociais do
+antitruste" como "amálgama de pensamento confuso, mitologia social e retórica sentimental".
+
+## As duas juntas são economização — e Hoppmann bloqueou por medo de política industrial
+
+Ponto que muda o enquadramento: o motivo pelo qual Hoppmann atacou Kantzenbach (que propunha
+flexibilidade caso a caso para admitir "cartéis temporários e o estímulo a fusões" quando
+servissem a funções desejáveis da concorrência) foi o **medo explícito de política industrial**
+[1114–1122]:
+
+> "Temiam uma ladeira escorregadia que transformaria a política de concorrência em mais um
+> instrumento de intervenção e planejamento estatal. Afinal, o fim dos anos 1960 e os anos 1970
+> foram o auge da experimentação em política industrial nas nações ricas do Ocidente."
+
+A flexibilidade que Chicago introduziu nos EUA por razões **antiestatais** é exatamente a
+flexibilidade que Hoppmann bloqueou na Alemanha **por prever que ela abriria a porta para o
+Estado**. Guardar esta ironia: ela é o coração do nosso caso.
+
+# "Piecemeal" e a crítica ao poder empresarial
+
+*Piecemeal* = aos pedaços, caso a caso, sem reforma abrangente. Ergen & Kohl [264–266]:
+
+> "a mudança institucional na política de concorrência não se deu de maneira abrangente, mas por
+> **precedente e experimentos fragmentados** (*piecemeal precedent and experiments*)."
+
+Isso é a **primeira objeção deles à explicação pelo poder empresarial**: se a mudança é caso a
+caso, cada caso tem ganhadores e perdedores *dentro* do empresariado. Exemplo [268–272]: a
+liberação da joint venture GM–Toyota (planta NUMMI, Fremont, 1983) foi "ferozmente atacada por
+seus concorrentes americanos". Não foi "o empresariado" querendo antitruste frouxo — foi *uma*
+firma querendo *aquela* operação, contra outras. Daí: mudanças caso a caso "quase por regra
+dividem o empresariado em ganhadores e perdedores de curto prazo, o que faz do empresariado um
+motor pouco confiável da mudança institucional".
+
+Três implicações para nós:
+
+- **Favorável.** Temos o padrão NUMMI documentado: a Kaiser combateu a Ambev com três campanhas
+  publicitárias. O empresariado brasileiro estava cindido *exatamente* como E&K preveem — o que
+  nos permite **eliminar o poder empresarial** como explicação suficiente e mostrar que o que
+  decidiu foi o Estado tomar partido de uma facção.
+- **Exigente.** Se a mudança é *piecemeal*, nenhum caso isolado **é** a conversão. Gerdau é um
+  precedente; Ambev, outro. A conversão é a acumulação — foi por isso que E&K precisaram de
+  análise de frequência em relatórios, não de dois casos. Reforça a cautela metodológica: dois
+  casos estabelecem um repertório interpretativo, não um regime.
+- **Interessante.** O Brasil é **menos** *piecemeal* que os EUA, e isso é produtivo. A conversão
+  brasileira teve um componente concentrado e datável que os EUA não têm — a recomposição do
+  CADE por Cardoso. Onde não há comunidade profissional entrincheirada, a conversão não precisa
+  ser fragmentada: pode ser feita de uma vez, por ato administrativo.
+
+# Christophers e Galambos: o precedente que E&K citam para refutar
+
+::: {.callout-warning title="Risco de leitura"}
+A passagem sobre Christophers é o *setup* de uma refutação, não um endosso.
+:::
+
+Ergen & Kohl [253–262] apresentam Christophers (2016), que — apoiado em Galambos (2004) —
+sustenta que o enforcement antimonopólio mais frouxo e o policiamento mais permissivo de fusões
+desde os anos 1980 "foram essencialmente políticas industriais, destinadas a acelerar a
+reestruturação e revitalizar a indústria americana na competição internacional". E registram
+que ataques ao enforcement rigoroso "on revitalization grounds" eram comuns nos anos 1970–80,
+vindos de progressistas *e* conservadores, do empresariado, de partes do Congresso e do governo
+Reagan.
+
+Em seguida [263–293], **rejeitam a estratégia explicativa**: "Embora a significância política
+das pressões por revitalização não possa ser negada, vemos dois problemas" —
+
+(a) a mudança *piecemeal* divide o empresariado (acima);
+
+(b) afrouxar o antitruste **não é reação natural** à pressão econômica: poucos anos antes, a
+estratégia natural para estimular crescimento era *reforçar* o enforcement (os "Bottlenecks of
+Business" de Thurman Arnold), e outros países com igual necessidade de reestruturação não
+geraram movimento equivalente. "Pressões econômicas têm de ser **canalizadas**."
+
+Portanto: **Christophers é o precedente do nosso argumento _e_ o alvo de uma crítica publicada
+na revista à qual provavelmente submeteremos.** Citá-lo como aliado sem registrar a refutação é
+entregar o flanco — o parecerista pode ser um dos dois autores.
+
+Movimento correto: citar Christophers como precedente, enunciar as duas objeções, e mostrar que
+o caso brasileiro **as responde**:
+
+- Objeção (a) → a Kaiser: o empresariado estava cindido; poder empresarial não explica o
+  desfecho — explica-o o Estado ter tomado partido.
+- Objeção (b) → especificar o **canal**: despacho ministerial *contra legem* (Jobim) +
+  recomposição do CADE. Temos o canal de canalização que Christophers não tinha.
+
+# Dois eixos que não devem ser confundidos
+
+Na discussão de 23/07 apareceram duas contraposições diferentes. Elas medem coisas distintas e
+precisam ser desembaraçadas.
+
+**Eixo 1 — a mudança doutrinária foi politizada?**
+
+- EUA: **não.** Tese de Eisner que E&K endossam [579–584]: "politics lagged behind policy"; a
+  Reagan Revolution foi "at most a coup" que apenas ratificou o que profissionais e tribunais já
+  haviam mudado. Mudança em "situações de baixa politização e saliência" [228], por "quiet
+  politics" (Culpepper) [490].
+- Brasil: **sim**, ruidosamente.
+
+**Eixo 2 — a justificativa desenvolvimentista foi assumida como tal?**
+
+- EUA: **sim, abertamente** — advocacy pública de revitalização, do Congresso ao governo Reagan.
+- Brasil: **não** — negada no nível do programa (Malan: "a melhor política industrial é não ter
+  política industrial").
+
+André está certo no Eixo 2, que é o mais importante para nós. Mas os dois eixos apontam para uma
+formulação mais forte do que qualquer contraposição isolada:
+
+> **Nos EUA o argumento alto era epifenomênico e a doutrina silenciosa fazia o trabalho causal;
+> no Brasil não houve argumento alto sobre as regras, e o trabalho causal foi feito pelo
+> acionamento caso a caso mais a troca de pessoal.**
+
+E&K documentam a advocacy de revitalização precisamente para dizer que **não** foi ela que mudou
+o regime. Isso é utilizável, e é uma inversão elegante. As expressões de André — "a reboque dos
+casos", "ad hoc" — merecem virar termos do artigo.
+
+# Calibração de "surdina"
+
+::: {.callout-important}
+"Na surdina" precisa ser calibrado, senão o parecerista derruba com a nossa própria evidência.
+:::
+
+Nossa própria evidência resiste a "surdina" se tomada ao pé da letra:
+
+- Cardoso ao *Jornal do Brasil*: "o mundo hoje funciona em termos de oligopólio… vamos precisar
+  de multinacionais brasileiras".
+- Clóvis Carvalho, publicamente, querendo uma onda de fusões em papel, siderurgia e petroquímica,
+  com R$ 3 bilhões do BNDES.
+- Jorge Gerdau atacando o CADE na *Folha*: legislação "anacrônica".
+- Anúncio da fusão Ambev feito do Palácio da Alvorada, com o presidente presente.
+
+Nada disso é surdina. A formulação precisa — e é a do próprio André — é:
+
+> **A negação operou no nível da _categoria de política_, não no nível da enunciação.** Houve
+> fala pública abundante justificando *aquelas operações* pela competitividade internacional; o
+> que não houve foi (i) o rótulo "política industrial" e (ii) um debate programático sobre
+> afrouxar o controle de estruturas como regra geral. Nos EUA houve advocacy sobre *as regras*;
+> no Brasil, argumentação sobre *os casos*.
+
+Dizer "surdina" é factualmente atacável; dizer "a reboque dos casos, sem assumir a categoria" é
+preciso.
+
+# A tipologia de três casos e a revisão da tese
+
+Com a observação de André, deixam de ser dois casos contrastantes e passam a ser **três**.
+
+| | Justificativa desenvolvimentista | Por onde entrou no antitruste | Efeito sobre a doutrina |
+|---|---|---|---|
+| **Alemanha 1989** (Daimler/MBB, Airbus) | Assumida e **segregada** num canal legal designado (*Ministererlaubnis*) | Não entrou — contornou o regime | Doutrina intacta; conflito nomeado (*Wettbewerbspolitik oder Industriepolitik*); renúncia de Immenga [1237–1254] |
+| **EUA 1970–80** | Assumida como **advocacy pública sobre as regras** | Como uma entre várias justificativas de um afrouxamento geral | Doutrina convertida — mas fala em bem-estar do consumidor e antiestatismo, não em desenvolvimento |
+| **Brasil 1995–2000** | Negada no nível do programa; afirmada **ad hoc, dentro dos casos** | Caso a caso, por mercado relevante e eficiência | Doutrina convertida; a conversão só é legível nos autos |
+
+## Revisão da tese
+
+Havíamos proposto: *a negação discursiva é o que força a rota da conversão*. Com os EUA no
+quadro, **isso não se sustenta** — lá a justificativa foi assumida e a doutrina converteu-se
+assim mesmo. A variável decisiva não é a assunção:
+
+> **É a existência (ou não) de um canal externo designado.** A Alemanha tinha um
+> (*Ministererlaubnis*); EUA e Brasil não. Sem canal, a justificativa desenvolvimentista tem de
+> ser acomodada *dentro* dos conceitos do próprio regime — e é aí que ela **converte** o regime.
+
+O que a negação brasileira acrescenta é outra coisa, e é o que individualiza o nosso caso: ela
+torna o propósito desenvolvimentista **ilegível no registro doutrinário**. A doutrina convertida
+do CADE lê-se como antitruste ordinário de bem-estar do consumidor; não há vestígio de política
+industrial no texto das decisões. É por isso que detectá-la exige *process tracing* sobre autos,
+imprensa e depoimentos — o que **justifica metodologicamente** a nossa escolha, hoje apresentada
+no artigo como mera conveniência.
+
+# Síntese: form/effect ↔ covertness são o mesmo fato
+
+Debate sobre **regras** (EUA) versus argumentação sobre **casos** (Brasil) é a distinção
+form-based/effect-based por outro ângulo:
+
+- Um regime **formal** só se afrouxa alterando a regra — o que obriga a um debate público sobre
+  a regra. Foi o que os EUA tiveram.
+- Um regime **por efeitos** afrouxa-se caso a caso, sem que nenhuma regra mude e sem que ninguém
+  precise defender publicamente coisa alguma.
+
+Logo: **a covertness brasileira e a conversão effect-based brasileira não são dois fatos; são o
+mesmo fato.** O regime que descrevemos tornou-se *covert-compatível* ao tornar-se *effect-based*.
+
+Corolário sobre a sequência Gerdau → Ambev (hoje explicada por "acostumamento" em
+`3-texts/…qmd`):
+
+- **Gerdau (1995).** A Lei 8.884/94 tinha um elemento form-based duro: o limiar de 20%. Com
+  46,5% em longos comuns, não havia o que ponderar — o limiar decidia. Restava atacar a **única
+  junta mole**: a definição do mercado. Daí o despacho de Jobim ser sobre exatamente isso
+  ("o mercado siderúrgico brasileiro é aberto a produtos internacionais"). Precisou de força
+  bruta — despacho *contra legem* — porque o resto do dispositivo era rígido.
+- **Ambev (2000).** Já com o aparato effect-based instalado pela recomposição do CADE: alegações
+  de eficiência, ponderação de bem-estar, Termo de Compromisso de Desempenho (remédio
+  comportamental). A pressão política foi igual ou maior, mas o **raciocínio** já acomodava
+  sozinho. Não foi preciso violar a lei; bastou aplicá-la com a doutrina nova.
+
+O conflito agudo do primeiro caso e a rotina do segundo não medem o cansaço dos atores —
+**medem quantas juntas discricionárias o regime tinha em cada momento.**
+
+# Cautelas de periodização e o "momento posterior"
+
+- A analogia entre a advocacy americana e a política industrial explícita brasileira posterior
+  (PITCE 2004, campeões nacionais do BNDES) funciona no eixo da *assunção*, mas **não** no do
+  *instrumento*: a advocacy americana era sobre *antitruste*; a política brasileira dos anos 2000
+  operou por participação acionária e crédito do BNDES, não por direito da concorrência. Sejam
+  explícitos quanto a isso se puxarem a analogia.
+- Complicação dentro da nossa própria evidência: Clóvis Carvalho oferecendo R$ 3 bilhões do
+  BNDES para fusões em **1999** já é semente da política explícita posterior — *dentro* do
+  momento supostamente covert. A periodização limpa "primeiro covert, depois explícito" não
+  sobrevive intacta. Melhor incorporar o dado do que deixá-lo desarmado.
+- Contra a tese de conversão *duradoura*: a fala de Bouças (2018) — o CADE mudou regras nos anos
+  2000 e não permitiria hoje uma firma com aquele *market share*. Enfrentar explicitamente:
+  a conversão foi episódica? parcialmente revertida? a janela 1995–2000 foi conjuntura
+  específica?
+
+# Pendências bibliográficas
+
+Ausentes do `Nahoum-Mancano-2026-Antitrust.bib` e necessários se adotarmos este enquadramento
+(importar do Zotero — não editar o `.bib` à mão):
+
+- **Ergen & Kohl (2019)** — *Varieties of economization in competition policy*, RIPE 26(2):256–286.
+- **Ergen & Kohl (2022)** — *Rival views of economic competition*, Socio-Economic Review 20(3).
+- **Christophers (2016)** — *The Great Leveler* (precedente do argumento, alvo da crítica de E&K).
+- **Galambos (2004)** — base histórica de Christophers.
+- **Hacker, Pierson & Thelen (2015)** — *Drift and conversion* (reforça o aparato de conversão,
+  hoje apoiado só em Mahoney & Thelen 2010).
+- **Streeck & Thelen (2005)** — flexibilidade interpretativa das regras.
+- **Culpepper (2011)** — *quiet politics* (usado por contraste: o Brasil é *loud politics*).
+- **Eisner (1991)** — "politics lagged behind policy".
+
+::: {.callout-tip title="Decisões pendentes do autor"}
+1. Adotar "Brasil como terceira variedade de economização" como formulação da contribuição?
+2. Substituir, em `3-texts/…qmd` linha 46, `[@Khan2016; @Khan-Vaheesan2017; @Juhasz-etal2024]`
+   (que não sustentam a frase) por Ergen & Kohl / Christophers?
+3. Rodar a medição estilo E&K (dicionário form-based, regex na nota 5 da extração) sobre os
+   votos do CADE 1994–2005 — mercado nacional vs. internacional, eficiências acolhidas, razão
+   remédio estrutural/comportamental?
+:::
