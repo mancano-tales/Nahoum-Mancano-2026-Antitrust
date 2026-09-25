@@ -3,6 +3,16 @@
 > Entrada mais recente no topo.
 > **Convenção de timestamp**: Todas as datas em cabeçalhos (## YYYY-MM-DD HH:MM) e no campo Data/Hora dos metadados DEVEM incluir hora e minuto no fuso local. Nunca use datas isoladas.
 
+## 2026-09-25 00:26 — Fontes primárias com cópia no Drive e no SSD (`.data-source`)
+
+`file/cade-proceedings/` (~945 MB) e `file/legislative-history/` (49 MB), que só existiam neste disco e fora do git, ganharam cópia canônica no Google Drive, em `mancano-tales-data/projects/Nahoum-Mancano-2026-Antitrust/`, conferida pelo md5 do servidor com `rclone check`: 76/76. Também ganharam segunda cópia no SSD externo, igualmente conferida: 76/76. O novo `.data-source` na raiz aponta para elas pela convenção do ecossistema (resolvedor `data_source.R`), e o `file/README.md` registra isso. Nenhum script lia esses arquivos, então nada no build muda. A cópia local continua no lugar até o autor decidir retirá-la.
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-09-25 00:26 (Horário de Brasília)
+- **Agente**: Claude Opus 5.5 / claude-opus-5-5 / Claude Code (desktop), sessão da raiz
+- **Mensagem do Commit**: "chore(data): fontes primarias com copia no Drive e no SSD"
+- **Arquivos afetados**: `.data-source`, `file/README.md`, `NEWS.md`
+
 ## 2026-08-05 19:22 — `3-texts/`: versionados os dois `.docx` (artigo e submissão ANPOCS)
 
 Com **autorização explícita do autor nesta conversa** (exigência da proibição de tocar em `3-texts/`, o diretório de autoria primária), entram no git os dois `.docx` que estavam sem rastreamento na pasta: (1) `Nahoum-Mancano-2026-Antitrust-Article.docx`, exportação do artigo datada de 23/07 — registro do estado em que o texto circulou entre os autores, já **superado** pelo `.qmd` (que seguiu sendo editado até 05/08 09:47); e (2) `Multinacionais verde-amerelas_ Sumissão ANPOCS.docx` (03/08), submissão a um outro trabalho, guardada aqui por conveniência do autor. Nenhum dos dois é fonte de build — a fonte continua sendo o `.qmd`. Fica registrado que o `.docx` do artigo é um instantâneo congelado: reexportá-lo a cada rodada de edição não é a intenção, e o `.qmd` permanece a única versão viva.

@@ -9,6 +9,13 @@ Reorganizada em 2026-07-15 a partir de uma pasta plana sem estrutura; ver
 `9-vers/plan/2026-07-15_Plano_Organizar_Pasta_File.md` para o histórico completo
 da reorganização (mapeamento arquivo-por-arquivo, decisões de design).
 
+## Cópias fora do disco (2026-09-25)
+
+`cade-proceedings/` e `legislative-history/` têm cópia canônica no Google Drive
+(`mancano-tales-data/projects/Nahoum-Mancano-2026-Antitrust/`) e segunda cópia no SSD
+(`SSD-mancano-tales-data/projects/Nahoum-Mancano-2026-Antitrust/`), as duas conferidas por md5 (76/76).
+O arquivo `.data-source` na raiz do repositório aponta para elas. As demais subpastas continuam só aqui.
+
 ## Estrutura
 
 - `cade-proceedings/` — autos e votos dos 3 casos analisados/citados no artigo:

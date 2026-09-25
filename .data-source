@@ -1,0 +1,5 @@
+# Dados fora do git (convenção .data-source; resolvedor em tools/data-source/ na raiz do ecossistema).
+# Cópia canônica no Google Drive (MANCANO_DRIVE_ROOT) e segunda cópia no SSD (MANCANO_SSD_ROOT),
+# mesmos caminhos relativos. Nenhum script lê estes dados hoje; o ponteiro existe para localizá-los.
+cade_proceedings    = drive:projects/Nahoum-Mancano-2026-Antitrust/cade-proceedings
+legislative_history = drive:projects/Nahoum-Mancano-2026-Antitrust/legislative-history
