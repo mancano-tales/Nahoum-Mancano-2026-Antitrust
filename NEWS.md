@@ -3,6 +3,16 @@
 > Entrada mais recente no topo.
 > **Convenção de timestamp**: Todas as datas em cabeçalhos (## YYYY-MM-DD HH:MM) e no campo Data/Hora dos metadados DEVEM incluir hora e minuto no fuso local. Nunca use datas isoladas.
 
+## 2026-09-25 13:51 — Como trazer de volta as fontes primárias; resolvedor no repositório
+
+O autor decidiu tirar do disco as cópias locais que já estão no Drive e no SSD. Antes disso, o README passou a dizer onde estão os dados (Drive, SSD, `MANIFEST.tsv`) e como trazê-los de volta (`rclone copy` + `rclone check`, a partir da raiz do repo). O procedimento foi testado de verdade: restaurar do Drive para uma pasta descartável deu md5 igual ao manifesto. A remoção é feita pelo autor com `tools/data-source/retirar-copia-local.ps1`, do mancano-repo-hub, que manda para a Lixeira do Windows só os arquivos com md5 igual no disco, no Drive e no SSD e nunca um arquivo rastreado pelo git. Aqui valem `file/cade-proceedings/` e `file/legislative-history/` (76 arquivos, simulação 76/76 sem divergência); as demais subpastas de `file/` só existem aqui e não saem. O repositório também ganhou a cópia do resolvedor, `R/data_source.R` (v1.2.0), que o piloto não tinha trazido.
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-09-25 13:51 (Horário Local)
+- **Agente**: Claude Code / Claude Opus 5.5 / desktop (sessão "Hub e Drive pendências", 29b224)
+- **Mensagem do Commit**: "docs(data): como restaurar as fontes primarias; resolvedor no repo"
+- **Arquivos afetados**: `file/README.md`, `R/data_source.R`, `NEWS.md`
+
 ## 2026-09-25 00:26 — Fontes primárias com cópia no Drive e no SSD (`.data-source`)
 
 `file/cade-proceedings/` (~945 MB) e `file/legislative-history/` (49 MB), que só existiam neste disco e fora do git, ganharam cópia canônica no Google Drive, em `mancano-tales-data/projects/Nahoum-Mancano-2026-Antitrust/`, conferida pelo md5 do servidor com `rclone check`: 76/76. Também ganharam segunda cópia no SSD externo, igualmente conferida: 76/76. O novo `.data-source` na raiz aponta para elas pela convenção do ecossistema (resolvedor `data_source.R`), e o `file/README.md` registra isso. Nenhum script lia esses arquivos, então nada no build muda. A cópia local continua no lugar até o autor decidir retirá-la.

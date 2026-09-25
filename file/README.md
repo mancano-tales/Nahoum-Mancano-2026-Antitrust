@@ -16,6 +16,31 @@ da reorganização (mapeamento arquivo-por-arquivo, decisões de design).
 (`SSD-mancano-tales-data/projects/Nahoum-Mancano-2026-Antitrust/`), as duas conferidas por md5 (76/76).
 O arquivo `.data-source` na raiz do repositório aponta para elas. As demais subpastas continuam só aqui.
 
+### Se os arquivos não estiverem no disco
+
+Desde 2026-09-25, estes dados podem ter saído do disco local: o autor decidiu tirar as cópias locais
+que já estão no Drive e no SSD, conferidas por md5. A ferramenta é `tools/data-source/retirar-copia-local.ps1`,
+do mancano-repo-hub, que manda para a Lixeira do Windows só os arquivos com md5 igual no disco, no Drive
+e no SSD e **nunca** um arquivo rastreado pelo git. Onde os dados estão:
+
+| Lugar | Caminho |
+|---|---|
+| Google Drive (canônico) | `mancano-tales-data/projects/Nahoum-Mancano-2026-Antitrust/` (no disco: `$MANCANO_DRIVE_ROOT/projects/Nahoum-Mancano-2026-Antitrust/`) |
+| SSD externo (2ª cópia) | `$MANCANO_SSD_ROOT/projects/Nahoum-Mancano-2026-Antitrust/` |
+| Lista de arquivos e md5 | `MANIFEST.tsv` na mesma pasta do Drive e do SSD |
+
+Para trazer de volta, rode a partir da raiz deste repositório (rclone com o remote `gdrive`):
+
+```bash
+rclone copy "gdrive:mancano-tales-data/projects/Nahoum-Mancano-2026-Antitrust/cade-proceedings" "file/cade-proceedings"
+rclone copy "gdrive:mancano-tales-data/projects/Nahoum-Mancano-2026-Antitrust/legislative-history" "file/legislative-history"
+rclone check "gdrive:mancano-tales-data/projects/Nahoum-Mancano-2026-Antitrust/cade-proceedings" "file/cade-proceedings" --one-way
+rclone check "gdrive:mancano-tales-data/projects/Nahoum-Mancano-2026-Antitrust/legislative-history" "file/legislative-history" --one-way
+```
+
+Também dá para copiar pela pasta do Drive para desktop ou do SSD, mantendo os mesmos caminhos
+relativos. Para só **ler**, sem copiar: `source("R/data_source.R"); data_path("<nome>")`, com os nomes do `.data-source`.
+
 ## Estrutura
 
 - `cade-proceedings/` — autos e votos dos 3 casos analisados/citados no artigo:
