@@ -4,7 +4,7 @@
 > - **HARD LINK RULE:** AI Agents **MUST NOT waste time** testing, auditing, or manually recreating hard links (mklink). Automated governance scripts (alidate-governance.R / setup) handle this automatically in the background. Focus strictly on your primary task.
 > - **RULE 1:** You are operating under the **Agent Covenant** framework. Every commit is audited. Run `Rscript tools/validate-governance.R` to test your edits before committing.
 > - **RULE 2:** Any modification in the main source directories REQUIRES an update in the root `NEWS.md` file.
-> - **RULE 3:** When completing a task or plan, you MUST run the conversation exporter to save your session log.
+> - **RULE 3 (changed 2026-09-26):** Export the conversation **only when the author asks**, once per session. Never on your own initiative or as an automatic end-of-task step.
 > - **For humans:** this file is for AI operating context. See [GUIDANCE.md](GUIDANCE.md) for the sitemap.
 
 ---
@@ -65,7 +65,7 @@
   - **Mensagem do Commit**: "sua mensagem aqui"
   - **Arquivos afetados**: caminho/do/arquivo1, caminho/do/arquivo2
   ```
-- **Auditoria de Conversas**: Ao final de cada sessão, o agente deve exportar o histórico de conversa rodando o script:
+- **Auditoria de Conversas**: exportar a conversa **só quando o autor pedir**, uma vez por sessão (nunca por iniciativa própria nem ao fim de toda tarefa: exports repetidos viram lixo versionado):
   `Rscript tools/export_conversa.R <session_uuid> [slug]`
   E registrar a nova entrada na tabela de inventário em `9-vers/llm-reviews/README.md`.
 - **Limites de Alteração e Segurança**:

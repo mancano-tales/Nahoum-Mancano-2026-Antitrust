@@ -3,6 +3,16 @@
 > Entrada mais recente no topo.
 > **Convenção de timestamp**: Todas as datas em cabeçalhos (## YYYY-MM-DD HH:MM) e no campo Data/Hora dos metadados DEVEM incluir hora e minuto no fuso local. Nunca use datas isoladas.
 
+## 2026-09-26 15:59 — Exportar conversa só quando o autor pedir
+
+Decisão do autor (em chat, na sessão do hub): a RULE 3 e a seção "Auditoria de Conversas", que mandavam exportar a conversa ao fim de toda sessão, passam a dizer **só quando o autor pedir**, uma vez por sessão. O motivo: exports automáticos geravam cópias repetidas da mesma conversa. A skill `export-conversation` e o script continuam como estavam. Editados os três arquivos que repetem a regra (`AGENTS.md`, `CLAUDE.md`, `.github/copilot-instructions.md`). Plano no `mancano-repo-hub`: `repo-governance/plan/2026-09-26_Plano_AGENTS_Enxutos_e_Export_Sob_Demanda.md` (issue #27 de lá).
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-09-26 15:59 (Horário Local)
+- **Agente**: Claude Code / Claude Opus 5.5 / Claude Code on the web
+- **Mensagem do Commit**: "docs(governance): exportar conversa so quando o autor pedir"
+- **Arquivos afetados**: `AGENTS.md`, `CLAUDE.md`, `.github/copilot-instructions.md`, `NEWS.md`
+
 ## 2026-09-25 13:51 — Como trazer de volta as fontes primárias; resolvedor no repositório
 
 O autor decidiu tirar do disco as cópias locais que já estão no Drive e no SSD. Antes disso, o README passou a dizer onde estão os dados (Drive, SSD, `MANIFEST.tsv`) e como trazê-los de volta (`rclone copy` + `rclone check`, a partir da raiz do repo). O procedimento foi testado de verdade: restaurar do Drive para uma pasta descartável deu md5 igual ao manifesto. A remoção é feita pelo autor com `tools/data-source/retirar-copia-local.ps1`, do mancano-repo-hub, que manda para a Lixeira do Windows só os arquivos com md5 igual no disco, no Drive e no SSD e nunca um arquivo rastreado pelo git. Aqui valem `file/cade-proceedings/` e `file/legislative-history/` (76 arquivos, simulação 76/76 sem divergência); as demais subpastas de `file/` só existem aqui e não saem. O repositório também ganhou a cópia do resolvedor, `R/data_source.R` (v1.2.0), que o piloto não tinha trazido.
