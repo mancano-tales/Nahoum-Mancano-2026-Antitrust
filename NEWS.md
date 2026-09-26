@@ -3,6 +3,26 @@
 > Entrada mais recente no topo.
 > **Convenção de timestamp**: Todas as datas em cabeçalhos (## YYYY-MM-DD HH:MM) e no campo Data/Hora dos metadados DEVEM incluir hora e minuto no fuso local. Nunca use datas isoladas.
 
+## 2026-09-26 16:35 — AGENTS.md único e enxuto; CLAUDE.md vira ponteiro
+
+Decisão do autor (plano `repo-governance/plan/2026-09-26_Plano_AGENTS_Enxutos_e_Export_Sob_Demanda.md` do `mancano-repo-hub` (issue #27 de lá)): um só arquivo de instruções, curto e atual. O `AGENTS.md` passou de 141 para 66 linhas; o `CLAUDE.md` agora é só `@AGENTS.md` e o `.github/copilot-instructions.md` só aponta para o `AGENTS.md`.
+
+**O que saiu e para onde foi:**
+- a regra de hard link e a tabela de mapa e precedência de documentos: obsoletas, sem hard link não há o que espelhar;
+- a tabela de skills globais do plugin `superpowers`: descrevia uma máquina em 2026-07-14, não este repo (`/plugin list` mostra o que está instalado);
+- a história de cada peça (conversão do `.docx`, rascunhos apagados em 2026-07-15, backups do self-heal), que já estava nas entradas de 2026-07-14 e 2026-07-15 deste `NEWS.md`;
+- `agentic-research-template` virou `agentic-workflow-template`.
+
+Ficaram, mais curtos, o argumento do artigo, a estrutura, as proibições (autoria em `3-texts/`, `.bib` do Zotero, `file/` gitignorado, marcadores `[...]{.mark}`), os comandos, os placeholders do `.bib` e a Configuração de Skills (agora com `diretorio_governanca: 9-vers/`).
+
+**Validador e setup.** Com o `CLAUDE.md` como ponteiro, as seções 0 e 0b do `tools/validate-governance.R` passariam a sobrescrever o `AGENTS.md` com a linha `@AGENTS.md`, porque o arquivo mais novo "vencia". Elas foram removidas, como no `agentic-workflow-template` em 2026-07-29. O `setup.sh`/`setup.ps1` foram trocados pelos do template: garantem o ponteiro e não criam hard link.
+
+**Metadados de Execução**:
+- **Data/Hora**: 2026-09-26 16:35 (Horário Local)
+- **Agente**: Claude Code / Claude Opus 5.5 / Claude Code on the web
+- **Mensagem do Commit**: "docs(agents): AGENTS.md unico e enxuto; CLAUDE.md vira @AGENTS.md"
+- **Arquivos afetados**: `AGENTS.md`, `CLAUDE.md`, `.github/copilot-instructions.md`, `tools/validate-governance.R`, `setup.sh`, `setup.ps1`, `NEWS.md`
+
 ## 2026-09-26 15:59 — Exportar conversa só quando o autor pedir
 
 Decisão do autor (em chat, na sessão do hub): a RULE 3 e a seção "Auditoria de Conversas", que mandavam exportar a conversa ao fim de toda sessão, passam a dizer **só quando o autor pedir**, uma vez por sessão. O motivo: exports automáticos geravam cópias repetidas da mesma conversa. A skill `export-conversation` e o script continuam como estavam. Editados os três arquivos que repetem a regra (`AGENTS.md`, `CLAUDE.md`, `.github/copilot-instructions.md`). Plano no `mancano-repo-hub`: `repo-governance/plan/2026-09-26_Plano_AGENTS_Enxutos_e_Export_Sob_Demanda.md` (issue #27 de lá).
